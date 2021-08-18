@@ -8,7 +8,6 @@ This repo stores the data that will populate the various people listings on cncf
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
-```
     {
         "name":"Full name of person",
         "bio":"Full bio of person. Use html markup when necessary.",
@@ -27,7 +26,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "category":[Array of categories the person belongs to. Choose from the list above.],
         "image":"Image filename from the /images/ directory"
     }
-```
+
 
 And here is an example entry:
 ```
