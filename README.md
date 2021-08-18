@@ -51,3 +51,5 @@ And here is an example entry:
         "image":"bartlomeij-plotka.jpg"
     }
 ```
+
+Do not delete entries.  When a person is no longer a member of a category, just delete the category value from the listing.
