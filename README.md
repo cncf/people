@@ -6,7 +6,7 @@ This repo stores the data that will populate the various people listings on cncf
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 - [TOC Contributors](https://www.cncf.io/people/technical-oversight-committee/#toc-contributors)
 
-The people.json file lists all people in alphabetical order by name.  Add new entries in the right place in the list.  This is the format:
+The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  This is the format:
 
 ```
     {
