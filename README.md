@@ -8,6 +8,7 @@ This repo stores the data that will populate the various people listings on cncf
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
+```
     {
         "name":"Full name of person",
         "bio":"Full bio of person. Use html markup when necessary.",
@@ -22,11 +23,12 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "youtube":"YouTube url",
         "priority":Value to diffentiate between other entries in an ordered list,
         "language":[Array of languages spoken],
-        "projects":[Array of projects of expertise. Project names must match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).],
-        "category":[Array of categories the person belongs to. Choose from the list above.],
+        "projects":[Array of projects of expertise],
+        "category":[Array of categories the person belongs to],
         "image":"Image filename from the /images/ directory"
     }
-
+```
+Project names must match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
 
 And here is an example entry:
 ```
