@@ -1,12 +1,12 @@
 # CNCF People
-This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR to the repo.  The listings are:
+This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR for approval.  The listings are:
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 - [TOC Contributors](https://www.cncf.io/people/technical-oversight-committee/#toc-contributors)
 
-The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  This is the format:
+The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
 ```
     {
@@ -23,8 +23,8 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "youtube":"YouTube url",
         "priority":Value to diffentiate between other entries in an ordered list,
         "language":[Array of languages spoken],
-        "projects":[Array of projects of expertise],
-        "category":[Array of categories the person belongs to],
+        "projects":[Array of projects of expertise. Project names must match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).],
+        "category":[Array of categories the person belongs to. Choose from the list above.],
         "image":"Image filename from the /images/ directory"
     }
 ```
