@@ -11,7 +11,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
 ```
     {
         "name":"Full name of person",
-        "bio":"Full bio of person. Use html markup when necessary.",
+        "bio":"Full bio of person. Use html markup when needed.",
         "company":"Company and/or title",
         "pronouns":"Personal pronouns",
         "location":"A Google Maps readable name of city, state, country",
@@ -21,35 +21,35 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "wechat":"Wechat url",
         "website":"Personal website",
         "youtube":"YouTube url",
-        "priority":Value to diffentiate between other entries in an ordered list,
+        "priority":Value to diffentiate between other entries in an ordered list; *omit this entry in most cases*,
         "language":[Array of languages spoken],
         "projects":[Array of projects of expertise],
         "category":[Array of categories the person belongs to],
         "image":"Image filename from the /images/ directory"
     }
 ```
-Project names must match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
+Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
 
 And here is an example entry:
 ```
     {
-        "name":"Bartłomiej Płotka",
-        "bio":"Bartek Plotka is a Principal Software Engineer at Red Hat with a background in SRE, currently working on Observability. As the co-author of the CNCF Thanos project and core maintainer of various open-source projects including Prometheus, he enjoys building OSS communities and maintainable, reliable distributed systems, ideally in Go. On top of that, he is active in the CNCF SIG Observability as the technical lead. He writes a book with O'Reilly.",
-        "company":"Red Hat",
+        "name":"Johnny Appleseed",
+        "bio":"John Chapman (September 26, 1774 – March 18, 1845), better known as Johnny Appleseed, was an American pioneer nurseryman who introduced apple trees to large parts of <a href='https://en.wikipedia.org/wiki/Pennsylvania'>Pennsylvania</a>, Ohio, Indiana, Illinois and Ontario, as well as the northern counties of present-day West Virginia. He became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples. He was also a missionary for The New Church (Swedenborgian)[1] and the inspiration for many museums and historical sites such as the Johnny Appleseed Museum[2] in Urbana, Ohio. The Fort Wayne TinCaps, a minor league baseball team in Fort Wayne, Indiana, where Chapman spent his final years, is named in his honor.",
+        "company":"Apples R Us",
         "pronouns":"he/him",
-        "location":"Portland, Oregon, USA",
-        "linkedin":"https://www.linkedin.com/in/amy-wormley-7492954a/",
-        "twitter":"https://twitter.com/bwplotka",
-        "github":"https://github.com/cjyabraham",
-        "wechat":"https://web.wechat.com/donaldliu1874",
-        "website":"https://cjyabraham.com",
-        "youtube":"https://www.youtube.com/c/cloudnativefdn",
-        "priority":400,
-        "language":["Hindi","English"],
+        "location":"Portland, Maine, USA",
+        "linkedin":"https://www.linkedin.com/in/johnny-appleseed/",
+        "twitter":"https://twitter.com/jappleseed",
+        "github":"https://github.com/jappleseed",
+        "wechat":"https://web.wechat.com/jappleseed",
+        "website":"https://jappleseed.com",
+        "youtube":"https://www.youtube.com/c/jappleseed",
+        "priority":10,
+        "language":["Spanish","English"],
         "projects":["prometheus","kubernetes","envoy"],
         "category":["Ambassadors","TOC Contributors"],
-        "image":"bartlomeij-plotka.jpg"
+        "image":"jappleseed.jpg"
     }
 ```
 
-Do not delete entries.  When a person is no longer a member of a category, just delete the category value from the listing.
+Do not delete entries.  When a person is no longer a member of a category, just remove the category value from its listing.
