@@ -21,7 +21,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "wechat":"Wechat url",
         "website":"Personal website",
         "youtube":"YouTube url",
-        "priority":Value to diffentiate between other entries in an ordered list; *omit this entry in most cases*,
+        "priority":Value to diffentiate between other entries in an ordered list; omit this entry in most cases,
         "language":[Array of languages spoken],
         "projects":[Array of projects of expertise],
         "category":[Array of categories the person belongs to],
