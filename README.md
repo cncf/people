@@ -12,6 +12,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
     {
         "name":"Full name of person",
         "bio":"Full bio of person. Use html markup when needed.",
+        "excerpt":"Short bio of person.",
         "company":"Company and/or title",
         "pronouns":"Personal pronouns",
         "location":"A Google Maps readable name of city, state, country",
@@ -35,6 +36,7 @@ And here is an example entry:
     {
         "name":"Johnny Appleseed",
         "bio":"John Chapman (September 26, 1774 – March 18, 1845), better known as Johnny Appleseed, was an American pioneer nurseryman who introduced apple trees to large parts of <a href='https://en.wikipedia.org/wiki/Pennsylvania'>Pennsylvania</a>, Ohio, Indiana, Illinois and Ontario, as well as the northern counties of present-day West Virginia. He became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples. He was also a missionary for The New Church (Swedenborgian)[1] and the inspiration for many museums and historical sites such as the Johnny Appleseed Museum[2] in Urbana, Ohio. The Fort Wayne TinCaps, a minor league baseball team in Fort Wayne, Indiana, where Chapman spent his final years, is named in his honor.",
+        "excerpt":"John Chapman was an American pioneer nurseryman who introduced apple trees.",
         "company":"Apples R Us",
         "pronouns":"he/him",
         "location":"Portland, Maine, USA",
