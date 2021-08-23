@@ -6,6 +6,8 @@ This repo stores the data that will populate the various people listings on cncf
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 - [TOC Contributors](https://www.cncf.io/people/technical-oversight-committee/#toc-contributors)
 
+## Listing Format
+
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
 ```
@@ -55,3 +57,7 @@ And here is an example entry:
 ```
 
 Do not delete entries.  When a person is no longer a member of a category, just remove the category value from its listing.
+
+## Images
+
+Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
