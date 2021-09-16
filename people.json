@@ -163,7 +163,7 @@
    },
    {
       "name":"Amye Scavarda Perrin",
-      "bio":"Amye brings over a decade of experience in open source program and project management to the Cloud Native Computing Foundation. Previously, she was at Red Hat as a Community Lead in their Open Source Program Office. She likes spreadsheets, budgets, and checklists, and in her spare time, she's a part-time law student at Mitchell Hamline School of Law.",
+      "bio":"Amye brings over a decade of experience in open source program and project management to the Cloud Native Computing Foundation. Previously, she was at Red Hat as a Community Lead in their Open Source Program Office. She likes spreadsheets, budgets, and checklists.\n\nShe holds a Juris Doctor degree from Mitchell Hamline School of Law.",
       "excerpt":"Amye brings over a decade of experience in open source program and project management to the Cloud Native Computing Foundation.",
       "company":"Program Manager",
       "pronouns":"she/her",
@@ -753,8 +753,10 @@
       "website":"",
       "youtube":"",
       "priority":"",
-      "category":[ "Staff" ],
-      "image":"chris-abraham.jpg"
+      "category":[
+         "Staff"
+      ],
+      "image":"https://www.cncf.io/wp-content/uploads/2017/06/chrisabraham.jpg"
    },
    {
       "name":"Chris Aniszczyk",
@@ -920,12 +922,12 @@
    },
    {
       "name":"Cornelia Davis",
-      "bio":"<p>As the Chief Technology Officer at WeaveWorks, Cornelia Davis is responsible for the company’s technology strategy, inclusive of open source projects, commercial products and services offerings. She is driven by the desire to help enterprises transform their business through the leverage of cloud platforms. She cut her teeth in the space of modern application platforms at Pivotal where she was on teams that brought Pivotal Cloud Foundry (Pivotal’s PaaS) and Pivotal Container Service (Pivotal’s Kubernetes Service) to market.&nbsp; She is the author of the book <a href=\"https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292\">Cloud Native Patterns: Designing Change-tolerant Software</a>.</p>\n\n<p>An industry veteran with almost three decades of experience in image processing, scientific visualization, distributed systems and web application architectures, and cloud-native platforms, Cornelia holds the B.S. and M.S. in Computer Science from California State University, Northridge and further studied theory of computing and programming languages at Indiana University.</p>\n\n<p>When not doing those things you can find her on the yoga mat or in the kitchen.</p>",
-      "excerpt":"As the Chief Technology Officer at WeaveWorks, Cornelia Davis is responsible for the company’s technology strategy, inclusive of open source projects, commercial products and services offerings. She is driven by the desire...",
-      "company":"WeaveWorks",
+      "bio":"<p>Cornelia has been working in IT systems for several decades with the last 10 years focused on DevOps platforms. She was part of the team that brought Cloud Foundry to the industry - both the open source project and the Pivotal CF product. In the last 5+ years she has applied that container-centric systems experience to Kubernetes-based developer platforms. Most recently she has brought newly emerging GitOps practices into those system. </p>\n\n<p>Cornelia currently works on Alexa products at Amazon and consults with the AWS Container organization.</p>\n\n<p>An industry veteran with almost three decades of experience in image processing, scientific visualization, distributed systems and web application architectures, and cloud-native platforms, Cornelia holds the B.S. and M.S. in Computer Science from California State University, Northridge and further studied theory of computing and programming languages at Indiana University. <meta charset=\"utf-8\">She is the author of the book <a href=\"https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292\">Cloud Native Patterns: Designing Change-tolerant Software</a>.</p>\n\n<p>When not doing those things you can find her on the yoga mat or in the kitchen.</p>",
+      "excerpt":"Cornelia has been working in IT systems for several decades with the last 10 years focused on DevOps platforms. She was part of the team that brought Cloud Foundry to the industry...",
+      "company":"Amazon",
       "pronouns":"",
-      "linkedin":"",
-      "twitter":"",
+      "linkedin":"https://www.linkedin.com/in/corneliadavis/",
+      "twitter":"https://twitter.com/cdavisafc",
       "github":"",
       "wechat":"",
       "website":"",
@@ -934,7 +936,7 @@
       "category":[
          "Technical Oversight Committee"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2021/02/Cornelia-Headshot-2019.jpeg"
+      "image":"https://www.cncf.io/wp-content/uploads/2021/02/CorneliaPalmtreeCropped.jpg"
    },
    {
       "name":"Craig Box",
@@ -1119,6 +1121,24 @@
          "TOC Contributors"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2021/02/davidmckay.jpg"
+   },
+   {
+      "name":"DeVauna Lee Bolar",
+      "bio":"<p>DeVauna Lee is the Business Development Specialist at Cloud Native Computing Foundation. She is responsible for developing and driving strategic growth for the foundation with the global member community, partnerships, and CNCF events.&nbsp;</p>\n\n<p>DeVauna Lee has a background in sales from Dell Technologies, VMware, and Startup App Companies and has a passion for helping businesses with their digital transformation through cloud native and open source technologies. She has worked with clients in both private and public sectors, tech giants, retail, state and local government, finance, and industrial industries. DeVauna Lee holds a Bachelor of Arts in Business Communications from the University of Kentucky.</p>",
+      "excerpt":"DeVauna Lee is responsible for developing and driving strategic growth for the foundation with the global member community, partnerships, and CNCF events.  \n",
+      "company":"Business Development Specialist",
+      "pronouns":"she/her",
+      "linkedin":"https://www.linkedin.com/in/devaunaleesales/",
+      "twitter":"https://twitter.com/iodevaunalee",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"https://www.cncf.io/wp-content/uploads/2021/08/devauna-lee-bolar-scaled-e1629909401599.jpeg"
    },
    {
       "name":"Deyuan Deng",
@@ -1951,6 +1971,24 @@
          "Marketing Committee"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2017/06/1611887010893.jpg"
+   },
+   {
+      "name":"Jim Angel",
+      "bio":"<p>Jim Angel is a Cloud Consultant at Google and is active in the Kubernetes community as a SIG Docs Co-Chair and a SIG Release Release Manager Associate. He helps with the local Austin Kubernetes meetup and enjoys&nbsp;demystifying Kubernetes.</p>",
+      "excerpt":"Jim Angel is a Cloud Consultant at Google and is active in the Kubernetes community as a SIG Docs Co-Chair and a SIG Release Release Manager Associate. He helps with the local...",
+      "company":"Google",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/angeljim/",
+      "twitter":"https://twitter.com/JimmAngel",
+      "github":"https://github.com/jimangel",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Ambassadors"
+      ],
+      "image":"https://www.cncf.io/wp-content/uploads/2021/09/jimangel.jpeg"
    },
    {
       "name":"Jimmy Song",
