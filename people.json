@@ -4254,6 +4254,24 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/SurajNarwade-1.jpg"
    },
    {
+      "name":"Takao Indoh",
+      "bio":"Takao is a Senior Professional Engineer of the Linux development division at Fujitsu. He has contributed to several open source communities more than 20 years. He has worked for Linux kernel RAS feature, especially crash dump feature like netdump, diskdump and kdump. He has also joined QEMU, OpenStack, Kubernetes, and more OSS projects and contributed to them. Now he is leading a support team of Linux-based products for Fujitsu's customers.",
+      "excerpt":"Takao is a Senior Professional Engineer of the Linux development division at Fujitsu.",
+      "company":"Fujitsu",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"takao.indoh.jpg"
+   },
+   {
       "name":"Takuya Noguchi",
       "bio":"Takuya is Development Group Manager at iRidge, Inc., working as cloud native systems architect. After receiving his Ph.D. in Chemistry from The University of Tokyo, he decided to introduce cloud native technologies into startup companies to boost their business. He leads many communities including Kubernetes Meetup Tokyo and Prometheus Tokyo to promulgate CNCF products in Japan.\n\nMeet-Up Organizer:\n<a href=\"https://k7o-k8s.connpass.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kamiyacho.k8s</a>,&nbsp;<a href=\"https://k8sjp.connpass.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes Meetup Tokyo</a>,&nbsp;<a href=\"https://prometheus.connpass.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Prometheus Tokyo</a>\n\nSpecialties:&nbsp;Kubernetes, Prometheus\n\nLocation:&nbsp;Tokyo, Japan",
       "excerpt":"Takuya is Development Group Manager at iRidge, Inc., working as cloud native systems architect. After receiving his Ph.D. in Chemistry from The University of Tokyo, he decided to introduce cloud native technologies into startup companies to boost their business. He leads many communities including Kubernetes Meetup Tokyo and Prometheus Tokyo to promulgate CNCF products in Japan.",
@@ -4450,24 +4468,6 @@
          "Governing Board"
       ],
       "image":"tom-wilkie.jpeg"
-   },
-   {
-      "name":"Tomohiko Tashiro",
-      "bio":"Tomohiko is a Senior Director of the Linux development division at Fujitsu. He has 10+ years of experience as a Linux kernel performance engineer and had achieved many kinds of severe performance requirements of 400+ enterprise customers including mission-critical systems. He's now leading an OSS development team. His team contributes to a variety of OSS communities such as the Linux kernel, QEMU, libvirt, Linux Test Project (LTP), OpenStack, Kubernetes, Istio, the Open Container Initiative (OCI), and more.",
-      "excerpt":"Tomohiko is a Senior Director of the Linux development division at Fujitsu.",
-      "company":"Fujitsu",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/tomohiko-tashiro-347a64196/",
-      "twitter":"",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/tomohiko-1.jpg"
    },
    {
       "name":"Uchechukwu Obasi",
