@@ -1433,6 +1433,24 @@
       "image":"https://www.cncf.io/wp-content/uploads/2021/01/Elna.jpg"
    },
    {
+      "name":"Eric Han",
+      "bio":"Eric Han serves as Vice President of Public Cloud Services (PCS) Product Management for NetApp’s cloud portfolio and Kubernetes data management, including <a href=\"https://cloud.netapp.com/project-astra\" target=\"_blank\" rel=\"noopener noreferrer\">Astra</a>, <a href=\"https://cloud.netapp.com/cloud-volumes-service-for-gcp\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud Volume Services</a>, and <a href=\"https://cloud.netapp.com/azure-netapp-files\" target=\"_blank\" rel=\"noopener noreferrer\">Azure NetApp Files</a>. Eric has been recognized as a <a href=\"https://www.thesoftwarereport.com/the-top-25-software-product-executives-of-2020\" target=\"_blank\" rel=\"noopener noreferrer\">top software product executive</a> in 2020. Eric started his container journey as the founding product manager for Kubernetes at Google, where he also co-founded the Google Kubernetes Engine (GKE) service. Eric began his career as a part of Microsoft’s Windows Server and Core Networking product teams.\n\nFrom 2018-2020, Eric has served on the nonprofit board of <a href=\"https://www.thrive-wise.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Thrive-Wise</a> focused on retaining women in technical careers. In his home life, he can be found either slowly training for his next triathlon, planning a trip to Disneyland with his wife and their three kids, or trying to make the ultimate Spotify mixed tape.",
+      "excerpt":"Eric Han serves as Vice President of Public Cloud Services (PCS) Product Management for NetApp’s cloud portfolio and Kubernetes data management, including Astra, Cloud Volume Services, and Azure NetApp Files.",
+      "company":"NetApp",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/eric-han/",
+      "twitter":"https://twitter.com/radio_eric",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"eric-han.jpg"
+   },
+   {
       "name":"Erin Boyd",
       "bio":"<p>I have been an active member of the TOC as a contributor from it’s inception. I have led and participated discussions on how to improve the impact of the CNCF through the TOC and it’s wider community as well as performed the due diligence around countless projects. As an engineer at Apple and a member of the End User Community, I have an opportunity to take the knowledge of being a contributor to Kubernetes and other upstream projects outside the CNCF and focus my attention to the usability and consumption of these technologies and . I feel this can truly help foster projects in the open source way. I have seen the space of projects grow and fully understand the challenges associated with scaling projects while still trying to maintain legitimacy and fairness in this Cloud Native community. Being a committer to the Ambari project and contributor to Kubernetes, I have worked across industries and communities and am sought as a trusted advisor and technical architect for the Kubernetes Storage SIG. As part of the Storage SIG I helped establish an E2E testing framework focused on real use cases from customers and usability of the system. I have consulted with other Kubernetes SIGs from this work to help grow the ecosystem with the vision of a more stable environment. I am dedicated to open source and the growing of the cloud native community to incorporate the tools that make this ecosystem so powerful. I bring to the table the perspective of both a developer, tester and usability fanatic and continually reach across communities to accomplish these shared goals. With my new role at Apple participating as an end user of Kubernetes gives me a fully holistic view I can contribute to evaluating and identifying technologies to continue to grow our Cloud Native community.</p>",
       "excerpt":"I have been an active member of the TOC as a contributor from it’s inception. I have led and participated discussions on how to improve the impact of the CNCF through the...",
@@ -3781,7 +3799,6 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Governing Board"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2019/11/1527691084165.jpg"
    },
