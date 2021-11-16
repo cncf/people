@@ -3425,7 +3425,7 @@
    },
    {
       "name":"Orlin Vasilev",
-      "bio":"Orlin is a Software Infrastructure Engineer for the Cloud Services at VMware, working on their Kubernetes internal platform and focusing on the automation of Kubernetes platform services. Prior to VMware, Orlin worked as *ix and Cloud Engineer/Architect at HPE. For years he has been involved with so-called traditional infrastructure.\n\nHe is also part of the team that organizes the <a href=\"https://www.meetup.com/Cloud-Native-Computing-Bulgaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes &amp; Cloud Native Computing Bulgaria Meetup</a>.\n\nWhen he's not geeking out, he is snowboarding/camping/BBQ-ing with his family.",
+      "bio":"Orlin is a Engineer at VMware working as Community Manager on Harbor and Contour, DevOps/SRE/Infra at Internal Kubernetes Platform. Prior to VMware, Orlin worked as *ix and Cloud Engineer/Architect at HPE. For years he has been involved with so-called traditional infrastructure.\n\nHe is also part of the team that organizes the <a href=\"https://www.meetup.com/Cloud-Native-Computing-Bulgaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes &amp; Cloud Native Computing Bulgaria Meetup</a>.\n\nWhen he's not geeking out, he is snowboarding/camping/BBQ-ing with his family.",
       "excerpt":"Orlin is a Software Infrastructure Engineer for the Cloud Services at VMware, working on their Kubernetes internal platform and focusing on the automation of Kubernetes platform services.",
       "company":"VMware",
       "pronouns":"",
@@ -3436,10 +3436,11 @@
       "website":"",
       "youtube":"",
       "priority":"",
+      "projects":["harbor","contour"],
       "category":[
          "Ambassadors"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/orlin-vasilev-1.jpg"
+      "image":"orlin-vasilev.jpg"
    },
    {
       "name":"Paris Pittman",
