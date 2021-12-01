@@ -1776,9 +1776,9 @@
    },
    {
       "name":"Ilya Dmitrichenko",
-      "bio":"Ilya is a Developer Experience Engineer at Weaveworks, focused on making the adoption of microservices easier.\n\nPrior to Weaveworks, Ilya worked at Xively, where he personally experienced the shift to a true DevOps culture. He began to shift focus down the stack, becoming one of the early evangelists of and contributors to open source projects in the Kubernetes ecosystem.",
-      "excerpt":"Ilya is a Developer Experience Engineer at Weaveworks, focused on making the adoption of microservices easier.",
-      "company":"Weaveworks",
+      "bio":"Ilya is a Staff Software Engineer at Docker, working on image build tools.\n\nPrior to Docker, Ilya worked at Isovalent & Weaveworks.\n\nWhile at Isovalent, Ilya has contributed to Cilium project, where one of his most notable contributions was integration with OpenTelemetry.\n\nDuring his time at Weaveworks, Ilya has contrubuted to Kubernetes (most notably, he has implemented the first version of kubeadm), and played a key role advocating for Flux (& GitOps) during the early days. He also authored eksctl, which became an official CLI for Amazon EKS.",
+      "excerpt":"Ilya is a Staff Software Engineer at Docker, working on image build tools. Prior to Docker, Ilya worked at Isovalent & Weaveworks.",
+      "company":"Docker",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/ilyadmitrichenko",
       "twitter":"https://twitter.com/errordeveloper",
