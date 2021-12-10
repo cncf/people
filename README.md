@@ -26,7 +26,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "youtube":"YouTube url",
         "priority":Value to diffentiate between other entries in an ordered list; omit this entry in most cases,
         "languages":[Array of languages spoken],
-        "projects":[Array of projects of expertise],
+        "projects":[Array of CNCF projects of expertise],
         "category":[Array of categories the person belongs to],
         "image":"Image filename from the /images/ directory"
     }

@@ -45,6 +45,7 @@
       "twitter":"https://twitter.com/bongo",
       "github":"https://github.com/ams0/",
       "wechat":"",
+      "location":"Amsterdam, Netherlands",
       "website":"",
       "youtube":"",
       "priority":"",
@@ -243,6 +244,8 @@
       "twitter":"https://twitter.com/animeshsingh?lang=en",
       "github":"https://github.com/animeshsingh",
       "wechat":"",
+      "location":"California, United States",
+      "projects":"kubernetes",
       "website":"",
       "youtube":"",
       "priority":"",
@@ -334,6 +337,8 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"New York, United States",
+      "projects":"kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -391,6 +396,7 @@
       "website":"https://dev.to/aurelievache/",
       "youtube":"https://www.youtube.com/c/AurelieVache",
       "priority":"",
+      "location":"Toulouse, France",
       "category":[
          "Ambassadors"
       ],
@@ -462,6 +468,7 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"Barakaldo, Spain",
       "youtube":"",
       "priority":"",
       "category":[
@@ -543,6 +550,26 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/11/Headshot_CDS.jpeg"
    },
    {
+      "name":"BMK Lakshminarayanan",
+      "bio":"BMK is a passionate Solutions Architect with over 20 years of ICT experience with the Bank of New Zealand. He is an advocate for modern engineering &amp; developer practices including Cloud Native, Microservices for Enterprise Agility, architecting for Continuous Delivery (CD), DevOps, Observability, Event-driven architecture with Kafka/NATS, Open-source software. He is a polyglot and polymath.\n\nHe is a DevOps enthusiast, lead DevOps and continuous delivery community of practices. He is one of the core organizers for DevOpsDaysNZ conference and co-chair for Cloud-Native Summit - Wellington.\n\nBMK hosts the Wellington CNCF meetup for cloud native enthusiasts and The Future of ICT meetup to help students, people returning to work or looking for career opportunities in ICT.\n\nSpecialties: Kubernetes, Envoy, NATS, Kafka, Istio\n\nLocation: Wellington, New Zealand",
+      "excerpt":"BMK is a passionate Solutions Architect with over 20 years of ICT experience with the Bank of New Zealand.",
+      "company":"Bank of New Zealand",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/bmknz/",
+      "twitter":"https://twitter.com/Lbmkrishna",
+      "github":"https://github.com/LBMKRISHNA",
+      "wechat":"",
+      "website":"",
+      "location":"Wellington, New Zealand",
+      "projects":"Kubernetes, Envoy, NATS, Kafka",      
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Ambassadors"
+      ],
+      "image":"https://www.cncf.io/wp-content/uploads/2019/10/1603157898521.jpg"
+   },
+   {
       "name":"Bob Killen",
       "bio":"Bob is a Research Cloud Administrator with the Advanced Research Computing Technology Services (ARC-TS) group at the University of Michigan. He has been with the University for more than 15 years, serving in various capacities within the Health System and ARC-TS. As a Cloud Native Computing Foundation Ambassador, Bob has worked towards improving High Performance Computing, Machine Learning, and other Computational Research initiatives by integrating them with Cloud Native practices and tooling. He is passionate about Academic Outreach, and is an outspoken advocate of both Open Source and Open Science.\n\nSpecialties: Kubernetes and Prometheus\n\nMeetup Board Member:&nbsp;<a href=\"https://www.meetup.com/orchestructure/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.meetup.com/orchestructure/</a>\n\nLocation:\nAnn Arbor, MI",
       "excerpt":"Bob is a Research Cloud Administrator with the Advanced Research Computing Technology Services (ARC-TS) group at the University of Michigan.",
@@ -554,6 +581,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Ann Arbor, MI, United States",
+      "projects":"Kubernetes, Prometheus",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -682,6 +711,8 @@
       "github":"https://github.com/carlisia",
       "wechat":"",
       "website":"",
+      "location":"San Diego, CA, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -736,6 +767,8 @@
       "github":"https://github.com/debianmaster",
       "wechat":"",
       "website":"",
+      "location":"California, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -826,6 +859,8 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"Mississippi, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -844,6 +879,7 @@
       "github":"https://github.com/christopherhein/",
       "wechat":"",
       "website":"",
+      "location":"San Jose, CA, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -863,6 +899,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Berlin, Germany",
+      "projects":"Kubernetes, rkt",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -916,6 +954,7 @@
       "github":"https://github.com/chrisz100",
       "wechat":"",
       "website":"",
+      "projects":"Kubernetes, Envoy",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -988,6 +1027,7 @@
       "github":"https://github.com/craigbox",
       "wechat":"",
       "website":"",
+      "location":"London, UK",
       "youtube":"",
       "priority":"",
       "category":[
@@ -1060,6 +1100,8 @@
       "github":"https://github.com/danieloh30",
       "wechat":"",
       "website":"",
+      "location":"Boston, MA, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1208,6 +1250,8 @@
       "github":"https://github.com/dmueller2001",
       "wechat":"",
       "website":"",
+      "location":"Vancouver, BC, Canada",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1226,6 +1270,7 @@
       "twitter":"",
       "github":"",
       "wechat":"",
+      "location":"India",
       "website":"",
       "youtube":"",
       "priority":"",
@@ -1244,6 +1289,8 @@
       "twitter":"https://twitter.com/rettori",
       "github":"",
       "wechat":"",
+      "location":"Boston, United States",
+      "projects":"Kubernetes, Prometheus, Envoy, Jaeger",      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -1336,6 +1383,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"San Francisco, CA, United States",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1408,6 +1456,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Hangzhou, China",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1499,6 +1548,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"SuZhou, China",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1516,6 +1566,8 @@
       "github":"https://github.com/fabxc",
       "wechat":"",
       "website":"",
+      "location":"Berlin, Germany",
+      "projects":"Kubernetes, Prometheus",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1535,6 +1587,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"China",
+      "projects":"Kubernetes, Harbor, Service Mesh",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1643,6 +1697,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Jakarta, Indonesia",
+      "projects":"Kubernetes, CNI",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1678,6 +1734,8 @@
       "github":"https://github.com/onesolpark",
       "wechat":"",
       "website":"",
+      "location":"Seoul, South Korea",
+      "projects":"Kubernetes, Containerd, etcd",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1697,6 +1755,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Seoul, South Korea",
+      "projects":"Kubernetes, Rook, Helm",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1732,6 +1792,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Singapore",
+      "projects":"Kubernetes",            
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1858,6 +1920,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Telangana, India",
+      "projects":"kubernetes",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1894,6 +1958,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Ann Arbor, MI",
+      "projects":"Kubernetes, Prometheus",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1930,6 +1996,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Gothenburg, Sweden",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1947,6 +2014,7 @@
       "github":"https://github.com/jldeen",
       "wechat":"",
       "website":"",
+      "projects":"Kubernetes, Helm",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1982,6 +2050,8 @@
       "twitter":"",
       "github":"",
       "wechat":"",
+      "location":"Beijing, China",
+      "projects":"Kubernetes",      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -2019,6 +2089,8 @@
       "github":"https://github.com/xuanjia",
       "wechat":"",
       "website":"",
+      "location":"Beijing, China",
+      "projects":"Kubernetes, CNI, Helm",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2039,6 +2111,8 @@
       "wechat":"http://www.wechat.com/en/",
       "website":"",
       "youtube":"",
+      "location":"Pennsylvania, United States",
+      "projects":"Kubernetes",      
       "priority":"",
       "category":[
          "Ambassadors",
@@ -2075,6 +2149,8 @@
       "github":"https://github.com/rootsongjc",
       "wechat":"",
       "website":"",
+      "location":"Beijing, China",
+      "projects":"Kubernetes",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2129,6 +2205,7 @@
       "github":"https://github.com/jogy",
       "wechat":"",
       "website":"",
+      "location":"Bern, Switzerland",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2238,6 +2315,7 @@
       "github":"https://github.com/jberkus",
       "wechat":"",
       "website":"",
+      "location":"Portland, OR, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2292,6 +2370,8 @@
       "github":"https://github.com/juliusv",
       "wechat":"",
       "website":"",
+      "location":"Berlin, Germany",
+      "projects":"Prometheus",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2365,6 +2445,8 @@
       "github":"http://github.com/jpetazzo",
       "wechat":"",
       "website":"",
+      "location":"Topeka, Kansas, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2401,6 +2483,7 @@
       "github":"https://github.com/karenhchu",
       "wechat":"",
       "website":"",
+      "location":"San Francisco, CA, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2438,6 +2521,7 @@
       "wechat":"",
       "website":"https://kubecloud.io",
       "youtube":"",
+      "projects":"Kubernetes, Prometheus, flux, linkerd",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -2455,6 +2539,7 @@
       "github":"https://github.com/katcosgrove",
       "wechat":"",
       "website":"",
+      "location":"Seattle, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2580,6 +2665,8 @@
       "github":"https://github.com/superbrothers",
       "wechat":"",
       "website":"",
+      "location":"Tokyo, Japan",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2634,6 +2721,8 @@
       "github":"https://github.com/kevin-wangzefeng",
       "wechat":"",
       "website":"",
+      "location":"Hangzhou, China",
+      "projects":"Kubernetes, KubeEdge, Volcano",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2689,6 +2778,7 @@
       "github":"https://www.github.com/kris-nova",
       "wechat":"",
       "website":"",
+      "location":"Seattle, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -2707,6 +2797,8 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"Bengaluru Area, India",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2761,6 +2853,8 @@
       "github":"https://github.com/kunal-kushwaha",
       "wechat":"",
       "website":"",
+      "location":"New Delhi, India",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2808,7 +2902,7 @@
    },
    {
       "name":"Lee Calcote",
-      "bio":"<p data-renderer-start-pos=\"326\">“Lee Calcote is the Founder of Layer5, where the community helps organizations harness and exploit the value of service meshes. Previously, Calcote stewarded technology strategy and innovation across SolarWinds. He led software-defined data center engineering at Seagate, delivering predictive analytics and modern systems management. Calcote held various leadership positions at Cisco, where he created Cisco’s cloud management platforms and pioneered new, automated, remote management services.</p>\n<p data-renderer-start-pos=\"824\">In addition to his role at Layer5, Calcote serves in various industry bodies, including as a SIG chair in Cloud Native Computing Foundation (CNCF), and formerly, participated in the delivery of Redfish 1.0 in the Distributed Management Task Foundation (DMTF), and Docker Benchmark 1.0 in Center for Internet Security (CIS). He is a startup advisor, Docker Captain, Cloud Native Ambassador, O’Reilly author, and speaker in the cloud native ecosystem.</p>\n<p data-renderer-start-pos=\"1276\">Calcote is a maintainer of open source projects, including Meshery, Service Mesh Interface, and Service Mesh Performance. Calcote holds a bachelor’s degree in Computer Science, a master’s degree in Business Administration from California State University, Fresno and retains a list of industry certifications.”</p>\n<strong>Meetup:</strong> Cloud Native Austin\n\n<strong>Company Affiliation:</strong> Layer5\n\n<strong>Specialties:</strong> Kubernetes, Prometheus, Istio, Linkerd, Envoy, Meshery, Service Mesh Performance, Service Mesh Interface",
+      "bio":"<p data-renderer-start-pos=\"326\">Lee Calcote is the Founder of Layer5, where the community helps organizations harness and exploit the value of service meshes. Previously, Calcote stewarded technology strategy and innovation across SolarWinds. He led software-defined data center engineering at Seagate, delivering predictive analytics and modern systems management. Calcote held various leadership positions at Cisco, where he created Cisco’s cloud management platforms and pioneered new, automated, remote management services.</p>\n<p data-renderer-start-pos=\"824\">In addition to his role at Layer5, Calcote serves in various industry bodies, including as a SIG chair in Cloud Native Computing Foundation (CNCF), and formerly, participated in the delivery of Redfish 1.0 in the Distributed Management Task Foundation (DMTF), and Docker Benchmark 1.0 in Center for Internet Security (CIS). He is a startup advisor, Docker Captain, Cloud Native Ambassador, O’Reilly author, and speaker in the cloud native ecosystem.</p>\n<p data-renderer-start-pos=\"1276\">Calcote is a maintainer of open source projects, including Meshery, Service Mesh Interface, and Service Mesh Performance. Calcote holds a bachelor’s degree in Computer Science, a master’s degree in Business Administration from California State University, Fresno and retains a list of industry certifications.</p>\n<strong>Meetup:</strong> Cloud Native Austin\n\n<strong>Company Affiliation:</strong> Layer5\n\n<strong>Specialties:</strong> Kubernetes, Prometheus, Istio, Linkerd, Envoy, Meshery, Service Mesh Performance, Service Mesh Interface",
       "excerpt":"Lee is an innovative thought leader, passionate about developer platforms and management software for clouds, containers, infrastructure and applications.",
       "company":"",
       "pronouns":"",
@@ -2817,6 +2911,7 @@
       "github":"https://github.com/leecalcote",
       "wechat":"",
       "website":"",
+      "projects":"Kubernetes, Prometheus, Istio, Linkerd, Envoy, Meshery, Service Mesh Performance, Service Mesh Interface",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2836,6 +2931,7 @@
       "github":"https://github.com/resouer",
       "wechat":"",
       "website":"",
+      "projects":"Kubernetes, Containerd",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2910,6 +3006,8 @@
       "github":"https://github.com/lcostea",
       "wechat":"",
       "website":"",
+      "location":"Iasi, Romania",
+      "projects":"Kubernetes, GitOps, Go",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2928,6 +3026,7 @@
       "github":"https://github.com/Vivian7755",
       "wechat":"",
       "website":"",
+      "projects":"Kubernetes, Vitess, ChubaoFS, Prometheus, Harbor",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3020,6 +3119,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Michigan, United States",
+      "projects":"Kubernetes, CoreDNS",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3073,6 +3174,8 @@
       "github":"https://github.com/baldwinSPC",
       "wechat":"",
       "website":"",
+      "location":"Washington, United States",
+      "projects":"Kubernetes, Prometheus, Knative, Istio, CoreDNS, Envoy, fluentd, containerd, Harbor, etcd, Helm",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3199,6 +3302,8 @@
       "github":"https://github.com/muemich",
       "wechat":"",
       "website":"",
+      "location":"Switzerland",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3234,6 +3339,8 @@
       "twitter":"",
       "github":"",
       "wechat":"",
+      "location":"Oregon, United States",
+      "projects":"Kubernetes",      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3361,6 +3468,7 @@
       "github":"https://github.com/nikhita",
       "wechat":"",
       "website":"",
+      "location":"Mumbai, India",
       "youtube":"",
       "priority":"",
       "category":[
@@ -3397,6 +3505,7 @@
       "github":"https://github.com/borntorock",
       "wechat":"",
       "website":"",
+      "location":"New Delhi, India",
       "youtube":"",
       "priority":"",
       "category":[
@@ -3433,6 +3542,7 @@
       "github":"https://github.com/nunix",
       "wechat":"",
       "website":"",
+      "location":"Montreux, Switzerland",
       "youtube":"",
       "priority":"",
       "category":[
@@ -3490,6 +3600,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"New York City, United States",
+      "projects":"Kubernetes",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3526,6 +3638,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Virginia, United States",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3561,6 +3674,8 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"Amsterdam, Netherlands",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3579,6 +3694,8 @@
       "github":"https://github.com/povilasv/",
       "wechat":"",
       "website":"",
+      "location":"Vilnius, Lithuania",
+      "projects":"Prometheus, Thanos, Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3616,6 +3733,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "location":"Cologne, Germany",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3633,6 +3751,7 @@
       "github":"https://github.com/queenypingcap",
       "wechat":"",
       "website":"",
+      "location":"Beijing, China",
       "youtube":"",
       "priority":"",
       "category":[
@@ -3687,6 +3806,8 @@
       "twitter":"https://twitter.com/rangar100",
       "github":"",
       "wechat":"",
+      "location":"California, United States",
+      "projects":"Kubernetes",      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3705,6 +3826,8 @@
       "twitter":"https://twitter.com/BenzairReda",
       "github":"",
       "wechat":"",
+      "location":"Paris, France",
+      "projects":"Kubernetes",      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3742,6 +3865,8 @@
       "github":"https://github.com/rikatz",
       "wechat":"",
       "website":"",
+      "location":"Sao Paulo, Brazil",
+      "projects":"Kubernetes, Harbor, Prometheus",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3849,6 +3974,8 @@
       "github":"https://github.com/romant",
       "wechat":"",
       "website":"",
+      "location":"Sydney, Australia",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3885,6 +4012,7 @@
       "github":"https://github.com/rosskukulinski",
       "wechat":"",
       "website":"",
+      "location":"Philadelphia, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -3956,6 +4084,7 @@
       "twitter":"",
       "github":"",
       "wechat":"",
+      "location":"Denver, CO, United States",
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3975,6 +4104,8 @@
       "github":"https://github.com/srampal",
       "wechat":"",
       "website":"",
+      "location":"North Carolina, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4011,6 +4142,8 @@
       "github":"https://github.com/sarahnovotny",
       "wechat":"",
       "website":"",
+      "location":"California, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4029,6 +4162,7 @@
       "github":"",
       "wechat":"",
       "website":"",
+      "location":"Wellington, New Zealand",
       "youtube":"",
       "priority":"",
       "category":[
@@ -4047,6 +4181,7 @@
       "github":"https://github.com/scotty-c",
       "wechat":"",
       "website":"",
+      "location":"Sydney, Australia",
       "youtube":"",
       "priority":"",
       "category":[
@@ -4119,6 +4254,7 @@
       "github":"https://github.com/shillasaebi",
       "wechat":"",
       "website":"",
+      "location":"Arlington, Virginia, United States",
       "youtube":"",
       "priority":"",
       "category":[
@@ -4191,6 +4327,8 @@
       "github":"https://github.com/ananthulasrikar",
       "wechat":"",
       "website":"",
+      "location":"Vancouver, Canada",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4227,6 +4365,8 @@
       "github":"https://github.com/sspeiche",
       "wechat":"",
       "website":"",
+      "location":"North Carolina, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4281,6 +4421,7 @@
       "github":"https://github.com/surajnarwade",
       "wechat":"",
       "website":"",
+      "location":"Bangalore, India",
       "youtube":"",
       "priority":"",
       "category":[
@@ -4317,6 +4458,8 @@
       "github":"https://github.com/tnir",
       "wechat":"",
       "website":"",
+      "location":"Tokyo, Japan",
+      "projects":"Kubernetes, Prometheus",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4480,6 +4623,7 @@
       "wechat":"",
       "website":"https://blog.tomkerkhove.be/",
       "youtube":"",
+      "projects":"KEDA, CloudEvents",      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -4551,6 +4695,8 @@
       "github":"https://github.com/vllry",
       "wechat":"",
       "website":"",
+      "location":"San Francisco, United States",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4623,6 +4769,8 @@
       "github":"https://github.com/lyzhang1999",
       "wechat":"",
       "website":"",
+      "location":"China",
+      "projects":"Kubernetes",      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4659,6 +4807,7 @@
       "github":"https://github.com/TreeLin",
       "wechat":"",
       "website":"",
+      "location":"Hangzhou, China",
       "youtube":"",
       "priority":"",
       "category":[
