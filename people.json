@@ -422,6 +422,42 @@
       "image":"https://www.cncf.io/wp-content/uploads/2018/02/1567655267915.jpg"
    },
    {
+      "name":"Ayush Ghosh",
+      "bio":"Ayush is a Principal Engineer at Cisco AppDynamics with 12+ years of experience in building and securing large scale systems.",
+      "excerpt":"Ayush is a Principal Engineer at Cisco AppDynamics with 12+ years of experience in building and securing large scale systems.",
+      "company":"Cisco",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/ayushghosh/",
+      "twitter":"https://twitter.com/yushghosh",
+      "github":"https://github.com/ayushghosh",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "TOC Contributors"
+      ],
+      "image":"ayush-ghosh.jpg"
+   },
+   {
+      "name":"BMK Lakshminarayanan",
+      "bio":"BMK is a passionate Solutions Architect with over 20 years of ICT experience with the Bank of New Zealand. He is an advocate for modern engineering &amp; developer practices including Cloud Native, Microservices for Enterprise Agility, architecting for Continuous Delivery (CD), DevOps, Observability, Event-driven architecture with Kafka/NATS, Open-source software. He is a polyglot and polymath.\n\nHe is a DevOps enthusiast, lead DevOps and continuous delivery community of practices. He is one of the core organizers for DevOpsDaysNZ conference and co-chair for Cloud-Native Summit - Wellington.\n\nBMK hosts the Wellington CNCF meetup for cloud native enthusiasts and The Future of ICT meetup to help students, people returning to work or looking for career opportunities in ICT.\n\nSpecialties: Kubernetes, Envoy, NATS, Kafka, Istio\n\nLocation: Wellington, New Zealand",
+      "excerpt":"BMK is a passionate Solutions Architect with over 20 years of ICT experience with the Bank of New Zealand.",
+      "company":"Bank of New Zealand",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/bmknz/",
+      "twitter":"https://twitter.com/Lbmkrishna",
+      "github":"https://github.com/LBMKRISHNA",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Ambassadors"
+      ],
+      "image":"https://www.cncf.io/wp-content/uploads/2019/10/1603157898521.jpg"
+   },
+   {
       "name":"Bart Farrell",
       "bio":"<p>Company: Freelance</p>\n\n<p>Location: Barakaldo, Spain</p>\n\n<p>Bart Farrell is the Community Leader of the Data on Kubernetes Community where he gets to interact with folks from all over the world committed to open source and sharing knowledge. He is bilingual in Spanish, a humanist, an amateur rapper, and someone who craves challenges and adventures.</p>\n\n<p>Bart enjoys spending an hour every friday with the wonderful folks in the Contributor-ex marketing group. He is always interested in meeting new people, learning about different cultures and technologies, and helping folks feel supported and welcome. If you're interested in doing anything related to diversity and inclusion let me know! </p>\n\n<p></p>\n\n<p>Meetup Organizer- <a rel=\"noreferrer noopener\" href=\"https://community.cncf.io/data-on-kubernetes/\" target=\"_blank\">Data on Kubernetes Meetup </a></p>",
       "excerpt":"Bart Farrell is the Community Leader of the Data on Kubernetes Community where he gets to interact with folks from all over the world committed to open source and sharing knowledge. ",
@@ -3064,7 +3100,7 @@
       "github":"https://github.com/lukaszgryglicki",
       "wechat":"",
       "website":"",
-      "youtube":"",
+      "youtube":"https://www.youtube.com/channel/UCwlhic1-9g8sXySoSmIAUSQ",
       "priority":"",
       "category":[
          "Staff"
