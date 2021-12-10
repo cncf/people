@@ -41,7 +41,7 @@ And here is an example entry:
         "excerpt":"John Chapman was an American pioneer nurseryman who introduced apple trees.",
         "company":"Apples R Us",
         "pronouns":"he/him",
-        "location":"Portland, Maine, USA",
+        "location":"Portland, Maine, United States",
         "linkedin":"https://www.linkedin.com/in/johnny-appleseed/",
         "twitter":"https://twitter.com/jappleseed",
         "github":"https://github.com/jappleseed",

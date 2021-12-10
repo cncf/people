@@ -245,7 +245,7 @@
       "github":"https://github.com/animeshsingh",
       "wechat":"",
       "location":"California, United States",
-      "projects":"kubernetes",
+      "projects":["kubernetes"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -338,7 +338,7 @@
       "wechat":"",
       "website":"",
       "location":"New York, United States",
-      "projects":"kubernetes",      
+      "projects":["kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -561,7 +561,7 @@
       "wechat":"",
       "website":"",
       "location":"Wellington, New Zealand",
-      "projects":"Kubernetes, Envoy, NATS, Kafka",      
+      "projects":["Kubernetes", "Envoy", "NATS", "Kafka"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -582,7 +582,7 @@
       "website":"",
       "youtube":"",
       "location":"Ann Arbor, MI, United States",
-      "projects":"Kubernetes, Prometheus",      
+      "projects":["Kubernetes", "Prometheus"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -712,7 +712,7 @@
       "wechat":"",
       "website":"",
       "location":"San Diego, CA, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -768,7 +768,7 @@
       "wechat":"",
       "website":"",
       "location":"California, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -860,7 +860,7 @@
       "wechat":"",
       "website":"",
       "location":"Mississippi, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -900,7 +900,7 @@
       "website":"",
       "youtube":"",
       "location":"Berlin, Germany",
-      "projects":"Kubernetes, rkt",      
+      "projects":["Kubernetes", "rkt"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -954,7 +954,7 @@
       "github":"https://github.com/chrisz100",
       "wechat":"",
       "website":"",
-      "projects":"Kubernetes, Envoy",      
+      "projects":["Kubernetes", "Envoy"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1101,7 +1101,7 @@
       "wechat":"",
       "website":"",
       "location":"Boston, MA, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1251,7 +1251,7 @@
       "wechat":"",
       "website":"",
       "location":"Vancouver, BC, Canada",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1290,7 +1290,7 @@
       "github":"",
       "wechat":"",
       "location":"Boston, United States",
-      "projects":"Kubernetes, Prometheus, Envoy, Jaeger",      
+      "projects":["Kubernetes", "Prometheus", "Envoy", "Jaeger"],      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -1567,7 +1567,7 @@
       "wechat":"",
       "website":"",
       "location":"Berlin, Germany",
-      "projects":"Kubernetes, Prometheus",      
+      "projects":["Kubernetes", "Prometheus"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1588,7 +1588,7 @@
       "website":"",
       "youtube":"",
       "location":"China",
-      "projects":"Kubernetes, Harbor, Service Mesh",      
+      "projects":["Kubernetes", "Harbor", "Service Mesh"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1698,7 +1698,7 @@
       "website":"",
       "youtube":"",
       "location":"Jakarta, Indonesia",
-      "projects":"Kubernetes, CNI",      
+      "projects":["Kubernetes", "CNI"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1735,7 +1735,7 @@
       "wechat":"",
       "website":"",
       "location":"Seoul, South Korea",
-      "projects":"Kubernetes, Containerd, etcd",      
+      "projects":["Kubernetes", "Containerd", "etcd"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -1756,7 +1756,7 @@
       "website":"",
       "youtube":"",
       "location":"Seoul, South Korea",
-      "projects":"Kubernetes, Rook, Helm",      
+      "projects":["Kubernetes", "Rook", "Helm"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1793,7 +1793,7 @@
       "website":"",
       "youtube":"",
       "location":"Singapore",
-      "projects":"Kubernetes",            
+      "projects":["Kubernetes"],            
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1921,7 +1921,7 @@
       "website":"",
       "youtube":"",
       "location":"Telangana, India",
-      "projects":"kubernetes",      
+      "projects":["kubernetes"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1959,7 +1959,7 @@
       "website":"",
       "youtube":"",
       "location":"Ann Arbor, MI",
-      "projects":"Kubernetes, Prometheus",      
+      "projects":["Kubernetes", "Prometheus"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -2014,7 +2014,7 @@
       "github":"https://github.com/jldeen",
       "wechat":"",
       "website":"",
-      "projects":"Kubernetes, Helm",      
+      "projects":["Kubernetes", "Helm"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2051,7 +2051,7 @@
       "github":"",
       "wechat":"",
       "location":"Beijing, China",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -2090,7 +2090,7 @@
       "wechat":"",
       "website":"",
       "location":"Beijing, China",
-      "projects":"Kubernetes, CNI, Helm",      
+      "projects":["Kubernetes", "CNI", "Helm"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2112,7 +2112,7 @@
       "website":"",
       "youtube":"",
       "location":"Pennsylvania, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "priority":"",
       "category":[
          "Ambassadors",
@@ -2150,7 +2150,7 @@
       "wechat":"",
       "website":"",
       "location":"Beijing, China",
-      "projects":"Kubernetes",
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2371,7 +2371,7 @@
       "wechat":"",
       "website":"",
       "location":"Berlin, Germany",
-      "projects":"Prometheus",
+      "projects":["Prometheus"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2446,7 +2446,7 @@
       "wechat":"",
       "website":"",
       "location":"Topeka, Kansas, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2521,7 +2521,7 @@
       "wechat":"",
       "website":"https://kubecloud.io",
       "youtube":"",
-      "projects":"Kubernetes, Prometheus, flux, linkerd",
+      "projects":["Kubernetes", "Prometheus", "flux", "linkerd"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -2666,7 +2666,7 @@
       "wechat":"",
       "website":"",
       "location":"Tokyo, Japan",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2722,7 +2722,7 @@
       "wechat":"",
       "website":"",
       "location":"Hangzhou, China",
-      "projects":"Kubernetes, KubeEdge, Volcano",      
+      "projects":["Kubernetes", "KubeEdge", "Volcano"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2798,7 +2798,7 @@
       "wechat":"",
       "website":"",
       "location":"Bengaluru Area, India",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2854,7 +2854,7 @@
       "wechat":"",
       "website":"",
       "location":"New Delhi, India",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2911,7 +2911,7 @@
       "github":"https://github.com/leecalcote",
       "wechat":"",
       "website":"",
-      "projects":"Kubernetes, Prometheus, Istio, Linkerd, Envoy, Meshery, Service Mesh Performance, Service Mesh Interface",      
+      "projects":["Kubernetes", "Prometheus", "Istio", "Linkerd", "Envoy", "Meshery", "Service Mesh Performance", "Service Mesh Interface"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -2931,7 +2931,7 @@
       "github":"https://github.com/resouer",
       "wechat":"",
       "website":"",
-      "projects":"Kubernetes, Containerd",      
+      "projects":["Kubernetes", "Containerd"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3007,7 +3007,7 @@
       "wechat":"",
       "website":"",
       "location":"Iasi, Romania",
-      "projects":"Kubernetes, GitOps, Go",      
+      "projects":["Kubernetes", "GitOps", "Go"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3026,7 +3026,7 @@
       "github":"https://github.com/Vivian7755",
       "wechat":"",
       "website":"",
-      "projects":"Kubernetes, Vitess, ChubaoFS, Prometheus, Harbor",      
+      "projects":["Kubernetes", "Vitess", "ChubaoFS", "Prometheus", "Harbor"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3120,7 +3120,7 @@
       "website":"",
       "youtube":"",
       "location":"Michigan, United States",
-      "projects":"Kubernetes, CoreDNS",      
+      "projects":["Kubernetes", "CoreDNS"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3175,7 +3175,7 @@
       "wechat":"",
       "website":"",
       "location":"Washington, United States",
-      "projects":"Kubernetes, Prometheus, Knative, Istio, CoreDNS, Envoy, fluentd, containerd, Harbor, etcd, Helm",      
+      "projects":["Kubernetes", "Prometheus", "Knative", "Istio", "CoreDNS", "Envoy", "fluentd", "containerd", "Harbor", "etcd", "Helm"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3303,7 +3303,7 @@
       "wechat":"",
       "website":"",
       "location":"Switzerland",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3340,7 +3340,7 @@
       "github":"",
       "wechat":"",
       "location":"Oregon, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3601,7 +3601,7 @@
       "website":"",
       "youtube":"",
       "location":"New York City, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3675,7 +3675,7 @@
       "wechat":"",
       "website":"",
       "location":"Amsterdam, Netherlands",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3695,7 +3695,7 @@
       "wechat":"",
       "website":"",
       "location":"Vilnius, Lithuania",
-      "projects":"Prometheus, Thanos, Kubernetes",      
+      "projects":["Prometheus", "Thanos", "Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3807,7 +3807,7 @@
       "github":"",
       "wechat":"",
       "location":"California, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3827,7 +3827,7 @@
       "github":"",
       "wechat":"",
       "location":"Paris, France",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3866,7 +3866,7 @@
       "wechat":"",
       "website":"",
       "location":"Sao Paulo, Brazil",
-      "projects":"Kubernetes, Harbor, Prometheus",      
+      "projects":["Kubernetes", "Harbor", "Prometheus"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -3975,7 +3975,7 @@
       "wechat":"",
       "website":"",
       "location":"Sydney, Australia",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4105,7 +4105,7 @@
       "wechat":"",
       "website":"",
       "location":"North Carolina, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4143,7 +4143,7 @@
       "wechat":"",
       "website":"",
       "location":"California, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4328,7 +4328,7 @@
       "wechat":"",
       "website":"",
       "location":"Vancouver, Canada",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4366,7 +4366,7 @@
       "wechat":"",
       "website":"",
       "location":"North Carolina, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4459,7 +4459,7 @@
       "wechat":"",
       "website":"",
       "location":"Tokyo, Japan",
-      "projects":"Kubernetes, Prometheus",      
+      "projects":["Kubernetes", "Prometheus"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4623,7 +4623,7 @@
       "wechat":"",
       "website":"https://blog.tomkerkhove.be/",
       "youtube":"",
-      "projects":"KEDA, CloudEvents",      
+      "projects":["KEDA", "CloudEvents"],      
       "priority":"",
       "category":[
          "Ambassadors"
@@ -4696,7 +4696,7 @@
       "wechat":"",
       "website":"",
       "location":"San Francisco, United States",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
@@ -4770,7 +4770,7 @@
       "wechat":"",
       "website":"",
       "location":"China",
-      "projects":"Kubernetes",      
+      "projects":["Kubernetes"],      
       "youtube":"",
       "priority":"",
       "category":[
