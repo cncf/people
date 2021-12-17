@@ -120,23 +120,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2018/08/LT8f_Z5X_400x400.jpg"
    },
    {
-      "name":"Amr Abdelhalem",
-      "bio":"<p>Amr is the head of cloud platforms, managing Fidelity's multiple cloud strategies include containers, serverless, and API platforms. He is responsible for the CNCF strategy and advances the digital transforming of Fidelity.</p>\n\n<p>Before Fidelity, he led cloud architecture and platform teams at Citigroup and ADP. In Citigroup, he focused on delivering Citi-Cloud and the modernization of ADP containers platforms.</p>\n\n<p>Amr has more than 25 years of Enterprise development, software, and systems experience. He holds a B.S. in Computer Science from Alexandria University.</p>",
-      "company":"Fidelity Investments (Gold Member Rep)",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/amrhalem",
-      "twitter":"",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/amr-1.jpg"
-   },
-   {
       "name":"Amy Benson",
       "bio":"Amy has been an Event Manager for The Linux Foundation since 2015, working with various Foundation Collaborative Projects. Since 2016, she has managed and executed numerous aspects of CNCF's KubeCon + CloudNativeCon events, including venue selection and oversight, creative development of graphics, and audiovisual logistics.\n\nAmy has over 10 years of experience producing and managing conferences, trade shows, incentive programs, and meetings in both the corporate and non-profit sectors. She holds a Bachelor of Science in Journalism from the University of Oregon and received her CMP (Certified Meeting Professional) accreditation in 2014.",
       "company":"Event Manager",
@@ -3034,23 +3017,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/matt-farina-1.jpeg"
    },
    {
-      "name":"Matt Klein",
-      "bio":"Matt is a software engineer at Lyft and the creator of Envoy. He has been working on operating systems, virtualization, distributed systems, networking, and making systems easy to operate for nearly 20 years across a variety of companies. Some highlights include leading the development of Twitter’s L7 edge proxy and working on high-performance computing and networking in Amazon’s EC2.",
-      "company":"Lyft (Developer Seat)",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/mattklein123/",
-      "twitter":"https://twitter.com/mattklein123",
-      "github":"https://github.com/mattklein123",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/matt-klein-3.jpg"
-   },
-   {
       "name":"Matthew Fornaciari",
       "bio":"",
       "company":"",
@@ -3690,10 +3656,10 @@
    },
    {
       "name":"Richard Hartmann",
-      "bio":"",
+      "bio":"Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
       "company":"Grafana Labs",
       "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/-richard-hartmann-b71800107/",
+      "linkedin":"https://www.linkedin.com/in/%F0%9F%93%88-richard-hartmann-b71800107/",
       "twitter":"https://twitter.com/TwitchiH",
       "github":"https://github.com/richih",
       "wechat":"",
@@ -3701,9 +3667,10 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "TOC Contributors"
+         "TOC Contributors",
+         "Governing Board"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2021/02/RichiH.jpeg"
+      "image":"richard-hartmann.jpg"
    },
    {
       "name":"Rick Spencer",
