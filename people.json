@@ -1780,13 +1780,15 @@
       "twitter":"https://twitter.com/itaysk",
       "github":"https://github.com/itaysk",
       "wechat":"",
-      "website":"",
+      "website":"https://blog.itaysk.com",
       "youtube":"",
       "priority":"",
       "category":[
          "Ambassadors"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2019/08/Itay-scaled.jpeg"
+      "image":"https://www.cncf.io/wp-content/uploads/2019/08/Itay-scaled.jpeg",
+      "languages": ["English", "Hebrew"],
+      "location": ["Israel"]
    },
    {
       "name":"Jacopo Nardiello",
