@@ -2289,6 +2289,23 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg"
    },
    {
+      "name":"Justin Dustzadeh",
+      "bio":"<p>Justin Dustzadeh is the Chief Technology Officer at Equinix. In this role, Justin drives the company’s technology vision, strategy and architecture as well as the overall technical innovation and focus on software transformation and engagement within the developer community, including within the Linux Foundation.</p><p>Justin is an industry-recognized thought leader on cloud-native technologies and software-defined infrastructure and has a wealth of executive and technical leadership experience, including leadership roles at Uber (where he served as Head of Global Network & Software Platform), Visa, Huawei, Ericsson, AT&T, a technology startup which he co-founded, and two leading service providers in France.</p><p>He holds a Ph.D. and M.S. in Computer Science from Télécom Paris, and a B.S. in Theoretical Physics from École Normale Supérieure (Ulm) in Paris.</p>",
+      "company":"Equinix",
+      "pronouns":"He/Him",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"justin-dustzadeh.jpg"
+   },
+   {
       "name":"Jérôme Petazzoni",
       "bio":"Jérôme was part of the team that built, scaled, and operated the dotCloud PAAS, before that company became Docker. He worked seven years at the container startup, where he wore countless hats and ran containers in production before it was cool. He loves to share what he knows, which led him to give hundreds of talks and demos on containers, Docker, and Kubernetes. He trained thousands of people to deploy their apps in confidence on these platforms, and continues to do so as an independent consultant. He values diversity, and strives to be a good ally, or at least a decent social justice sidekick. He also collects musical instruments and can arguably play the theme of Zelda on a dozen of them.",
       "company":"",
@@ -3658,7 +3675,7 @@
       "name":"Richard Hartmann",
       "bio":"Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
       "company":"Grafana Labs",
-      "pronouns":"",
+      "pronouns":"he/him",
       "linkedin":"https://www.linkedin.com/in/%F0%9F%93%88-richard-hartmann-b71800107/",
       "twitter":"https://twitter.com/TwitchiH",
       "github":"https://github.com/richih",
