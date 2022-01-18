@@ -3351,7 +3351,8 @@
       "name":"Orlin Vasilev",
       "bio":"Orlin is a Engineer at VMware working as Community Manager on Harbor and Contour, DevOps/SRE/Infra at Internal Kubernetes Platform. Prior to VMware, Orlin worked as *ix and Cloud Engineer/Architect at HPE. For years he has been involved with so-called traditional infrastructure.\n\nHe is also part of the team that organizes the <a href=\"https://www.meetup.com/Cloud-Native-Computing-Bulgaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes &amp; Cloud Native Computing Bulgaria Meetup</a>.\n\nWhen he's not geeking out, he is snowboarding/camping/BBQ-ing with his family.",
       "company":"VMware",
-      "pronouns":"",
+      "pronouns":"he/him",
+      "location":"Sofia, Bulgaria",
       "linkedin":"https://www.linkedin.com/in/ovasilev/",
       "twitter":"https://twitter.com/OrlinVasilev",
       "github":"https://github.com/OrlinVasilev",
@@ -3359,6 +3360,7 @@
       "website":"",
       "youtube":"",
       "priority":"",
+      "languages":["Bulgarian","English"],
       "projects":["harbor","contour"],
       "category":[
          "Ambassadors"
