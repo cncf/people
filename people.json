@@ -1024,7 +1024,7 @@
       "wechat":"",
       "website":"",
       "location":"Boston, MA, United States",
-      "projects":["Kubernetes, Helm, Cloudevents"],  
+      "projects":["Kubernetes", "Helm", "Cloudevents"],  
       "languages":["English"],
       "youtube":"",
       "priority":"",
@@ -1293,7 +1293,7 @@
       "website":"",
       "youtube":"",
       "location":"San Francisco, CA, United States",
-      "projects":["Kubernetes, Cilium"],  
+      "projects":["Kubernetes", "Cilium"],  
       "languages":["English"],
       "priority":"",
       "category":[
@@ -1877,7 +1877,7 @@
       "website":"",
       "youtube":"",
       "projects":["Kubernetes"],  
-      "languages":["Swedish, English"],
+      "languages":["Swedish", "English"],
       "location":"Gothenburg, Sweden",
       "priority":"",
       "category":[
@@ -2623,7 +2623,7 @@
       "website":"",
       "location":"Funabashi-city, Chiba-prefecture, Japan",
       "projects":["Kubernetes"],  
-      "languages":["Japanese, English"],
+      "languages":["Japanese", "English"],
       "youtube":"",
       "priority":"",
       "category":[
