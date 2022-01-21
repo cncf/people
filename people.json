@@ -1024,7 +1024,8 @@
       "wechat":"",
       "website":"",
       "location":"Boston, MA, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes, Helm, Cloudevents"],  
+      "languages":["English"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1292,6 +1293,8 @@
       "website":"",
       "youtube":"",
       "location":"San Francisco, CA, United States",
+      "projects":["Kubernetes, Cilium"],  
+      "languages":["English"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1873,6 +1876,8 @@
       "wechat":"",
       "website":"",
       "youtube":"",
+      "projects":["Kubernetes"],  
+      "languages":["Swedish, English"],
       "location":"Gothenburg, Sweden",
       "priority":"",
       "category":[
@@ -2000,8 +2005,11 @@
       "twitter":"https://twitter.com/JimmAngel",
       "github":"https://github.com/jimangel",
       "wechat":"",
-      "website":"",
+      "website":"",      
       "youtube":"",
+      "projects":["Kubernetes"],  
+      "languages":["English"],
+      "location":"Austin, United States",
       "priority":"",
       "category":[
          "Ambassadors"
@@ -2613,6 +2621,9 @@
       "github":"https://github.com/inductor",
       "wechat":"",
       "website":"",
+      "location":"Funabashi-city, Chiba-prefecture, Japan",
+      "projects":["Kubernetes"],  
+      "languages":["Japanese, English"],
       "youtube":"",
       "priority":"",
       "category":[
