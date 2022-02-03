@@ -2727,23 +2727,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2021/05/kunal.jpeg"
    },
    {
-      "name":"L Körbes",
-      "bio":"L does DevRel at Tilt, on a mission to make developers' workflows friendlier and more intuitive. They first got acquainted with Kubernetes while writing code for kubectl, in a SIG-CLI internship. While based in Berlin, they've spoken at countless meetups and world-famous events all around the globe. Notably, L once won a 'Best Hair' award.",
-      "company":"Tilt",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/l-körbes",
-      "twitter":"https://www.twitter.com/l_korbes",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Ambassadors"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/l-korbes-1.jpg"
-   },
-   {
       "name":"Lachlan Evenson",
       "bio":"Lachlan is a Principal Program Manager on the open source team at Azure. As a cloud native ambassador, emeritus Kubernetes release lead, and Helm charts maintainer, Lachlan has deep operational knowledge of many Cloud Native projects. He spends his days building and contributing to software that addresses key challenges in the Cloud Native ecosystem.",
       "company":"Microsoft",
@@ -4421,6 +4404,23 @@
          "Ambassadors"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/12/DSC_2671x-scaled.jpg"
+   },
+   {
+      "name":"V Körbes",
+      "bio":"<p>Ellen has worked extensively in the development experience side of the Kubernetes ecosystem, at Tilt and Garden prior to VMware Tanzu. They got their start years ago building tooling under Kubernetes' SIG-CLI, and have since spoken about Go and Kubernetes at many world-famous events. Ellen not-so-secretly loves to reminisce about their teenage years by dabbling in old-timey infosec shenanigans.</p>",
+      "company":"VMware Tanzu Kubernetes",
+      "pronouns":"they/she",
+      "linkedin":"https://www.linkedin.com/in/vkorbes/",
+      "twitter":"https://twitter.com/veekorbes",
+      "github":"https://github.com/vkorbes",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Ambassadors"
+      ],
+      "image":"v-korbes.jpg"
    },
    {
       "name":"Vadim Solovey",
