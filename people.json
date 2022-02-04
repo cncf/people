@@ -4407,7 +4407,7 @@
    },
    {
       "name":"V Körbes",
-      "bio":"<p>Ellen has worked extensively in the development experience side of the Kubernetes ecosystem, at Tilt and Garden prior to VMware Tanzu. They got their start years ago building tooling under Kubernetes' SIG-CLI, and have since spoken about Go and Kubernetes at many world-famous events. Ellen not-so-secretly loves to reminisce about their teenage years by dabbling in old-timey infosec shenanigans.</p>",
+      "bio":"<p>V has worked extensively in the development experience side of the Kubernetes ecosystem, at Tilt and Garden prior to VMware Tanzu. They got their start years ago building tooling under Kubernetes' SIG-CLI, and have since spoken about Go and Kubernetes at many world-famous events. V not-so-secretly loves to reminisce about their teenage years by dabbling in old-timey infosec shenanigans.</p>",
       "company":"VMware Tanzu Kubernetes",
       "pronouns":"they/she",
       "linkedin":"https://www.linkedin.com/in/vkorbes/",
@@ -4417,6 +4417,9 @@
       "website":"",
       "youtube":"",
       "priority":"",
+      "languages":["Portuguese", "English", "Spanish"],
+      "projects":["kubernetes"],
+      "location":"Berlin, Germany",
       "category":[
          "Ambassadors"
       ],
