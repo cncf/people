@@ -293,7 +293,7 @@
    },
    {
       "name":"Ariel Jatib",
-      "bio":"Ariel is Principal Designer at StackPointCloud, Inc. He founded and organizes the New York, Seattle and San Francisco Kubernetes Meetups, regularly hosting the New York event. He is excited to help grow the community, having also worked with various other Meetups around the country and in Europe.\n\nMeet-Up Organizer:\n<a href=\"https://www.meetup.com/New-York-Kubernetes-Meetup/\" target=\"_blank\" rel=\"noopener noreferrer\">New York Kubernetes Meetup</a>",
+      "bio":"Ariel founded and organizes the New York Kubernetes Meetup. He previously founded Stackpoint.io, an early Kubernetes platform focused on simplifying the process for deploying cloud native stacks at the leading cloud providers.\n\nMeet-Up Organizer:\n<a href=\"https://www.meetup.com/New-York-Kubernetes-Meetup/\" target=\"_blank\" rel=\"noopener noreferrer\">New York Kubernetes Meetup</a>",
       "company":"Place Pin",
       "pronouns":"he/him",
       "linkedin":"https://www.linkedin.com/in/arieljatib/",
@@ -303,8 +303,9 @@
       "website":"",
       "location":"New York, United States",
       "projects":["kubernetes"],      
-      "youtube":"",
+      "youtube":"https://www.youtube.com/channel/UCTx3SceONcstRA11JNJu_PA",
       "priority":"",
+      "languages":["Spanish","English"],
       "category":[
          "Ambassadors",
          "Marketing Committee"
