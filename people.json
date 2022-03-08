@@ -525,23 +525,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/Bob-Killen-1.jpeg"
    },
    {
-      "name":"Bob Wise",
-      "bio":"Bob Wise is General Manager for Kubernetes at Amazon Web Services. He leads teams that build Amazon Elastic Kubernetes Service (EKS), App Mesh and Cloud Map. He was an early customer of AWS while CTO at Melodeo, led HP’s early effort on Openstack, and was CTO for Samsung’s Cloud Native Computing Team, where he helped to form the first Kubernetes SIG and launch Kubernetes 1.0.",
-      "company":"Amazon Web Services",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/bobwise/",
-      "twitter":"https://twitter.com/countspongebob",
-      "github":"https://github.com/countspongebob",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/08/Wise-Bob-image-3.jpg"
-   },
-   {
       "name":"Bora Ozkan",
       "bio":"",
       "company":"",
@@ -1820,6 +1803,23 @@
          "Ambassadors"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/gP_biIhl_400x400-1.jpg"
+   },
+   {
+      "name":"Jay Pipes",
+      "bio":"Jay is a Principal Engineer at Amazon Web Services working on cloud-native technologies in the AWS Kubernetes team focused on open source contribution in the Kubernetes ecosystem. Jay leads the AWS Controllers for Kubernetes (ACK) project and helps to shape the upstream open source contribution strategy of AWS engineers.",
+      "company":"Amazon Web Services",
+      "pronouns":"He/Him",
+      "linkedin":"http://linkedin.com/in/jaypipes",
+      "twitter":"https://twitter.com/jaypipes",
+      "github":"http://github.com/jaypipes",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"jay-pipes.jpg"
    },
    {
       "name":"Jeff Zhang",
