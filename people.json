@@ -28,7 +28,7 @@
       "website":"",
       "youtube":"",
       "priority":"",
-      ],
+      "category":[],
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/image-1-1.jpg"
    },
    {
@@ -1014,7 +1014,7 @@
       "priority":"",
       "category":[
          "Technical Oversight Committee",
-         "TOC Contributors"
+         "TOC Contributors",
          "TOC Chair"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2019/07/23304.jpg"
