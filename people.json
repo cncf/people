@@ -878,6 +878,23 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/AAEAAQAAAAAAAAlEAAAAJGE5ZWJlMTIyLTdmMmYtNDNlYS1iOTA1LTY4NWM5MmMzM2FlMQ-1.jpg"
    },
    {
+      "name":"Cody Liskh",
+      "bio":"Cody is a Senior Event Planner with a focus on Content at The Linux Foundation, and manages the speakers and content for KubeCon + CloudNativeCon events. Prior to joining The Linux Foundation, Cody brings over six years in the event industry and has assisted planners in over one hundred corporate events.",
+      "company":"Senior Event Planner",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/codyliskh/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"cody-liskh.jpeg"
+   },
+   {
       "name":"Cornelia Davis",
       "bio":"<p>Cornelia has been working in IT systems for several decades with the last 10 years focused on DevOps platforms. She was part of the team that brought Cloud Foundry to the industry - both the open source project and the Pivotal CF product. In the last 5+ years she has applied that container-centric systems experience to Kubernetes-based developer platforms. Most recently she has brought newly emerging GitOps practices into those system. </p>\n\n<p>Cornelia currently works on Alexa products at Amazon and consults with the AWS Container organization.</p>\n\n<p>An industry veteran with almost three decades of experience in image processing, scientific visualization, distributed systems and web application architectures, and cloud-native platforms, Cornelia holds the B.S. and M.S. in Computer Science from California State University, Northridge and further studied theory of computing and programming languages at Indiana University. <meta charset=\"utf-8\">She is the author of the book <a href=\"https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292\">Cloud Native Patterns: Designing Change-tolerant Software</a>.</p>\n\n<p>When not doing those things you can find her on the yoga mat or in the kitchen.</p>",
       "company":"Amazon",
@@ -3335,23 +3352,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/nikhita-cncf-ambassador-1.jpg"
    },
    {
-      "name":"Niraj Tolia",
-      "bio":"<p>Niraj is the General Manager and President of Kasten (acquired by Veeam), that he founded in order to solve the problem of Kubernetes backup and disaster recovery. With a strong technical background in distributed systems, storage, and data management, he has held multiple leadership roles in the past, including the Senior Director of Engineering for Dell EMC's CloudBoost family of products and VP of Engineering and Chief Architect at Maginatics (acquired by EMC). Dr. Tolia received his PhD, MS, and BS in Computer Engineering from Carnegie Mellon University.</p>",
-      "company":"Kasten",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/nirajtolia/",
-      "twitter":"https://twitter.com/nirajtolia",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/11/Niraj-Tolia-2020-1-scaled.jpg"
-   },
-   {
       "name":"Nitin Agarwal",
       "bio":"Nitin is a seasoned technical professional with expertise in Enterprise DevOps, Cloud Infrastructure, Cloud Native Applications, Containerization, and Continuous Delivery. Nitin enjoys collaborating, knowledge sharing, and supporting the adoption of containers and cloud native open source technologies.\n\nMeetup Organizer: <a href=\"https://www.meetup.com/Kubernetes-and-Cloud-Native-New-Delhi/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes and Cloud Native New Delhi</a>",
       "company":"",
@@ -4407,6 +4407,23 @@
          "Governing Board"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/05/thomas-hertz-2021.jpg"
+   },
+   {
+      "name":"Thomas (Tom) Manville",
+      "bio":"Tom studied computer architecture at the University of Michigan and researched microprocessor design in partnership with ARM. After university, he joined the server team at Maginatics, a cloud-based file system company that was acquired by EMC. After the acquisition, he joined Dropbox where he was focused on improving the efficiency of Dropbox’s metadata storage, disaster recovery, and fault tolerance. Tom joined the founding team at Kasten, which was acquired by Veeam in 2020. He is now VP of Engineering building Kasten by Veeam’s flagship product K10, focussed on Kubernetes Backup and DR.",
+      "company":"Kasten",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/tom-manville/",
+      "twitter":"https://twitter.com/tdmanv",
+      "github":"https://github.com/tdmanv",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"tom-manville.jpg"
    },
    {
       "name":"Timothy Chen",
