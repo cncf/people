@@ -4395,23 +4395,6 @@
       "image":"thomas-di-giacomo.jpg"
    },
    {
-      "name":"Thomas Hertz",
-      "bio":"<p style=\"font-weight: 400;\">Thomas is the Head of SAP BTP, Runtimes &amp; Core which is a fundamental part of SAP Business Technology Platform. He started out as one of the founders of Hybris software and joined SAP when it bought Hybris in 2013, driving change and innovation in various roles. Throughout, he has kept alive his appetite for creating things people genuinely love.</p>\n<p style=\"font-weight: 400;\">Thomas is currently busy improving the developer experience of SAP BTP. His goal is to make it easier for both developers working with SAP products and developers within SAP to face the challenges of our ever-changing technological environment. A champion of cloud-native development and open source technologies at SAP, he aims to make innovation simpler for both SAP and its customers.</p>\n\n<p></p>",
-      "company":"SAP",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/thomashertz/",
-      "twitter":"https://twitter.com/primtom",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/05/thomas-hertz-2021.jpg"
-   },
-   {
       "name":"Thomas (Tom) Manville",
       "bio":"Tom studied computer architecture at the University of Michigan and researched microprocessor design in partnership with ARM. After university, he joined the server team at Maginatics, a cloud-based file system company that was acquired by EMC. After the acquisition, he joined Dropbox where he was focused on improving the efficiency of Dropbox’s metadata storage, disaster recovery, and fault tolerance. Tom joined the founding team at Kasten, which was acquired by Veeam in 2020. He is now VP of Engineering building Kasten by Veeam’s flagship product K10, focussed on Kubernetes Backup and DR.",
       "company":"Kasten",
@@ -4606,10 +4589,10 @@
    },
    {
       "name":"Vasu Chandrasekhara",
-      "bio":"",
-      "company":"",
-      "pronouns":"",
-      "linkedin":"",
+      "bio":"Vasu is Vice President and Chief Architect on topics concerning the Cloud Native Strategy at SAP. Having always been accused of having his head in the clouds, he went on to make it his career. In his current role, he works with several cross-product initiatives to foster the cloud native mindset across engineering teams. In spite of having a very brown thumb, he went green by reaching into the bountiful cloud native and open source ecosystem and was instrumental in establishing Kubernetes (with Project Gardener) as the modern foundation at SAP. As a champion of cloud native development, advocating both inner and open source technologies, he aims to make innovation simpler for both SAP and its customers. Vasu holds a degree in Physics and Computer Science from the University of Osnabrück but refuses to be tied down to any geography. He prefers it in the cloud.",
+      "company":"SAP",
+      "pronouns":"He/Him",
+      "linkedin":"https://www.linkedin.com/in/vasu-chandrasekhara-b570202/",
       "twitter":"https://twitter.com/vas1124",
       "github":"https://github.com/vasu1124",
       "wechat":"",
@@ -4617,9 +4600,10 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "TOC Contributors"
+         "TOC Contributors",
+         "Governing Board"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2018/08/Ldh8N4ue_400x400.jpg"
+      "image":"vasu-chandrasekhara.jpg"
    },
    {
       "name":"Vijoy Pandey",
