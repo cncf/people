@@ -48,7 +48,7 @@ And here is an example entry:
         "priority":10,
         "languages":["Spanish","English"],
         "projects":["prometheus","kubernetes","envoy"],
-        "category":["Ambassadors","TOC Contributors"],
+        "category":["Ambassadors"],
         "image":"jappleseed.jpg"
     }
 ```
