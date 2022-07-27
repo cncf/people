@@ -4,7 +4,6 @@ This repo stores the data that will populate the various people listings on cncf
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
-- [TOC Contributors](https://www.cncf.io/people/technical-oversight-committee/#toc-contributors)
 
 ## Listing Format
 
