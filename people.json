@@ -404,6 +404,23 @@
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2019/10/1603157898521.jpg"
    },
+      {
+      "name":"Barry Cooks",
+      "bio":"Barry is responsible for growing Kubernetes across AWS including Amazon EKS, Amazon EKS Anywhere and RedHat Open Shift.</p>\n\n<p> Barry joined Amazon in 2022 from DigitalOcean, whereas CTO he led the organization through its IPO. A global enterprise technology veteran, Barry brings 25 years of experience across all aspects of technology, from board design, FPGA based hardware, and operating systems, to application microservices and cloud. Over the course of his career, Barry has twice led teams through successful IPOs. His previous experience includes DigitalOcean, VMware, and Sun Microsystems. Barry holds a BS in Computer Science from Purdue University and a MS in Computer Science from the University of Oregon",
+      "company":"Amazon Web Services",
+      "pronouns":"He/Him",
+      "linkedin":"https://www.linkedin.com/in/barryjcooks/",
+      "twitter":"https://twitter.com/barryjcooks",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"barry-cooks.jpg"
+   },
    {
       "name":"Bart Farrell",
       "bio":"<p>Bart Farrell is the Community Leader of the Data on Kubernetes Community where he gets to interact with folks from all over the world committed to open source and sharing knowledge. He is bilingual in Spanish, a humanist, an amateur rapper, and someone who craves challenges and adventures.</p>\n\n<p>Bart enjoys spending an hour every friday with the wonderful folks in the Contributor-ex marketing group. He is always interested in meeting new people, learning about different cultures and technologies, and helping folks feel supported and welcome. If you're interested in doing anything related to diversity and inclusion let me know! </p>\n\n<p></p>\n\n<p>Meetup Organizer- <a rel=\"noreferrer noopener\" href=\"https://community.cncf.io/data-on-kubernetes/\" target=\"_blank\">Data on Kubernetes Meetup </a></p>",
@@ -1711,23 +1728,6 @@
          "Ambassadors"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/gP_biIhl_400x400-1.jpg"
-   },
-   {
-      "name":"Jay Pipes",
-      "bio":"Jay is a Principal Engineer at Amazon Web Services working on cloud-native technologies in the AWS Kubernetes team focused on open source contribution in the Kubernetes ecosystem. Jay leads the AWS Controllers for Kubernetes (ACK) project and helps to shape the upstream open source contribution strategy of AWS engineers.",
-      "company":"Amazon Web Services",
-      "pronouns":"He/Him",
-      "linkedin":"http://linkedin.com/in/jaypipes",
-      "twitter":"https://twitter.com/jaypipes",
-      "github":"http://github.com/jaypipes",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"jay-pipes.jpg"
    },
    {
       "name":"Jeff Zhang",
