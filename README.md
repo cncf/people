@@ -1,5 +1,5 @@
 # CNCF People
-This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR for approval.  The listings are:
+This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
