@@ -342,7 +342,7 @@
       "bio":"Aurélie is a DevRel (Developer Advocate) at OVHcloud in Toulouse, France. She is GDE (Google Developer Expert) for Cloud technologies, Docker captain & Kubernetes for Developers certified. She has been working as a Developer and Ops for over 15 years. She built, deployed & operatized a lot of applications in different architectures and environments. She is a Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. As one of the leaders of Duchess France, an association that promotes women developers and women working in IT, she is heavily involved in their #AdoptADuchess coaching initiative, which helps beginner and retraining developers. She has been a conferences and meetups organizer since 2016. She is also a technical writer, a book author & reviewer, a sketchnoter and a speaker. She created a new visual way for people to learn and understand Cloud technologies: 'Understanding Kubernetes/Istio/Docker in a visual way' in sketchnotes and videos.",
       "company":"OVHcloud",
       "pronouns":"she/her",
-      "linkedin":"linkedin.com/in/aurelievache/",
+      "linkedin":"https://linkedin.com/in/aurelievache/",
       "twitter":"https://twitter.com/aurelievache",
       "github":"https://github.com/scraly/",
       "wechat":"",
@@ -1336,7 +1336,7 @@
       "bio":"<p>zouyee<strong> </strong>is a&nbsp;maintainer of coredns project, also the member of kubernetes and knative community.&nbsp;He founded and organizes the&nbsp;SUZHOU CloudNative Meetups, leads some local meetups such as Kubernetes Meetup SuZhou and Serverless&amp;CoreDNS Meetup SuZhou, helps promote cloud native technologies in china by organizing meetups.</p>",
       "company":"",
       "pronouns":"",
-      "linkedin":"www.linkedin.com/in/nengrenzou",
+      "linkedin":"https://www.linkedin.com/in/nengrenzou",
       "twitter":"https://twitter.com/zouyee2",
       "github":"https://github.com/zouyee",
       "wechat":"",
@@ -1761,6 +1761,8 @@
       "category":[
          "Staff"
       ],
+      "email": "me@jeefy.dev",
+      "slack_id": "U8C56BHNC",
       "image":"https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
    },
    {
@@ -2655,7 +2657,7 @@
       "bio":"Libby is a Marketing Programs Manager at CNCF overseeing Online Programs, KubeWeekly, and other marketing initiatives. Her experience spans over 15 years in the tech industry including event planning and marketing. She holds a Bachelor of Science from the University of Texas and currently resides in San Antonio. When not at work, Libby enjoys spending time with her family and going to the beach.",
       "company":"Marketing Programs Manager",
       "pronouns":"she/her",
-      "linkedin":"www.linkedin.com/in/libby-schulze-a3798615",
+      "linkedin":"https://www.linkedin.com/in/libby-schulze-a3798615",
       "twitter":"https://www.twitter.com/LibbySchulze2",
       "github":"",
       "wechat":"",
@@ -2692,7 +2694,7 @@
       "bio":"<p>Lindsay works collaboratively with the CNCF community to support, manage and execute events that build capacity within the ecosystem. Lindsay has 20+ years of experience in executing, leading, and designing global event experiences in corporate, nonprofit, and educational settings.&nbsp; Within that time, Lindsay supported The Linux Foundation events team for 3 years working on Open Sources Summits, Embedded Linux Conferences, Leadership Summits, etc. She holds a Bachelor of Science in Event &amp; Hospitality Management from the University of Central Florida.</p>\n\n<p></p>",
       "company":"Event Manager",
       "pronouns":"she/her",
-      "linkedin":"www.linkedin.com/in/lindsaymaysgendreau",
+      "linkedin":"https://www.linkedin.com/in/lindsaymaysgendreau",
       "twitter":"",
       "github":"",
       "wechat":"",
@@ -2996,7 +2998,7 @@
       "bio":"Michael Mueller is a seasoned leader with a deep technology background, specifically in Cloud Native and Site Reliability Engineering. Michael oversees the architecture and implementation of Cloud Native systems for organizations from every sector. His work spans two decades in various roles, with current emphasis on SRE, automation and Cloud Native in general. He enjoys solving the challenges presented by emerging technology and working with partners.\n\nMeet-Up Organizer:\n<a href=\"https://www.meetup.com/Microservices-Zurich/\" target=\"_blank\" rel=\"noopener noreferrer\">Microservices Zürich Meetup</a>",
       "company":"Giant Swarm",
       "pronouns":"",
-      "linkedin":"www.linkedin.com/in/michael-mueller-cn",
+      "linkedin":"https://www.linkedin.com/in/michael-mueller-cn",
       "twitter":"https://twitter.com/michmueller_",
       "github":"https://github.com/muemich",
       "wechat":"",
