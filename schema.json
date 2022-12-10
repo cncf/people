@@ -1,1 +1,36 @@
-{}
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name":      {"type": "string"},
+            "bio":       {"type": "string"},
+            "company":   {"type": "string"},
+            "pronouns":  {"type": "string"},
+            "linkedin":  {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "twitter":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "github":    {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "wechat":    {"type": "string"},
+            "website":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "location":  {"type": "string"},
+            "youtube":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "priority":  {"anyOf": [ { "maxLength": 0 }, { "type": "number"  } ] },
+            "image":     {"type": "string"},
+            "email":     {"type": "string", "format": "email"},
+            "slack_id":  {"type": "string"},
+            "category": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Ambassadors",
+                        "Staff",
+                        "Governing Board",
+                        "Marketing Committee",
+                        "Technical Oversight Committee"
+                    ]
+                }
+            }
+        }
+    }
+}
