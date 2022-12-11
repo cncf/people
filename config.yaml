@@ -1,0 +1,18 @@
+organization: cncf
+repository_defaults:
+  has_wiki: false
+teams:
+- name: projects
+  members:
+    - amye
+  maintainers:
+    - jeefy
+  displayName: CNCF Projects Team
+  secret: false
+  slack: false
+repositories:
+- name: foundation
+  teams:
+    projects: admin
+  external_collaborators:
+    amye: admin
