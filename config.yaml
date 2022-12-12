@@ -934,11 +934,66 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
-- name: projects
+- name: cncf-projects
   members:
     - amye
   maintainers:
     - jeefy
   displayName: CNCF Projects Team
   secret: false
-  slack: cncf-projects
+#- name: ambassadors
+#- name: awards-maintainers
+#- name: bvs-team
+#- name: cncf-ci-working-group
+#  displayName: CNCF CI Working Group
+#- name: cncf-contractors
+#  displayName: CNCF Contractors
+#- name: cncf-member-developers
+#  displayName: CNCF Member Developers
+#- name: cncf-movie-planning
+#  displayName: CNCF Movie planning
+#- name: cncf-networking-wg
+#  displayName: CNCF Networking WG
+#- name: cncf-sig-storage
+#  displayName: CNCF SIG Storage
+#- name: cncf-staff
+#  displayName: CNCF Staff
+#- name: cncf-tag-observability
+#  displayName: CNCF TAG Observability
+#- name: cncf-images
+#- name: cncf-serverless-wg
+#- name: cnf-test-suite-developers
+#  displayName: CNF Test Suite Developers
+#- name: cnf-conformance
+#- name: cnf-testbed
+#- name: cnf-wg-reviewers
+#- name: endusers
+#- name: financial-user-group
+#- name: gitvote-tests
+#- name: glossary-maintainers
+#- name: gsoc-2017-mentors
+#- name: gsoc-2018-mentors
+#- name: k8s-conformance
+#  displayName: Kubernetes Conformance
+#- name: kcd-maintainers
+#- name: kubernetes-conformance-team
+#- name: landscape-developers
+#  displayName: Landscape Developers
+#- name: landscape-graph-contrib
+#- name: landscape-graph-leads
+#- name: presentation-maintainers
+#- name: research-user-group-maintainers
+#  displayName: Research User Group maintainers
+#- name: serverless-workflow-owners
+#- name: servicebroker-team
+#- name: sig-contributor-strategy
+#  displayName: SIG Contributor Strategy
+#- name: sig-security-github-admin
+#- name: sig-security-triage
+#- name: tag-observability-contrib
+#- name: tag-security
+#- name: telecom-user-group
+#- name: toc
+#- name: wordpress
+#  displayName: Wordpress
+#- name: xds-wg
