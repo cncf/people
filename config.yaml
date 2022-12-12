@@ -1,4 +1,936 @@
 organization: cncf
+repositories:
+  - name: .github
+    settings:
+      has_wiki: true
+  - name: ambassadors
+  - external_collaborators:
+      stevenphtan: admin
+    name: api
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      BobyMCbobs: admin
+      Riaankl: maintain
+      RobertKielty: admin
+      amwat: admin
+      bernokl: maintain
+      cncf-ci: admin
+      devaips: read
+      heyste: write
+      hh: admin
+      k8s-ci-robot: admin
+      mgdevstack: read
+      olivercodes: write
+      spiffxp: admin
+      zachmandeville: admin
+    name: apisnoop
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: apisnoopregexp
+    settings:
+      has_wiki: true
+  - name: artwork
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      idvoretskyi: admin
+    name: awards
+  - external_collaborators:
+      cynthia-sg: admin
+      tegioz: admin
+    name: banners
+    visibility: private
+  - external_collaborators:
+      kwussow: admin
+    name: business-value
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      Deep-Cyber: admin
+      daniellemcook: admin
+      oicheryl: admin
+      onlydole: admin
+      siforster: admin
+      xmulligan: admin
+    name: cartografos
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      amye: admin
+      ksatchit: maintain
+    name: chaosengineering-wg
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      cjyabraham: admin
+    name: china-video-block
+    settings:
+      has_wiki: true
+  - name: cla
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      caniszczyk: admin
+      cynthia-sg: admin
+      tegioz: admin
+    name: clomonitor
+  - external_collaborators:
+      cjyabraham: admin
+    name: clone-page-tree
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      cynthia-sg: admin
+      tegioz: admin
+    name: clotributor
+  - external_collaborators:
+      thomcrowe: write
+      zoe-packet: write
+    name: cloud-native-community-cookbook
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lucperkins: admin
+    name: cloud-native-days
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      InAnimaTe: maintain
+      KTan1226: read
+      TimBanks: maintain
+      alexcontini: write
+      alisondy: admin
+      amye: admin
+      chris-short: read
+      ctorbin: read
+      dmueller2001: write
+      idvoretskyi: write
+      jeefy: admin
+      kaslin: maintain
+      katcosgrove: admin
+      kunal-kushwaha: maintain
+      mattstratton: maintain
+      mauilion: maintain
+      mrbobbytables: read
+      murillodigital: maintain
+      nelliesnoodles: write
+      onlydole: admin
+      paulczar: maintain
+      pritianka: admin
+      rawkode: admin
+      saiyam1814: maintain
+      xmulligan: admin
+    name: cloudnativetv
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      idvoretskyi: admin
+      vielmetti: maintain
+    name: cluster
+  - external_collaborators:
+      celestehorgan: admin
+      nate-double-u: admin
+      zacharysarah: admin
+    name: cncf-branding
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AdamKorcz: maintain
+      DavidKorczynski: admin
+      caniszczyk: admin
+    name: cncf-fuzzing
+  - external_collaborators:
+      Charley-Mann: maintain
+      GarethAcidWorks: write
+      LFCIBot: write
+      cjyabraham: admin
+      thetwopct: maintain
+    name: cncf.io
+  - external_collaborators:
+      HashNuke: write
+      KTan1226: write
+      agentpoyo: maintain
+      amye: admin
+      caniszczyk: admin
+      denverwilliams: write
+      jeffsaelens: read
+      lixuna: admin
+      pritianka: admin
+      taylor: admin
+      tomkivlin: read
+      wavell: write
+      williscool: triage
+    name: cnf-certification
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      Snergster: read
+      bvera: read
+      denverwilliams: admin
+      edwarnicke: write
+      electrocucaracha: write
+      linkous8: read
+      lixuna: admin
+      mackonstan: write
+      michaelspedersen: write
+      nickolaev: write
+      pmikus: write
+      robertstarmer: read
+      rsiekmann: write
+      taylor: admin
+      wavell: write
+    name: cnf-testbed
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      HashNuke: admin
+      agentpoyo: admin
+      cayu53: read
+      denverwilliams: admin
+      electrocucaracha: read
+      jeffsaelens: read
+      lixuna: admin
+      michaelspedersen: write
+      monadic: read
+      nickolaev: write
+      nupejosh: admin
+      rabi-abdel: read
+      rabiabdel: read
+      taylor: admin
+      tomkivlin: read
+      uditgaurav: write
+      wavell: admin
+      williscool: maintain
+      xmulligan: read
+    name: cnf-testsuite
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      CsatariGergely: read
+      Smitholi67: read
+      TamasZsiros: read
+      agentpoyo: read
+      akapadiaaarna: read
+      bryanl: read
+      claudiobartolini: read
+      denverwilliams: read
+      electrocucaracha: write
+      fkautz: triage
+      gchurcher-matrixx: read
+      gupta-alok: read
+      iawells: write
+      ildikov: triage
+      jeffsaelens: write
+      lixuna: admin
+      mardim91: read
+      michaelspedersen: read
+      nickolaev: read
+      pgoyal01: read
+      rabi-abdel: read
+      rannyh: read
+      rich-l: read
+      robert-hillier: read
+      sishbi: read
+      slashben: read
+      taylor: admin
+      tliron: read
+      tomkivlin: write
+      v1k0d3n: read
+      vukg: triage
+      wavell: write
+      williscool: triage
+      xmulligan: admin
+    name: cnf-wg
+    settings:
+      has_wiki: true
+  - name: communitygroups
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      carolynvs: write
+      geekygirldawn: write
+      idvoretskyi: admin
+      jberkus: write
+      mrbobbytables: write
+      thetwopct: write
+    name: contribute
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: contributors-world-map
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: count_kw
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      BobyMCbobs: admin
+      hh: admin
+      idvoretskyi: admin
+    name: credits
+  - external_collaborators:
+      caniszczyk: admin
+      jbw976: write
+    name: crossplane-conformance
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      caitmulholland: write
+      lizkline: write
+      zuzannapn: write
+    name: curriculum
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: da-patroni
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      idvoretskyi: admin
+    name: dcochecker
+    settings:
+      has_wiki: true
+  - name: demo
+    settings:
+      has_wiki: true
+  - name: dev-affiliations
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      Phillels: admin
+      jberkus: admin
+      lukaszgryglicki: admin
+    name: devstats
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-docker-images
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-docker-lf
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-example
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-helm
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-helm-example
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-helm-graphql
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-helm-lf
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-k8s-lf
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-kubernetes-dashboard
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstats-reports
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      austbot: admin
+    name: devstats-website
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: devstatscode
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      chalin: admin
+      nate-double-u: maintain
+    name: docsy
+  - external_collaborators:
+      Charley-Mann: write
+      abuango: maintain
+    name: ecosystem
+    settings:
+      has_wiki: true
+    visibility: private
+  - external_collaborators:
+      Swil78: admin
+      amye: admin
+      idvoretskyi: write
+      onlydole: admin
+      taylorwaggoner: admin
+    name: enduser
+    visibility: private
+  - name: enduser-public
+  - external_collaborators:
+      AndreyKozlov1984: write
+      alexkontsevoy: write
+      levbogusiewicz: write
+      mlomele: read
+    name: filterable-landscape
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      onlydole: admin
+    name: financial-user-group
+  - external_collaborators:
+      amye: admin
+      taylorwaggoner: admin
+    name: foundation
+  - external_collaborators:
+      lucperkins: admin
+    name: foundation-starter-kit
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: gitdm
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      cynthia-sg: admin
+      tegioz: admin
+    name: gitvote
+  - external_collaborators:
+      cynthia-sg: admin
+      tegioz: admin
+    name: gitvote-tests
+    visibility: private
+  - external_collaborators:
+      92nqb: write
+      AShabana: write
+      CathPag: maintain
+      DaveVentura: write
+      Eviekim: write
+      Garima-Negi: write
+      Giulia-dipietro: write
+      Imtiaz1234: write
+      Jacob953: write
+      JasonMorgan: admin
+      Krast76: write
+      Mouly22: write
+      MrErlison: write
+      Rocksnake: write
+      Saim-Safdar: write
+      Submarinee: write
+      TarekMSayed: write
+      annalisag-spark: write
+      anubha-v-ardhan: write
+      arezk84: write
+      bcubk: write
+      brunoguidone: write
+      caniszczyk: admin
+      edsoncelio: write
+      electrocucaracha: write
+      fsbaraglia: write
+      fydrah: write
+      hanyuancheung: write
+      huats: write
+      iamNoah1: maintain
+      ikramulkayes: write
+      jayesh-srivastava: write
+      jessicalins: write
+      jihoon-seo: maintain
+      krol3: write
+      meryem-ldn: read
+      mitul3737: write
+      raelga: write
+      same7ammar: write
+      sayantani11: write
+      seokho-son: admin
+      sistella: write
+      ugho16: write
+      waleed318: write
+      yunkon-kim: write
+    name: glossary
+  - external_collaborators:
+      halcyondude: admin
+    name: graph
+    settings:
+      has_wiki: true
+    visibility: private
+  - external_collaborators:
+      caniszczyk: admin
+      carolynvs: write
+      chalin: admin
+      halcyondude: admin
+      jeefy: admin
+      nate-double-u: admin
+      sftim: admin
+    name: graph.cncf.io
+    settings:
+      has_wiki: true
+    visibility: private
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: hnanalysis
+    settings:
+      has_wiki: true
+  - name: hnscraping
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      caniszczyk: admin
+      celestehorgan: admin
+      chalin: admin
+      nate-double-u: admin
+      sftim: admin
+    name: hugo-netlify-starter
+  - name: images
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      dankohn: admin
+    name: jp-translations
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      BobyMCbobs: maintain
+      Riaankl: maintain
+      cncf-ci: admin
+    name: k8s-conformance
+  - external_collaborators:
+      AudMonte01: admin
+    name: kubernetes-community-days
+  - name: landscape
+  - name: landscape-archive
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      halcyondude: admin
+    name: landscape-graph
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AndreyKozlov1984: maintain
+    name: landscapeapp
+  - external_collaborators:
+      jordinl: admin
+    name: lf-landscapes
+    settings:
+      has_wiki: true
+  - name: memorials
+  - external_collaborators:
+      CathPag: maintain
+      Riaankl: maintain
+      amye: admin
+      caniszczyk: admin
+      carolynvs: maintain
+      idvoretskyi: admin
+      jaytiaki: maintain
+      jberkus: maintain
+      jeefy: admin
+      nate-double-u: admin
+      thisisobate: maintain
+    name: mentoring
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: merge-sh-dbs
+    settings:
+      has_wiki: true
+  - name: multi-cloud-provisioner
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      jordinl: admin
+    name: next.js
+  - external_collaborators:
+      AndreyKozlov1984: read
+      gcid12: admin
+    name: obsolete-interactive-landscape
+  - external_collaborators:
+      denverwilliams: write
+      edwarnicke: write
+      lixuna: admin
+      taylor: admin
+    name: onap-demo
+    settings:
+      has_wiki: true
+  - name: parallel-netlify-builds
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      amye: admin
+      idvoretskyi: maintain
+      thetwopct: maintain
+    name: people
+    settings:
+      has_wiki: true
+  - name: presentations
+  - external_collaborators:
+      caniszczyk: admin
+      carolynvs: admin
+      dims: write
+      geekygirldawn: write
+      idvoretskyi: admin
+      iennae: write
+      jberkus: admin
+      justaugustus: admin
+      karenhchu: write
+      kgamanji: write
+      mattfarina: write
+      mattklein123: write
+      parispittman: admin
+    name: project-template
+  - name: prometheus-conformance
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      jordinl: write
+      kgamanji: write
+      oicheryl: admin
+      onlydole: admin
+    name: radar
+  - external_collaborators:
+      jimbobby5: admin
+      oicheryl: admin
+      rochaporto: admin
+      soheilade: read
+    name: research-user-group
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      TheFoxAtWork: maintain
+    name: sandbox
+    settings:
+      has_wiki: true
+  - name: serverless-landscape
+  - name: servicedesk
+  - external_collaborators:
+      KimMcMahon: admin
+    name: sfdc
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      thetwopct: admin
+    name: shopify-theme
+  - external_collaborators:
+      lucperkins: admin
+    name: sig-security-events
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      lucperkins: admin
+    name: site-boilerplate
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      KTan1226: admin
+      amye: admin
+      flanets: triage
+      hh: triage
+      idvoretskyi: admin
+      jacmathew: triage
+      kunal-kushwaha: maintain
+      oicheryl: admin
+      pritianka: admin
+      saiyam1814: read
+      sajitss: triage
+      savitharaghunathan: triage
+      sergioarmgpl: triage
+      xmulligan: admin
+    name: students
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      idvoretskyi: admin
+      onlydole: admin
+    name: surveys
+  - external_collaborators:
+      AndreyKozlov1984: maintain
+    name: svg-autocrop
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AndreyKozlov1984: admin
+    name: svg-autocrop-serverless
+    settings:
+      has_wiki: true
+  - name: svg-website
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AlexsJones: admin
+      AloisReitbauer: admin
+      Jenniferstrej: admin
+      hongchaodeng: admin
+      joshgav: write
+      resouer: admin
+      roberthstrand: write
+      scottrigby: write
+      thschue: admin
+    name: tag-app-delivery
+  - external_collaborators:
+      CathPag: admin
+      LFCIBot: write
+      SaraTrap: write
+      amye: admin
+      caniszczyk: admin
+      carolynvs: admin
+      cathyhongzhang: write
+      dims: write
+      geekygirldawn: admin
+      hh: write
+      iennae: write
+      jaytiaki: write
+      jberkus: admin
+      juliasimon: write
+      justaugustus: maintain
+      karenhchu: write
+      kgamanji: write
+      mattfarina: write
+      mattklein123: write
+      mrbobbytables: write
+      nate-double-u: write
+      parispittman: maintain
+      thisisnotapril: write
+    name: tag-contributor-strategy
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      catblade: admin
+      leonardpahlke: admin
+      mkorbi: admin
+      nikimanoledaki: maintain
+    name: tag-env-sustainability
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      dzolotusky: admin
+      kenowens12: admin
+      leecalcote: admin
+      lizrice: admin
+    name: tag-network
+  - external_collaborators:
+      RichiH: admin
+      alolita: admin
+      bwplotka: maintain
+      cdavisafc: admin
+      dominick-blue: write
+      halcyondude: admin
+      henrikrexed: write
+      kenfinnigan: write
+      mhausenblas: write
+      resouer: admin
+    name: tag-observability
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      alena1108: admin
+      dims: admin
+      quinton-hoole: admin
+      raravena80: admin
+      rochaporto: admin
+    name: tag-runtime
+  - external_collaborators:
+      JustinCappos: write
+      PushkarJ: write
+      SantiagoTorres: write
+      TheFoxAtWork: write
+      achetal01: admin
+      anvega: write
+      ashutosh-narkar: write
+      dshaw: write
+      justincormack: write
+      lumjjb: write
+      mlieberman85: write
+      mnm678: write
+      pragashj: admin
+      ragashreeshekar: write
+      sublimino: admin
+      ultrasaurus: write
+    name: tag-security
+  - external_collaborators:
+      chira001: admin
+      saad-ali: admin
+      sougou: admin
+      xing-yang: admin
+    name: tag-storage
+  - external_collaborators:
+      amye: admin
+      caniszczyk: admin
+      chalin: maintain
+      idvoretskyi: maintain
+      nate-double-u: admin
+      thisisobate: maintain
+    name: techdocs
+  - external_collaborators:
+      ASalkever: write
+      dabernie: read
+      dankohn: admin
+      denverwilliams: read
+      jeffsaelens: read
+      lixuna: maintain
+      nickolaev: read
+      onlydole: admin
+      taylor: admin
+      tomkivlin: read
+      wavell: triage
+      xmulligan: admin
+    name: telecom-user-group
+  - external_collaborators:
+      agentpoyo: maintain
+      denverwilliams: admin
+      wavell: maintain
+    name: testsuite-infra
+    settings:
+      has_wiki: true
+    visibility: private
+  - name: toc
+  - external_collaborators:
+      AndreyKozlov1984: admin
+    name: trailmap
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AlenversFr: maintain
+      onlydole: admin
+      riffingonsoftware: maintain
+    name: transportation-user-group
+    settings:
+      has_wiki: true
+    visibility: private
+  - external_collaborators:
+      htuch: admin
+      lizan: write
+      markdroth: maintain
+      mattklein123: maintain
+    name: udpa
+  - external_collaborators:
+      lukaszgryglicki: admin
+    name: velocity
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AndreyKozlov1984: admin
+    name: web-landscape
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      jordinl: admin
+    name: website
+    settings:
+      has_wiki: true
+  - name: wg-ci
+  - external_collaborators:
+      alena1108: maintain
+      amye: admin
+      anvega: maintain
+      arun-gupta: maintain
+      caniszczyk: admin
+      cblecker: maintain
+      dims: maintain
+      joannalee333: maintain
+      mattfarina: maintain
+    name: wg-coc
+  - name: wg-networking
+  - external_collaborators:
+      cathyhongzhang: write
+      ruromero: write
+      tsurdilo: write
+    name: wg-serverless
+  - external_collaborators:
+      KimMcMahon: admin
+      dankohn: admin
+      kuldeepyadav: write
+    name: wordpress-site
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      AndreyKozlov1984: write
+      AudMonte01: write
+      Charley-Mann: write
+      DLEEBOLAR: maintain
+      DPalilonis: write
+      GarethAcidWorks: write
+      KTan1226: maintain
+      Riaankl: write
+      Swil78: write
+      ThabangMash: admin
+      abuango: admin
+      amye: admin
+      angomustee: maintain
+      arieljatib: write
+      chalin: write
+      cjyabraham: admin
+      ctorbin: write
+      cynthia-sg: write
+      dplanella: write
+      hh: write
+      idvoretskyi: write
+      jamesgrafas: write
+      jaytiaki: write
+      jeefy: admin
+      joannalee333: write
+      k8tgreenley: write
+      libbyschulze: write
+      lixuna: write
+      lukaszgryglicki: write
+      motunrayoalake: maintain
+      nate-double-u: write
+      onlydole: admin
+      phlax: write
+      poconnor1: admin
+      pritianka: admin
+      taylor: write
+      taylorwaggoner: admin
+      tegioz: write
+      thetwopct: write
+      tinmatienzo: write
+      vheric: maintain
+    name: workflow
+    settings:
+      has_wiki: true
+    visibility: private
+  - external_collaborators:
+      thetwopct: write
+    name: wp-mu-plugins
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      thetwopct: write
+    name: wp-svg-autocrop
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      htuch: admin
+      lizan: admin
+      markdroth: maintain
+      mattklein123: admin
+    name: xds
+  - external_collaborators:
+      dankohn: admin
+    name: y2c
 repository_defaults:
   has_wiki: false
 teams:
@@ -9,10 +941,4 @@ teams:
     - jeefy
   displayName: CNCF Projects Team
   secret: false
-  slack: false
-repositories:
-- name: foundation
-  teams:
-    projects: admin
-  external_collaborators:
-    amye: admin
+  slack: cncf-projects
