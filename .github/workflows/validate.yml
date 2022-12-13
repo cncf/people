@@ -12,3 +12,22 @@ jobs:
         env:
           INPUT_SCHEMA: /schema.json
           INPUT_JSONS: /people.json
+  verify-config-yaml:
+    runs-on: ubuntu-latest
+    env:
+      SHERIFF_IMPORTANT_BRANCH: main
+      SHERIFF_PLUGINS: cncfSlack
+      PERMISSIONS_FILE_ORG: cncf
+      PERMISSIONS_FILE_REPO: people
+      PR_FILE_ORG: ${{ github.actor }}
+      PR_FILE_REPO: ${GITHUB_REPOSITORY#*/}
+      PR_FILE_REF: ${{ github.ref_name }}
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      SHERIFF_GITHUB_APP_CREDS: ${{ secrets.SHERIFF_GITHUB_APP_CREDS }}
+      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      GSUITE_CREDENTIALS: ${{ secrets.GSUITE_CREDENTIALS }}
+    container:
+      image: us.gcr.io/cncf-slack-infra/sheriff/sheriff:cncf-slack-plugin
+    steps:
+      - name: Do a dry-run with Sheriff to validate configs and output changes
+        run: node lib/permissions/run.js
