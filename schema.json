@@ -16,7 +16,7 @@
             "youtube":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "priority":  {"anyOf": [ { "maxLength": 0 }, { "type": "number"  } ] },
             "image":     {"type": "string"},
-            "email":     {"type": "string", "format": "email"},
+            "email":     {"type": "string", "pattern": "^[^\\s@]+\\![^\\s@]+\\.[^\\s@]+$"},
             "slack_id":  {"type": "string"},
             "category": {
                 "type": "array",
