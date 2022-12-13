@@ -941,6 +941,7 @@ teams:
     - jeefy
   displayName: CNCF Projects Team
   secret: false
+  slack: true
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
