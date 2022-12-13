@@ -30,6 +30,12 @@
                         "Technical Oversight Committee"
                     ]
                 }
+            },
+            "maintainer": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
             }
         }
     }
