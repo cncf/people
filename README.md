@@ -26,6 +26,8 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "languages":[Array of languages spoken],
         "projects":[Array of CNCF projects of expertise],
         "category":[Array of categories the person belongs to],
+        "email": "person!example.com",
+        "slack_id": "U123ABC456",
         "image":"Image filename from the /images/ directory"
     }
 ```
@@ -49,6 +51,8 @@ And here is an example entry:
         "languages":["Spanish","English"],
         "projects":["prometheus","kubernetes","envoy"],
         "category":["Ambassadors"],
+        "email": "johnny!example.com",
+        "slack_id": "U123ABC456",
         "image":"jappleseed.jpg"
     }
 ```
@@ -56,3 +60,14 @@ And here is an example entry:
 ## Images
 
 Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
+
+## Team Management
+
+Also within this repo is a YAML file used by our [automation tooling](https://github.com/electronjs/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle. 
+
+* To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
+
+* When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
+  ```
+  email!address.xyz
+  ```
