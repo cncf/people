@@ -519,19 +519,30 @@ repositories:
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
+      ar4mirez: write
+      dagoshe: write
+      halil-bugol: write
     name: kubernetes-community-days
   - name: landscape
+    teams:
+      Landscapers: read
   - name: landscape-archive
     settings:
       has_wiki: true
+    teams:
+      Landscapers: read
   - external_collaborators:
       halcyondude: admin
     name: landscape-graph
     settings:
       has_wiki: true
+    teams:
+      Landscapers: read
   - external_collaborators:
       AndreyKozlov1984: maintain
     name: landscapeapp
+    teams:
+      Landscapers: read
   - external_collaborators:
       jordinl: admin
     name: lf-landscapes
@@ -819,7 +830,6 @@ repositories:
     name: transportation-user-group
     settings:
       has_wiki: true
-    visibility: private
   - external_collaborators:
       htuch: admin
       lizan: write
@@ -934,14 +944,20 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
-- name: cncf-projects
-  members:
-    - amye
-  maintainers:
-    - jeefy
-  displayName: CNCF Projects Team
-  secret: false
-  slack: true
+  - maintainers:
+      - AndreyKozlov1984
+      - jeefy
+    members:
+      - CNCF-Bot
+    name: Landscapers
+  - name: cncf-projects
+    members:
+      - amye
+    maintainers:
+      - jeefy
+    displayName: CNCF Projects Team
+    secret: false
+    slack: true
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
