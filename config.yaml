@@ -131,9 +131,7 @@ repositories:
       vielmetti: maintain
     name: cluster
   - external_collaborators:
-      celestehorgan: admin
       nate-double-u: admin
-      zacharysarah: admin
     name: cncf-branding
     settings:
       has_wiki: true
@@ -499,7 +497,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       caniszczyk: admin
-      celestehorgan: admin
       chalin: admin
       nate-double-u: admin
       sftim: admin
@@ -508,7 +505,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      dankohn: admin
     name: jp-translations
     settings:
       has_wiki: true
@@ -635,9 +631,7 @@ repositories:
       has_wiki: true
   - name: serverless-landscape
   - name: servicedesk
-  - external_collaborators:
-      KimMcMahon: admin
-    name: sfdc
+  - name: sfdc
     settings:
       has_wiki: true
   - external_collaborators:
@@ -798,7 +792,6 @@ repositories:
   - external_collaborators:
       ASalkever: write
       dabernie: read
-      dankohn: admin
       denverwilliams: read
       jeffsaelens: read
       lixuna: maintain
@@ -870,8 +863,6 @@ repositories:
       tsurdilo: write
     name: wg-serverless
   - external_collaborators:
-      KimMcMahon: admin
-      dankohn: admin
       kuldeepyadav: write
     name: wordpress-site
     settings:
@@ -938,9 +929,7 @@ repositories:
       markdroth: maintain
       mattklein123: admin
     name: xds
-  - external_collaborators:
-      dankohn: admin
-    name: y2c
+  - name: y2c
 repository_defaults:
   has_wiki: false
 teams:
