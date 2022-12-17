@@ -33,6 +33,8 @@ repositories:
     settings:
       has_wiki: true
   - name: artwork
+    teams:
+      Landscapers: write
   - external_collaborators:
       amye: admin
       caniszczyk: admin
@@ -304,68 +306,71 @@ repositories:
   - external_collaborators:
       Phillels: admin
       jberkus: admin
-      lukaszgryglicki: admin
     name: devstats
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
+  - teams:
+      devstats-admins: admin
     name: devstats-docker-images
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-docker-lf
+  - name: devstats-docker-lf
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-example
+  - name: devstats-example
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-helm
+  - name: devstats-helm
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-helm-example
+  - name: devstats-helm-example
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-helm-graphql
+  - name: devstats-helm-graphql
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-helm-lf
+  - name: devstats-helm-lf
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-k8s-lf
+  - name: devstats-k8s-lf
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-kubernetes-dashboard
+  - name: devstats-kubernetes-dashboard
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstats-reports
+  - name: devstats-reports
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
   - external_collaborators:
       austbot: admin
+    teams:
+      devstats-admins: admin
     name: devstats-website
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
-    name: devstatscode
+  - name: devstatscode
+    teams:
+      devstats-admins: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -389,11 +394,12 @@ repositories:
     visibility: private
   - name: enduser-public
   - external_collaborators:
-      AndreyKozlov1984: write
       alexkontsevoy: write
       levbogusiewicz: write
       mlomele: read
     name: filterable-landscape
+    teams:
+      Landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -408,8 +414,8 @@ repositories:
     name: foundation-starter-kit
     settings:
       has_wiki: true
-  - external_collaborators:
-      lukaszgryglicki: admin
+  - teams:
+      devstats-admins: admin
     name: gitdm
     settings:
       has_wiki: true
@@ -487,12 +493,14 @@ repositories:
     settings:
       has_wiki: true
     visibility: private
-  - external_collaborators:
-      lukaszgryglicki: admin
+  - teams:
+      Landscapers: admin
     name: hnanalysis
     settings:
       has_wiki: true
   - name: hnscraping
+    teams:
+      Landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -504,8 +512,7 @@ repositories:
   - name: images
     settings:
       has_wiki: true
-  - external_collaborators:
-    name: jp-translations
+  - name: jp-translations
     settings:
       has_wiki: true
   - external_collaborators:
@@ -521,29 +528,29 @@ repositories:
     name: kubernetes-community-days
   - name: landscape
     teams:
-      Landscapers: read
+      Landscapers: admin
   - name: landscape-archive
     settings:
       has_wiki: true
     teams:
-      Landscapers: read
+      Landscapers: admin
   - external_collaborators:
       halcyondude: admin
     name: landscape-graph
     settings:
       has_wiki: true
     teams:
-      Landscapers: read
-  - external_collaborators:
-      AndreyKozlov1984: maintain
-    name: landscapeapp
+      Landscapers: admin
+  - name: landscapeapp
     teams:
-      Landscapers: read
+      Landscapers: admin
   - external_collaborators:
       jordinl: admin
     name: lf-landscapes
     settings:
       has_wiki: true
+    teams:
+      Landscapers: admin
   - name: memorials
   - external_collaborators:
       CathPag: maintain
@@ -570,9 +577,10 @@ repositories:
       jordinl: admin
     name: next.js
   - external_collaborators:
-      AndreyKozlov1984: read
       gcid12: admin
     name: obsolete-interactive-landscape
+    teams:
+      Landscapers: admin
   - external_collaborators:
       denverwilliams: write
       edwarnicke: write
@@ -630,6 +638,8 @@ repositories:
     settings:
       has_wiki: true
   - name: serverless-landscape
+    teams:
+      Landscapers: admin
   - name: servicedesk
   - name: sfdc
     settings:
@@ -811,8 +821,10 @@ repositories:
       has_wiki: true
     visibility: private
   - name: toc
-  - external_collaborators:
-      AndreyKozlov1984: admin
+    teams:
+      Landscapers: write
+  - teams:
+      Landscapers: admin
     name: trailmap
     settings:
       has_wiki: true
@@ -829,13 +841,13 @@ repositories:
       markdroth: maintain
       mattklein123: maintain
     name: udpa
-  - external_collaborators:
-      lukaszgryglicki: admin
+  - teams:
+      devstats-admins: admin
     name: velocity
     settings:
       has_wiki: true
-  - external_collaborators:
-      AndreyKozlov1984: admin
+  - teams:
+      Landscapers: admin
     name: web-landscape
     settings:
       has_wiki: true
@@ -933,10 +945,17 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
-  - maintainers:
-      - AndreyKozlov1984
+  - name: devstats-admins
+    maintainers:
       - jeefy
     members:
+      - AndreyKozlov1984
+      - lukaszgryglicki
+  - maintainers:
+      - jeefy
+    members:
+      - AndreyKozlov1984
+      - lukaszgryglicki
       - CNCF-Bot
     name: Landscapers
   - name: cncf-projects
