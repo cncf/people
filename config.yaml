@@ -526,6 +526,8 @@ repositories:
   - name: landscape
     teams:
       Landscapers: admin
+    external_collaborators:
+      Swil78: write
   - name: landscape-archive
     settings:
       has_wiki: true
