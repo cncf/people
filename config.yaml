@@ -40,9 +40,8 @@ repositories:
       caniszczyk: admin
       idvoretskyi: admin
     name: awards
-  - external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+  - teams:
+      clo-admins: admin
     name: banners
     visibility: private
   - external_collaborators:
@@ -74,19 +73,19 @@ repositories:
   - name: cla
     settings:
       has_wiki: true
-  - external_collaborators:
-      caniszczyk: admin
-      cynthia-sg: admin
-      tegioz: admin
+  - teams:
+      clo-admins: admin
     name: clomonitor
+  - teams:
+      clo-admins: admin
+    name: clo-ui
   - external_collaborators:
       cjyabraham: admin
     name: clone-page-tree
     settings:
       has_wiki: true
-  - external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+  - teams:
+      clo-admins: admin
     name: clotributor
   - external_collaborators:
       thomcrowe: write
@@ -419,13 +418,11 @@ repositories:
     name: gitdm
     settings:
       has_wiki: true
-  - external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+  - teams:
+      clo-admins: admin
     name: gitvote
-  - external_collaborators:
-      cynthia-sg: admin
-      tegioz: admin
+  - teams:
+      clo-admins: admin
     name: gitvote-tests
     visibility: private
   - external_collaborators:
@@ -958,6 +955,12 @@ teams:
       - lukaszgryglicki
       - CNCF-Bot
     name: Landscapers
+  - name: clo-admins
+    members:
+      - tegioz
+      - cynthia-sg
+    maintainers:
+      - jeefy
   - name: cncf-projects
     members:
       - amye
