@@ -934,16 +934,20 @@ repositories:
     name: wp-svg-autocrop
     settings:
       has_wiki: true
-  - external_collaborators:
-      htuch: admin
-      lizan: admin
-      markdroth: maintain
-      mattklein123: admin
-    name: xds
+  - name: xds
+    teams:
+      envoy: admin
   - name: y2c
 repository_defaults:
   has_wiki: false
 teams:
+  - name: envoy
+    maintainers:
+      - htuch
+      - lizan
+      - markdroth
+      - mattklein123
+      - adisuissa
   - name: devstats-admins
     maintainers:
       - jeefy
