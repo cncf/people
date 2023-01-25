@@ -276,7 +276,7 @@
       "wechat":"",
       "website":"",
       "location":"New York, United States",
-      "projects":["kubernetes"],      
+      "projects":["kubernetes"],
       "youtube":"https://www.youtube.com/channel/UCTx3SceONcstRA11JNJu_PA",
       "priority":"",
       "languages":["Spanish","English"],
@@ -482,7 +482,7 @@
       "wechat":"",
       "website":"",
       "location":"Wellington, New Zealand",
-      "projects":["Kubernetes", "Envoy", "NATS", "Kafka"],      
+      "projects":["Kubernetes", "Envoy", "NATS", "Kafka"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -502,7 +502,7 @@
       "website":"https://mrbobbytabl.es",
       "youtube":"",
       "location":"Minneapolis, MN, United States",
-      "projects":["Kubernetes", "Prometheus"],      
+      "projects":["Kubernetes", "Prometheus"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -570,7 +570,7 @@
       "wechat":"",
       "website":"",
       "location":"San Diego, CA, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -606,7 +606,7 @@
       "wechat":"",
       "website":"",
       "location":"California, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -691,7 +691,7 @@
       "wechat":"",
       "website":"",
       "location":"Mississippi, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -729,7 +729,7 @@
       "website":"",
       "youtube":"",
       "location":"Berlin, Germany",
-      "projects":["Kubernetes", "rkt"],      
+      "projects":["Kubernetes", "rkt"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -782,7 +782,7 @@
       "github":"https://github.com/chrisz100",
       "wechat":"",
       "website":"",
-      "projects":["Kubernetes", "Envoy"],      
+      "projects":["Kubernetes", "Envoy"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -793,8 +793,8 @@
    {
       "name":"Christoph Blecker",
       "bio":"Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog in Kelowna, British Columbia, Canada.",
-      "company":"Red Hat",
-      "pronouns":"",
+      "company":"Red Hat (Kubernetes Rep)",
+      "pronouns":"He/Him",
       "linkedin":"https://www.linkedin.com/in/cblecker",
       "twitter":"https://twitter.com/tophee",
       "github":"https://github.com/cblecker",
@@ -930,7 +930,7 @@
       "wechat":"",
       "website":"",
       "location":"Boston, MA, United States",
-      "projects":["Kubernetes", "Helm", "Cloudevents"],  
+      "projects":["Kubernetes", "Helm", "Cloudevents"],
       "languages":["English"],
       "youtube":"",
       "priority":"",
@@ -996,7 +996,7 @@
       "location": "Scotland, UK",
       "company":"Pulumi",
       "pronouns":"He/Him",
-      "projects":["Kubernetes"],  
+      "projects":["Kubernetes"],
       "languages":["English"],
       "linkedin":"https://uk.linkedin.com/in/rawkode",
       "twitter":"https://twitter.com/rawkode",
@@ -1036,7 +1036,7 @@
       "wechat":"",
       "website":"",
       "location":"Vancouver, BC, Canada",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1073,7 +1073,7 @@
       "github":"",
       "wechat":"",
       "location":"Boston, United States",
-      "projects":["Kubernetes", "Prometheus", "Envoy", "Jaeger"],      
+      "projects":["Kubernetes", "Prometheus", "Envoy", "Jaeger"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -1158,7 +1158,7 @@
       "website":"",
       "youtube":"",
       "location":"San Francisco, CA, United States",
-      "projects":["Kubernetes", "Cilium"],  
+      "projects":["Kubernetes", "Cilium"],
       "languages":["English"],
       "priority":"",
       "category":[
@@ -1326,7 +1326,7 @@
       "wechat":"",
       "website":"",
       "location":"Berlin, Germany",
-      "projects":["Kubernetes", "Prometheus"],      
+      "projects":["Kubernetes", "Prometheus"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1346,7 +1346,7 @@
       "website":"",
       "youtube":"",
       "location":"China",
-      "projects":["Kubernetes", "Harbor", "Service Mesh"],      
+      "projects":["Kubernetes", "Harbor", "Service Mesh"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1492,7 +1492,7 @@
       "wechat":"",
       "website":"",
       "location":"Seoul, South Korea",
-      "projects":["Kubernetes", "Containerd", "etcd"],      
+      "projects":["Kubernetes", "Containerd", "etcd"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1529,7 +1529,7 @@
       "website":"",
       "youtube":"",
       "location":"Seoul, South Korea",
-      "projects":["Kubernetes", "Rook", "Helm"],      
+      "projects":["Kubernetes", "Rook", "Helm"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1584,7 +1584,7 @@
       "website":"",
       "youtube":"",
       "location":"Singapore",
-      "projects":["Kubernetes"],            
+      "projects":["Kubernetes"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1739,7 +1739,7 @@
       "website":"",
       "youtube":"",
       "location":"Telangana, India",
-      "projects":["kubernetes"],      
+      "projects":["kubernetes"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -1773,7 +1773,7 @@
       "website":"https://jeefy.dev",
       "youtube":"",
       "location":"Minneapolis, MN",
-      "projects":["Kubernetes", "Prometheus"],      
+      "projects":["Kubernetes", "Prometheus"],
       "priority":"",
       "category":[
          "Staff"
@@ -1827,7 +1827,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
-      "projects":["Kubernetes"],  
+      "projects":["Kubernetes"],
       "languages":["Swedish", "English"],
       "location":"Gothenburg, Sweden",
       "priority":"",
@@ -1846,7 +1846,7 @@
       "github":"https://github.com/jldeen",
       "wechat":"",
       "website":"",
-      "projects":["Kubernetes", "Helm"],      
+      "projects":["Kubernetes", "Helm"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1881,7 +1881,7 @@
       "github":"",
       "wechat":"",
       "location":"Beijing, China",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -1916,7 +1916,7 @@
       "wechat":"",
       "website":"",
       "location":"Beijing, China",
-      "projects":["Kubernetes", "CNI", "Helm"],      
+      "projects":["Kubernetes", "CNI", "Helm"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -1936,7 +1936,7 @@
       "website":"",
       "youtube":"",
       "location":"Pennsylvania, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "priority":"",
       "category":[
          "Ambassadors",
@@ -1970,9 +1970,9 @@
       "twitter":"https://twitter.com/JimmAngel",
       "github":"https://github.com/jimangel",
       "wechat":"",
-      "website":"",      
+      "website":"",
       "youtube":"",
-      "projects":["Kubernetes"],  
+      "projects":["Kubernetes"],
       "languages":["English"],
       "location":"Austin, United States",
       "priority":"",
@@ -2254,7 +2254,7 @@
       "wechat":"",
       "website":"",
       "location":"Topeka, Kansas, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2427,7 +2427,7 @@
       "wechat":"",
       "website":"",
       "location":"Tokyo, Japan",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2463,7 +2463,7 @@
       "wechat":"",
       "website":"",
       "location":"Hangzhou, China",
-      "projects":["Kubernetes", "KubeEdge", "Volcano"],      
+      "projects":["Kubernetes", "KubeEdge", "Volcano"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2497,7 +2497,7 @@
       "wechat":"",
       "website":"",
       "location":"Funabashi-city, Chiba-prefecture, Japan",
-      "projects":["Kubernetes"],  
+      "projects":["Kubernetes"],
       "languages":["Japanese", "English"],
       "youtube":"",
       "priority":"",
@@ -2535,7 +2535,7 @@
       "wechat":"",
       "website":"",
       "location":"Bengaluru Area, India",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2571,7 +2571,7 @@
       "wechat":"",
       "website":"https://bio.link/kunalk",
       "location":"London",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"https://www.youtube.com/KunalKushwaha",
       "priority":"",
       "category":[
@@ -2607,7 +2607,7 @@
       "github":"https://github.com/leecalcote",
       "wechat":"",
       "website":"",
-      "projects":["Kubernetes", "Prometheus", "Istio", "Linkerd", "Envoy", "Meshery", "Service Mesh Performance", "Service Mesh Interface"],      
+      "projects":["Kubernetes", "Prometheus", "Istio", "Linkerd", "Envoy", "Meshery", "Service Mesh Performance", "Service Mesh Interface"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2626,7 +2626,7 @@
       "wechat":"https://web.wechat.com/resouer",
       "website":"",
       "location":"",
-      "projects":["Kubernetes", "Containerd"],      
+      "projects":["Kubernetes", "Containerd"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2734,7 +2734,7 @@
       "wechat":"",
       "website":"",
       "location":"Iasi, Romania",
-      "projects":["Kubernetes", "GitOps", "Go"],      
+      "projects":["Kubernetes", "GitOps", "Go"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2753,7 +2753,7 @@
       "wechat":"",
       "website":"",
       "location":"China",
-      "projects":["Kubernetes", "Vitess", "ChubaoFS", "Prometheus", "Harbor"],      
+      "projects":["Kubernetes", "Vitess", "ChubaoFS", "Prometheus", "Harbor"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -2839,7 +2839,7 @@
       "website":"",
       "youtube":"",
       "location":"Michigan, United States",
-      "projects":["Kubernetes", "CoreDNS"],      
+      "projects":["Kubernetes", "CoreDNS"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -2906,7 +2906,7 @@
       "wechat":"",
       "website":"",
       "location":"Washington, United States",
-      "projects":["Kubernetes", "Prometheus", "Knative", "Istio", "CoreDNS", "Envoy", "fluentd", "containerd", "Harbor", "etcd", "Helm"],      
+      "projects":["Kubernetes", "Prometheus", "Knative", "Istio", "CoreDNS", "Envoy", "fluentd", "containerd", "Harbor", "etcd", "Helm"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3006,7 +3006,7 @@
       "wechat":"",
       "website":"",
       "location":"Germany",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3041,7 +3041,7 @@
       "github":"",
       "wechat":"",
       "location":"Oregon, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3263,7 +3263,7 @@
    {
       "name":"Paris Pittman",
       "bio":"Paris is a Program Manager at Apple working on internal and external cloud native community building. She started in Kubernetes as a everyday contributor in sig-contributor-experience and has held several roles in the upstream community. Now, Paris sits on the Kubernetes Steering Committee and co-chairs CNCF SIG-Contributor-Strategy, a group that she is passionate about for the scalability of the ecosystem.",
-      "company":"Apple (K8s Rep)",
+      "company":"Apple",
       "pronouns":"",
       "linkedin":"",
       "twitter":"https://twitter.com/ParisInBmore",
@@ -3273,8 +3273,7 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Ambassadors",
-         "Governing Board"
+         "Ambassadors"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/paris-1.jpg"
    },
@@ -3307,7 +3306,7 @@
       "website":"",
       "youtube":"",
       "location":"New York City, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -3373,7 +3372,7 @@
       "wechat":"",
       "website":"",
       "location":"Amsterdam, Netherlands",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3392,7 +3391,7 @@
       "wechat":"",
       "website":"",
       "location":"Vilnius, Lithuania",
-      "projects":["Prometheus", "Thanos", "Kubernetes"],      
+      "projects":["Prometheus", "Thanos", "Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3495,7 +3494,7 @@
       "github":"",
       "wechat":"",
       "location":"California, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3514,7 +3513,7 @@
       "github":"",
       "wechat":"",
       "location":"Paris, France",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "website":"",
       "youtube":"",
       "priority":"",
@@ -3549,7 +3548,7 @@
       "wechat":"",
       "website":"",
       "location":"Sao Paulo, Brazil",
-      "projects":["Kubernetes", "Harbor", "Prometheus"],      
+      "projects":["Kubernetes", "Harbor", "Prometheus"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3668,7 +3667,7 @@
       "wechat":"",
       "website":"",
       "location":"Sydney, Australia",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3772,7 +3771,7 @@
       "wechat":"",
       "website":"",
       "location":"North Carolina, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3806,7 +3805,7 @@
       "wechat":"",
       "website":"",
       "location":"California, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -3992,7 +3991,7 @@
       "wechat":"",
       "website":"",
       "location":"Vancouver, Canada",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -4028,7 +4027,7 @@
       "wechat":"",
       "website":"",
       "location":"North Carolina, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -4114,7 +4113,7 @@
       "wechat":"",
       "website":"",
       "location":"Tokyo, Japan",
-      "projects":["Kubernetes", "Prometheus"],      
+      "projects":["Kubernetes", "Prometheus"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -4293,7 +4292,7 @@
    {
       "name":"Tom Kerkhove",
       "bio":"<p>Tom is a Senior Software Engineer at Microsoft working on Azure API Management and is a CNCF Ambassador since 2020.<br>You can find him around on GitHub maintaining KEDA, Promitor, Kubernetes Event Grid Bridge &amp;  Azure Deprecation.</p><p>Previously he worked for Codit as an Azure Architect &amp;  containerization practice lead.</p><p>He is a strong believer&nbsp;of open-source and loves to share his work with others and contribute back to projects that he uses.</p>\n\n<p>He was recognized as a Microsoft Azure MVP &amp; Advisor from 2014 until 2021 and one of the first GitHub Stars since its launch.</p>\n\n<p>Tom turns coffee into scalable &amp; secure cloud systems and writes about his adventures on&nbsp;<a rel=\"noreferrer noopener\" href=\"http://blog.tomkerkhove.be/\" target=\"_blank\">blog.tomkerkhove.be</a>.</p>",
-      "company":"Microsoft",      
+      "company":"Microsoft",
       "location":"Bruges, Belgium",
       "pronouns":"",
       "linkedin":"https://be.linkedin.com/in/tomkerkhove",
@@ -4302,7 +4301,7 @@
       "wechat":"",
       "website":"https://blog.tomkerkhove.be/",
       "youtube":"",
-      "projects":["KEDA", "CloudEvents"],      
+      "projects":["KEDA", "CloudEvents"],
       "priority":"",
       "category":[
          "Ambassadors"
@@ -4391,7 +4390,7 @@
       "wechat":"",
       "website":"",
       "location":"San Francisco, United States",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
@@ -4478,7 +4477,7 @@
       "wechat":"",
       "website":"",
       "location":"China",
-      "projects":["Kubernetes"],      
+      "projects":["Kubernetes"],
       "youtube":"",
       "priority":"",
       "category":[
