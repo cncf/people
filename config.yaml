@@ -389,8 +389,9 @@ repositories:
       idvoretskyi: write
       onlydole: admin
       taylorwaggoner: admin
-    name: enduser
+  - name: enduser
     visibility: private
+    teams: cncf-end-users
   - name: enduser-public
   - external_collaborators:
       alexkontsevoy: write
