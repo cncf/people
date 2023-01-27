@@ -975,6 +975,13 @@ teams:
     displayName: CNCF Projects Team
     secret: false
     slack: true
+  - name: cncf-end-users
+    members:
+      - hblixt
+    maintainers:
+      - onlydole
+    displayName: CNCF End Users
+    secret: false
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
