@@ -391,7 +391,8 @@ repositories:
       taylorwaggoner: admin
   - name: enduser
     visibility: private
-    teams: cncf-end-users
+    teams:
+      cncf-end-users: read
   - name: enduser-public
   - external_collaborators:
       alexkontsevoy: write
