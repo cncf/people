@@ -943,6 +943,8 @@ repository_defaults:
 teams:
   - name: envoy
     maintainers:
+      - jeefy
+    members:
       - htuch
       - lizan
       - markdroth
