@@ -1,5 +1,7 @@
 # CNCF People
+
 This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
+
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
@@ -9,7 +11,7 @@ This repo stores the data that will populate the various people listings on cncf
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
-```
+```json
     {
         "name":"Full name of person",
         "bio":"Full bio of person. Use html markup when needed.",
@@ -31,13 +33,15 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "image":"Image filename from the /images/ directory"
     }
 ```
+
 Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
 
 And here is an example entry:
-```
+
+```json
     {
         "name":"Johnny Appleseed",
-        "bio":"John Chapman (September 26, 1774 – March 18, 1845), better known as Johnny Appleseed, was an American pioneer nurseryman who introduced apple trees to large parts of <a href='https://en.wikipedia.org/wiki/Pennsylvania'>Pennsylvania</a>, Ohio, Indiana, Illinois and Ontario, as well as the northern counties of present-day West Virginia. He became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples. He was also a missionary for The New Church (Swedenborgian)[1] and the inspiration for many museums and historical sites such as the Johnny Appleseed Museum[2] in Urbana, Ohio. The Fort Wayne TinCaps, a minor league baseball team in Fort Wayne, Indiana, where Chapman spent his final years, is named in his honor.",
+        "bio":"John Chapman (September 26, 1774 – March 18, 1845), better known as Johnny Appleseed, was an American pioneer nurseryman who introduced apple trees to large parts of <a href='https://en.wikipedia.org/wiki/Pennsylvania'>Pennsylvania</a>, Ohio, Indiana, Illinois and Ontario, as well as the northern counties of present-day West Virginia.",
         "company":"Apples R Us",
         "pronouns":"he/him",
         "location":"Portland, Maine, United States",
@@ -63,11 +67,12 @@ Upload your headshot image to the `/images/` directory with a filename made up o
 
 ## Team Management
 
-Also within this repo is a YAML file used by our [automation tooling](https://github.com/electronjs/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle. 
+Also within this repo is a YAML file used by our [automation tooling](https://github.com/electron/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle.
 
-* To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
+- To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
 
-* When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
-  ```
+- When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
+
+  ```shell
   email!address.xyz
   ```
