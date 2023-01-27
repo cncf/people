@@ -981,8 +981,10 @@ teams:
     slack: true
   - name: cncf-end-users
     members:
-      - hblixt
+      - abvaidya
       - gregjacobs-thrivent
+      - hblixt
+      - paulliwog
     maintainers:
       - onlydole
     displayName: CNCF End Users
