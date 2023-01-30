@@ -982,9 +982,12 @@ teams:
   - name: cncf-end-users
     members:
       - abvaidya
+      - c-rindi
+      - dave-gantenbein
       - gregjacobs-thrivent
       - hblixt
       - paulliwog
+      - stackedsax
     maintainers:
       - onlydole
     displayName: CNCF End Users
