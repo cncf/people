@@ -646,6 +646,11 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
+      RobertKielty: admin
+      jeefy: admin
+      onlydole: admin
+    name: sheriff
+  - external_collaborators:
       thetwopct: admin
     name: shopify-theme
   - external_collaborators:
