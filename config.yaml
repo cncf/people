@@ -826,7 +826,19 @@ repositories:
     settings:
       has_wiki: true
     visibility: private
-  - name: toc
+   name: toc
+   - external_collaborators:
+      kgamanji: maintain
+      dzolotusky: maintain
+      justincormack: maintain
+      TheFoxAtWork: maintain
+      rochaporto: maintain
+      dims: maintain
+      mattfarina: maintain
+      RichiH: maintain
+      cathyhongzhang: maintain
+      mauilion: maintain
+      nikhita: maintain  
     teams:
       Landscapers: write
   - teams:
