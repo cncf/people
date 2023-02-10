@@ -525,6 +525,11 @@ repositories:
       dagoshe: write
       halil-bugol: write
     name: kubernetes-community-days
+  - name: landscape-1
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
   - name: landscape
     teams:
       Landscapers: admin
