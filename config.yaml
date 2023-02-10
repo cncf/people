@@ -830,7 +830,6 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
-nikhita: maintain  
     teams:
       Landscapers: write
   - teams:
@@ -967,6 +966,7 @@ teams:
       - RichiH
       - cathyhongzhang
       - mauilion
+      - nikhita
   - name: envoy
     maintainers:
       - jeefy
