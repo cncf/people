@@ -633,8 +633,9 @@ repositories:
     name: research-user-group
     settings:
       has_wiki: true
-  - external_collaborators:
-      TheFoxAtWork: maintain
+  - teams:
+      cncf-toc: write
+      cncf-projects: admin
     name: sandbox
     settings:
       has_wiki: true
@@ -828,6 +829,9 @@ repositories:
     visibility: private
   - name: toc
     teams:
+      cncf-toc: write
+      cncf-projects: admin
+    teams:
       Landscapers: write
   - teams:
       Landscapers: admin
@@ -949,6 +953,21 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
+  - name: cncf-toc
+    maintainers:
+      - amye
+    members: 
+      - kgamanji
+      - dzolotusky
+      - justincormack
+      - TheFoxAtWork
+      - rochaporto
+      - dims
+      - mattfarina
+      - RichiH
+      - cathyhongzhang
+      - mauilion
+      - nikhita
   - name: envoy
     maintainers:
       - jeefy
