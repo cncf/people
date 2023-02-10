@@ -633,8 +633,9 @@ repositories:
     name: research-user-group
     settings:
       has_wiki: true
-  - external_collaborators:
-      TheFoxAtWork: maintain
+  - teams:
+      cncf-toc: write
+      cncf-projects: admin
     name: sandbox
     settings:
       has_wiki: true
