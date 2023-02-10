@@ -831,8 +831,6 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
-    teams:
-      Landscapers: write
   - teams:
       Landscapers: admin
     name: trailmap
