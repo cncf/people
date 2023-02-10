@@ -826,19 +826,11 @@ repositories:
     settings:
       has_wiki: true
     visibility: private
-   name: toc
-   - external_collaborators:
-      kgamanji: maintain
-      dzolotusky: maintain
-      justincormack: maintain
-      TheFoxAtWork: maintain
-      rochaporto: maintain
-      dims: maintain
-      mattfarina: maintain
-      RichiH: maintain
-      cathyhongzhang: maintain
-      mauilion: maintain
-      nikhita: maintain  
+  - name: toc
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
+nikhita: maintain  
     teams:
       Landscapers: write
   - teams:
@@ -961,6 +953,20 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
+  - name: cncf-toc
+    maintainers:
+      - amye
+    members: 
+      - kgamanji
+      - dzolotusky
+      - justincormack
+      - TheFoxAtWork
+      - rochaporto
+      - dims
+      - mattfarina
+      - RichiH
+      - cathyhongzhang
+      - mauilion
   - name: envoy
     maintainers:
       - jeefy
