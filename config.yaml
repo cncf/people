@@ -895,32 +895,33 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      AndreyKozlov1984: write
-      AudMonte01: write
-      Charley-Mann: write
-      DLEEBOLAR: maintain
-      DPalilonis: write
-      GarethAcidWorks: write
-      KTan1226: maintain
-      Riaankl: write
-      Swil78: write
-      ThabangMash: admin
       abuango: admin
+      alanglois-aragona: write
       amye: admin
+      AndreyKozlov1984: write
       angomustee: maintain
       arieljatib: write
+      AudMonte01: write
+      bpipalia-aragona: write
       chalin: write
+      Charley-Mann: write
       cjyabraham: admin
       ctorbin: write
       cynthia-sg: write
+      DLEEBOLAR: maintain
+      DPalilonis: write
       dplanella: write
+      GarethAcidWorks: write
       hh: write
       idvoretskyi: write
       jamesgrafas: write
       jaytiaki: write
       jeefy: admin
       joannalee333: write
+      jvanstone-aragona: write
       k8tgreenley: admin
+      kbest-aragona: write
+      KTan1226: maintain
       libbyschulze: write
       lixuna: write
       lukaszgryglicki: write
@@ -930,9 +931,12 @@ repositories:
       phlax: write
       poconnor1: admin
       pritianka: admin
+      Riaankl: write
+      Swil78: write
       taylor: write
       taylorwaggoner: admin
       tegioz: write
+      ThabangMash: admin
       thetwopct: write
       tinmatienzo: write
       vheric: maintain
@@ -941,10 +945,6 @@ repositories:
       has_wiki: true
     visibility: private
   - external_collaborators:
-      alanglois-aragona: write
-      bpipalia-aragona: write
-      jvanstone-aragona: write
-      kbest-aragona: write
       thetwopct: write
     name: wp-mu-plugins
     settings:
