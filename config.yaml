@@ -941,6 +941,10 @@ repositories:
       has_wiki: true
     visibility: private
   - external_collaborators:
+      alanglois-aragona: write
+      bpipalia-aragona: write
+      jvanstone-aragona: write
+      kbest-aragona: write
       thetwopct: write
     name: wp-mu-plugins
     settings:
