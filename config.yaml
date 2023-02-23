@@ -631,6 +631,13 @@ repositories:
       oicheryl: admin
       onlydole: admin
     name: radar
+  - name: public-sector-user-group
+    external_collaborators:
+      AlanHohn: admin
+      idunbarh: admin
+      riffingonsoftware: admin
+    settings:
+      has_wiki: true
   - external_collaborators:
       jimbobby5: admin
       oicheryl: admin
