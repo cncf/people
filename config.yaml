@@ -562,17 +562,18 @@ repositories:
       Landscapers: admin
   - name: memorials
   - external_collaborators:
-      CathPag: maintain
+      CathPag: maintain # TAG CS
       Riaankl: maintain
       amye: admin
       caniszczyk: admin
-      carolynvs: maintain
+      carolynvs: maintain # TAG CS
       idvoretskyi: admin
-      jaytiaki: maintain
-      jberkus: maintain
+      jaytiaki: maintain # Mentoring WG Co-chair
+      jberkus: maintain # TAG CS
       jeefy: admin
       nate-double-u: admin
       thisisobate: maintain
+      aliok: maintain # GSoC admin
     name: mentoring
   - external_collaborators:
       lukaszgryglicki: admin
