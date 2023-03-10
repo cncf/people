@@ -3,6 +3,9 @@ repositories:
   - name: .github
     settings:
       has_wiki: true
+  - teams:
+      cncf-projects: admin
+    name: migrate-maintainers
   - name: ambassadors
   - external_collaborators:
       stevenphtan: admin
