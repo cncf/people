@@ -653,7 +653,7 @@ repositories:
     settings:
       has_wiki: true
   - teams:
-      cncf-toc: write
+      cncf-toc: maintain
       cncf-projects: admin
     name: sandbox
     settings:
