@@ -537,6 +537,7 @@ repositories:
       Landscapers: admin
     external_collaborators:
       Swil78: write
+      andreuxxxx: triage # Mentor for UI/UX project 2023 Mar-May
   - name: landscape
     teams:
       Landscapers: admin
@@ -699,6 +700,7 @@ repositories:
       savitharaghunathan: triage
       sergioarmgpl: triage
       xmulligan: admin
+      nate-double-u: admin
     name: students
     settings:
       has_wiki: true
@@ -1008,6 +1010,7 @@ teams:
       - lukaszgryglicki
   - maintainers:
       - jeefy
+      - nate-double-u
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
