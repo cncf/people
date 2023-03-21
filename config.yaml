@@ -768,6 +768,12 @@ repositories:
     name: tag-env-sustainability
     settings:
       has_wiki: true
+  - name: tag-env-sustainability-website
+    teams:
+      tag-env-sustainability: write
+      cncf-tech-docs: admin
+    settings:
+      has_wiki: false
   - external_collaborators:
       dzolotusky: admin
       kenowens12: admin
@@ -977,6 +983,14 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
+  - name: cncf-tech-docs
+    members:
+      - nate-double-u
+      - amye
+      - caniszczyk
+      - chalin
+      - idvoretskyi
+      - thisisobate
   - name: cncf-toc
     maintainers:
       - amye
@@ -1058,6 +1072,13 @@ teams:
       - onlydole
     displayName: CNCF End Users
     secret: false
+  - name: tag-env-sustainability
+    admins:
+      - catblade
+      - leonardpahlke
+      - mkorbi
+    maintainers:
+     - cdeliaRH
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
