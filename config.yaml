@@ -773,7 +773,7 @@ repositories:
       tag-env-sustainability: write
       cncf-tech-docs: admin
     settings:
-      has_wiki: true
+      has_wiki: false
   - external_collaborators:
       dzolotusky: admin
       kenowens12: admin
