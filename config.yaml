@@ -38,6 +38,8 @@ repositories:
   - name: artwork
     teams:
       Landscapers: write
+    external_collaborators:
+      alexcontini: write
   - external_collaborators:
       amye: admin
       caniszczyk: admin
