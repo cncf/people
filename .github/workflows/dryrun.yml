@@ -13,7 +13,7 @@ jobs:
     container:
       image: us.gcr.io/cncf-slack-infra/sheriff/sheriff:cncf-slack-plugin
       env:
-        PERMISSIONS_FILE_ORG: ${{ github.event.pull_request.organization.name }}
+        PERMISSIONS_FILE_ORG: ${{ github.event.repository.owner.name }}  
         SHERIFF_HOST_URL: 'https://sheriff-ajrw3kq6ta-uc.a.run.app'
         SHERIFF_PLUGINS: cncfSlack
         PERMISSIONS_FILE_REPO: ${{ github.event.pull_request.repository.name }}

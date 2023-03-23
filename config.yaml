@@ -984,9 +984,11 @@ repository_defaults:
   has_wiki: false
 teams:
   - name: cncf-tech-docs
-    members:
+    maintainers:
       - nate-double-u
+      - jeefy
       - amye
+    members:
       - caniszczyk
       - chalin
       - idvoretskyi
