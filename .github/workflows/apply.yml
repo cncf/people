@@ -25,7 +25,7 @@ jobs:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     steps:
-      - name: Sync permissions (Dry Run)
+      - name: Sync permissions (For real)
         run: |
           cd /usr/src/app/lib/permissions && \
           touch .env.example && \
