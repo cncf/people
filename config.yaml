@@ -1023,14 +1023,14 @@ teams:
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
-  - maintainers:
+  - name: Landscapers
+    maintainers:
       - jeefy
       - nate-double-u
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
       - CNCF-Bot
-    name: Landscapers
   - name: clo-admins
     members:
       - tegioz
@@ -1075,12 +1075,12 @@ teams:
     displayName: CNCF End Users
     secret: false
   - name: tag-env-sustainability
-    admins:
-      - catblade
-      - leonardpahlke
-      - mkorbi
     maintainers:
-     - cdeliaRH
+      - cdeliaRH
+      - leonardpahlke
+    members:
+      - catblade
+      - mkorbi
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
