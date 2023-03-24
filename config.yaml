@@ -766,7 +766,7 @@ repositories:
       catblade: admin
       leonardpahlke: admin
       mkorbi: admin
-      nikimanoledaki: maintain
+      caradelia: maintain
     name: tag-env-sustainability
     settings:
       has_wiki: true
@@ -1078,11 +1078,12 @@ teams:
     secret: false
   - name: tag-env-sustainability
     maintainers:
-      - cdeliaRH
-      - leonardpahlke
-    members:
+      - caradelia
       - catblade
+      - leonardpahlke
       - mkorbi
+    members:
+      - nikimanoledaki
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
