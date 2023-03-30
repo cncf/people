@@ -1088,10 +1088,8 @@ teams:
     secret: false
   - name: tag-env-sustainability
     maintainers:
-      - cdeliaRH
       - leonardpahlke
     members:
-      - catblade
       - mkorbi
 #- name: ambassadors
 #- name: awards-maintainers
