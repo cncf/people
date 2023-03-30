@@ -401,6 +401,14 @@ repositories:
     teams:
       cncf-end-users: read
   - name: enduser-public
+  - name: evolution-of-cloud-native
+    visibility: private
+    external_collaborators:
+      pritianka: admin
+      melsmo: admin
+      Charley-Mann: read
+      nate-double-u: read
+      poconnor1: read
   - external_collaborators:
       alexkontsevoy: write
       levbogusiewicz: write
@@ -472,7 +480,7 @@ repositories:
       meryem-ldn: read
       mitul3737: write
       raelga: write
-      ramrodo: write      
+      ramrodo: write
       same7ammar: write
       sayantani11: write
       seokho-son: admin
