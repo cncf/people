@@ -541,11 +541,24 @@ repositories:
       dagoshe: write
       halil-bugol: write
     name: kubernetes-community-days
+  # These Landscape forks need to stop
+  # But this is a quick fix to unblock Sheriff
   - name: landscape-1
     teams:
       Landscapers: admin
     external_collaborators:
       Swil78: write
+  - name: landscape-2
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  - name: landscape-3
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  # End quick fix
   - name: landscape
     teams:
       Landscapers: admin
