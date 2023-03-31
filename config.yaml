@@ -317,6 +317,14 @@ repositories:
       devstats-admins: admin
     settings:
       has_wiki: true
+  - external_collaborators:
+      Phillels: admin
+      jberkus: admin
+    name: devstats.archive
+    teams:
+      devstats-admins: admin
+    settings:
+      has_wiki: true
   - teams:
       devstats-admins: admin
     name: devstats-docker-images
@@ -433,6 +441,11 @@ repositories:
   - teams:
       devstats-admins: admin
     name: gitdm
+    settings:
+      has_wiki: true
+  - teams:
+      devstats-admins: admin
+    name: gitdm.archive
     settings:
       has_wiki: true
   - teams:
@@ -969,7 +982,7 @@ repositories:
       KTan1226: maintain
       libbyschulze: write
       lixuna: write
-      lukaszgryglicki: write
+      lukaszgryglicki: admin
       motunrayoalake: maintain
       nate-double-u: write
       onlydole: admin
