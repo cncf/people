@@ -317,6 +317,14 @@ repositories:
       devstats-admins: admin
     settings:
       has_wiki: true
+  - external_collaborators:
+      Phillels: admin
+      jberkus: admin
+    name: devstats.archive
+    teams:
+      devstats-admins: admin
+    settings:
+      has_wiki: true
   - teams:
       devstats-admins: admin
     name: devstats-docker-images
@@ -436,6 +444,11 @@ repositories:
     settings:
       has_wiki: true
   - teams:
+      devstats-admins: admin
+    name: gitdm.archive
+    settings:
+      has_wiki: true
+  - teams:
       clo-admins: admin
     name: gitvote
   - teams:
@@ -541,11 +554,24 @@ repositories:
       dagoshe: write
       halil-bugol: write
     name: kubernetes-community-days
+  # These Landscape forks need to stop
+  # But this is a quick fix to unblock Sheriff
   - name: landscape-1
     teams:
       Landscapers: admin
     external_collaborators:
       Swil78: write
+  - name: landscape-2
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  - name: landscape-3
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  # End quick fix
   - name: landscape
     teams:
       Landscapers: admin
@@ -956,7 +982,7 @@ repositories:
       KTan1226: maintain
       libbyschulze: write
       lixuna: write
-      lukaszgryglicki: write
+      lukaszgryglicki: admin
       motunrayoalake: maintain
       nate-double-u: write
       onlydole: admin
@@ -1088,10 +1114,8 @@ teams:
     secret: false
   - name: tag-env-sustainability
     maintainers:
-      - cdeliaRH
       - leonardpahlke
     members:
-      - catblade
       - mkorbi
 #- name: ambassadors
 #- name: awards-maintainers
