@@ -317,6 +317,14 @@ repositories:
       devstats-admins: admin
     settings:
       has_wiki: true
+  - external_collaborators:
+      Phillels: admin
+      jberkus: admin
+    name: devstats.archive
+    teams:
+      devstats-admins: admin
+    settings:
+      has_wiki: true
   - teams:
       devstats-admins: admin
     name: devstats-docker-images
@@ -401,6 +409,14 @@ repositories:
     teams:
       cncf-end-users: read
   - name: enduser-public
+  - name: evolution-of-cloud-native
+    visibility: private
+    external_collaborators:
+      pritianka: admin
+      melsmo: admin
+      Charley-Mann: read
+      nate-double-u: read
+      poconnor1: read
   - external_collaborators:
       alexkontsevoy: write
       levbogusiewicz: write
@@ -416,6 +432,7 @@ repositories:
   - external_collaborators:
       amye: admin
       taylorwaggoner: admin
+      joannalee333: admin  
     name: foundation
   - external_collaborators:
       lucperkins: admin
@@ -425,6 +442,11 @@ repositories:
   - teams:
       devstats-admins: admin
     name: gitdm
+    settings:
+      has_wiki: true
+  - teams:
+      devstats-admins: admin
+    name: gitdm.archive
     settings:
       has_wiki: true
   - teams:
@@ -472,7 +494,7 @@ repositories:
       meryem-ldn: read
       mitul3737: write
       raelga: write
-      ramrodo: write      
+      ramrodo: write
       same7ammar: write
       sayantani11: write
       seokho-son: admin
@@ -533,11 +555,24 @@ repositories:
       dagoshe: write
       halil-bugol: write
     name: kubernetes-community-days
+  # These Landscape forks need to stop
+  # But this is a quick fix to unblock Sheriff
   - name: landscape-1
     teams:
       Landscapers: admin
     external_collaborators:
       Swil78: write
+  - name: landscape-2
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  - name: landscape-3
+    teams:
+      Landscapers: admin
+    external_collaborators:
+      Swil78: write
+  # End quick fix
   - name: landscape
     teams:
       Landscapers: admin
@@ -814,7 +849,7 @@ repositories:
       dshaw: write
       jkjell: write
       justincormack: write
-      lumjjb: write
+      lumjjb: admin
       mlieberman85: write
       mnm678: write
       pragashj: admin
@@ -924,7 +959,6 @@ repositories:
       amye: admin
       AndreyKozlov1984: write
       angomustee: maintain
-      arieljatib: write
       AudMonte01: write
       bpipalia-aragona: write
       chalin: write
@@ -934,7 +968,6 @@ repositories:
       cynthia-sg: write
       DLEEBOLAR: maintain
       DPalilonis: write
-      dplanella: write
       GarethAcidWorks: write
       hh: write
       idvoretskyi: write
@@ -948,7 +981,7 @@ repositories:
       KTan1226: maintain
       libbyschulze: write
       lixuna: write
-      lukaszgryglicki: write
+      lukaszgryglicki: admin
       motunrayoalake: maintain
       nate-double-u: write
       onlydole: admin
@@ -960,10 +993,12 @@ repositories:
       taylor: write
       taylorwaggoner: admin
       tegioz: write
-      ThabangMash: admin
       thetwopct: write
       tinmatienzo: write
       vheric: maintain
+      melsmo: write
+      marissabschwartz: write
+      huats: write
     name: workflow
     settings:
       has_wiki: true
@@ -1081,6 +1116,7 @@ teams:
       - caradelia
       - catblade
       - leonardpahlke
+    members:
       - mkorbi
     members:
       - nikimanoledaki
