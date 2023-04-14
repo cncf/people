@@ -1018,7 +1018,14 @@ repositories:
   - name: y2c
 repository_defaults:
   has_wiki: false
+  - name: automation
+    teams:
+      cncf-automation: admin
 teams:
+  - name: cncf-automation
+    maintainers:
+      - jeefy
+      - RobertKielty
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
