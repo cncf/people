@@ -40,7 +40,7 @@ repositories:
       Landscapers: write
     external_collaborators:
       alexcontini: write
-- name: automation
+  - name: automation
     teams:
       cncf-automation: admin
   - external_collaborators:
