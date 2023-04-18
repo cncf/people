@@ -807,12 +807,6 @@ repositories:
     name: tag-env-sustainability
     settings:
       has_wiki: true
-  - name: tag-env-sustainability-website
-    teams:
-      tag-env-sustainability: write
-      cncf-tech-docs: admin
-    settings:
-      has_wiki: false
   - external_collaborators:
       dzolotusky: admin
       kenowens12: admin
