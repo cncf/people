@@ -5570,14 +5570,14 @@
       "company":"Datree",
       "pronouns":"He/Him",
       "location":"Tel-Aviv, Israel",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/tolts/",
       "twitter":"https://www.twitter.com/shimontolts",
       "github":"https://github.com/shimont",
       "wechat":"",
-      "website":"",
+      "website":"https://sessionize.com/shimont",
       "youtube":"",
       "slack_id": "Shimon Tolts",
-      "languages":[],
+      "languages":["English", "Hebrew"],
       "projects":[
          "Argo",
          "CDK for Kubernetes (CDK8s)",
@@ -5587,7 +5587,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"phippy.jpg"
+      "image":"shimon-tolts.jpeg"
    },
    {
       "name":"Smaine Kahlouch",
