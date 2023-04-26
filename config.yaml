@@ -348,6 +348,11 @@ repositories:
       devstats-admins: admin
     settings:
       has_wiki: true
+  - name: devstats-landscape-sync
+    teams:
+      devstats-admins: admin
+    settings:
+      has_wiki: true
   - name: devstats-helm-example
     teams:
       devstats-admins: admin
