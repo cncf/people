@@ -137,6 +137,10 @@ repositories:
     name: cloudnativetv
     settings:
       has_wiki: true
+  - teams:
+      clo-admins: admin
+    name: clowarden
+    visibility: private
   - external_collaborators:
       idvoretskyi: admin
       vielmetti: maintain
