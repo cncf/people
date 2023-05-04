@@ -40,6 +40,9 @@ repositories:
       Landscapers: write
     external_collaborators:
       alexcontini: write
+  - name: automation
+    teams:
+      cncf-automation: admin
   - external_collaborators:
       amye: admin
       caniszczyk: admin
@@ -134,6 +137,10 @@ repositories:
     name: cloudnativetv
     settings:
       has_wiki: true
+  - teams:
+      clo-admins: admin
+    name: clowarden
+    visibility: private
   - external_collaborators:
       idvoretskyi: admin
       vielmetti: maintain
@@ -345,6 +352,11 @@ repositories:
       devstats-admins: admin
     settings:
       has_wiki: true
+  - name: devstats-landscape-sync
+    teams:
+      devstats-admins: admin
+    settings:
+      has_wiki: true
   - name: devstats-helm-example
     teams:
       devstats-admins: admin
@@ -432,6 +444,7 @@ repositories:
   - external_collaborators:
       amye: admin
       taylorwaggoner: admin
+      joannalee333: admin
     name: foundation
   - external_collaborators:
       lucperkins: admin
@@ -497,6 +510,7 @@ repositories:
       same7ammar: write
       sayantani11: write
       seokho-son: admin
+      sestegra: write
       sistella: write
       thetwopct: write
       ugho16: write
@@ -793,6 +807,7 @@ repositories:
       nate-double-u: write
       parispittman: maintain
       thisisnotapril: write
+      thetwopct: write
     name: tag-contributor-strategy
   - external_collaborators:
       amye: admin
@@ -800,16 +815,9 @@ repositories:
       catblade: admin
       leonardpahlke: admin
       mkorbi: admin
-      nikimanoledaki: maintain
     name: tag-env-sustainability
     settings:
       has_wiki: true
-  - name: tag-env-sustainability-website
-    teams:
-      tag-env-sustainability: write
-      cncf-tech-docs: admin
-    settings:
-      has_wiki: false
   - external_collaborators:
       dzolotusky: admin
       kenowens12: admin
@@ -848,7 +856,7 @@ repositories:
       dshaw: write
       jkjell: write
       justincormack: write
-      lumjjb: write
+      lumjjb: admin
       mlieberman85: write
       mnm678: write
       pragashj: admin
@@ -958,7 +966,6 @@ repositories:
       amye: admin
       AndreyKozlov1984: write
       angomustee: maintain
-      arieljatib: write
       AudMonte01: write
       bpipalia-aragona: write
       chalin: write
@@ -968,7 +975,6 @@ repositories:
       cynthia-sg: write
       DLEEBOLAR: maintain
       DPalilonis: write
-      dplanella: write
       GarethAcidWorks: write
       hh: write
       idvoretskyi: write
@@ -994,9 +1000,9 @@ repositories:
       taylor: write
       taylorwaggoner: admin
       tegioz: write
-      ThabangMash: admin
       thetwopct: write
       tinmatienzo: write
+      tmmoore1: write
       vheric: maintain
       melsmo: write
       marissabschwartz: write
@@ -1022,6 +1028,11 @@ repositories:
 repository_defaults:
   has_wiki: false
 teams:
+  - name: cncf-automation
+    maintainers:
+      - RobertKielty
+    members:
+      - jeefy
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
