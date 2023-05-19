@@ -100,12 +100,13 @@
       "slack_id": "",
       "languages":[ "English" ],
       "projects":[
-        "Keptn",
-        "OpenFeature"
+         "Keptn",
+         "OpenFeature",
+         "CloudEvents"
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"phippy.jpg"
+      "image":"adamgardner.jpg"
    },
    {
       "name":"Aditya Soni",
