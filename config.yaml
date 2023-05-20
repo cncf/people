@@ -1131,8 +1131,6 @@ teams:
     secret: false
   - name: tag-env-sustainability
     maintainers:
-      - caradelia
-      - catblade
       - leonardpahlke
     members:
       - mkorbi
