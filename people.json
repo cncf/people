@@ -87,22 +87,26 @@
    },
    {
       "name":"Adam Gardner",
-      "bio":"",
+      "bio":"Adam is part of the Open-Source Program Office (OSPO) at DT where he works as a DevRel focusing on observability and security. SCUBA diving is his passion. Outside work you can find him on, in or under the sea.",
       "company":"Dynatrace",
-      "pronouns":"",
-      "location":"",
-      "linkedin":"",
+      "pronouns":"He",
+      "location":"Brisbane, Australia",
+      "linkedin":"http://linkedin.com/in/agardner1/",
       "twitter":"",
-      "github":"",
+      "github":"https://github.com/agardnerit",
       "wechat":"",
-      "website":"",
-      "youtube":"",
+      "website":"https://agardner.net",
+      "youtube":"https://www.youtube.com/@agardnerit",
       "slack_id": "",
-      "languages":[],
-      "projects":[],
-      "expertise":[],
+      "languages":[ "English" ],
+      "projects":[
+         "Keptn",
+         "OpenFeature",
+         "CloudEvents"
+      ],
+      "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"phippy.jpg"
+      "image":"adamgardner.jpg"
    },
    {
       "name":"Aditya Soni",
