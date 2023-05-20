@@ -814,6 +814,7 @@ repositories:
   - external_collaborators:
       amye: admin
       caniszczyk: admin
+      caradelia: maintain
       catblade: admin
       leonardpahlke: admin
       mkorbi: admin
@@ -1130,9 +1131,12 @@ teams:
     secret: false
   - name: tag-env-sustainability
     maintainers:
+      - caradelia
+      - catblade
       - leonardpahlke
     members:
       - mkorbi
+      - nikimanoledaki
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
