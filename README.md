@@ -44,7 +44,7 @@ repositories:
 
 Note: the ```name: repo name``` does not necessarily appear as the first field in a repositories entry which can be confusing.
 
-Sheriff Teams that can referenced in a repository entry are described as follows:
+ Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
 
 ```yaml
 teams:
@@ -55,7 +55,7 @@ teams:
       - github_profile_n
     members:
       has_wiki: true|false
-    ddisplayName: Team name that can have spaces used to create a Slack Channel
+    displayName: Team name that can have spaces used to create a Slack Channel
     slack: {true|false|Slack channel name}  # Create a Slack channel for this team
     secret: {true|false} # Hidden GitHub Team
 ```
