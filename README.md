@@ -1,13 +1,72 @@
-# CNCF People
+# CNCF People Overview
 
-This repo stores the data that will populate the various people listings on cncf.io.  People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
+This repo stores the data that will populate the various people listings on cncf.io and control access to repositories in the CNCF GitHub org.
+
+People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
 
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 
-## Listing Format
+CNCF community members can request access to any repo by submitting a PR to change the config.yaml file in this repo.
+
+## Listing Formats
+
+### config.yaml configures CNCF org repository access
+
+Use config.yaml here to control repo-level access to your CNCF org repository.
+
+config.yaml documents the people, and teams of people, who are granted access to GitHub repositories in the CNCF org.
+
+DO NOT USE settings.yml at the repo-level to control permission; if you do, [Sheriff](#notes) will overwite permissions described in the repo-level settings.yml with the settings described here in config.yaml.
+
+A person's GitHub profile is used to grant access to a repository or define membership of a team.
+
+Adding an entry to repositories allow you to describe who has access to your repoistory.
+
+```yaml
+repositories:
+  - name: repo_name
+    external_collaborators:
+      github_profile_1: read | triage | write | maintain | admin
+              |
+      github_profile_n: read | triage | write | maintain | admin
+    teams:
+      team_name_1: read | triage | write | maintain | admin
+              |
+      team_name_n: read | triage | write | maintain | admin
+    # Optional repository settings
+    settings:
+      has_wiki: true|false # Default is false
+    visibility: public | private # Default is public
+```
+
+Note: the ```name: repo name``` does not necessarily appear as the first field in a repositories entry which can be confusing.
+
+ Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
+
+```yaml
+teams:
+  - name: team_name
+    maintainers:
+      - github_profile_1
+               |
+      - github_profile_n
+    members:
+      has_wiki: true|false
+    displayName: Team name that can have spaces used to create a Slack Channel
+    slack: {true|false|Slack channel name}  # Create a Slack channel for this team
+    secret: {true|false} # Hidden GitHub Team
+```
+
+#### Notes
+
+[cncf/sheriff](https://github.com/cncf/sheriff) periodically reads config.yaml on the main branch to apply the permissions to CNCF orgs, so once your PR is approved, the [Sheriff Apply GitHub action](https://github.com/cncf/people/actions/workflows/apply.yml ) will run to apply your changes.
+
+[cncf/sheriff](https://github.com/cncf/sheriff) is a fork of [electron/sheriff](https://github.com/electron/sheriff). The cncf fork has code to cover CNCF-specific procedures. Thank you Electron Sheriff contributors.
+
+### people.json
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
