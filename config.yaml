@@ -788,32 +788,13 @@ repositories:
       scottrigby: write
       thschue: admin
     name: tag-app-delivery
-  - external_collaborators:
-      CathPag: admin
-      LFCIBot: write
-      SaraTrap: write
-      amye: admin
-      caniszczyk: admin
-      carolynvs: admin
-      cathyhongzhang: write
-      dims: write
-      geekygirldawn: admin
-      hh: write
-      iennae: write
-      jaytiaki: write
-      jberkus: admin
-      juliasimon: write
-      justaugustus: maintain
-      karenhchu: write
-      kgamanji: write
-      mattfarina: write
-      mattklein123: write
-      mrbobbytables: write
-      nate-double-u: write
-      parispittman: maintain
-      thisisnotapril: write
-      thetwopct: write
-    name: tag-contributor-strategy
+  - name: tag-contributor-strategy
+    teams:
+      tcs-maintainers: admin
+      tcs-contributors: write
+      tcs-toc-liasons: write
+      tcs-burnout-and-inclusiveness: write
+      tcs-comminfra-leads: admin
   - external_collaborators:
       amye: admin
       caniszczyk: admin
@@ -1134,6 +1115,57 @@ teams:
     members:
       - mkorbi
       - nikimanoledaki
+  - name: tag-contributor-strategy
+    formation:
+      - tcs-maintainers
+      - tcs-contributors
+      - tcs-toc-liasons
+      - tcs-burnout-and-inclusiveness
+      - tcs-comminfra-leads
+  - name: tcs-maintainers
+    maintainers:
+      - geekygirldawn
+      - jberkus
+    members:
+      - CathPag
+  - name: tcs-contributors
+    maintainers:
+      - geekygirldawn
+      - jberkus
+    members:
+      - mrbobbytables
+      - justaugustus
+      - parispittman
+      - gerred
+      - mattklein123
+      - thisisnotapril
+      - karenhchu
+      - dims
+      - iennae
+      - LFCIBot
+  - name: tcs-toc-liasons
+    maintainers:
+      - geekygirldawn
+      - jberkus
+    members:
+      - TheFoxAtWork
+      - dzolotusky
+  - name: tcs-burnout-and-inclusiveness
+    maintainers:
+      - geekygirldawn
+      - jberkus
+    members:
+      - juliasimon
+      - mcgonagle
+      - melaniadeangelis
+      - SaraTrap
+      - jadeapplegate
+  - name: tcs-comminfra-leads
+    maintainers:
+      - geekygirldawn
+      - jberkus
+    members:
+      - hh
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
