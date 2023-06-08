@@ -467,7 +467,7 @@ repositories:
   - teams:
       clo-admins: admin
     name: gitvote-tests
-    visibility: private
+    visibility: internal
   - external_collaborators:
       92nqb: write
       AShabana: write
@@ -527,7 +527,7 @@ repositories:
     name: graph
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - external_collaborators:
       caniszczyk: admin
       carolynvs: write
@@ -539,7 +539,7 @@ repositories:
     name: graph.cncf.io
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - teams:
       Landscapers: admin
     name: hnanalysis
@@ -887,7 +887,7 @@ repositories:
     name: testsuite-infra
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - name: toc
     teams:
       cncf-toc: write
