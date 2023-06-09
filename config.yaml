@@ -1128,14 +1128,14 @@ teams:
   - name: tcs-maintainers
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - CathPag
   - name: tcs-contributors
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - mrbobbytables
       - justaugustus
       - parispittman
@@ -1149,15 +1149,15 @@ teams:
   - name: tcs-toc-liasons
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - TheFoxAtWork
       - dzolotusky
   - name: tcs-burnout-and-inclusiveness
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - juliasimon
       - mcgonagle
       - melaniadeangelis
@@ -1166,8 +1166,8 @@ teams:
   - name: tcs-comminfra-leads
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - hh
 #- name: ambassadors
 #- name: awards-maintainers
