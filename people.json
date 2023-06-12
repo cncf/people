@@ -2953,6 +2953,25 @@
       "image":"jon-zeolla.jpeg"
    },
    {
+      "name":"Jorge O. Castro",
+      "bio":"Jorge (@castrojo) is a Developer Relations specialist at the CNCF, with a focus on improving developer experience and communities. Jorge graduated with a degree in Telecommunications from Michigan State University and rode with the 11th Armored Cavalry Regiment for four years. He has contributed to Kubernetes, Ubuntu, Kubeflow, and the Cloud Custodian open source projects. He now resides in Ann Arbor, Michigan with his lovely wife Jill, their son Rafael, and their beagle Oscar. Hobbies and interests include heavy metal, passport renewal, paleontology, gaming, technology, and scouting out the best beers in the world." 
+      "company":"Developer Relations",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/jorge-castro2112",
+      "twitter":"https://twitter.com/castrojo",
+      "github":"https://github.com/castrojo",
+      "wechat":"",
+      "website":"https://ypsidanger.com",
+      "youtube":"https://www.youtube.com/c/JorgeCastro/",
+      "location":"Ann Arbor, MI",
+      "projects":["Kubernetes"],
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"jorge-castro.png"
+   }
+   {
       "name":"Jorge Turrado Ferrero",
       "bio":"<p>I have been working around software development for more than 6 years. Involving development, infrastructure architecture, monitoring, etc. Currently, I work as SRE at SCRM Lidl International Hub. Also, I have been awarded with Microsoft MVP for 4 years in a row and nowadays, I invest the majority of my free time contributing to KEDA. I'm proud about my puppies and my wife, and I use the rest of the time with them.</p><p>Why I am excited to be an ambassador: The program provides a platform for ambassadors to connect and collaborate with other cloud-native enthusiasts and promote the adoption of cloud-native practices. By becoming a CNCF ambassador, one can contribute to the open-source community and help shape the future of cloud-native computing.</p>",
       "company":"SCRM Lidl International Hub",
