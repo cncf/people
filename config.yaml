@@ -37,7 +37,7 @@ repositories:
       has_wiki: true
   - name: artwork
     teams:
-      Landscapers: write
+      landscapers: write
     external_collaborators:
       alexcontini: write
   - name: automation
@@ -435,7 +435,7 @@ repositories:
       mlomele: read
     name: filterable-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -467,7 +467,7 @@ repositories:
   - teams:
       clo-admins: admin
     name: gitvote-tests
-    visibility: private
+    visibility: internal
   - external_collaborators:
       92nqb: write
       AShabana: write
@@ -527,7 +527,7 @@ repositories:
     name: graph
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - external_collaborators:
       caniszczyk: admin
       carolynvs: write
@@ -539,15 +539,15 @@ repositories:
     name: graph.cncf.io
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: hnanalysis
     settings:
       has_wiki: true
   - name: hnscraping
     teams:
-      Landscapers: admin
+      landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -577,23 +577,23 @@ repositories:
   # But this is a quick fix to unblock Sheriff
   - name: landscape-1
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   - name: landscape-2
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   - name: landscape-3
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   # End quick fix
   - name: landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
       andreuxxxx: triage # Mentor for UI/UX project 2023 Mar-May
@@ -602,24 +602,24 @@ repositories:
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       halcyondude: admin
     name: landscape-graph
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: landscapeapp
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       jordinl: admin
     name: lf-landscapes
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
@@ -650,7 +650,7 @@ repositories:
       gcid12: admin
     name: obsolete-interactive-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       denverwilliams: write
       edwarnicke: write
@@ -717,7 +717,7 @@ repositories:
       has_wiki: true
   - name: serverless-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: servicedesk
   - name: sfdc
     settings:
@@ -887,13 +887,13 @@ repositories:
     name: testsuite-infra
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - name: toc
     teams:
       cncf-toc: write
       cncf-projects: admin
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: trailmap
     settings:
       has_wiki: true
@@ -916,7 +916,7 @@ repositories:
     settings:
       has_wiki: true
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: web-landscape
     settings:
       has_wiki: true
@@ -1060,7 +1060,7 @@ teams:
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
-  - name: Landscapers
+  - name: landscapers
     maintainers:
       - jeefy
       - nate-double-u
@@ -1128,14 +1128,14 @@ teams:
   - name: tcs-maintainers
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - CathPag
   - name: tcs-contributors
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - mrbobbytables
       - justaugustus
       - parispittman
@@ -1149,15 +1149,15 @@ teams:
   - name: tcs-toc-liasons
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - TheFoxAtWork
       - dzolotusky
   - name: tcs-burnout-and-inclusiveness
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - juliasimon
       - mcgonagle
       - melaniadeangelis
@@ -1166,8 +1166,8 @@ teams:
   - name: tcs-comminfra-leads
     maintainers:
       - geekygirldawn
-      - jberkus
     members:
+      - jberkus
       - hh
 #- name: ambassadors
 #- name: awards-maintainers
