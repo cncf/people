@@ -258,7 +258,9 @@ repositories:
     name: cnf-wg
     settings:
       has_wiki: true
-  - name: communitygroups
+  - external_collaborators:
+      AudMonte01: admin
+    name: communitygroups
   - external_collaborators:
       amye: admin
       caniszczyk: admin
