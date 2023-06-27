@@ -37,7 +37,7 @@ repositories:
       has_wiki: true
   - name: artwork
     teams:
-      Landscapers: write
+      landscapers: write
     external_collaborators:
       alexcontini: write
   - name: automation
@@ -77,6 +77,12 @@ repositories:
       cjyabraham: admin
       thetwopct: maintain
     name: china-video-block
+    settings:
+      has_wiki: true
+  - external_collaborators:
+      cjyabraham: admin
+      thetwopct: maintain
+    name: dot-org-hugo-theme
     settings:
       has_wiki: true
   - name: cla
@@ -140,7 +146,6 @@ repositories:
   - teams:
       clo-admins: admin
     name: clowarden
-    visibility: private
   - external_collaborators:
       idvoretskyi: admin
       vielmetti: maintain
@@ -259,7 +264,9 @@ repositories:
     name: cnf-wg
     settings:
       has_wiki: true
-  - name: communitygroups
+  - external_collaborators:
+      AudMonte01: admin
+    name: communitygroups
   - external_collaborators:
       amye: admin
       caniszczyk: admin
@@ -435,7 +442,7 @@ repositories:
       mlomele: read
     name: filterable-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -467,7 +474,7 @@ repositories:
   - teams:
       clo-admins: admin
     name: gitvote-tests
-    visibility: private
+    visibility: internal
   - external_collaborators:
       92nqb: write
       AShabana: write
@@ -478,7 +485,7 @@ repositories:
       Imtiaz1234: write
       JasonMorgan: admin
       Krast76: write
-      Mouly22: write
+      Arindam200: write
       MrErlison: write
       Rocksnake: write
       Saim-Safdar: write
@@ -498,8 +505,9 @@ repositories:
       hanyuancheung: write
       huats: write
       iamNoah1: admin
-      ikramulkayes: write
+      sajibAdhi: write
       inductor: write
+      Jacob953: write
       jayesh-srivastava: write
       jessicalins: write
       jihoon-seo: admin
@@ -521,13 +529,17 @@ repositories:
       waleed318: write
       ydFu: write
       yunkon-kim: write
+      aliok: write
+      halil-bugol: write
+      developer-guy: write
+      eminalemdar: write
     name: glossary
   - external_collaborators:
       halcyondude: admin
     name: graph
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - external_collaborators:
       caniszczyk: admin
       carolynvs: write
@@ -539,15 +551,15 @@ repositories:
     name: graph.cncf.io
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: hnanalysis
     settings:
       has_wiki: true
   - name: hnscraping
     teams:
-      Landscapers: admin
+      landscapers: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -577,49 +589,50 @@ repositories:
   # But this is a quick fix to unblock Sheriff
   - name: landscape-1
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   - name: landscape-2
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   - name: landscape-3
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
   # End quick fix
   - name: landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
     external_collaborators:
       Swil78: write
-      andreuxxxx: triage # Mentor for UI/UX project 2023 Mar-May
+      andreuxxxx: triage # Mentor for UI/UX project 2023 Jun-Aug
+      avantikajain289: triage # Mentee for UI/UX project 2023 Jun-Aug
       Hilzygift: read # Mentee for UI/UX project 2023 Mar-May
   - name: landscape-archive
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       halcyondude: admin
     name: landscape-graph
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: landscapeapp
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       jordinl: admin
     name: lf-landscapes
     settings:
       has_wiki: true
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
@@ -650,7 +663,7 @@ repositories:
       gcid12: admin
     name: obsolete-interactive-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
   - external_collaborators:
       denverwilliams: write
       edwarnicke: write
@@ -717,7 +730,7 @@ repositories:
       has_wiki: true
   - name: serverless-landscape
     teams:
-      Landscapers: admin
+      landscapers: admin
   - name: servicedesk
   - name: sfdc
     settings:
@@ -788,32 +801,13 @@ repositories:
       scottrigby: write
       thschue: admin
     name: tag-app-delivery
-  - external_collaborators:
-      CathPag: admin
-      LFCIBot: write
-      SaraTrap: write
-      amye: admin
-      caniszczyk: admin
-      carolynvs: admin
-      cathyhongzhang: write
-      dims: write
-      geekygirldawn: admin
-      hh: write
-      iennae: write
-      jaytiaki: write
-      jberkus: admin
-      juliasimon: write
-      justaugustus: maintain
-      karenhchu: write
-      kgamanji: write
-      mattfarina: write
-      mattklein123: write
-      mrbobbytables: write
-      nate-double-u: write
-      parispittman: maintain
-      thisisnotapril: write
-      thetwopct: write
-    name: tag-contributor-strategy
+  - name: tag-contributor-strategy
+    teams:
+      tcs-maintainers: admin
+      tcs-contributors: write
+      tcs-toc-liasons: write
+      tcs-burnout-and-inclusiveness: write
+      tcs-comminfra-leads: admin
   - external_collaborators:
       amye: admin
       caniszczyk: admin
@@ -821,6 +815,8 @@ repositories:
       catblade: admin
       leonardpahlke: admin
       mkorbi: admin
+      nate-double-u: admin
+      chalin: maintain
     name: tag-env-sustainability
     settings:
       has_wiki: true
@@ -845,11 +841,14 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      alena1108: admin
-      dims: admin
+      nikhita: admin
+      cathyhongzhang: admin
+      RichiH: admin
+      helayoty: admin
       quinton-hoole: admin
       raravena80: admin
-      rochaporto: admin
+      k82cn: admin
+      kad: admin
     name: tag-runtime
   - external_collaborators:
       JustinCappos: write
@@ -904,13 +903,13 @@ repositories:
     name: testsuite-infra
     settings:
       has_wiki: true
-    visibility: private
+    visibility: internal
   - name: toc
     teams:
       cncf-toc: write
       cncf-projects: admin
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: trailmap
     settings:
       has_wiki: true
@@ -933,7 +932,7 @@ repositories:
     settings:
       has_wiki: true
   - teams:
-      Landscapers: admin
+      landscapers: admin
     name: web-landscape
     settings:
       has_wiki: true
@@ -974,6 +973,7 @@ repositories:
       angomustee: maintain
       AudMonte01: write
       caniszczyk: admin
+      castrojo: write
       chalin: write
       Charley-Mann: write
       cjyabraham: admin
@@ -1076,13 +1076,14 @@ teams:
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
-  - name: Landscapers
+  - name: landscapers
     maintainers:
       - jeefy
       - nate-double-u
     members:
       - AndreyKozlov1984
       - lukaszgryglicki
+      - castrojo
       - CNCF-Bot
   - name: clo-admins
     members:
@@ -1134,6 +1135,59 @@ teams:
     members:
       - mkorbi
       - nikimanoledaki
+  - name: tag-contributor-strategy
+    formation:
+      - tcs-maintainers
+      - tcs-contributors
+      - tcs-toc-liasons
+      - tcs-burnout-and-inclusiveness
+      - tcs-comminfra-leads
+  - name: tcs-maintainers
+    maintainers:
+      - geekygirldawn
+    members:
+      - jberkus
+      - CathPag
+      - Riaankl
+      - aliok
+  - name: tcs-contributors
+    maintainers:
+      - geekygirldawn
+    members:
+      - jberkus
+      - mrbobbytables
+      - justaugustus
+      - parispittman
+      - gerred
+      - mattklein123
+      - thisisnotapril
+      - karenhchu
+      - dims
+      - iennae
+      - LFCIBot
+  - name: tcs-toc-liasons
+    maintainers:
+      - geekygirldawn
+    members:
+      - jberkus
+      - TheFoxAtWork
+      - dzolotusky
+  - name: tcs-burnout-and-inclusiveness
+    maintainers:
+      - geekygirldawn
+    members:
+      - jberkus
+      - juliasimon
+      - mcgonagle
+      - melaniadeangelis
+      - SaraTrap
+      - jadeapplegate
+  - name: tcs-comminfra-leads
+    maintainers:
+      - geekygirldawn
+    members:
+      - jberkus
+      - hh
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team

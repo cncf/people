@@ -372,23 +372,6 @@
       "image":"amim-knabben.jpg"
    },
    {
-      "name":"Amy Benson",
-      "bio":"Amy has been a Senior Event Manager for The Linux Foundation since 2015, working with various Foundation Collaborative Projects. Since 2016, she has managed and executed numerous aspects of CNCF's KubeCon + CloudNativeCon events, including venue selection and oversight, creative development of graphics, and audiovisual logistics.\n\nAmy has over 10 years of experience producing and managing conferences, trade shows, incentive programs, and meetings in both the corporate and non-profit sectors. She holds a Bachelor of Science in Journalism from the University of Oregon and received her CMP (Certified Meeting Professional) accreditation in 2014.",
-      "company":"Senior Event Manager",
-      "pronouns":"she/her",
-      "linkedin":"https://www.linkedin.com/in/amy-benson-cmp-737a20a/",
-      "twitter":"",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Staff"
-      ],
-      "image":"amy-benson.jpg"
-   },
-   {
       "name":"Amye Scavarda Perrin",
       "bio":"Amye brings over a decade of experience in open source program and project management to the Cloud Native Computing Foundation. Previously, she was at Red Hat as a Community Lead in their Open Source Program Office. She likes spreadsheets, budgets, and checklists.\n\nShe holds a Juris Doctor degree from Mitchell Hamline School of Law.",
       "company":"Program Manager",
@@ -1537,7 +1520,7 @@
    },
    {
       "name":"Daniel Oh",
-      "bio":"<p>Daniel Oh is a Senior Principal Developer Advocate at Red Hat. He works to evangelize building cloud-native microservices and serverless functions with cloud-native runtimes to developers. He also continues to contribute to various open-source cloud projects and ecosystems as a Cloud Native Computing Foundation (CNCF) ambassador for accelerating DevOps adoption in enterprises. Daniel also speaks at technical seminars, workshops, and meetups to elaborate on new emerging technologies for enterprise developers, SREs, platform engineers, and DevOps teams.</p><p>Why I am excited to be an ambassador: It will give me more opportunities to meet more technical folks who want to adopt/learn new cloud-native technologies and tools. Also, the ambassador makes me a more proactive person to evangelize non-tech people in terms of how/why they move forward to the cloud.</p>",
+      "bio":"<p>Daniel Oh is Java Champion and Senior Principal Developer Advocate at Red Hat. He works to evangelize building cloud-native microservices and serverless functions with cloud-native runtimes to developers. He also continues to contribute to various open-source cloud projects and ecosystems as a Cloud Native Computing Foundation (CNCF) ambassador for accelerating DevOps adoption in enterprises. Daniel also speaks at technical seminars, workshops, and meetups to elaborate on new emerging technologies for enterprise developers, SREs, platform engineers, and DevOps teams.</p><p>Why I am excited to be an ambassador: It will give me more opportunities to meet more technical folks who want to adopt/learn new cloud-native technologies and tools. Also, the ambassador makes me a more proactive person to evangelize non-tech people in terms of how/why they move forward to the cloud.</p>",
       "company":"Red Hat",
       "pronouns":"He/Him",
       "location":"Boston, United States",
@@ -1546,7 +1529,7 @@
       "github":"https://github.com/danieloh30",
       "wechat":"",
       "website":"",
-      "youtube":"",
+      "youtube":"https://www.youtube.com/@danieloh30",
       "slack_id": "DanielOh",
       "languages":["English"],
       "projects":[
@@ -1762,16 +1745,16 @@
    },
    {
       "name":"Dotan Horovits",
-      "bio":"<p>Horovits lives at the intersection of technology, product and innovation. With over 20 years in the hi-tech industry as a software developer, a solutions architect and a product manager, he brings a wealth of knowledge in cloud and cloud native, DevOps practices, open source and more. Horovits is a public speaker and thought leader in the fields of DevOps, open source and specifically observability, appearing on stage at KubeCon, Open Source Summit, FOSDEM and more. He also runs the popular OpenObservability Talks podcast, and you can also follow his blog and articles. Horovits is a leader in the Israeli community, an organizer of the local CNCF chapter in Tel Aviv, an organizer of the Israeli chapters of Kubernetes Community Days (KCD) and DevOpsDays. Currently working as the principal developer advocate at Logz.io, Horovits evangelizes on Observability in IT systems using popular open source projects such as OpenTelemetry, Prometheus, Jaeger and OpenSearch. podcast: https://open.spotify.com/show/2Dh3iUfPjmdOKZwAppsVNj blog: horovits.medium.com YouTube: https://www.youtube.com/@horovits</p><p>Why I am excited to be an ambassador: I've been advocating for open source and for the CNCF and its projects for years, online, on stage and with local communities, and I'm looking forward to expanding this activity as a formal CNCF Ambassador.</p>",
+      "bio":"<p>Horovits lives at the intersection of technology, product and innovation. With over 20 years in the hi-tech industry as a software developer, a solutions architect and a product manager, he brings a wealth of knowledge in cloud and cloud native, DevOps practices, open source and more.</p><p>Horovits is a public speaker and thought leader in the fields of DevOps, open source and specifically observability, appearing on stage at KubeCon, Open Source Summit, FOSDEM and more. He also runs the popular <a href=\"https://podcasters.spotify.com/pod/show/openobservability\">OpenObservability Talks podcast</a>, and you can also follow his <a href=\"https://horovits.medium.com/\">blog</a> and articles.</p><p>Horovits is a leader in the <a href=\"https://www.cncf.io/blog/2023/02/24/celebrating-israels-first-kubernetes-community-days-a-look-at-the-history-of-our-cncf-community/\">Israeli community</a>, an organizer of the CNCF chapter in Tel Aviv, and an organizer of the Israeli editions of Kubernetes Community Days (KCD), KubeDay and DevOpsDays.</p><p>Currently working as the Principal Developer Advocate at Logz.io, Horovits evangelizes on Observability in IT systems using popular open source projects such as OpenTelemetry, Prometheus, Jaeger and OpenSearch.</p><p><ul><li>Podcast: <a href=\"https://podcasters.spotify.com/pod/show/openobservability\">podcasters.spotify.com/pod/show/openobservability</a></li><li>Blog: <a href=\"http:\\horovits.medium.com/\">medium.com/@horovits</a></li><li>YouTube: <a href=\"https://www.youtube.com/@horovits\">youtube.com/@horovits</a></li><li>Sessionize: <a href=\"https://sessionize.com/horovits\">sessionize.com/horovits</a></li></ul></p><p>Why I am excited to be an ambassador: I've been advocating for open source and for the CNCF and its projects for years, online, on stage and with local communities, and I'm looking forward to expanding this activity as a formal CNCF Ambassador.</p>",
       "company":"Logz.io",
       "pronouns":"He/Him",
       "location":"Tel Aviv, Israel",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/horovits/",
       "twitter":"https://www.twitter.com/horovits",
-      "github":"https://github.com/horovits",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
+      "github":"https://logz.io/author/dotan-horovits/",
+      "wechat":"https://fosstodon.org/@horovits",
+      "website":"https://horovits.medium.com/",
+      "youtube":"https://www.youtube.com/@horovits",
       "slack_id": "Dotan Horovits",
       "languages":[],
       "projects":[
@@ -1922,7 +1905,7 @@
    {
       "name":"Emily Fox",
       "bio":"<p>Emily Fox is a DevOps enthusiast, security unicorn, and advocate for Women in Technology. She promotes the cross-pollination of development and security practices. She has worked in security for over 12 years to drive a cultural change where security is unobstructive, natural, and accessible to everyone. Her technical interests include containerization, automation, and promoting women in technology. She holds a BS in Information Systems and an MS in cybersecurity.</p>",
-      "company":"Apple",
+      "company":"Apple (TOC Chair)",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/TheMoxieFox",
       "twitter":"https://twitter.com/TheMoxieFox",
@@ -1939,11 +1922,11 @@
    },
    {
       "name":"Emin Alemdar",
-      "bio":"<p>Emin is working as a Cloud Native Engineer and has undertaken tasks such as producing solutions related to Kubernetes, Cloud technologies and Cloud Native Transformation in general, and transferring best practices about these areas. He is part of the AWS Community Builder Program within the Containers category and he is part of the HashiCorp Ambassador Program within the Open Source community. He is part of the organiser team of the official CNCF Istanbul Community Chapter (https://community.cncf.io/istanbul/). He publishes blog posts from his personal Medium page (https://medium.com/@eminalemdar) and also participates in Open Source and Cloud Native related conferences and delivers talks about these technologies. He is in the organiser team of Kubernetes Community Days Turkiye conference.</p><p>Why I am excited to be an ambassador: Community activities have always been my biggest motivation throughout my career. Helping people and learning from the people by participating in community activities is extremely important for me. Cloud Native Community is really one of a kind and being part of this community is really like a dream coming true for me.</p>",
-      "company":"Container Solutions",
+      "bio":"<p>Emin is working as a Solutions Architect and has undertaken tasks such as producing solutions related to Kubernetes, Cloud technologies and Cloud Native Transformation in general, and transferring best practices about these areas. He is part of the AWS Community Builder Program within the Containers category and he is part of the HashiCorp Ambassador Program within the Open Source community. He is part of the organiser team of the official CNCF Istanbul Community Chapter (https://community.cncf.io/istanbul/). He publishes blog posts from his personal Medium page (https://medium.com/@eminalemdar) and also participates in Open Source and Cloud Native related conferences and delivers talks about these technologies. He is in the organiser team of Kubernetes Community Days Turkiye conference.</p><p>Why I am excited to be an ambassador: Community activities have always been my biggest motivation throughout my career. Helping people and learning from the people by participating in community activities is extremely important for me. Cloud Native Community is really one of a kind and being part of this community is really like a dream coming true for me.</p>",
+      "company":"Spacelift",
       "pronouns":"He/Him",
       "location":"Izmir, Turkey",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/emin-alemdar/",
       "twitter":"https://www.twitter.com/alemdar_emin",
       "github":"https://github.com/eminalemdar",
       "wechat":"",
@@ -2441,7 +2424,7 @@
    },
    {
       "name":"Ileriayo Adebiyi",
-      "bio":"<p>Ileriayo is a Certified Kubernetes Developer, Administrator, and Security Specialist (CKAD, CKA, CKS) with a passion for people and technology. A KCD co-organizer committed to the growth of Africa. A teacher who takes pleasure in democratizing complex technical concepts. He is the creator of Get Going With Kubernetes, which consists of book reading and a series of workshops to help people learn Kubernetes.</p><p>Why I am excited to be an ambassador: The adoption of Cloud Native in Africa has been quite low compared to other regions. Becoming an ambassador provides me the opportunity to champion the adoption, development, and growth of Cloud Native on a bigger scale in Africa.</p>",
+      "bio":"<p>Ileriayo is a Certified Kubernetes Developer, Administrator, and Security Specialist (CKAD, CKA, CKS) with a passion for people and technology. A KCD co-organizer committed to the growth of Africa. A teacher who takes pleasure in democratizing complex technical concepts. He is the creator of Get Going With Kubernetes, which consists of book reading and a series of workshops to help people learn Kubernetes.</p><p>Why I am excited to be an ambassador: The adoption of Cloud Native in Africa has been quite low compared to other regions. Becoming an ambassador provides me the opportunity to champion the adoption, development, and growth of Cloud Native on a bigger scale in Africa.</p><p>Sessionize: https://sessionize.com/ileriayo</p>",
       "company":"Container Solutions",
       "pronouns":"He/Him",
       "location":"Lagos, Nigeria",
@@ -2612,7 +2595,7 @@
    {
       "name":"Jeffrey Sica",
       "bio":"Jeffrey (@jeefy) is a Principal Developer Experience Engineer at the CNCF, with a focus on improving community and project automation. Before that, he's worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout.\n\nMeetups: Board Member for <a href=\"https://orchestructure.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Orchestructure</a>",
-      "company":"Principal Developer Experience Engineer",
+      "company":"Head of Projects",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/jeefy/",
       "twitter":"https://twitter.com/jeefy",
@@ -2953,6 +2936,25 @@
       "image":"jon-zeolla.jpeg"
    },
    {
+      "name":"Jorge O. Castro",
+      "bio":"Jorge (@castrojo) is a Developer Relations specialist at the CNCF, with a focus on improving developer experience and communities. Jorge graduated with a degree in Telecommunications from Michigan State University and rode with the 11th Armored Cavalry Regiment for four years. He has contributed to Kubernetes, Ubuntu, Kubeflow, and the Cloud Custodian open source projects. He now resides in Ann Arbor, Michigan with his lovely wife Jill, their son Rafael, and their beagle Oscar. Hobbies and interests include heavy metal, passport renewal, paleontology, gaming, technology, and scouting out the best beers in the world.",
+      "company":"Developer Relations",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/jorge-castro2112",
+      "twitter":"https://twitter.com/castrojo",
+      "github":"https://github.com/castrojo",
+      "wechat":"",
+      "website":"https://ypsidanger.com",
+      "youtube":"https://www.youtube.com/c/JorgeCastro/",
+      "location":"Ann Arbor, MI",
+      "projects":["Kubernetes"],
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"jorge-castro.jpg"
+   },
+   {
       "name":"Jorge Turrado Ferrero",
       "bio":"<p>I have been working around software development for more than 6 years. Involving development, infrastructure architecture, monitoring, etc. Currently, I work as SRE at SCRM Lidl International Hub. Also, I have been awarded with Microsoft MVP for 4 years in a row and nowadays, I invest the majority of my free time contributing to KEDA. I'm proud about my puppies and my wife, and I use the rest of the time with them.</p><p>Why I am excited to be an ambassador: The program provides a platform for ambassadors to connect and collaborate with other cloud-native enthusiasts and promote the adoption of cloud-native practices. By becoming a CNCF ambassador, one can contribute to the open-source community and help shape the future of cloud-native computing.</p>",
       "company":"SCRM Lidl International Hub",
@@ -2965,7 +2967,7 @@
       "website":"",
       "youtube":"",
       "slack_id": "Jorge Turrado",
-      "languages":[],
+      "languages":["English", "Spanish"],
       "projects":[
          "Backstage",
          "cert-manager",
@@ -2977,7 +2979,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"phippy.jpg"
+      "image":"jorge-turrado.jpg"
    },
    {
       "name":"Julia Furst Morgado",
@@ -4641,7 +4643,7 @@
    },
    {
       "name":"Phil Huang",
-      "bio":"<p>I am an active member of the Cloud Native Taiwan User Group (https://www.facebook.com/groups/cloudnative.tw) at Taiwan with extensive experience and skills. I am passionate about sharing my knowledge and experiences, irregularly organizing Meetup events (https://community.cncf.io/kcd-taiwan/) to provide professional expertise on Kubernetes and CNCF technologies. In addition, I also run my own blog, where I share practical information and experiences related to Kubernetes and container technologies. Please feel free to visit my blog at https://blog.pichuang.com.tw</p><p>Why I am excited to be an ambassador: I'm excited to be an ambassador because I believe in the program's value and the chance to connect with like-minded individuals. It's rewarding to represent the program's values and contribute to the community's awareness and adoption of the technology.</p>",
+      "bio":"<p>I am an active member of the Cloud Native Taiwan User Group (https://www.facebook.com/groups/cloudnative.tw) at Taiwan with extensive experience and skills. I am passionate about sharing my knowledge and experiences, irregularly organizing Meetup events (https://community.cncf.io/kcd-taiwan/) to provide professional expertise on Kubernetes and CNCF technologies. In addition, I also run my own blog, where I share practical information and experiences related to Kubernetes and container technologies. Please feel free to visit my blog at https://blog.pichuang.com.tw</p><p>Why I am excited to be an ambassador: I'm excited to be an ambassador because I believe in the program's value and the chance to connect with like-minded individuals. It's rewarding to represent the program's values and contribute to the community's awareness and adoption of the technology.</p><p>Sessionize: https://sessionize.com/pichuang</p>",
       "company":"Microsoft",
       "pronouns":"He/Him",
       "location":"Taipei, Taiwan",
@@ -5036,6 +5038,25 @@
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
       "image":"renatasouza.jpg"
+   },
+   {
+      "name":"Riaan Kleinhans",
+      "bio":"<p>Riaan lives in South Africa. He is the Project Manager at ii.nz and started in the Cloud Native space in 2020, working on the Kubernetes Conformance project and Kubernetes Infra Project. He also works with the CNCF TAG Contributor Strategy as Technical Lead. </p>",
+      "company":"Project Manager, ii.nz",
+      "pronouns":"",
+      "location":"George, Western Cape, South Africa",
+      "linkedin":"https://www.linkedin.com/in/riaankleinhans/",
+      "twitter":"",
+      "github":"https://github.com/riaankl",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "languages":["English", "Afrikaans"],
+      "projects":["Kubernetes"],
+      "category":[],
+      "slack_id": "USMLL425A",
+      "image":"riaan_kleinhans.jpg"
    },
    {
       "name":"Ricardo Rocha",
@@ -5614,37 +5635,6 @@
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
       "image":"shimon-tolts.jpeg"
-   },
-   {
-      "name":"Smaine Kahlouch",
-      "bio":"<p>I'm a senior Site Reliability Engineer with a particular interest in Linux containers and cloud technologies. I worked in different companies (small startups and large scale) and have been working in different areas to improve the reliability, availability of the platform, and developer experience. I helped several companies in their transition to the Cloud. I was leading SRE/DevOps teams (diverse profiles with developers and SREs) and I really enjoy seeing them engaged in the same direction.</p><p>Why I am excited to be an ambassador: I have been an organizer of the CNCF (Cloud Native Computing Foundation) meetup in Paris since 2016 and I'm part of the KCD France organization team. I'm excited to continue spreading the cloud native word in France.</p>",
-      "company":"Ogenki",
-      "pronouns":"He/Him",
-      "location":"Paris, France",
-      "linkedin":"https://www.linkedin.com/in/smaïne-kahlouch-44374110/",
-      "twitter":"https://www.twitter.com/_smana_",
-      "github":"https://github.com/Smana",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "slack_id": "smana",
-      "languages":[],
-      "projects":[
-         "containerd",
-         "Crossplane",
-         "Istio",
-         "k3s",
-         "Knative",
-         "Kubernetes",
-         "OpenTelemetry",
-         "OpenTracing",
-         "Rook",
-         "SPIFFE",
-         "SPIRE"
-      ],
-      "expertise":["Non-Technical"],
-      "category":["Ambassadors"],
-      "image":"smaine-kahlouch.jpg"
    },
    {
       "name":"Stephen Chin",
@@ -6335,26 +6325,20 @@
       "company":"K8SUG.com",
       "pronouns":"",
       "location":"Singapore",
-      "linkedin":"",
+      "linkedin":"https://linkedin.com/in/yongkanghe",
       "twitter":"https://www.twitter.com/yongkanghe",
       "github":"https://github.com/yongkanghe",
       "wechat":"",
-      "website":"",
-      "youtube":"",
+      "website":"http://k8sug.com",
+      "youtube":"http://y.k8sug.com",
       "slack_id": "Yongkang He",
       "languages":[],
       "projects":[
-         "CDK for Kubernetes (CDK8s)",
-         "containerd",
-         "Istio",
-         "k3s",
-         "KEDA",
-         "Konveyor",
-         "Kubeflow",
          "Kubernetes",
-         "Kubescape",
-         "KubeVirt",
-         "Open Policy Agent (OPA)"
+         "Velero",
+         "Falco",
+         "Kyverno",
+         "Trivy"
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
