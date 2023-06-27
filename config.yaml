@@ -79,6 +79,12 @@ repositories:
     name: china-video-block
     settings:
       has_wiki: true
+  - external_collaborators:
+      cjyabraham: admin
+      thetwopct: maintain
+    name: dot-org-hugo-theme
+    settings:
+      has_wiki: true
   - name: cla
     settings:
       has_wiki: true
