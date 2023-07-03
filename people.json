@@ -769,7 +769,8 @@
    {
       "name":"Arun Gupta",
       "bio":"Arun Gupta is vice president and general manager of Open Ecosystem Initiatives at Intel Corporation. He is an open source strategist, advocate, and practitioner for nearly two decades. He has taken companies such as Apple, Amazon, and Sun Microsystems through systemic changes to embrace open source principles, contribute and collaborate effectively. As an elected chair of the Cloud Native Computing Foundation (CNCF) Governing Board, Arun works with CNCF leadership and member companies to grow cloud native ecosystem. He has delivered technical talks in 45+ countries, authored multiple books, and is a Docker Captain, Java Champion, and Java User Group leader. He also founded the Devoxx4Kids chapter in the U.S. and continues to promote technology education among children. Arun holds two patents on using XML and XSL for an efficient generation of test reports. Arun is an avid runner, and is easily accessible at @arungupta on Twitter.",
-      "company":"Intel (Chairperson)",
+      "company":"Intel",
+      "gb_role":"Chairperson",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/arunpgupta/",
       "twitter":"https://twitter.com/arungupta",
@@ -1448,7 +1449,8 @@
    {
       "name":"Christoph Blecker",
       "bio":"Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog.",
-      "company":"Red Hat (Kubernetes Rep)",
+      "company":"Red Hat",
+      "gb_role":"Kubernetes Rep",
       "pronouns":"He/Him",
       "linkedin":"https://www.linkedin.com/in/cblecker",
       "twitter":"https://twitter.com/tophee",
@@ -1905,7 +1907,8 @@
    {
       "name":"Emily Fox",
       "bio":"<p>Emily Fox is a DevOps enthusiast, security unicorn, and advocate for Women in Technology. She promotes the cross-pollination of development and security practices. She has worked in security for over 12 years to drive a cultural change where security is unobstructive, natural, and accessible to everyone. Her technical interests include containerization, automation, and promoting women in technology. She holds a BS in Information Systems and an MS in cybersecurity.</p>",
-      "company":"Apple (TOC Chair)",
+      "company":"Apple",
+      "toc_role":"TOC Chair",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/TheMoxieFox",
       "twitter":"https://twitter.com/TheMoxieFox",
@@ -2616,7 +2619,8 @@
    {
       "name":"Jeremy Garcia",
       "bio":"<p>Jeremy is the VP of technical community and open source at Datadog, where he's responsible for developer advocacy, training, documentation, technical writing, multiple engineering teams, and the open source programs office. An ardent but realistic open source advocate with a pragmatic approach, he is the founder of LinuxQuestions.org, which is one of the largest independent open source communities on the web. An early podcaster, he's currently a presenter on Bad Voltage. He's also on the board of the Linux Fund. Before joining Datadog Jeremy ran a consultancy helping organizations implement open source programs, find viable open source business models, and grow technical communities. He's spoken at a variety of conferences, had a column in Linux Magazine, was an ambassador for Opensource.com, and regularly blogged about the intersection of business and open source. Outside of technology he is an avid runner and foodie, and long time Buffalo Bills fan.</p>",
-      "company":"Datadog (Silver Member Rep)",
+      "company":"Datadog",
+      "gb_role":"Silver Member Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/jeremylq/",
       "twitter":"https://twitter.com/linuxquestions",
@@ -3113,7 +3117,8 @@
    {
       "name":"Justin Dustzadeh",
       "bio":"<p>Justin Dustzadeh is the Chief Technology Officer at Equinix. In this role, Justin drives the company’s technology vision, strategy and architecture as well as the overall technical innovation and focus on software transformation and engagement within the developer community, including within the Linux Foundation.</p><p>Justin is an industry-recognized thought leader on cloud-native technologies and software-defined infrastructure and has a wealth of executive and technical leadership experience, including leadership roles at Uber (where he served as Head of Global Network & Software Platform), Visa, Huawei, Ericsson, AT&T, a technology startup which he co-founded, and two leading service providers in France.</p><p>He holds a Ph.D. and M.S. in Computer Science from Télécom Paris, and a B.S. in Theoretical Physics from École Normale Supérieure (Ulm) in Paris.</p>",
-      "company":"Equinix (Gold Member Rep)",
+      "company":"Equinix",
+      "gb_role":"Gold Member Rep",
       "pronouns":"He/Him",
       "linkedin":"",
       "twitter":"",
@@ -3691,7 +3696,8 @@
    {
       "name":"Liz Rice",
       "bio":"Liz is Chief Open Source Officer with eBPF specialists Isovalent, creators of the Cilium cloud native networking, security and observability project. She is on the Board of OpenUK, and was Chair of the CNCF's Technical Oversight Committee in 2019-2022, and Co-Chair of KubeCon + CloudNativeCon in 2018. She is also the author of Container Security, published by O'Reilly.",
-      "company":"Isovalent (Silver Member Rep)",
+      "company":"Isovalent",
+      "gb_role":"Silver Member Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/lizrice",
       "twitter":"https://twitter.com/lizrice",
@@ -4116,7 +4122,8 @@
    {
       "name":"Mohammad Zebetian",
       "bio":"<p>Mohammad is leading the cloud and infrastructure architecture for Charter Communications. He is responsible for driving the vision, strategy, and innovation for Cloud and Edge.</p>\n\n<p>Mohammad has been actively engaged with the industry and helping shape the future of cloud, NFV, and Edge for almost two decades. He is a globally-minded high-tech executive with extensive leadership experience and an inspiring leader and communicator with a proven track record of scaling organizations and cross functional teams towards a shared strategic vision.</p>\n\n<p>Mohammad currently resides in The Mile High City, Denver, Colorado.</p>",
-      "company":"Charter Communications (Gold Member Rep)",
+      "company":"Charter Communications",
+      "gb_role":"Gold Member Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/mohammadzebetian/",
       "twitter":"",
@@ -5095,7 +5102,8 @@
    {
       "name":"Richard Hartmann",
       "bio":"Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
-      "company":"Grafana Labs (Developer Seat Rep)",
+      "company":"Grafana Labs",
+      "toc_role":"Developer Seat Rep",
       "pronouns":"he/him",
       "linkedin":"https://www.linkedin.com/in/richih",
       "twitter":"https://twitter.com/TwitchiH",
@@ -5639,7 +5647,8 @@
    {
       "name":"Stephen Chin",
       "bio":"Stephen is Head of Developer Relations at JFrog and author of The Definitive Guide to Modern Client Development, Raspberry Pi with Java, Pro JavaFX Platform, and the upcoming DevOps Tools for Java Developers title from O'Reilly. He has keynoted numerous conferences around the world including Devoxx, JNation, JavaOne, Joker, and Open Source India. Stephen is an avid motorcyclist who has done evangelism tours in Europe, Japan, and Brazil, interviewing hackers in their natural habitat. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his teenage daughter. You can follow his hacking adventures at <a href=\"http://steveonjava.com/\" target=\"_blank\" rel=\"noopener noreferrer\">http://steveonjava.com/</a>",
-      "company":"JFrog (Gold Member Rep)",
+      "company":"JFrog",
+      "gb_role":"Gold Member Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/steveonjava/",
       "twitter":"https://twitter.com/steveonjava",
@@ -5838,7 +5847,8 @@
    {
       "name":"Thomas Di Giacomo",
       "bio":"<p>Thomas Di Giacomo is Chief Technology and Product Officer for SUSE, where he leads our global Office of the CTO and Product and Solution Management. His team covers SUSE’s entire portfolio of products as well as innovation priorities. He is also responsible for driving and guiding SUSE’s current and future technology and solutions, and for sharing SUSE’s vision with customers, partners, and key industry stakeholders.</p>\n<p style=\"font-weight: 400;\">Prior to his role, Thomas was SUSE’s President of Engineering & Innovation and was responsible for the rapid growth of SUSE’s expanding portfolio. He has over 20 years of experience in the IT industry, serving in various global leadership and executive roles in engineering and product innovation.</p>\n<p>Thomas holds a Ph.D. in Computer Science from the University of Geneva, and lives in France.</p>",
-      "company":"SUSE (Silver Member Rep)",
+      "company":"SUSE",
+      "gb_role":"Silver Member Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/thomasdigiacomo/?originalSubdomain=ch",
       "twitter":"https://twitter.com/t_di_g?lang=en",
