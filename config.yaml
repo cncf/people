@@ -90,8 +90,6 @@ repositories:
       has_wiki: true
   - teams:
       clo-admins: admin
-    external_collaborators:
-      Clomonitor1: read
     name: clomonitor
   - teams:
       clo-admins: admin
