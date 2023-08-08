@@ -704,7 +704,12 @@ repositories:
       mattfarina: write
       mattklein123: write
       parispittman: admin
-    name: project-template
+  - name: project-template
+  - external_collaborators:
+      geekygirldawn: admin
+      jberkus: admin
+      TheFoxAtWork: write
+      dzolotusky: write
   - name: prometheus-conformance
     settings:
       has_wiki: true
