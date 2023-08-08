@@ -694,7 +694,7 @@ repositories:
       caniszczyk: admin
       carolynvs: admin
       dims: write
-      geekygirldawn: write
+      geekygirldawn: admin
       idvoretskyi: admin
       iennae: write
       jberkus: admin
@@ -705,11 +705,6 @@ repositories:
       mattklein123: write
       parispittman: admin
     name: project-template
-  - external_collaborators:
-      geekygirldawn: admin
-      jberkus: admin
-      TheFoxAtWork: write
-      dzolotusky: write
   - name: prometheus-conformance
     settings:
       has_wiki: true
