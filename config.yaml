@@ -275,7 +275,6 @@ repositories:
   - external_collaborators:
       amye: admin
       caniszczyk: admin
-      carolynvs: write
       geekygirldawn: write
       idvoretskyi: admin
       jberkus: write
@@ -548,7 +547,6 @@ repositories:
     visibility: internal
   - external_collaborators:
       caniszczyk: admin
-      carolynvs: write
       chalin: admin
       halcyondude: admin
       jeefy: admin
@@ -645,7 +643,6 @@ repositories:
       Riaankl: maintain
       amye: admin
       caniszczyk: admin
-      carolynvs: maintain # TAG CS
       idvoretskyi: admin
       jaytiaki: maintain # Mentoring WG Co-chair
       jberkus: maintain # TAG CS
@@ -692,7 +689,6 @@ repositories:
   - name: presentations
   - external_collaborators:
       caniszczyk: admin
-      carolynvs: admin
       dims: write
       geekygirldawn: admin
       idvoretskyi: admin
