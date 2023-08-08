@@ -735,6 +735,8 @@ repositories:
     teams:
       landscapers: admin
   - name: servicedesk
+    external_collaborators:
+      krook: maintain
   - name: sfdc
     settings:
       has_wiki: true
