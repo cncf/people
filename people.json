@@ -1407,29 +1407,6 @@
       "image":"https://www.cncf.io/wp-content/uploads/2017/05/Headshots-Aniszczyk-768x822-1.jpg"
    },
    {
-      "name":"Chris Kranz",
-      "bio":"<p>I am part of the organising team for KCD UK for the past 3 years, in the past also helped with Cloud-Native Birmingham, and I'm also an Open-UK Ambassador. I'm passionate about open-source technologies and spend time working with Falco, Kubernetes and Prometheus. I also waste time creating community games like cardsagainst.io and ruining songs like \"Tainted Node\". I once earned \"Employee of the Month\" at Harry Ramsden's world famous Fish & Chip restaurant.</p><p>Why I am excited to be an ambassador: I'm excited about further promoting the use of open source software and open ways of working. Kubernetes Community Days are a great way to bring the community together and further promote collaboration and knowledge sharing, and I'm excited to continue bringing this to the UK, and maybe helping with other events across Europe.</p>",
-      "company":"Sysdig",
-      "pronouns":"He/Him",
-      "location":"Barcelona, Spain",
-      "linkedin":"",
-      "twitter":"https://www.twitter.com/ckranz",
-      "github":"https://github.com/KranzSysdig",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "slack_id": "Chris Kranz",
-      "languages":[],
-      "projects":[
-         "Falco",
-         "Kubernetes",
-         "Prometheus"
-      ],
-      "expertise":["Technical", "Non-Technical"],
-      "category":["Ambassadors"],
-      "image":"chris-kranz.jpg"
-   },
-   {
       "name":"Chris Wright",
       "bio":"Chris is the Vice President and Chief Technologist at Red Hat. During his nearly 20 years as a software engineer he has worked in the telecom industry on high availability and distributed systems and in the Linux industry on security and virtualization. He has been a Linux developer for over a decade, most of that time spent deep in the Linux kernel working on security and virtualization. He is intrigued by the challenges that cloud computing brings to virtualization and networking, and is now focused on the cloud, KVM, network virtualization, and virtualizing network functions. He lives in sunny Portland, OR where he is happily hacking on OpenDaylight, Open vSwitch, and OpenStack.",
       "company":"Red Hat",
