@@ -627,6 +627,15 @@ repositories:
       has_wiki: true
     teams:
       landscapers: admin
+  - name: landscape2
+    teams:
+      clo-admins: admin
+  - name: landscape2-sites
+    teams:
+      clo-admins: admin
+  - name: landscape2-validate-action
+    teams:
+      clo-admins: admin
   - name: landscapeapp
     teams:
       landscapers: admin
