@@ -805,15 +805,20 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      AlexsJones: admin
+      kgamanji: admin
+      justincormack: admin
+      AlexsJones: maintain
+      lianmakesthings: maintain
       AloisReitbauer: admin
-      Jenniferstrej: admin
-      hongchaodeng: admin
-      joshgav: write
-      resouer: admin
+      joshgav: admin
+      thschue: admin
       roberthstrand: write
       scottrigby: write
-      thschue: admin
+      todaywasawesome: write
+      chris-short: write
+      abangser: write
+      afflom: write
+      rchincha: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
     teams:
