@@ -1498,23 +1498,6 @@
       "image":"cody-liskh.jpeg"
    },
    {
-      "name":"Dan Gerrity",
-      "bio":"<p>Dan is the SVP of Developer Services for Oracle Cloud Infrastructure. Dan joined Oracle in January 2020 to build and lead the team<strong> </strong>whose mission is to drive developer adoption and usage, and enable building, deploying, and operating workloads at scale in Oracle’s Cloud.  This mission includes CNCF-influenced services like Kubernetes, Streaming, Logging, Events, and APIs. Before OCI, Dan spent 5 years at AWS building platforms.  A developer most of his life, he founded and led several startups that ultimately took advantage of cloud services offered by multiple clouds.  He has an MBA, a MS in EE (Computer Systems), and a BS in EE, all from Stanford University, and has over 60 Patents in technologies ranging from coin discrimination through CPU instruction set design.</p>",
-      "company":"Oracle",
-      "pronouns":"",
-      "linkedin":"https://linkedin.com/in/dgerrity",
-      "twitter":"https://twitter.com/d_gerrity",
-      "github":"https://github.com/dgerrity",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2020/12/dan-gerrity-photo-1.jpg"
-   },
-   {
       "name": "Daniel Krook",
       "bio": "<p>Daniel Krook recently joined the CNCF to better serve maintainers and contributors to the community of 150+ hosted projects. He has been involved in the use, creation, and advocacy of open source technology for over 20 years. He partnered with the LF to establish the \"Call for Code with The Linux Foundation\" umbrella and has guided 16 projects through the process of joining the LF and using LFX tools.</p><p>He has built software end-to-end for a wide array of industries and earned certifications in cloud architecture, application development, and system operations along the way. Most recently, he worked at IBM as a principal engineer developing first-of-a-kind solutions that integrate open source technologies with commercial products and services.</p><p>Daniel has spoken at many open source conferences (including main-stage presentations at the first CloudNativeDay and the inaugural KubeCon), hosted dozens of meetups (primarily OpenWhisk, Cloud Foundry, OpenStack, and PHP), and has contributed to many technical blogs, videos, podcasts, articles, and books.</p>",
       "company": "Senior Director of Developer Experience",
@@ -5697,6 +5680,23 @@
          "Governing Board"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/06/1540754144098.jpg"
+   },
+   {
+      "name":"Sudha Raghavan",
+      "bio":"<p>Sudha is the VP for all the services in the Oracle Cloud Infrastructure (OCI) Developer Platform. OCI’s developer services aim to improve productivity for all roles performed by Developer Security Operations engineers. Enabling a secure, fast, and connected developer platform across all Oracle internal and external cloud engineers is her team’s goal. She prides herself in running numerous large cloud scale distributed services developed in house using open-source technologies.</p>\n\n<p>She is also a founding committee member of the Oracle Women’s Leadership (OWL), Seattle chapter and runs several mentoring rings. She has a Masters in Computer Science and has previously worked at Microsoft Bing. She is a goal-driven technology leader with a passion to attract more women into leadership positions.</p>",
+      "company":"Oracle",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/suraghavan/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"sudha-raghavan.jpg"
    },
    {
       "name":"Sue Chang",
