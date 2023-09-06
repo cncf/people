@@ -821,6 +821,8 @@ repositories:
       thschue: admin
     name: tag-app-delivery
   - name: tag-contributor-strategy
+    external_collaborators:
+      thetwopct: write
     teams:
       tcs-maintainers: admin
       tcs-contributors: write
