@@ -701,10 +701,11 @@ repositories:
     name: people
     settings:
       has_wiki: true
-  - name: presentations
+  - external_collaborators:
+      csantanapr: write
+    name: presentations
   - external_collaborators:
       caniszczyk: admin
-      csantanapr: write
       dims: write
       geekygirldawn: admin
       idvoretskyi: admin
