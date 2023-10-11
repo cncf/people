@@ -1185,6 +1185,7 @@ teams:
       - tcs-toc-liasons
       - tcs-burnout-and-inclusiveness
       - tcs-comminfra-leads
+      - tcs-deaf-and-hard-of-hearing
   - name: tcs-maintainers
     maintainers:
       - geekygirldawn
@@ -1231,6 +1232,12 @@ teams:
     members:
       - jberkus
       - hh
+  - name: tcs-deaf-and-hard-of-hearing
+    maintainers:
+      - geekygirldawn
+    members:
+      - robcube
+      - Deafveloper
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
