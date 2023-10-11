@@ -1,5 +1,8 @@
 organization: cncf
 repositories:
+  - name: subdomain-redirector
+    teams:
+      cncf-automation: admin
   - name: .github
     settings:
       has_wiki: true
@@ -1075,6 +1078,8 @@ teams:
       - RobertKielty
     members:
       - jeefy
+      - idvoretskyi
+      - krook
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
