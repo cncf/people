@@ -588,8 +588,9 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      BobyMCbobs: maintain
-      Riaankl: maintain
+      BobyMCbobs: admin
+      Riaankl: admin
+      hh: admin
       cncf-ci: admin
     name: k8s-conformance
   - external_collaborators:
