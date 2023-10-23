@@ -575,6 +575,11 @@ repositories:
       landscapers: admin
     settings:
       has_wiki: true
+  - name: homebrew-landscape2
+    teams:
+      clo-admins: admin
+    external_collaborators:
+      landscape2: write
   - external_collaborators:
       caniszczyk: admin
       chalin: admin
