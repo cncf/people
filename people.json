@@ -2494,6 +2494,23 @@
       "image":"https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
    },
    {
+      "name":"Jenn Skeivik",
+      "bio":"<p>Jenn is the Senior Manager for Software Engineering Engagements at Boeing. Her organization includes the Open Source Program Office, Enterprise Software Continuous Improvement, Software Compliance and Productivity, and Digital Transformation Environments. She has been working in open source and cloud native for over 10 years, and has a wealth of experience in software engineering leadership roles across aerospace, defense, and biotech industries. Jenn holds Bachelor of Science degrees in Computer Science and Zoology, and a Master’s degree in Computational Biosciences from Arizona State University.</p>",
+      "company":"Boeing",
+      "pronouns":"She/Her",
+      "linkedin":"https://www.linkedin.com/in/jenskeivik/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"jenn-skeivik.jpg"
+   },
+   {
       "name":"Jeremy Garcia",
       "bio":"<p>Jeremy is the VP of technical community and open source at Datadog, where he's responsible for developer advocacy, training, documentation, technical writing, multiple engineering teams, and the open source programs office. An ardent but realistic open source advocate with a pragmatic approach, he is the founder of LinuxQuestions.org, which is one of the largest independent open source communities on the web. An early podcaster, he's currently a presenter on Bad Voltage. He's also on the board of the Linux Fund. Before joining Datadog Jeremy ran a consultancy helping organizations implement open source programs, find viable open source business models, and grow technical communities. He's spoken at a variety of conferences, had a column in Linux Magazine, was an ambassador for Opensource.com, and regularly blogged about the intersection of business and open source. Outside of technology he is an avid runner and foodie, and long time Buffalo Bills fan.</p>",
       "company":"Datadog",
@@ -4950,23 +4967,6 @@
          "Technical Oversight Committee"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2021/03/ricardo.jpg"
-   },
-   {
-      "name":"Ricardo Torres",
-      "bio":"<p>Ricardo was named chief engineer of Open Source and Cloud Native Computing in November, 2021. He is responsible for leading the Open Source Program Office, for helping teams adopt cloud technologies, and for advocating for open source software throughout The Boeing Company.</p><p>In this role Ricardo helps teams adopt cloud native patterns and solutions and discusses cloud migration strategies with programs across the enterprise.</p><p>Prior to this role, Ricardo was the solutions architect for Nostromo. He has also served as technical lead, principal software engineer, and scrum master on rapid research and development projects.</p><p>Previous to returning to Boeing, Ricardo worked for Secureworks as a member of the Counter Threat Platform team. Responsibilities included full software lifecycle development of threat intelligence services. Ricardo served as technical lead to re-platform legacy applications to private and public clouds and led greenfield development of cloud native microservices.</p><p>Ricardo earned a Bachelor Degree in Computer Science from the University of Colorado, Colorado Springs. Ricardo holds US patent 9,959,415 titled, “Methods and systems for accessing data from different security domains”, issued on May 1, 2018.</p>",
-      "company":"Boeing",
-      "pronouns":"He/His",
-      "linkedin":"https://www.linkedin.com/in/ricardo-torres-96075471/",
-      "twitter":"https://twitter.com/ricardooncode",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"ricardo_torres.jpg"
    },
    {
       "name":"Richard Hartmann",
