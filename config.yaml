@@ -1,5 +1,8 @@
 organization: cncf
 repositories:
+  - name: subdomain-redirector
+    teams:
+      cncf-automation: admin
   - name: .github
     settings:
       has_wiki: true
@@ -530,6 +533,7 @@ repositories:
       sestegra: write
       sistella: write
       thetwopct: write
+      tym83: write
       ugho16: write
       waleed318: write
       ydFu: write
@@ -572,6 +576,11 @@ repositories:
       landscapers: admin
     settings:
       has_wiki: true
+  - name: homebrew-landscape2
+    teams:
+      clo-admins: admin
+    external_collaborators:
+      landscape2: write
   - external_collaborators:
       caniszczyk: admin
       chalin: admin
@@ -585,8 +594,9 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      BobyMCbobs: maintain
-      Riaankl: maintain
+      BobyMCbobs: admin
+      Riaankl: admin
+      hh: admin
       cncf-ci: admin
     name: k8s-conformance
   - external_collaborators:
@@ -1076,6 +1086,8 @@ teams:
       - RobertKielty
     members:
       - jeefy
+      - idvoretskyi
+      - krook
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
@@ -1186,6 +1198,7 @@ teams:
       - tcs-toc-liasons
       - tcs-burnout-and-inclusiveness
       - tcs-comminfra-leads
+      - tcs-deaf-and-hard-of-hearing
   - name: tcs-maintainers
     maintainers:
       - geekygirldawn
@@ -1232,6 +1245,12 @@ teams:
     members:
       - jberkus
       - hh
+  - name: tcs-deaf-and-hard-of-hearing
+    maintainers:
+      - geekygirldawn
+    members:
+      - robcube
+      - Deafveloper
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
