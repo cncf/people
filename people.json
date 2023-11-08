@@ -355,7 +355,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"alvin-estrada.jpg"
    },
    {
       "name":"Amim Moises Salum Knabben",
@@ -664,7 +664,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"ankur-kothiwal.jpeg"
    },
    {
       "name":"annalisa gennaro",
@@ -1031,7 +1031,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"barun-acharya.jpeg"
    },
    {
       "name":"Batuhan Apaydın",
@@ -1256,7 +1256,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"bret-fisher.jpg"
    },
    {
       "name":"Cailyn Edwards",
@@ -1480,7 +1480,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"chamod-perera.jpg"
    },
    {
       "name":"Chao Zheng",
@@ -1577,7 +1577,7 @@
       "projects":[],
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"chris-mazur.jpg"
    },
    {
       "name":"Chris Wright",
@@ -1670,7 +1670,7 @@
       "projects":[],
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"cristher-castro.jpg"
    },
    {
       "name":"Dana Fine",
@@ -1689,7 +1689,7 @@
       "projects":[],
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"dana-fine.jpeg"
    },
    {
       "name": "Daniel Krook",
@@ -1765,7 +1765,7 @@
       "projects":[],
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"danielle-cook.jpeg"
    },
    {
       "name":"Dave Zolotusky",
@@ -1882,7 +1882,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"di-xu.jpg"
    },
    {
       "name":"Diane Mueller-Klingspor",
@@ -2275,7 +2275,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"faseela-kundatti.jpg"
    },
    {
       "name":"Feynman Zhou",
@@ -2298,7 +2298,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"feynman-zhou.jpg"
    },
    {
       "name":"Fog Dong",
@@ -2334,6 +2334,35 @@
       "image":"fog-dong.jpg"
    },
    {
+      "name":"Frederico Muñoz",
+      "bio":"<p>Frederico started working with GNU and Linux in the mid-90s out of sheer curiosity, a decision that strongly influenced his life. Actively involved in the free software and open source community from early on, he made a path from programming and system administration towards data science, cloud computing and enterprise architecture. In recent years he has been actively involved in projects touching such diverse areas as Quantum computing, IoT, and analytics, and actively participating in the Kubernetes project as part of the Release Team, SIG Contribex, and others. He currently leads the Cloud and Architecture domain at SAS, for the South West & East Europe region. He holds a BA in Archaeology from the University of Lisbon, where he is an MA student and where he also took Physics.</p><p>Why I am excited to be an ambassador: I see being a CNCF Ambassador as a great opportunity to engage with others both in the technical aspects of cloud-native computing and in the many ways that those interested can become active members of the community. Cloud-native technology has largely been developed through open collaboration, and being an Ambassador is taking a step towards more visible participation in building the community - and learning from it.</p>",
+      "company":"",
+      "pronouns":"He/Him",
+      "location":"Lisbon, Portugal",
+      "linkedin":"",
+      "twitter":"https://twitter.com/fredericomunoz",
+      "github":"https://github.com/fsmunoz",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "slack_id": "fsmunoz",
+      "languages":[],
+      "projects":[
+         "Argo",
+         "Confidential Containers",
+         "Fluentd",
+         "Helm",
+         "Istio",
+         "k3s",
+         "Kubernetes",
+         "Prometheus",
+         "TensorFlow"
+      ],
+      "expertise":["Technical", "Non-Technical"],
+      "category":["Ambassadors"],
+      "image":"frederico-munoz.jpg"
+   },
+   {
       "name":"Gaurav Chadha",
       "bio":"<p>Gaurav is an engineer who wears multiple hats in the community, from software engineering to community management to product marketing. He is passionate about building innovative communities and impactful software. His interests and experience lie in community building, project management, cloud native technologies, microservices, artificial intelligence, and product development. In the past, he has been a community engineer at Layer5, an LFX mentor at Meshery, and a CNCF contributor.</p><p>Why I am excited to be an ambassador: I envision bridging geographical gaps, fostering collaboration, and sharing insights across boundaries through engaging technical and non-technical content. Innovation is at the heart of my approach. As a CNCF Ambassador, I plan to cultivate an environment where fresh ideas flourish. By hosting workshops, facilitating discussions, and encouraging creative thinking, I aim to inspire groundbreaking solutions, and drive the advancement of cloud native practices.</p>",
       "company":"",
@@ -2353,7 +2382,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"gaurav-chadha.jpg"
    },
    {
       "name":"Grace Nguyen",
@@ -2467,7 +2496,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"halil-ibrahim-bugol.jpg"
    },
    {
       "name":"Hari Srinivasan",
@@ -2564,7 +2593,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"harsh-manvar.jpg"
    },
    {
       "name":"Harshita Sao",
@@ -2738,7 +2767,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"hui-li.jpg"
    },
    {
       "name":"hui zhang",
@@ -2796,7 +2825,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"humble--devassy--chirammal.jpg"
    },
    {
       "name":"Hung-Ying Tai",
@@ -2822,7 +2851,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"hung-ying-tai.jpg"
    },
    {
       "name":"Iceber Gu",
@@ -2856,7 +2885,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"iceber-gu.jpg"
    },
    {
       "name":"Ihor Dvoretskyi",
@@ -2949,7 +2978,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"irvi-aini.jpg"
    },
    {
       "name":"Itay Shakury",
@@ -3348,7 +3377,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"jimmy-song.jpg"
    },
    {
       "name":"Joanna Lee",
@@ -3500,7 +3529,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"jose-flores.jpg"
    },
    {
       "name":"Josh Gavant",
@@ -3569,7 +3598,7 @@
       ],
       "expertise":["Technical","Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"josh-gavant.jpg"
    },
    {
       "name":"Julia Furst Morgado",
@@ -3856,7 +3885,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"kateryna-nezdolii.jpeg"
    },
    {
       "name":"Katie Gamanji",
@@ -3953,7 +3982,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"kemila-de-silva.jpg"
    },
    {
       "name":"Kevin (Zefeng) Wang",
@@ -4255,7 +4284,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"leon-nunes.jpg"
    },
    {
       "name":"Leonard Pahlke",
@@ -4355,7 +4384,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"lin-sun.jpg"
    },
    {
       "name":"Lindsay Gendreau",
@@ -4528,7 +4557,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"marcus-noble.jpg"
    },
    {
       "name":"María Cruz",
@@ -4636,7 +4665,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"marko-mudrinic.jpg"
    },
    {
       "name":"Mars Toktonaliev",
@@ -4813,7 +4842,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"mauricio-salatino.jpg"
    },
    {
       "name":"Max Körbächer",
@@ -4939,7 +4968,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"michael-levan.jpg"
    },
    {
       "name":"Miley Fu",
@@ -5064,7 +5093,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"nao-nishijima.jpg"
    },
    {
       "name":"Naresh Duddu",
@@ -5428,7 +5457,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"olivier-vernin.jpg"
    },
    {
       "name":"Pablo Fredrikson",
@@ -6001,7 +6030,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"regina-voloshin.jpg"
    },
    {
       "name":"Rey Lejano",
@@ -6029,7 +6058,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"rey-lejano.jpg"
    },
    {
       "name":"Riaan Kleinhans",
@@ -6231,7 +6260,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"rodolfo-martinez-vega.jpg"
    },
    {
       "name":"Rohit Ghumare",
@@ -6262,7 +6291,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"rohit-ghumare.jpg"
    },
    {
       "name":"Ronit Banerjee",
@@ -6304,7 +6333,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"ronit-banerjee.jpg"
    },
    {
       "name":"Rynn Mancuso",
@@ -6379,7 +6408,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"sagar-utekar.jpg"
    },
    {
       "name":"Sai Linn Thu",
@@ -6410,7 +6439,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"sai-linn-thu.jpeg"
    },
    {
       "name":"Saim Safdar",
@@ -6535,7 +6564,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"sanchita-mishra.jpeg"
    },
    {
       "name":"Sara Trappetti",
@@ -6564,7 +6593,7 @@
       ],
       "expertise":["Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"sara-trappetti.jpg"
    },
    {
       "name":"Sascha Grunert",
@@ -6623,7 +6652,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"savitha-raghunathan.jpg"
    },
    {
       "name":"Scott Rigby",
@@ -6696,7 +6725,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"sebastien-prune-thomas.jpg"
    },
    {
       "name":"Sebastian Scheele",
@@ -6785,7 +6814,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"seema-saharan.jpeg"
    },
    {
       "name":"Senthil Raja Chermapandian",
@@ -6819,7 +6848,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"senthil--raja-chermapandian.jpeg"
    },
    {
       "name":"Seokho Son",
@@ -7009,7 +7038,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"shu-muto.jpg"
    },
    {
       "name":"Simon Forster",
@@ -7039,7 +7068,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"simon-forster.jpeg"
    },
    {
       "name":"Stéphane Este-Gracias",
@@ -7081,7 +7110,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"stephane-este-gracias.jpg"
    },
    {
       "name":"Stephen Chin",
@@ -7307,7 +7336,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"taylor-thomas.jpg"
    },
    {
       "name":"Taylor Waggoner",
@@ -7416,7 +7445,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"thomas-labarussias.jpg"
    },
    {
       "name":"Thomas Vitale",
@@ -7458,7 +7487,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"thomas-vitale.jpg"
    },
    {
       "name":"Thomas (Tom) Manville",
@@ -7620,7 +7649,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"toru-komatsu.jpg"
    },
    {
       "name":"Uchechukwu Obasi",
@@ -7735,7 +7764,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"victor-morales.jpg"
    },
    {
       "name":"Viktor Farcic",
@@ -7780,7 +7809,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"viktor-farcic.jpg"
    },
    {
       "name":"Vijoy Pandey",
@@ -7921,7 +7950,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"william-rizzo.jpg"
    },
    {
       "name":"Xander Grzywinski",
@@ -8045,7 +8074,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"xunzhuo-liu.jpg"
    },
    {
       "name":"Yaron Haviv",
@@ -8161,7 +8190,7 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":"yoshiyuki-tabata.jpg"
    },
    {
       "name":"Zain Asgar",
@@ -8263,6 +8292,6 @@
       ],
       "expertise":["Technical"],
       "category":["Ambassadors"],
-      "image":"jie-ding.jpeg"
+      "image":""
    }
 ]
