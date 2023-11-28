@@ -2213,26 +2213,24 @@
       "twitter":"https://www.twitter.com/ericschabell",
       "github":"https://github.com/eschabell",
       "wechat":"",
-      "website":"",
-      "youtube":"",
+      "website":"https://www.schabell.org",
+      "youtube":"https://www.youtube.com/playlist?list=PLa-VTOSxJE7OXxVSBcLX0NVyZVijq69Hx",
       "slack_id": "Eric D Schabell",
-      "languages":[],
+      "languages":[English, Dutch],
       "projects":[
          "Argo",
          "containerd",
          "CRI-O",
          "Fluentd",
-         "Helm",
+         "Fluendbit",
          "Jaeger",
          "Kubernetes",
          "OpenTelemetry",
-         "OpenTracing",
-         "Operator Framework",
          "Prometheus"
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"eric-d-scahbell.jpg"
+      "image":"eric-d-schabell.jpg"
    },
    {
       "name":"Erin Boyd",
