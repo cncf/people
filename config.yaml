@@ -57,17 +57,15 @@ repositories:
     name: banners
     visibility: private
   - external_collaborators:
-      kwussow: admin
+      taylorwaggoner: admin
     name: business-value
     settings:
       has_wiki: true
   - external_collaborators:
       Deep-Cyber: admin
       daniellemcook: admin
-      oicheryl: admin
       onlydole: admin
       siforster: admin
-      xmulligan: admin
     name: cartografos
     settings:
       has_wiki: true
@@ -126,7 +124,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       InAnimaTe: maintain
-      KTan1226: read
       TimBanks: maintain
       alexcontini: write
       alisondy: admin
@@ -149,7 +146,6 @@ repositories:
       pritianka: admin
       rawkode: admin
       saiyam1814: maintain
-      xmulligan: admin
     name: cloudnativetv
     settings:
       has_wiki: true
@@ -178,7 +174,6 @@ repositories:
     name: cncf.io
   - external_collaborators:
       HashNuke: write
-      KTan1226: write
       agentpoyo: maintain
       amye: admin
       caniszczyk: admin
@@ -231,7 +226,6 @@ repositories:
       uditgaurav: write
       wavell: admin
       williscool: maintain
-      xmulligan: read
     name: cnf-testsuite
     settings:
       has_wiki: true
@@ -269,7 +263,6 @@ repositories:
       vukg: triage
       wavell: write
       williscool: triage
-      xmulligan: admin
     name: cnf-wg
     settings:
       has_wiki: true
@@ -737,8 +730,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       jordinl: write
-      kgamanji: write
-      oicheryl: admin
       onlydole: admin
     name: radar
   - name: public-sector-user-group
@@ -750,7 +741,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       jimbobby5: admin
-      oicheryl: admin
       rochaporto: admin
       soheilade: read
     name: research-user-group
@@ -790,20 +780,17 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      KTan1226: admin
       amye: admin
       flanets: triage
       hh: triage
       idvoretskyi: admin
       jacmathew: triage
       kunal-kushwaha: maintain
-      oicheryl: admin
       pritianka: admin
       saiyam1814: read
       sajitss: triage
       savitharaghunathan: triage
       sergioarmgpl: triage
-      xmulligan: admin
     name: students
     settings:
       has_wiki: true
@@ -936,7 +923,6 @@ repositories:
       jbogarthyde: triage # Expert Support
     name: techdocs
   - external_collaborators:
-      ASalkever: write
       dabernie: read
       denverwilliams: read
       jeffsaelens: read
@@ -946,7 +932,6 @@ repositories:
       taylor: admin
       tomkivlin: read
       wavell: triage
-      xmulligan: admin
     name: telecom-user-group
   - external_collaborators:
       agentpoyo: maintain
@@ -1043,7 +1028,6 @@ repositories:
       joannalee333: write
       k8tgreenley: admin
       krook: write
-      KTan1226: maintain
       libbyschulze: write
       lixuna: write
       lukaszgryglicki: admin
@@ -1063,7 +1047,6 @@ repositories:
       tmmoore1: write
       vheric: maintain
       melsmo: write
-      marissabschwartz: write
       huats: write
     name: workflow
     settings:
