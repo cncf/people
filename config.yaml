@@ -843,14 +843,11 @@ repositories:
   - external_collaborators:
       amye: admin
       caniszczyk: admin
-      caradelia: maintain
-      catblade: admin
-      guidemetothemoon: maintain
-      leonardpahlke: admin
-      mkorbi: admin
       nate-double-u: admin
-      nikimanoledaki: maintain
       chalin: maintain
+    teams:
+      tag-env-leads: admin
+      tag-env-wg-leads: write
     name: tag-env-sustainability
     settings:
       has_wiki: true
@@ -1175,6 +1172,19 @@ teams:
     displayName: CNCF End Users
     secret: false
   - name: tag-env-sustainability
+    formation:
+      - tag-env-leads
+      - tag-env-wg-leads
+  - name: tag-env-wg-leads # TAG ENV Working Group Chairs and Tech Leads
+    maintainers:
+      - leonardpahlke
+    members:
+      - AntonioDiTuri
+      - caradelia
+      - nikimanoledaki
+      - patricia-cahill
+      - rossf7
+  - name: tag-env-leads # TAG ENV Chairs and Tech Leads
     maintainers:
       - leonardpahlke
     members:
@@ -1182,8 +1192,6 @@ teams:
       - catblade
       - guidemetothemoon
       - mkorbi
-      - nikimanoledaki
-      - patricia-cahill
   - name: tag-contributor-strategy
     formation:
       - tcs-maintainers
