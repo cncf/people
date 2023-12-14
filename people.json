@@ -1259,6 +1259,23 @@
       "image":"bret-fisher.jpg"
    },
    {
+      "name":"Brienne Alves",
+      "bio":"Brienne is an Event Planner at The Linux Foundation, managing multiple facets of several events, including the Kubernetes Contributor Summit. Prior to joining The Linux Foundation, Brienne brings over 10 years experience in the events industry managing hundreds of corporate annual technical and educational conferences around the world as well as social events and weddings.",
+      "company":"Event Planner",
+      "pronouns":"she/her",
+      "linkedin":"https://www.linkedin.com/in/briennea/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"brienne-alves.jpg"
+   },
+   {
       "name":"Cailyn Edwards",
       "bio":"<p>Cailyn is a Senior Infrastructure Security Engineer, with a passion for Kubernetes and the open source world. She is an active contributor to Kubernetes SIG-Security, SIG-CLI and a 2022 Kubernetes Contributor Award recipient. Her current focus is on network, and Kubernetes multi-tenancy security and she gets to spend her working hours contributing up stream. It brings her great joy to spend time with the CNCF community and empower folks to become involved. Outside of work Cailyn can be found running, playing squash, walking her dogs or working in the garden.</p><p>Why I am excited to be an ambassador: I am *so* excited to be a CNCF ambassador because this community has been incredibly impactful to my growth in the industry and I want to give back. I cannot wait to help share all the wonderful things happening at CNCF and organize events for members new and old. One of my favourite parts of my job is mentoring, and I look forward to being able to do this in the Cloud Native community! I want to ensure that each new member has the same welcoming and positive experience that I did!</p>.",
       "company":"Shopify Inc.",
@@ -4050,23 +4067,6 @@
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
       "image":"kohei-ota.jpg"
-   },
-   {
-      "name":"Kristi Tan",
-      "bio":"Kristi is a Core Organizer of the Kubernetes Community Days program where she assists organizers at all stages in the process of these global community-led events. She also produces CNCF content including the Project Journey Reports and supports email marketing. Previously, she led social media strategy and marketing for various networking and automotive open source projects. She holds a Bachelor of Arts from the University of Oregon.",
-      "company":"Director of Marketing & Member Programs",
-      "pronouns":"she/her",
-      "linkedin":"https://www.linkedin.com/in/kristi-tan-6a047745/",
-      "twitter":"https://twitter.com/muellerkristi",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Staff"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2017/06/0-7.jpg"
    },
    {
       "name":"Kristina Devochko",
@@ -7284,7 +7284,7 @@
    },
    {
      "name": "Taylor Dolezal",
-     "bio": "I work on infrastructure tools that enable innovation. I specialize in Kubernetes, Terraform, public clouds, and distributed systems. You can also find me buried deep in a book, preparing a technical talk, or running with my partner, Hannabeth, and our two dogs.",
+     "bio": "Navigating the cloud native universe with a knack for puns and a keen eye for psychology. Living in the heart of LA, I blend tech innovation with mental insights, one punny cloud at a time. Avid reader, thinker, and cloud whisperer.",
      "company": "Head of Ecosystem",
      "pronouns": "he/him",
      "linkedin": "https://www.linkedin.com/in/onlydole/",
@@ -8155,19 +8155,20 @@
    },
    {
       "name":"Yoshiyuki Tabata",
-      "bio":"<p>Yoshiyuki Tabata is a Senior OSS Consultant at Hitachi, Ltd, responsible for API Security, especially Authentication/Authorization. As an authentication and authorization expert, he mainly consults on authentication and authorization infrastructure and API infrastructure, for example designing and building API/SSO systems in the financial, public, social, and industrial fields. He's also a contributor to API-related OSSs such as Keycloak and 3scale and develops features based on feedback from actual projects he consulted. He's also a conference speaker of API-related events and an author of some books and web articles about Identity and Access Management.</p><p>Why I am excited to be an ambassador: I usually consult with our customers on authentication and authorization infrastructure and API infrastructure (I have experience building systems for finance and government using Keycloak and Kubernetes), and it seems that the adoption rate of the CNCF family in general systems is still low in Japan. Also, in systems that adopt the CNCF family, there are many systems with weak security due to placing too much emphasis on developer experience and agility. Therefore, as a CNCF ambassador, I would like to use the knowledge I have cultivated through many projects (not only the knowledge as a security consultant but also the knowledge as a Keycloak contributor and a conference speaker) to spread the word about a better and safer CNCF ecosystem.</p>",
-      "company":"",
+      "bio":"<p>Yoshiyuki Tabata is a Senior OSS Consultant at Hitachi, Ltd, responsible for API Security, especially Authentication/Authorization. As an authentication and authorization expert, he mainly consults on authentication and authorization infrastructure and API infrastructure, for example designing and building API/SSO systems in the financial, public, social, and industrial fields. He's also a contributor to API-related OSSs such as Keycloak and 3scale and develops features based on feedback from actual projects he consulted. He's also a conference speaker of API-related events and an author of some books and web articles about Identity and Access Management.</p><p>Why I am excited to be an ambassador: I usually consult with our customers on authentication and authorization infrastructure and API infrastructure (I have experience building systems for finance and government using Keycloak and Kubernetes), and it seems that the adoption rate of the CNCF family in general systems is still low in Japan. Also, in systems that adopt the CNCF family, there are many systems with weak security due to placing too much emphasis on developer experience and agility. Therefore, as a CNCF ambassador, I would like to use the knowledge I have cultivated through many projects (not only the knowledge as a security consultant but also the knowledge as a Keycloak contributor and a conference speaker) to disseminate solutions and know-how for a better and more secure CNCF ecosystem.</p>",
+      "company":"Hitachi, Ltd.",
       "pronouns":"He/Him",
       "location":"Yokohama, Japan",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/ytabata/",
       "twitter":"",
       "github":"https://github.com/y-tabata",
       "wechat":"",
       "website":"",
       "youtube":"",
       "slack_id": "yoshiyuki.tabata.jy",
-      "languages":[],
+      "languages":["Japanese", "English"],
       "projects":[
+         "Keycloak",
          "Envoy",
          "Istio",
          "Jaeger",
