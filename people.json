@@ -780,6 +780,24 @@
       "image":"phippy.jpg"
    },
    {
+      "name":"Aparna Subramanian",
+      "bio":"Aparna is a technologist and cloud-native enthusiast. She started her career as a Software Engineer and has spent most part of her 18 years of experience specializing in Infrastructure and Data Platforms. She serves as co-chair of the \"CNCF End User Developer Experience\" SIG. She is passionate about building inclusive communities where everyone knows their voices will be heard. She is currently Director of Production Engineering at Shopify where she leads Shopify's Cloud Native Production Platform. Previously, she was Director of Engineering at VMware where she was a founding member of Tanzu on vSphere, a Kubernetes Platform for the hybrid cloud. When not working, Aparna enjoys baking, gardening, and yoga.",
+      "company":"Shopify",
+      "tab_role":"End User At-Large Rep",
+      "pronouns":"she/her",
+      "linkedin":"https://www.linkedin.com/in/subramanianaparna/",
+      "twitter":"",
+      "github":"https://github.com/aparna-subramanian",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"aparna-subramanian.jpg"
+   },
+   {
       "name":"Arsh Sharma",
       "bio":"<p>Arsh currently serves as the New Contributor Ambassador for the Documentation Special Interest Group of the Kubernetes project and mentors new folks in the community. He has also led the CI Signal Team in the 1.25 Kubernetes Release. Previously, he was also an active contributor to other CNCF projects, including cert-manager and Kyverno. Arsh has written blogs and spoken about different topics in the cloud-native ecosystem at various conferences before. Recordings of some of his talks can be found at: https://arshsharma.com/speaking/</p><p>Why I am excited to be an ambassador: I owe a lot to open source and the CNCF open source community in particular. I'm excited to be an ambassador to be able to give back to the community and help others get started on their journey of contributing! As someone who has firsthand witnessed the benefits in personal and professional life thanks to the community, I want others to be able to share these joys as well.</p>",
       "company":"Okteto",
@@ -1416,6 +1434,24 @@
          "Technical Oversight Committee"
       ],
       "image":"cathy-zhang.jpg"
+   },
+   {
+      "name":"Chad Beaudin",
+      "bio":"<p>Chad is the Chief Engineer for the Boeing Software Factory and a Technical Fellow.  In these roles he drives the technical vision for how software is developed by thousands of engineers utilizing cloud native methodologies in a variety of highly regulated environments.  As a DevOps enthusiast, he promotes the sharing of best practices around CI/CD.</p><p>When not working, Chad is an avid mountain biker.</p>",
+      "company":"Boeing",
+      "tab_role":"Platinum Member Rep",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"chad-beaudin.jpg"
    },
    {
       "name":"Chad Crowell",
@@ -3925,6 +3961,7 @@
       "name":"Katie Gamanji",
       "bio":"<p>Katie is a cloud native leader, practitioner, and contributor, currently in a Senior Kubernetes Field Engineer role at Apple and a TOC for CNCF. As a cloud platform engineer, Katie has built the infrastructure for Conde Nast and American Express, gravitating towards cloud-native technologies, principles, and Kubernetes as the focal point. At CNCF (Cloud Native Computing Foundation), she was a Technical Oversight Committee member and led the CNCF End User Community.  At present, Katie advises the Keptn startup and holds the Chief of Future Founders Officer (CFFO) position at OpenUK.</p><p>Recently, Katie released the Cloud Native Fundamentals course and led the creation of the CNCF KCNA (Kubernetes and Cloud Native Associate) certification. Additionally, Katie is an active keynote public speaker, a  #TechWomen100 winner, and a strong advocate for women in STEM. </p>",
       "company":"Apple",
+      "tab_role":"TOC Rep",
       "pronouns":"she/her",
       "linkedin":"https://www.linkedin.com/in/katie-gamanji/",
       "twitter":"https://twitter.com/k_gamanji",
@@ -3934,7 +3971,8 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"katie-gamanji.jpg"
    },
@@ -6097,18 +6135,20 @@
    },
    {
       "name":"Ricardo Rocha",
-      "bio":"<p>Ricardo is a Computing Engineer in the CERN cloud team focusing on containerized deployments, networking and more recently machine learning platforms. He has led for several years the internal effort to transition services and workloads to use cloud native technologies, as well as dissemination and training efforts. Ricardo got CERN to join the CNCF and is a lead of the CNCF Research User Group. Prior to this work Ricardo helped develop the grid computing infrastructure serving the Large Hadron Collider (LHC).</p>",
+      "bio":"Ricardo leads the Platform Infrastructure team at CERN with a strong focus on cloud native deployments and machine learning. He has led for several years the internal effort to transition services and workloads to use cloud native technologies, as well as dissemination and training efforts. Ricardo got CERN to join the CNCF and is a lead of the CNCF Research User Group. Prior to this work Ricardo helped develop the grid computing infrastructure serving the Large Hadron Collider (LHC).",
       "company":"CERN",
+      "tab_role":"End User At-Large Rep",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/ricardo-rocha-739aa718/",
       "twitter":"https://twitter.com/ahcorporto",
-      "github":"",
+      "github":"https://github.com/rochaporto",
       "wechat":"",
       "website":"",
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2021/03/ricardo.jpg"
    },
@@ -6923,6 +6963,24 @@
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
       "image":"sergio-mendez.jpg"
+   },
+   {
+      "name":"Sergiu Petean",
+      "bio":"<p>Ever since I embarked on my software engineering journey over 20 years ago, my love for technology and innovation has shaped my life in remarkable ways. As a thoughtful leader and entrepreneur, I've been fortunate to work with incredible teams and witness the transformative power of digital solutions.</p><p>One of the most memorable chapters in my career has been helping organisations adopt DevOps and Cloud Native technologies. The excitement of seeing these changes drive agility and growth in a fast-paced industry has been truly rewarding.</p><p>A defining moment in my journey was when I co-founded Open IoT Vienna. This platform, which fosters collaboration and promotes Open Source solutions in the IoT space, has brought together countless talented individuals, creating a vibrant community I am immensely proud of.</p><p>Being an entrepreneur has taught me invaluable lessons, and I've had the privilege of launching multiple businesses. With each new venture, I've gained unique perspectives and learned to embrace challenges with resilience.</p><p>My passion for sharing knowledge and inspiring others has also led me to the stage as a keynote speaker. I've had the honour of discussing digital transformation and sovereignty, leadership, and emerging technologies. I find great joy in empowering others to succeed in the ever-evolving world of technology.</p><p>As I reflect on my journey, I am grateful for the experiences and connections that have shaped my life, and I am excited to continue empowering individuals and teams in the pursuit of innovation and success.</p>",
+      "company":"Allianz Direct",
+      "tab_role":"Silver Member Rep",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/peteanusergiu/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"sergiu-petean.jpg"
    },
    {
       "name":"Shahriyar Al Mustakim Mitul",
