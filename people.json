@@ -4395,6 +4395,31 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/li-yi-alibaba-1.jpg"
    },
    {
+      "name":"Liam Randall",
+      "bio":"<p>As the CEO of Cosmonic and co-creator of CNCF wasmCloud, Liam has significantly advanced cloud-native computing. His started his journey in the CNCF early, creating the first commercial Kubernetes distribution, Critical Stack, in 2014 (acquired by Capital One Bank in 2016). At Capital One, Liam helped migrate the first regulated company into the cloud, led the donation of Cloud Custodian into the CNCF, and co-founded CNCF wasmDay, firmly establishing himself as a leading figure in promoting WebAssembly in cloud-native environments.</p><p><i>Why am I excited to be a CNCF Ambassador?</i></p>  <p>I'm deeply passionate about the transformative power of open source and diverse collaborative communities - they really are better together. To me, these are not just technical methodologies to describe features of code creation but pathways to building superior software. My commitment to this belief is rooted in years of experience and observation; open communities foster innovation, collaboration, and a level of quality that proprietary models struggle to match. Particularly with WebAssembly's emergence in the cloud-native space, I've witnessed how it empowers developers to create more efficient, secure, and versatile applications, further fueling my enthusiasm as a CNCF Ambassador to advocate for these technologies.</p>",
+      "company":"Cosmonic",
+      "pronouns":"He/Him",
+      "location":"Arlington, VA, United States",
+      "linkedin":"https://www.linkedin.com/in/hectaman/",
+      "twitter":"https://www.twitter.com/hectaman",
+      "github":"https://github.com/liamrandall",
+      "wechat":"",
+      "website":"https://liamrandall.com",
+      "youtube":"https://www.youtube.com/@wasmcloud",
+      "slack_id": "UR4MJJR60",
+      "languages":[],
+      "projects":[
+         "Cilium",
+         "Cloud Custodian",
+         "Kubernetes",
+         "NATS",
+         "wasmCloud"
+      ],
+      "expertise":["Technical", "Non-Technical"],
+      "category":["Ambassadors"],
+      "image":"liam-randall.png"
+   },
+   {
       "name":"Libby Schulze",
       "bio":"Libby is a Marketing Programs Manager at CNCF overseeing Online Programs, KubeWeekly, and other marketing initiatives. Her experience spans over 15 years in the tech industry including event planning and marketing. She holds a Bachelor of Science from the University of Texas and currently resides in San Antonio. When not at work, Libby enjoys spending time with her family and going to the beach.",
       "company":"Marketing Programs Manager",
