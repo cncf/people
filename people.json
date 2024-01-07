@@ -8184,28 +8184,30 @@
       "image":"https://www.cncf.io/wp-content/uploads/2017/10/18oLcZPr_400x400.jpg"
    },
    {
-      "name":"Yiming Peng",
-      "bio":"<p>Serverless addict / Software creator / Open-Source enthusiast / Community host. Creator and maintainer of community CloudNative-Serverless-Meetup (Follow: https://www.linkedin.com/company/cloud-native-serverless-meetup/) and newsletter: https://www.learnsomesoftwareinfrastructurethismonth.com/ (Subscribe it if you like, and don't forget check the confirmation email in inbox, it is double opt-in). Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Find me on Twitter: @pymhq ; More in http://yimingpeng.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting infrastructure, particularly in the realm of Cloud Native technologies, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
-      "company":"Amazon Web Service",
+      "name":"Andy (Yiming) Peng",
+      "bio":"<p>Seasoned software builder / technology leader based in Seattle (WA). Public speaker and author. Specialized in GenAI/AI/ML, foundational data services, virtualization / containers, and serverless computing etc., open-source. Community Lead of Cloud Native Seattle; tech advisory board. Member of LF AI & Data Generative AI Commons. Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Find me on Twitter: @pymhq ; More in https://pymslu.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting fundamental technologies, particularly in the realm of Cloud Native solutions, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to Linxu Foundation and CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
+      "company":"Amazon Web Services, Inc.",
       "pronouns":"He/Him",
       "location":"Seattle, United States",
       "linkedin":"https://www.linkedin.com/in/pengyiming/",
       "twitter":"https://www.twitter.com/pymhq",
       "github":"https://github.com/pymhq",
       "wechat":"pym_hq",
-      "website":"http://yimingpeng.com/",
+      "website":"https://pymslu.com/",
       "youtube":"",
       "slack_id": "Andy Peng",
       "languages":[],
       "projects":[
+         "Kubernetes",
+         "RocksDB",
+         "Firecracker",
          "containerd",
          "Envoy",
          "gRPC",
-         "Knative",
-         "Kubernetes",
-         "OpenTelemetry"
+         "OpenTelemetry",
+         "Knative"
       ],
-      "expertise":["Technical", "Non-Technical"],
+      "expertise":["Technical"],
       "category":["Ambassadors"],
       "image":"yiming-peng.jpeg"
    },
