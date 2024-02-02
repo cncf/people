@@ -3163,25 +3163,23 @@
       "image":"janelle-caudill.jpeg"
    },
    {
-      "name":"Jeffrey Sica",
-      "bio":"Jeffrey (@jeefy) is Head of Projects at the CNCF, with a focus on improving community and project automation. Before that, he's worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout.\n\nMeetups: Board Member for <a href=\"https://orchestructure.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Orchestructure</a>",
-      "company":"Head of Projects",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/jeefy/",
-      "twitter":"https://twitter.com/jeefy",
-      "github":"https://github.com/jeefy",
-      "wechat":"",
-      "website":"https://jeefy.dev",
-      "youtube":"",
-      "location":"Minneapolis, MN",
-      "projects":["Kubernetes", "Prometheus"],
-      "priority":"",
-      "category":[
-         "Staff"
-      ],
-      "email": "me!jeefy.dev",
-      "slack_id": "U8C56BHNC",
-      "image":"https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
+     "name": "Jeffrey Sica",
+     "bio": "Jeffrey (@jeefy) is Head of Projects at the CNCF, with a focus on improving community and project automation. Before that, he's worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout.\n\nMeetups: Board Member for <a href=\"https://orchestructure.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Orchestructure</a>",
+     "company": "Head of Projects",
+     "pronouns": "",
+     "linkedin": "https://www.linkedin.com/in/jeefy/",
+     "twitter": "https://twitter.com/jeefy",
+     "github": "https://github.com/jeefy",
+     "wechat": "",
+     "website": "https://jeefy.dev",
+     "youtube": "",
+     "priority": 100,
+     "location": "Minneapolis, MN",
+     "projects": ["Kubernetes", "Prometheus"],
+     "category": ["Staff"],
+     "email": "me!jeefy.dev",
+     "slack_id": "U8C56BHNC",
+     "image": "https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
    },
    {
       "name":"Jenn Skeivik",
@@ -7396,10 +7394,8 @@
      "wechat": "",
      "website": "",
      "youtube": "https://www.youtube.com/channel/UCedj-RrSa0d7h-oqWkHu8aQ",
-     "priority": "",
-     "category": [
-       "Staff"
-      ],
+     "priority": 100,
+     "category": ["Staff"],
      "image": "taylor-dolezal.jpg"
    },
    {
