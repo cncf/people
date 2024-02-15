@@ -783,7 +783,7 @@
       "name":"Aparna Subramanian",
       "bio":"Aparna is a technologist and cloud-native enthusiast. She started her career as a Software Engineer and has spent most part of her 18 years of experience specializing in Infrastructure and Data Platforms. She serves as co-chair of the \"CNCF End User Developer Experience\" SIG. She is passionate about building inclusive communities where everyone knows their voices will be heard. She is currently Director of Production Engineering at Shopify where she leads Shopify's Cloud Native Production Platform. Previously, she was Director of Engineering at VMware where she was a founding member of Tanzu on vSphere, a Kubernetes Platform for the hybrid cloud. When not working, Aparna enjoys baking, gardening, and yoga.",
       "company":"Shopify",
-      "tab_role":"End User At-Large Rep",
+      "tab_role":"",
       "pronouns":"she/her",
       "linkedin":"https://www.linkedin.com/in/subramanianaparna/",
       "twitter":"",
@@ -1439,7 +1439,7 @@
       "name":"Chad Beaudin",
       "bio":"<p>Chad is the Chief Engineer for the Boeing Software Factory and a Technical Fellow.  In these roles he drives the technical vision for how software is developed by thousands of engineers utilizing cloud native methodologies in a variety of highly regulated environments.  As a DevOps enthusiast, he promotes the sharing of best practices around CI/CD.</p><p>When not working, Chad is an avid mountain biker.</p>",
       "company":"Boeing",
-      "tab_role":"Platinum Member Rep",
+      "tab_role":"",
       "pronouns":"",
       "linkedin":"",
       "twitter":"",
@@ -1851,7 +1851,8 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg"
    },
@@ -2417,6 +2418,24 @@
       "image":"frederico-munoz.jpg"
    },
    {
+      "name":"Garry Cairns",
+      "bio":"Garry is a lead engineer at JPMorgan Chase, currently focusing on observability. He has over a decade of Python experience, and enjoys trying out other languages, learning fun things about statistics, and making bread in his spare time.",
+      "company":"JPMorgan Chase",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"https://github.com/garry-cairns",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"garry-cairns.jpg"
+   },
+   {
       "name":"Gaurav Chadha",
       "bio":"<p>Gaurav is an engineer who wears multiple hats in the community, from software engineering to community management to product marketing. He is passionate about building innovative communities and impactful software. His interests and experience lie in community building, project management, cloud native technologies, microservices, artificial intelligence, and product development. In the past, he has been a community engineer at Layer5, an LFX mentor at Meshery, and a CNCF contributor.</p><p>Why I am excited to be an ambassador: I envision bridging geographical gaps, fostering collaboration, and sharing insights across boundaries through engaging technical and non-technical content. Innovation is at the heart of my approach. As a CNCF Ambassador, I plan to cultivate an environment where fresh ideas flourish. By hosting workshops, facilitating discussions, and encouraging creative thinking, I aim to inspire groundbreaking solutions, and drive the advancement of cloud native practices.</p>",
       "company":"",
@@ -2675,6 +2694,24 @@
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
       "image":"harshita-sao.jpg"
+   },
+   {
+      "name":"Henrik Blixt",
+      "bio":"Henrik leads a Product Management team responsible for the Intuit core platform, where he defines the strategy and direction that has shaped Intuit’s cloud native platform based on CNCF projects like Kubernetes, Envoy, Istio, Prometheus, Argo (and many more!) that’s used by 7000 developers and serving over 100M users.</p>\n\n<p> Being a passionate member of the open source community for almost 30 years, from Linux through OpenStack and Kubernetes, Henrik is currently focused on the Argo project as a core maintainer. He also represents Intuit across other committees, like the CNOE project and the broader Linux Foundation, where he shares experiences and best practices from Intuit’s use of open source, making sure end users are heard and their pain points understood.</p>\n\n<p>He loves engaging with the community and  has been a prolific speaker and event program committee member across ArgoCon, GitOpsCon, Kubecon over the years. A native of Sweden, earning his B.Sc in information systems from the University of Gothenburg, he now resides in California with his family.",
+      "company":"Intuit",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/hblixt/",
+      "twitter":"https://twitter.com/khblixt",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"henrik-blixt.jpeg"
    },
    {
       "name":"Hoon Jo",
@@ -3958,7 +3995,7 @@
       "name":"Katie Gamanji",
       "bio":"<p>Katie is a cloud native leader, practitioner, and contributor, currently in a Senior Kubernetes Field Engineer role at Apple and a TOC for CNCF. As a cloud platform engineer, Katie has built the infrastructure for Conde Nast and American Express, gravitating towards cloud-native technologies, principles, and Kubernetes as the focal point. At CNCF (Cloud Native Computing Foundation), she was a Technical Oversight Committee member and led the CNCF End User Community.  At present, Katie advises the Keptn startup and holds the Chief of Future Founders Officer (CFFO) position at OpenUK.</p><p>Recently, Katie released the Cloud Native Fundamentals course and led the creation of the CNCF KCNA (Kubernetes and Cloud Native Associate) certification. Additionally, Katie is an active keynote public speaker, a  #TechWomen100 winner, and a strong advocate for women in STEM. </p>",
       "company":"Apple",
-      "tab_role":"TOC Rep",
+      "tab_role":"",
       "pronouns":"she/her",
       "linkedin":"https://www.linkedin.com/in/katie-gamanji/",
       "twitter":"https://twitter.com/k_gamanji",
@@ -4656,6 +4693,24 @@
       "image":"phippy.jpg"
    },
    {
+      "name":"Mario Constanti",
+      "bio":"Mario is a Software Engineer at Mercedes-Benz Tech Innovation. In 2015 he jumped into the very young Kubernetes ecosystem and helped application teams to learn all the stuff around containers and K8s.</p>\n\n<p>When Mercedes Benz decided in 2016 to launch a managed Kubernetes service, Mario was one of the initial members in that team in the very early beginning. That managed service evolved to a worldwide distributed platform within MB with nearly 1,000 dedicated clusters.</p>\n\n<p>Over time, he has witnessed the evolution of Kubernetes and the CNCF as well as the adoption of cloud native patterns in software teams all over the world. He always wore different hats to make the product and the team a success. But at heart, he is still an engineer who loves to code.",
+      "company":"Mercedes-Benz Tech Innovation",
+      "tab_role":"",
+      "pronouns":"He/Him",
+      "linkedin":"https://www.linkedin.com/in/mario-constanti/",
+      "twitter":"https://twitter.com/bavarian_bidi",
+      "github":"https://github.com/bavarianbidi",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"mario-constanti.jpg"
+   },
+   {
       "name":"Mario Loriedo",
       "bio":"<p>Mario is a Senior Principal Software Engineer at Red Hat. He works on container-based developer tools. He co-maintains the CNCF Devfile project and leads the Eclipse Che project. He has been a speaker at conferences such as KubeCon, LinuxCon, JavaOne and FOSDEM.</p><p>Why I am excited to be an ambassador: I am excited to be part of the CNCF ambassador program because that will help share my knowledge and my experience as a developer using and developing Kubernetes with others. I am also looking forward to meet with other ambassadors.</p>",
       "company":"Red Hat",
@@ -5043,6 +5098,24 @@
       "expertise":["Technical"],
       "category":["Ambassadors"],
       "image":"michael-levan.jpg"
+   },
+   {
+      "name":"Mike Bowen",
+      "bio":"Tech Fellow, Senior Principal Engineer, and technology leader responsible for cloud-native technical and solutions architecture. Designs, develops, and maintains the enterprise Kubernetes-based cloud-native platform at BlackRock. Runs the BlackRock Open Source Program Office (OSPO).",
+      "company":"BlackRock",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"mike-bowen.jpg"
    },
    {
       "name":"Miley Fu",
@@ -6157,7 +6230,7 @@
       "name":"Ricardo Rocha",
       "bio":"Ricardo leads the Platform Infrastructure team at CERN with a strong focus on cloud native deployments and machine learning. He has led for several years the internal effort to transition services and workloads to use cloud native technologies, as well as dissemination and training efforts. Ricardo got CERN to join the CNCF and is a lead of the CNCF Research User Group. Prior to this work Ricardo helped develop the grid computing infrastructure serving the Large Hadron Collider (LHC).",
       "company":"CERN",
-      "tab_role":"End User At-Large Rep",
+      "tab_role":"",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/ricardo-rocha-739aa718/",
       "twitter":"https://twitter.com/ahcorporto",
@@ -7003,7 +7076,7 @@
       "name":"Sergiu Petean",
       "bio":"<p>Ever since I embarked on my software engineering journey over 20 years ago, my love for technology and innovation has shaped my life in remarkable ways. As a thoughtful leader and entrepreneur, I've been fortunate to work with incredible teams and witness the transformative power of digital solutions.</p><p>One of the most memorable chapters in my career has been helping organisations adopt DevOps and Cloud Native technologies. The excitement of seeing these changes drive agility and growth in a fast-paced industry has been truly rewarding.</p><p>A defining moment in my journey was when I co-founded Open IoT Vienna. This platform, which fosters collaboration and promotes Open Source solutions in the IoT space, has brought together countless talented individuals, creating a vibrant community I am immensely proud of.</p><p>Being an entrepreneur has taught me invaluable lessons, and I've had the privilege of launching multiple businesses. With each new venture, I've gained unique perspectives and learned to embrace challenges with resilience.</p><p>My passion for sharing knowledge and inspiring others has also led me to the stage as a keynote speaker. I've had the honour of discussing digital transformation and sovereignty, leadership, and emerging technologies. I find great joy in empowering others to succeed in the ever-evolving world of technology.</p><p>As I reflect on my journey, I am grateful for the experiences and connections that have shaped my life, and I am excited to continue empowering individuals and teams in the pursuit of innovation and success.</p>",
       "company":"Allianz Direct",
-      "tab_role":"Silver Member Rep",
+      "tab_role":"",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/peteanusergiu/",
       "twitter":"",
