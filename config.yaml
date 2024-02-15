@@ -409,7 +409,7 @@ repositories:
     name: enduser
     visibility: private
     teams:
-      cncf-end-users: read
+      cncf-end-users: write
   - name: enduser-public
   - name: evolution-of-cloud-native
     visibility: private
