@@ -1857,6 +1857,27 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg"
    },
    {
+      "name": "Davanum Srinivas",
+      "bio": "<p>Davanum Srinivas (a.k.a Dims) is a Principal Engineer with Amazon Web Services working on Kubernetes, containerd and related projects at CNCF. Dims is involved in various Kubernetes SIGs and working groups like the Architecture, Testing, Node, Infrastructure etc.</p>",
+      "company": "AWS",
+      "pronouns": "he/him",
+      "linkedin": "https://www.linkedin.com/in/davanum/",
+      "twitter": "https://twitter.com/dims",
+      "github": "https://github.com/dims",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "projects": [
+         "containerd",
+         "Kubernetes"
+      ],
+      "category": [
+         "Technical Oversight Committee"
+      ],
+      "image": "https://www.cncf.io/wp-content/uploads/2019/07/23304.jpg"
+   },
+   {
       "name":"David Hirsch",
       "bio":"<p>David Peter Hirsch is a Program Manager at Dynatrace's Open Source Program Office, where he oversees the company's open source initiatives. He is responsible for driving compliance and security efforts around open source software within the company, as well as supporting the creation and contribution to new open source projects. David also supports projects in their early stages, helping drive adoption and community development for Keptn, OpenFeature, and OpenTelemetry, and works closely with the engineering teams to ensure their success. David is a member of the InnerSource Commons and TODO Group, and he fosters collaboration with foundations and participation in the community and conferences. He is an enthusiastic advocate for open source software and is particularly interested in the intersection of open source and artificial intelligence. Currently, he is working towards his MBA and a degree in Artificial Intelligence to further his knowledge and expertise in these areas. Through his work and studies, David is helping to promote the growth and development of open source software and its impact on the tech industry as a whole.</p><p>Why I am excited to be an ambassador: I'm thrilled to become a CNCF ambassador because I believe in the power of this community to make a positive impact on the world. By supporting open source projects and encouraging adoption, I can help ensure that more people and organizations benefit from the values of open source software. In addition, I'm passionate about promoting open source to young students in Europe. By encouraging them to get involved, I can help create a new generation of open source enthusiasts who are equipped with the skills and knowledge to succeed in the tech industry. Overall, I'm excited to contribute my time and energy to this important cause and to help make a difference in the world of open source.</p>",
       "company":"Dynatrace",
