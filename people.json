@@ -780,6 +780,24 @@
       "image":"phippy.jpg"
    },
    {
+      "name":"Aparna Subramanian",
+      "bio":"Aparna is a technologist and cloud-native enthusiast. She started her career as a Software Engineer and has spent most part of her 18 years of experience specializing in Infrastructure and Data Platforms. She serves as co-chair of the \"CNCF End User Developer Experience\" SIG. She is passionate about building inclusive communities where everyone knows their voices will be heard. She is currently Director of Production Engineering at Shopify where she leads Shopify's Cloud Native Production Platform. Previously, she was Director of Engineering at VMware where she was a founding member of Tanzu on vSphere, a Kubernetes Platform for the hybrid cloud. When not working, Aparna enjoys baking, gardening, and yoga.",
+      "company":"Shopify",
+      "tab_role":"",
+      "pronouns":"she/her",
+      "linkedin":"https://www.linkedin.com/in/subramanianaparna/",
+      "twitter":"",
+      "github":"https://github.com/aparna-subramanian",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"aparna-subramanian.jpg"
+   },
+   {
       "name":"Arsh Sharma",
       "bio":"<p>Arsh currently serves as the New Contributor Ambassador for the Documentation Special Interest Group of the Kubernetes project and mentors new folks in the community. He has also led the CI Signal Team in the 1.25 Kubernetes Release. Previously, he was also an active contributor to other CNCF projects, including cert-manager and Kyverno. Arsh has written blogs and spoken about different topics in the cloud-native ecosystem at various conferences before. Recordings of some of his talks can be found at: https://arshsharma.com/speaking/</p><p>Why I am excited to be an ambassador: I owe a lot to open source and the CNCF open source community in particular. I'm excited to be an ambassador to be able to give back to the community and help others get started on their journey of contributing! As someone who has firsthand witnessed the benefits in personal and professional life thanks to the community, I want others to be able to share these joys as well.</p>",
       "company":"Okteto",
@@ -1418,6 +1436,24 @@
       "image":"cathy-zhang.jpg"
    },
    {
+      "name":"Chad Beaudin",
+      "bio":"<p>Chad is the Chief Engineer for the Boeing Software Factory and a Technical Fellow.  In these roles he drives the technical vision for how software is developed by thousands of engineers utilizing cloud native methodologies in a variety of highly regulated environments.  As a DevOps enthusiast, he promotes the sharing of best practices around CI/CD.</p><p>When not working, Chad is an avid mountain biker.</p>",
+      "company":"Boeing",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"chad-beaudin.jpg"
+   },
+   {
       "name":"Chad Crowell",
       "bio":"<p>Chad is a DevSecOps Engineer for Raft (goraft.tech), and author of the book \"Acing the Certified Kubernetes Administrator Exam\". Chad has been an instructor for over five years on platforms such as A Cloud Guru and INE. Through KubeSkills, he helps people find fun and interactive ways to learn Kubernetes.</p><p>Why I am excited to be an ambassador: I really enjoy helping people get involved in open source software. I have realized the power of community, in lifting others up and succeeding together, and I love to share it with others. I believe it is my duty in life to share what I've learned in order to make intellectual progress as a human race.</p>",
       "company":"Raft",
@@ -1670,6 +1706,25 @@
       ],
       "image":"cody-liskh.jpeg"
    },
+      {
+      "name":"Craig Box",
+      "bio":"Craig is Senior Director of Developer Relations at cloud-native application networking company Solo.io, and a Steering Committee member for the Istio project.</p>\n\n<p>Prior to Solo, Craig had a number of roles at Google, including leading Google's participation in Istio, Head of GTM launching GKE, and leader of the Cloud Native developer relations team, responsible for Kubernetes, GKE and Anthos. He was the founder and co-host of the Kubernetes Podcast from Google, producing the top 20 show for over four years.</p>\n\n<p>Craig has worked with Cloud Native customers and communities since the launch of Kubernetes in 2014, and has delivered talks on 6 continents, including a KubeCon keynote. He started his career when DevOps was called ‘systems administration’, and has 20 years of experience in development, deployment, DevOps, consulting, advisory and management roles around the world.</p>",
+      "company":"Solo.io",
+      "toc_role":"",
+      "gb_role":"Developer Seat Rep",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/crbnz/",
+      "twitter":"https://twitter.com/craigbox",
+      "github":"https://github.com/craigbox",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Governing Board"
+      ],
+      "image":"craig-box.jpg"
+   },
    {
       "name":"Cristher Castro",
       "bio":"<p>Cristher Castro, co-founder and COO of Cuemby, is a visionary leader and operational dynamo who drives community building in the Latam tech scene. Over the last 3 years, she advocated for the adoption of open-source technologies within the Spanish-speaking community, creating and supporting tech meetups and events in the region. She co-created, along with her team, the first Kubernetes Community Days in Colombia. This event paved the way for the expansion of Cloud Native Groups throughout the region. Cristher's foresight and operational expertise have been fundamental to the success of both Cuemby and the Cloud Native Latam Group. Recognizing the region's need for in-depth knowledge of cloud-native applications, Cristher championed the LFS250 (Linux Foundation Course) and administered the KCNA certifications donated by CNCF to the region. These two initiatives heightened awareness of cloud-native technologies and certifications, fortifying local proficiency in open-source solutions. She continues to promote and advocate for the recognition of the Cloud Native Computing Foundation (CNCF) in the region, addressing both business and community aspects. Cristher's leadership and operational prowess exemplify her unwavering commitment to fostering a thriving Latam tech community. https://community.cncf.io/cloud-native-latin-america/ https://community.cncf.io/cloud-native-medellin/ https://www.cncf.io/reports/kcd-colombia-2023/ https://www.cuemby.com/about-us https://www.linkedin.com/company/fundaci%C3%B3n-hispana-de-cloud-native/?viewAsMember=true https://community.cncf.io/cloud-native-colombia/ https://www.linkedin.com/showcase/kcd-colombia/?viewAsMember=truehttps://www.linkedin.com/showcase/kcd-colombia</p><p>Why I am excited to be an ambassador: Becoming a CNCF ambassador empowers me to further my dedication to community growth in the LATAM region. I deeply believe that the region's success hinges on the symbiotic collaboration of professionals, students, and companies. It's this harmony that forms the core of my mission: to cultivate a thriving community ecosystem centered around open-source and cloud-native technologies. Through this role, I am positioned to amplify awareness about these technologies and the transformative opportunities they introduce. My operational and logistics expertise is set to facilitate more meetups and events, thus kindling the formation of new communities. Collaborating with fellow leaders and ambassadors provides a unique platform to unite our efforts, ensuring we collectively advance our shared vision.</p>",
@@ -1797,9 +1852,31 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg"
+   },
+   {
+      "name": "Davanum Srinivas",
+      "bio": "<p>Davanum Srinivas (a.k.a Dims) is a Principal Engineer with Amazon Web Services working on Kubernetes, containerd and related projects at CNCF. Dims is involved in various Kubernetes SIGs and working groups like the Architecture, Testing, Node, Infrastructure etc.</p>",
+      "company": "AWS",
+      "pronouns": "he/him",
+      "linkedin": "https://www.linkedin.com/in/davanum/",
+      "twitter": "https://twitter.com/dims",
+      "github": "https://github.com/dims",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "projects": [
+         "containerd",
+         "Kubernetes"
+      ],
+      "category": [
+         "Technical Oversight Committee"
+      ],
+      "image": "https://www.cncf.io/wp-content/uploads/2019/07/23304.jpg"
    },
    {
       "name":"David Hirsch",
@@ -1959,23 +2036,6 @@
          "Staff"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2017/06/donaldliuH.jpg"
-   },
-   {
-      "name":"Dorota Blat",
-      "bio":"<p>Dorota leads a team responsible for AT&amp;T Software Defined Network (SDN) Platform portfolio planning and Network Cloud architecture and evolution for Mobility Services.</p>\n\n<p>Since joining AT&amp;T in 1998, Dorota has held a number of positions across AT&amp;T Labs, product and technical marketing spanning a plethora of technologies ranging from IP VPNs and Security through Content Delivery Networks (CDNs), performance analysis, integration to Cloud Service Development.&nbsp; Dorota started her career at Telcordia where she focused on helping telecom and automotive industry players launch IP based collaboration and exchange services.</p>\n\n<p>Dorota holds an Electrical Engineering degree from Cooper Union in NYC.&nbsp; She resides in Holmdel, NJ with her husband, Mariusz, and 21-year old daughter, Audrey.</p>",
-      "company":"AT&T",
-      "pronouns":"",
-      "linkedin":"",
-      "twitter":"",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2021/07/Dorota-Blat-2019.jpg"
    },
    {
       "name":"Dotan Horovits",
@@ -2204,23 +2264,6 @@
       "image":"emin-alemdar.jpeg"
    },
    {
-      "name":"Eric Han",
-      "bio":"Eric Han serves as Vice President of Public Cloud Services (PCS) Product Management for NetApp’s cloud portfolio and Kubernetes data management, including <a href=\"https://cloud.netapp.com/project-astra\" target=\"_blank\" rel=\"noopener noreferrer\">Astra</a>, <a href=\"https://cloud.netapp.com/cloud-volumes-service-for-gcp\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud Volume Services</a>, and <a href=\"https://cloud.netapp.com/azure-netapp-files\" target=\"_blank\" rel=\"noopener noreferrer\">Azure NetApp Files</a>. Eric has been recognized as a <a href=\"https://www.thesoftwarereport.com/the-top-25-software-product-executives-of-2020\" target=\"_blank\" rel=\"noopener noreferrer\">top software product executive</a> in 2020. Eric started his container journey as the founding product manager for Kubernetes at Google, where he also co-founded the Google Kubernetes Engine (GKE) service. Eric began his career as a part of Microsoft’s Windows Server and Core Networking product teams.\n\nFrom 2018-2020, Eric has served on the nonprofit board of <a href=\"https://www.thrive-wise.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Thrive-Wise</a> focused on retaining women in technical careers. In his home life, he can be found either slowly training for his next triathlon, planning a trip to Disneyland with his wife and their three kids, or trying to make the ultimate Spotify mixed tape.",
-      "company":"NetApp",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/eric-han/",
-      "twitter":"https://twitter.com/radio_eric",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"eric-han.jpg"
-   },
-   {
       "name":"Eric D Schabell",
       "bio":"<p>Eric is Chronosphere's Director Evangelism. He's renowned in the development community as a speaker, lecturer, author and baseball expert. His current role allows him to help the world understand the challenges they are facing with cloud native observability. He brings a unique perspective to the stage with a professional life dedicated to sharing his deep expertise of open source technologies and organizations. Follow on https://www.schabell.org.</p><p>Why I am excited to be an ambassador: I'm excited to officially have the title of ambassador as I've been actively promoting a lot of the work they do for over a decade now.</p>",
       "company":"Chronosphere",
@@ -2267,6 +2310,23 @@
          "Technical Oversight Committee"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2021/02/erin.jpeg"
+   },
+   {
+      "name":"Erin Colvin",
+      "bio":"Erin is an experienced Event Manager with a specific expertise in Tradeshows and Conferences. She has a passion for strategic event marketing, strong vendor relationships, and delivering exceptional experiences. She earned her Bachelor's degree in Communications and Business at the University of Utah, and began her career in sales and marketing. She managed 20+ tradeshows annually for a CPG company, before moving to the agency side where she mastered her Project Management and Customer Services skills managing experiential marketing campaigns for clients like Amazon Fresh and Kodiak Cakes. She recently received her Master's degree in Strategic Communication and is excited to utilize this knowledge to bring more research, data and strategy into her projects and events.",
+      "company":"Tradeshow Manager, Events",
+      "pronouns":"She/Her",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"erin-colvin.jpeg"
    },
    {
       "name":"Faseela K",
@@ -2378,6 +2438,24 @@
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
       "image":"frederico-munoz.jpg"
+   },
+   {
+      "name":"Garry Cairns",
+      "bio":"Garry is a lead engineer at JPMorgan Chase, currently focusing on observability. He has over a decade of Python experience, and enjoys trying out other languages, learning fun things about statistics, and making bread in his spare time.",
+      "company":"JPMorgan Chase",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"https://github.com/garry-cairns",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"garry-cairns.jpg"
    },
    {
       "name":"Gaurav Chadha",
@@ -2640,6 +2718,24 @@
       "image":"harshita-sao.jpg"
    },
    {
+      "name":"Henrik Blixt",
+      "bio":"Henrik leads a Product Management team responsible for the Intuit core platform, where he defines the strategy and direction that has shaped Intuit’s cloud native platform based on CNCF projects like Kubernetes, Envoy, Istio, Prometheus, Argo (and many more!) that’s used by 7000 developers and serving over 100M users.</p>\n\n<p> Being a passionate member of the open source community for almost 30 years, from Linux through OpenStack and Kubernetes, Henrik is currently focused on the Argo project as a core maintainer. He also represents Intuit across other committees, like the CNOE project and the broader Linux Foundation, where he shares experiences and best practices from Intuit’s use of open source, making sure end users are heard and their pain points understood.</p>\n\n<p>He loves engaging with the community and  has been a prolific speaker and event program committee member across ArgoCon, GitOpsCon, Kubecon over the years. A native of Sweden, earning his B.Sc in information systems from the University of Gothenburg, he now resides in California with his family.",
+      "company":"Intuit",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/hblixt/",
+      "twitter":"https://twitter.com/khblixt",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"henrik-blixt.jpeg"
+   },
+   {
       "name":"Hoon Jo",
       "bio":"<p>Hoon Jo is a Cloud Native and Cloud Solutions Architect at Megazone soft. He had several presentations on cloud-native technologies in Ubucon Asia, Openinfra Asia, HashiTalks, Openstack & Kubernetes Korea and so on. And he relays valuable information from the global to local community and makes clips to understand easily in Korea. My interests are highly are kubernetes and related cloud native products. I am fully sure cloud-native help to change the world as well as business model efficient way. Here is my channel. - Linkedin: https://www.linkedin.com/in/HoonJo/ - Youtube: https://www.youtube.com/HoonJo</p><p>Why I am excited to be an ambassador: In my view, Korea is not rapidly catching up with the latest information from worldwide due to the language barrier and other reasons. Thus, I hope I will relay a lot of highly valuable information from cloud-native resources to Korean communities. Plus, if cloud-native resources could be better digested after cooking, I will cook them to bite easily, such as clips. As an ambassador, it pushes me to be more active and be responsible. It is a really exciting journey in 2023 :) hopefully.</p>",
       "company":"Megazone",
@@ -2692,7 +2788,7 @@
       ],
       "expertise":["Technical", "Non-Technical"],
       "category":["Ambassadors"],
-      "image":"hrittik-roy.jpg"
+      "image":"hrittik-roy.jpeg"
    },
    {
       "name":"Huabing Zhao",
@@ -3078,6 +3174,23 @@
       "image":"jaice-singer-dumars.jpg"
    },
    {
+      "name":"Jake Pineda",
+      "bio":"Jake is an Membership Sales Representative at The Linux Foundation, working with the Cloud Native Computing Foundation. He brings experience in technology sales and cloud solutions, with an academic background that includes an Associate degree in Computer Science - Network Technology from Lehigh Carbon Community College, and ongoing studies for a Bachelor's in Information Technology at Western Governors University. Jake is dedicated to enhancing open-source software solutions in cloud native computing and network security.",
+      "company":"Membership Solutions Representative",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/jake-p-8348127b",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Staff"
+      ],
+      "image":"jake-pineda.jpg"
+   },
+   {
       "name":"James Spurin",
       "bio":"<p>With over 25 years of experience, James Spurin is an industry veteran skilled in various technical fields and adept at leading Engineering teams in top-tier Financial Services organisations. He now focuses on creating online courses and Technical Educational Content in areas such as DevOps, Kubernetes, and Cloud Native, incorporating hands-on learning experiences through container-based lab environments and has reached over 100,000 students globally. As a CNCF Ambassador, James actively advocates for Container and Cloud Native knowledge, education, and Kubernetes-based orchestration. His company, DiveInto, champions Cloud Native and consistently shares fresh content on its YouTube channel: https://youtube.com/DiveInto James has also established an inclusive community dedicated to Cloud Native learning, which can be accessed at https://community.diveinto.com</p><p>Why I am excited to be an ambassador: I am excited to be a CNCF Ambassador as it aligns perfectly with my passion for creating technical educational content on Cloud Native/Kubernetes whilst also Giving Back, a core-principle of the CNCF. The role supports me in more actively engaging with a diverse global community, enabling me to learn from others whilst also sharing my own knowledge and expertise. As an Ambassador, I will contribute to thought leadership in the cloud native space and hope to provide an instrumental role in fostering a culture of knowledge sharing, learning and innovation. Throughout this journey, I am also eager to support and encourage others in pursuing CNCF Cloud Native certifications - an endeavour I am both passionate about and an advocate for. Overall, being a CNCF Ambassador is a highly rewarding and fulfilling experience that allows me to give back to the community while staying updated on the latest developments in the field.</p>",
       "company":"DiveInto",
@@ -3126,25 +3239,23 @@
       "image":"janelle-caudill.jpeg"
    },
    {
-      "name":"Jeffrey Sica",
-      "bio":"Jeffrey (@jeefy) is Head of Projects at the CNCF, with a focus on improving community and project automation. Before that, he's worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout.\n\nMeetups: Board Member for <a href=\"https://orchestructure.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Orchestructure</a>",
-      "company":"Head of Projects",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/jeefy/",
-      "twitter":"https://twitter.com/jeefy",
-      "github":"https://github.com/jeefy",
-      "wechat":"",
-      "website":"https://jeefy.dev",
-      "youtube":"",
-      "location":"Minneapolis, MN",
-      "projects":["Kubernetes", "Prometheus"],
-      "priority":"",
-      "category":[
-         "Staff"
-      ],
-      "email": "me!jeefy.dev",
-      "slack_id": "U8C56BHNC",
-      "image":"https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
+     "name": "Jeffrey Sica",
+     "bio": "Jeffrey (@jeefy) is Head of Projects at the CNCF, with a focus on improving community and project automation. Before that, he's worked at Red Hat and the University of Michigan focusing on Cloud Native technologies and CICD patterns. Jeffrey has been a contributor to upstream Kubernetes, helping in SIG-Contribex, SIG-Release, and SIG-UI. He passionately advocates for open source development and recognizing and alleviating burnout.\n\nMeetups: Board Member for <a href=\"https://orchestructure.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Orchestructure</a>",
+     "company": "Head of Projects",
+     "pronouns": "",
+     "linkedin": "https://www.linkedin.com/in/jeefy/",
+     "twitter": "https://twitter.com/jeefy",
+     "github": "https://github.com/jeefy",
+     "wechat": "",
+     "website": "https://jeefy.dev",
+     "youtube": "",
+     "priority": 100,
+     "location": "Minneapolis, MN",
+     "projects": ["Kubernetes", "Prometheus"],
+     "category": ["Staff"],
+     "email": "me!jeefy.dev",
+     "slack_id": "U8C56BHNC",
+     "image": "https://www.cncf.io/wp-content/uploads/2019/12/1553737099718.jpg"
    },
    {
       "name":"Jenn Skeivik",
@@ -3646,17 +3757,17 @@
    },
    {
       "name":"Juliano Costa",
-      "bio":"<p>Juliano is a passionate Software Engineer at Dynatrace Austria with extensive experience in cloud-related technologies. He is specialized in OpenTelemetry and is always working with Kubernetes, Helm, Containers, Jenkins, and other related tools. As one of the maintainers of the CNCF project OpenTelemetry Demo, Juliano has helped to create a distributed system that demonstrates the implementation of OpenTelemetry in a near real-world environment. With a strong belief in the power of community, Juliano co-founded the Cloud Native Computing Linz meetup. He actively participates in the tech community and is always willing to share his knowledge and insights with others. When not working, Juliano likes to spend his time with the family traveling around Austria and sightseeing new places.</p><p>Why I am excited to be an ambassador: I strongly believe in the power of the community and how it can help everyone grow, not just professionally, but as a whole. I'm extremely excited about being able to help growing the CNCF community and raising it awareness wherever I go. I love learning and sharing what I learn. The atmosphere and environment of openness created by CNCF is something that I take with me in every interaction I have. I'm super excited and thankful in becoming a CNCF Ambassador.</p>",
-      "company":"Dynatrace",
+      "bio":"<p>Juliano is a passionate Software Engineer/Developer Advocate with extensive experience in cloud-related technologies. He is specialized in OpenTelemetry and is always working with Kubernetes, Helm, Containers, Jenkins, and other related tools. As one of the maintainers of the CNCF project OpenTelemetry Demo, Juliano has helped to create a distributed system that demonstrates the implementation of OpenTelemetry in a near real-world environment. With a strong belief in the power of community, Juliano co-founded the Cloud Native Linz meetup. He actively participates in the tech community and is always willing to share his knowledge and insights with others. When not working, Juliano likes to spend his time with the family traveling around Austria and sightseeing new places.</p><p>Why I am excited to be an ambassador: I strongly believe in the power of the community and how it can help everyone grow, not just professionally, but as a whole. I'm extremely excited about being able to help growing the CNCF community and raising it awareness wherever I go. I love learning and sharing what I learn. The atmosphere and environment of openness created by CNCF is something that I take with me in every interaction I have. I'm super excited and thankful in becoming a CNCF Ambassador.</p>",
+      "company":"Datadog",
       "pronouns":"He/Him",
       "location":"Linz, Austria",
       "linkedin":"https://www.linkedin.com/in/julianocosta89",
       "twitter":"https://www.twitter.com/JCosta_89",
       "github":"https://github.com/julianocosta89",
       "wechat":"",
-      "website":"",
+      "website":"https://jcosta.dev",
       "youtube":"",
-      "slack_id": "Juliano Costa",
+      "slack_id": "https://cloud-native.slack.com/team/U018XC29PMH",
       "languages":["Portuguese", "English"],
       "projects":[
          "Envoy",
@@ -3737,9 +3848,7 @@
       "website":"",
       "youtube":"",
       "priority":"",
-      "category":[
-         "Technical Oversight Committee"
-      ],
+      "category":[],
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg"
    },
    {
@@ -3908,6 +4017,7 @@
       "name":"Katie Gamanji",
       "bio":"<p>Katie is a cloud native leader, practitioner, and contributor, currently in a Senior Kubernetes Field Engineer role at Apple and a TOC for CNCF. As a cloud platform engineer, Katie has built the infrastructure for Conde Nast and American Express, gravitating towards cloud-native technologies, principles, and Kubernetes as the focal point. At CNCF (Cloud Native Computing Foundation), she was a Technical Oversight Committee member and led the CNCF End User Community.  At present, Katie advises the Keptn startup and holds the Chief of Future Founders Officer (CFFO) position at OpenUK.</p><p>Recently, Katie released the Cloud Native Fundamentals course and led the creation of the CNCF KCNA (Kubernetes and Cloud Native Associate) certification. Additionally, Katie is an active keynote public speaker, a  #TechWomen100 winner, and a strong advocate for women in STEM. </p>",
       "company":"Apple",
+      "tab_role":"",
       "pronouns":"she/her",
       "linkedin":"https://www.linkedin.com/in/katie-gamanji/",
       "twitter":"https://twitter.com/k_gamanji",
@@ -3917,7 +4027,8 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"katie-gamanji.jpg"
    },
@@ -4003,14 +4114,14 @@
    },
    {
       "name":"Kevin (Zefeng) Wang",
-      "bio":"<p>Kubernetes emeritus Maintainer, Founder and Maintainer of KubeEdge, Volcano, Karmada projects, Lead of Cloud Native Open Source Team at Huawei. Passionate about Open Source. Organizer of KCD China, CloudNativeDays China, Cloud Native + Open Source Virtual Summit China 2020.</p><p>Why I am excited to be an ambassador: I have been a long standing contributor to CNCF community since its beginning, contributed to Kubernetes upstream for years and now spend 100% of my work and focus on wider open source cloud native community development. I'm excited to continue my role as an ambassador this year to grow the overall CNCF community.</p>",
+      "bio":"<p>Kevin Wang has been an outstanding contributor in the CNCF community since its beginning and is the leader of the cloud native open source team at Huawei. Kevin has contributed critical enhancements to Kubernetes, led the incubation of the KubeEdge, Volcano, Karmada projects in CNCF, actively participated in the TOC, and played a critical role in building and supporting the growth of CNCF technologies and the CNCF community in the globe.</p>",
       "company":"Huawei",
       "pronouns":"He/Him",
       "location":"Hangzhou, China",
       "linkedin":"https://www.linkedin.com/in/kevin-wangzefeng/",
       "twitter":"https://www.twitter.com/kevinwzf0126",
       "github":"https://github.com/kevin-wangzefeng",
-      "wechat":"",
+      "wechat":"kevin-wangzefeng",
       "website":"",
       "youtube":"",
       "slack_id": "kevin-wangzefeng",
@@ -4022,7 +4133,7 @@
          "Volcano"
       ],
       "expertise":["Technical"],
-      "category":["Ambassadors"],
+      "category":["Technical Oversight Committee", "Ambassadors"],
       "image":"kevin-wang.jpg"
    },
    {
@@ -4072,8 +4183,8 @@
    },
    {
       "name":"Kristina Devochko",
-      "bio":"<p>A techie from Norway who preaches about all things cloud native, Kubernetes, green tech and cats. I am working as a Principal Cloud Engineer, am a Microsoft Azure MVP and CNCF ambassador. Co-Host at Kubernetes Unpacked podcast, owner of kristhecodingunicorn.com tech blog, co-organizer and board member at NNUG Oslo, Cloud Native and Kubernetes Oslo, DEVREAL Oslo and Cloud Native Norway community groups. Community Advocate and Co-Organizer at StreamingClouds and Mentor at GirlCode and WomenTech Network.</p><p>Why I am excited to be an ambassador: I love giving back to the tech community and I hope that my actions and contributions can inspire others to create software with sustainability, security and cloud native principles in mind. Another important goal for me is to contribute to even stronger diversity, equality and inclusion in the cloud native space by creating a non-judgemental, open, safe and welcoming space for everyone. By being an ambassador I can focus even more on doing just that! I'm also very excited to meet all the fantastic ambassadors and members of the cloud native community and collaborate on making a positive impact in the CNCF space together :)</p>",
-      "company":"Amesto Fortytwo",
+      "bio":"<p>Kristina Devochko is a platform engineer, tech content creator, speaker and tech community contributor based in Norway. She focuses on all things cloud native, Kubernetes, cloud security and green tech. Kristina is an owner of kristhecodingunicorn.com tech blog, a CNCF Ambassador, Microsoft Azure MVP, CNCF TAG Environmental Sustainability tech lead, Kubernetes Unpacked podcast host, co-organizer of multiple meetup groups and mentor. In her free time Kristina enjoys doing CTF challenges, reading and cuddling with her four cats.</p><p>Why I am excited to be an ambassador: I love giving back to the tech community and I hope that my actions and contributions can inspire others to create software with sustainability, security and cloud native principles in mind. Another important goal for me is to contribute to even stronger diversity, equality and inclusion in the cloud native space by creating a non-judgemental, open, safe and welcoming space for everyone. By being an ambassador I can focus even more on doing just that! I'm also very excited to meet all the fantastic ambassadors and members of the cloud native community and collaborate on making a positive impact in the CNCF space together :)</p>",
+      "company":"Tietoevry, Public 360° unit",
       "pronouns":"She/Her",
       "location":"Oslo, Norway",
       "linkedin":"https://www.linkedin.com/in/krisde",
@@ -4340,6 +4451,31 @@
       "image":"https://www.cncf.io/wp-content/uploads/2020/08/li-yi-alibaba-1.jpg"
    },
    {
+      "name":"Liam Randall",
+      "bio":"<p>As the CEO of Cosmonic and co-creator of CNCF wasmCloud, Liam has significantly advanced cloud-native computing. His started his journey in the CNCF early, creating the first commercial Kubernetes distribution, Critical Stack, in 2014 (acquired by Capital One Bank in 2016). At Capital One, Liam helped migrate the first regulated company into the cloud, led the donation of Cloud Custodian into the CNCF, and co-founded CNCF wasmDay, firmly establishing himself as a leading figure in promoting WebAssembly in cloud-native environments.</p><p><i>Why am I excited to be a CNCF Ambassador?</i></p>  <p>I'm deeply passionate about the transformative power of open source and diverse collaborative communities - they really are better together. To me, these are not just technical methodologies to describe features of code creation but pathways to building superior software. My commitment to this belief is rooted in years of experience and observation; open communities foster innovation, collaboration, and a level of quality that proprietary models struggle to match. Particularly with WebAssembly's emergence in the cloud-native space, I've witnessed how it empowers developers to create more efficient, secure, and versatile applications, further fueling my enthusiasm as a CNCF Ambassador to advocate for these technologies.</p>",
+      "company":"Cosmonic",
+      "pronouns":"He/Him",
+      "location":"Arlington, VA, United States",
+      "linkedin":"https://www.linkedin.com/in/hectaman/",
+      "twitter":"https://www.twitter.com/hectaman",
+      "github":"https://github.com/liamrandall",
+      "wechat":"",
+      "website":"https://liamrandall.com",
+      "youtube":"https://www.youtube.com/@wasmcloud",
+      "slack_id": "UR4MJJR60",
+      "languages":[],
+      "projects":[
+         "Cilium",
+         "Cloud Custodian",
+         "Kubernetes",
+         "NATS",
+         "wasmCloud"
+      ],
+      "expertise":["Technical", "Non-Technical"],
+      "category":["Ambassadors"], 
+      "image":"liam-randall.png"
+   },
+   {
       "name":"Libby Schulze",
       "bio":"Libby is a Marketing Programs Manager at CNCF overseeing Online Programs, KubeWeekly, and other marketing initiatives. Her experience spans over 15 years in the tech industry including event planning and marketing. She holds a Bachelor of Science from the University of Texas and currently resides in San Antonio. When not at work, Libby enjoys spending time with her family and going to the beach.",
       "company":"Marketing Programs Manager",
@@ -4579,6 +4715,24 @@
       "image":"phippy.jpg"
    },
    {
+      "name":"Mario Constanti",
+      "bio":"Mario is a Software Engineer at Mercedes-Benz Tech Innovation. In 2015 he jumped into the very young Kubernetes ecosystem and helped application teams to learn all the stuff around containers and K8s.</p>\n\n<p>When Mercedes Benz decided in 2016 to launch a managed Kubernetes service, Mario was one of the initial members in that team in the very early beginning. That managed service evolved to a worldwide distributed platform within MB with nearly 1,000 dedicated clusters.</p>\n\n<p>Over time, he has witnessed the evolution of Kubernetes and the CNCF as well as the adoption of cloud native patterns in software teams all over the world. He always wore different hats to make the product and the team a success. But at heart, he is still an engineer who loves to code.",
+      "company":"Mercedes-Benz Tech Innovation",
+      "tab_role":"",
+      "pronouns":"He/Him",
+      "linkedin":"https://www.linkedin.com/in/mario-constanti/",
+      "twitter":"https://twitter.com/bavarian_bidi",
+      "github":"https://github.com/bavarianbidi",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"mario-constanti.jpg"
+   },
+   {
       "name":"Mario Loriedo",
       "bio":"<p>Mario is a Senior Principal Software Engineer at Red Hat. He works on container-based developer tools. He co-maintains the CNCF Devfile project and leads the Eclipse Che project. He has been a speaker at conferences such as KubeCon, LinuxCon, JavaOne and FOSDEM.</p><p>Why I am excited to be an ambassador: I am excited to be part of the CNCF ambassador program because that will help share my knowledge and my experience as a developer using and developing Kubernetes with others. I am also looking forward to meet with other ambassadors.</p>",
       "company":"Red Hat",
@@ -4749,9 +4903,7 @@
       "website":"https://mattfarina.com",
       "youtube":"",
       "priority":"",
-      "category":[
-         "Technical Oversight Committee"
-      ],
+      "category":[],
       "image":"matt-farina.jpg"
    },
    {
@@ -4902,7 +5054,7 @@
       "wechat":"",
       "website":"",
       "youtube":"",
-      "priority":100,
+      "priority":150,
       "category":[
          "Staff"
       ],
@@ -4968,6 +5120,24 @@
       "expertise":["Technical"],
       "category":["Ambassadors"],
       "image":"michael-levan.jpg"
+   },
+   {
+      "name":"Mike Bowen",
+      "bio":"Tech Fellow, Senior Principal Engineer, and technology leader responsible for cloud-native technical and solutions architecture. Designs, develops, and maintains the enterprise Kubernetes-based cloud-native platform at BlackRock. Runs the BlackRock Open Source Program Office (OSPO).",
+      "company":"BlackRock",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"mike-bowen.jpg"
    },
    {
       "name":"Miley Fu",
@@ -5541,7 +5711,7 @@
       "company":"Red Hat",
       "pronouns":"He/Him",
       "location":"Napoli, Italy",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/paolopatierno",
       "twitter":"https://www.twitter.com/ppatierno",
       "github":"https://github.com/ppatierno",
       "wechat":"",
@@ -6033,16 +6203,16 @@
    },
    {
       "name":"Rey Lejano",
-      "bio":"<p>Rey Lejano is a Field Engineer at SUSE by way of Rancher Labs and is a co-chair of Kubernetes SIG Docs and helps maintain kubernetes.io. He is a member of seven Kubernetes Release Teams including serving as the 1.23 Release Lead and 1.25 Emeritus Adviser. He leads the Kubernetes SIG Security Third-Party Security Audit subproject who helped publish the external security audit for Kubernetes v1.24 in April 2023. In 2022, he was awarded a CNCF Community Award for Top Documentarian and awarded a Kubernetes Contributor Award in 2021 from SIG Release. He is working on KCD San Francisco Bay Area and cloudnativeessentials.com to help the people to start on their cloud native journey.</p><p>Why I am excited to be an ambassador: Community propels open source projects to flourish. I'm excited to be an ambassador to help grow the cloud native community by providing mentorship to new contributors, guidance to those starting on their cloud native journey, and amplifying the excitement for cloud native technology.</p>",
-      "company":"",
+      "bio":"<p>Rey Lejano is Solutions Architect at Red Hat and currently serves as co-chair for Kubernetes Special Interest Group (SIG) Docs and helps maintain the upstream Kubernetes documentation. Rey leads the Kubernetes SIG Security Third-Party Security Audit subproject and helped release the last Kubernetes security audit in April 2023. He is a member of seven Kubernetes Release Teams, including serving as the 1.23 Release Lead and 1.25 Emeritus Adviser. Rey was awarded the CNCF Community Award for Top Documentarian in 2022 and Kubernetes Contributor Awards in 2021 from SIG Release and 2023 from SIG Security. He is working on KCD San Francisco Bay Area and cloudnativeessentials.com to help the people to start on their cloud native journey.</p><p>Why I am excited to be an ambassador: Community propels open source projects to flourish. I'm excited to be an ambassador to help grow the cloud native community by providing mentorship to new contributors, guidance to those starting on their cloud native journey, and amplifying the excitement for cloud native technology.</p>",
+      "company":"Red Hat",
       "pronouns":"He/Him",
       "location":"San Francisco, CA, United States",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/rey-lejano/",
       "twitter":"https://www.twitter.com/reylejano",
       "github":"https://github.com/reylejano",
       "wechat":"",
       "website":"",
-      "youtube":"",
+      "youtube":"https://www.youtube.com/@reylejano",
       "slack_id": "rlejano",
       "languages":[],
       "projects":[
@@ -6080,18 +6250,20 @@
    },
    {
       "name":"Ricardo Rocha",
-      "bio":"<p>Ricardo is a Computing Engineer in the CERN cloud team focusing on containerized deployments, networking and more recently machine learning platforms. He has led for several years the internal effort to transition services and workloads to use cloud native technologies, as well as dissemination and training efforts. Ricardo got CERN to join the CNCF and is a lead of the CNCF Research User Group. Prior to this work Ricardo helped develop the grid computing infrastructure serving the Large Hadron Collider (LHC).</p>",
+      "bio":"Ricardo leads the Platform Infrastructure team at CERN with a strong focus on cloud native deployments and machine learning. He has led for several years the internal effort to transition services and workloads to use cloud native technologies, as well as dissemination and training efforts. Ricardo got CERN to join the CNCF and is a lead of the CNCF Research User Group. Prior to this work Ricardo helped develop the grid computing infrastructure serving the Large Hadron Collider (LHC).",
       "company":"CERN",
+      "tab_role":"",
       "pronouns":"",
       "linkedin":"https://www.linkedin.com/in/ricardo-rocha-739aa718/",
       "twitter":"https://twitter.com/ahcorporto",
-      "github":"",
+      "github":"https://github.com/rochaporto",
       "wechat":"",
       "website":"",
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "End User TAB"
       ],
       "image":"https://www.cncf.io/wp-content/uploads/2021/03/ricardo.jpg"
    },
@@ -6099,7 +6271,7 @@
       "name":"Richard Hartmann",
       "bio":"Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
       "company":"Grafana Labs",
-      "toc_role":"Developer Seat Rep",
+      "toc_role":"",
       "pronouns":"he/him",
       "linkedin":"https://www.linkedin.com/in/richih",
       "twitter":"https://twitter.com/TwitchiH",
@@ -6108,26 +6280,41 @@
       "website":"",
       "youtube":"",
       "priority":"",
-      "category":[
-         "Governing Board",
-         "Technical Oversight Committee"
-      ],
+      "category":[],
       "image":"richard-hartmann.jpg"
+   },
+   {
+      "name":"Robert Reeves",
+      "bio":"Robert is the VP of Business Development for The Cloud Native Computing Foundation. An early DevOps adopter and evangelist, he founded two successful development tool startups. Phurnace, acquired by BMC Software, was an application release solution for Java Enterprise applications. Liquibase is an open-source DevOps solution for databases. Robert brings decades of experience in developer tooling and business operations to help deliver the best developer experience to project contributors, maintainers, and project leaders. Robert is as passionate about open-source developers as he is about comic books, punk rock, and backpacking. A US Army veteran, Robert holds an Economics degree from the University of Texas at Austin and an MS degree in Science and Technology Commercialization from the McCombs School of Business. He lives in Austin, Texas with his partner, Maia, and son, Rex.",
+      "company":"VP of Business Development",
+      "toc_role":"",
+      "pronouns":"",
+      "linkedin":"",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":150,
+      "category":[
+         "Staff"
+      ],
+      "image":"robert-reeves.jpg"
    },
    {
       "name":"Roberth Strand",
       "bio":"<p>I am a self-proclaimed \"cloud automator\", and works primarily with Microsoft Azure infrastructure, Platform Engineering, DevOps and Cloud Native technology. I am a Microsoft MVP for my work with Azure, and an HashiCorp Ambassador primarily for my work with Terraform. Furthermore, I am active in the CNCF, OpenSSF and several open source communities and projects. I initiated Cloud Native Norway, a non-profit that works to build up and enable Cloud Native adoption and development in Norway. I also co-founded the Azure Cloud Native User Group, and founded the Norwegian PowerShell User Group. In the CNCF, I have been active for years in TAG App Delivery, and currently serves as a maintainer on the OpenGitOps project, and as co-chair of the Platforms Working Group.</p><p>Why I am excited to be an ambassador: For many years, the CNCF has continued to impress me. The way that the foundation has supported the community and the projects is truly admirable. Even though I have other honorary titles, the CNCF Ambassador title is one that I value very much. While I don't do community work for the titles, I am happy for the recognition. I have big plans for my work in the CNCF, and I look forward to seeing how the ambassador program will help me achieve more for the community.</p><p>Sessionize: https://sessionize.com/roberth-strand</p>",
-      "company":"Amesto Fortytwo",
+      "company":"Sopra Steria",
       "pronouns":"He/Him",
       "location":"Oslo, Norway",
       "linkedin":"https://linkedin.com/in/roberthstrand",
       "twitter":"https://www.twitter.com/roberthTweets",
       "github":"https://github.com/roberthstrand",
       "wechat":"",
-      "website":"",
+      "website":"https://robstr.dev",
       "youtube":"",
       "slack_id": "Roberth Strand",
-      "languages":[],
+      "languages":["English", "Norwegian"],
       "projects":[
          "Argo",
          "Backstage",
@@ -6266,7 +6453,7 @@
       "bio":"<p>Rohit Ghumare is a recognized Google Developer Expert specializing in Google Cloud Modern Architecture, a testament to his adeptness in contemporary cloud solutions. He is the driving force behind several community-centric initiatives, orchestrating events as the organizer of DevOpsDays Bengaluru, KCD Mumbai, Google Cloud Mumbai, and the Cloud Native Thane community group. Through these platforms, he not only showcases his profound expertise but also fosters a collaborative ecosystem for knowledge exchange. A prolific writer, Rohit has authored a plethora of blogs and insightful pieces on CNCF projects, including, but not limited to, Backstage, Istio, Kubernetes, Cilium, Envoy, Prometheus, and Kiali. This extensive coverage underscores his profound understanding and engagement with cutting-edge cloud-native technologies. Besides penning down his knowledge, Rohit is dedicated to sharing his insights through the \"Cloud Native Talks\" podcast, which he hosts, and through global conferences and local meetups where he's presented multiple talks. He has also been a program committee member for Kubecon co-located events. Links: devopsguys.in</p><p>Why I am excited to be an ambassador: Being appointed as an ambassador presents a remarkable opportunity to further extend the outreach of my engagement within the tech community, particularly in the realms of DevOps and Cloud Native technologies. It will help me to give back to the community by sharing insights from experts located all over the world.</p>",
       "company":"",
       "pronouns":"He/Him",
-      "location":"Mumbai, India",
+      "location":"England, United Kingdom",
       "linkedin":"",
       "twitter":"https://www.twitter.com/ghumare64",
       "github":"https://github.com/rohitg00",
@@ -6908,6 +7095,24 @@
       "image":"sergio-mendez.jpg"
    },
    {
+      "name":"Sergiu Petean",
+      "bio":"<p>Ever since I embarked on my software engineering journey over 20 years ago, my love for technology and innovation has shaped my life in remarkable ways. As a thoughtful leader and entrepreneur, I've been fortunate to work with incredible teams and witness the transformative power of digital solutions.</p><p>One of the most memorable chapters in my career has been helping organisations adopt DevOps and Cloud Native technologies. The excitement of seeing these changes drive agility and growth in a fast-paced industry has been truly rewarding.</p><p>A defining moment in my journey was when I co-founded Open IoT Vienna. This platform, which fosters collaboration and promotes Open Source solutions in the IoT space, has brought together countless talented individuals, creating a vibrant community I am immensely proud of.</p><p>Being an entrepreneur has taught me invaluable lessons, and I've had the privilege of launching multiple businesses. With each new venture, I've gained unique perspectives and learned to embrace challenges with resilience.</p><p>My passion for sharing knowledge and inspiring others has also led me to the stage as a keynote speaker. I've had the honour of discussing digital transformation and sovereignty, leadership, and emerging technologies. I find great joy in empowering others to succeed in the ever-evolving world of technology.</p><p>As I reflect on my journey, I am grateful for the experiences and connections that have shaped my life, and I am excited to continue empowering individuals and teams in the pursuit of innovation and success.</p>",
+      "company":"Allianz Direct",
+      "tab_role":"",
+      "pronouns":"",
+      "linkedin":"https://www.linkedin.com/in/peteanusergiu/",
+      "twitter":"",
+      "github":"",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "End User TAB"
+      ],
+      "image":"sergiu-petean.jpg"
+   },
+   {
       "name":"Shahriyar Al Mustakim Mitul",
       "bio":"<p>I am Shahriyar Al Mustakim Mitul, and I am currently pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University. I am also the organizer of Cloud Native Bangladesh. Moreover, I am one of the maintainers for the CNCF Glossary and Kubernetes localization Project. I do organize monthly meetups on the Cloud Native Bangladesh community group. You may join the Cloud Native Bangladesh community : https://community.cncf.io/cloud-native-bangladesh/</p><p>Why I am excited to be an ambassador: One of my goals was to become a CNCF ambassador because I had seen ambassadors develop their skills and assist others. I have been working to close the technical and community gaps up to this point. I now have more chances than ever as an ambassador to support my local community.</p>",
       "company":"BRAC University",
@@ -7295,10 +7500,8 @@
      "wechat": "",
      "website": "",
      "youtube": "https://www.youtube.com/channel/UCedj-RrSa0d7h-oqWkHu8aQ",
-     "priority": "",
-     "category": [
-       "Staff"
-      ],
+     "priority": 100,
+     "category": ["Staff"],
      "image": "taylor-dolezal.jpg"
    },
    {
@@ -8084,28 +8287,28 @@
       "image":"https://www.cncf.io/wp-content/uploads/2017/10/18oLcZPr_400x400.jpg"
    },
    {
-      "name":"Yiming Peng",
-      "bio":"<p>Serverless addict / Software creator / Open-Source enthusiast / Community host. Creator and maintainer of community CloudNative-Serverless-Meetup (Follow: https://www.linkedin.com/company/cloud-native-serverless-meetup/) and newsletter: https://www.learnsomesoftwareinfrastructurethismonth.com/ (Subscribe it if you like, and don't forget check the confirmation email in inbox, it is double opt-in). Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Find me on Twitter: @pymhq ; More in http://yimingpeng.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting infrastructure, particularly in the realm of Cloud Native technologies, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
-      "company":"Amazon Web Service",
+      "name":"Andy (Yiming) Peng",
+      "bio":"<p>Seasoned software builder / technology leader based in Seattle (WA). Public speaker and author. Specialized in GenAI/AI/ML, foundational data services, virtualization / containers, and serverless computing etc., open-source. Community Lead of Cloud Native Seattle; tech advisory board. Member of LF AI & Data Generative AI Commons. Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Homepage: https://pymslu.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting fundamental technologies, particularly in the realm of Cloud Native solutions, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to Linux Foundation and CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
+      "company":"Amazon Web Services, Inc.",
       "pronouns":"He/Him",
       "location":"Seattle, United States",
       "linkedin":"https://www.linkedin.com/in/pengyiming/",
       "twitter":"https://www.twitter.com/pymhq",
       "github":"https://github.com/pymhq",
       "wechat":"pym_hq",
-      "website":"http://yimingpeng.com/",
+      "website":"https://pymslu.com/",
       "youtube":"",
       "slack_id": "Andy Peng",
       "languages":[],
       "projects":[
+         "Kubernetes",
          "containerd",
          "Envoy",
          "gRPC",
-         "Knative",
-         "Kubernetes",
-         "OpenTelemetry"
+         "OpenTelemetry",
+         "Knative"
       ],
-      "expertise":["Technical", "Non-Technical"],
+      "expertise":["Technical"],
       "category":["Ambassadors"],
       "image":"yiming-peng.jpeg"
    },
@@ -8157,19 +8360,20 @@
    },
    {
       "name":"Yoshiyuki Tabata",
-      "bio":"<p>Yoshiyuki Tabata is a Senior OSS Consultant at Hitachi, Ltd, responsible for API Security, especially Authentication/Authorization. As an authentication and authorization expert, he mainly consults on authentication and authorization infrastructure and API infrastructure, for example designing and building API/SSO systems in the financial, public, social, and industrial fields. He's also a contributor to API-related OSSs such as Keycloak and 3scale and develops features based on feedback from actual projects he consulted. He's also a conference speaker of API-related events and an author of some books and web articles about Identity and Access Management.</p><p>Why I am excited to be an ambassador: I usually consult with our customers on authentication and authorization infrastructure and API infrastructure (I have experience building systems for finance and government using Keycloak and Kubernetes), and it seems that the adoption rate of the CNCF family in general systems is still low in Japan. Also, in systems that adopt the CNCF family, there are many systems with weak security due to placing too much emphasis on developer experience and agility. Therefore, as a CNCF ambassador, I would like to use the knowledge I have cultivated through many projects (not only the knowledge as a security consultant but also the knowledge as a Keycloak contributor and a conference speaker) to spread the word about a better and safer CNCF ecosystem.</p>",
-      "company":"",
+      "bio":"<p>Yoshiyuki Tabata is a Senior OSS Consultant at Hitachi, Ltd, responsible for API Security, especially Authentication/Authorization. As an authentication and authorization expert, he mainly consults on authentication and authorization infrastructure and API infrastructure, for example designing and building API/SSO systems in the financial, public, social, and industrial fields. He's also a contributor to API-related OSSs such as Keycloak and 3scale and develops features based on feedback from actual projects he consulted. He's also a conference speaker of API-related events and an author of some books and web articles about Identity and Access Management.</p><p>Why I am excited to be an ambassador: I usually consult with our customers on authentication and authorization infrastructure and API infrastructure (I have experience building systems for finance and government using Keycloak and Kubernetes), and it seems that the adoption rate of the CNCF family in general systems is still low in Japan. Also, in systems that adopt the CNCF family, there are many systems with weak security due to placing too much emphasis on developer experience and agility. Therefore, as a CNCF ambassador, I would like to use the knowledge I have cultivated through many projects (not only the knowledge as a security consultant but also the knowledge as a Keycloak contributor and a conference speaker) to disseminate solutions and know-how for a better and more secure CNCF ecosystem.</p>",
+      "company":"Hitachi, Ltd.",
       "pronouns":"He/Him",
       "location":"Yokohama, Japan",
-      "linkedin":"",
+      "linkedin":"https://www.linkedin.com/in/ytabata/",
       "twitter":"",
       "github":"https://github.com/y-tabata",
       "wechat":"",
       "website":"",
       "youtube":"",
       "slack_id": "yoshiyuki.tabata.jy",
-      "languages":[],
+      "languages":["Japanese", "English"],
       "projects":[
+         "Keycloak",
          "Envoy",
          "Istio",
          "Jaeger",

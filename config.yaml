@@ -16,24 +16,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      BobyMCbobs: admin
-      Riaankl: maintain
-      RobertKielty: admin
-      amwat: admin
-      bernokl: maintain
-      cncf-ci: admin
-      devaips: read
-      heyste: write
-      hh: admin
-      k8s-ci-robot: admin
-      mgdevstack: read
-      olivercodes: write
-      spiffxp: admin
-      zachmandeville: admin
-    name: apisnoop
-    settings:
-      has_wiki: true
-  - external_collaborators:
       lukaszgryglicki: admin
     name: apisnoopregexp
     settings:
@@ -427,7 +409,7 @@ repositories:
     name: enduser
     visibility: private
     teams:
-      cncf-end-users: read
+      cncf-end-users: write
   - name: enduser-public
   - name: evolution-of-cloud-native
     visibility: private
@@ -518,6 +500,7 @@ repositories:
       naonishijima: write
       meryem-ldn: read
       mitul3737: write
+      Okabe-Junya: write
       pichuang: write
       raelga: write
       ramrodo: write
@@ -595,6 +578,7 @@ repositories:
       Riaankl: admin
       hh: admin
       cncf-ci: admin
+      Cmierly: maintain
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
@@ -1086,18 +1070,18 @@ teams:
   - name: cncf-toc
     maintainers:
       - amye
+      - Riaankl
     members:
       - kgamanji
       - dzolotusky
-      - justincormack
+      - linsun
       - TheFoxAtWork
       - rochaporto
-      - mattfarina
-      - RichiH
       - cathyhongzhang
       - mauilion
       - nikhita
       - erinaboyd
+      - kevin-wangzefeng
   - name: envoy
     maintainers:
       - jeefy
@@ -1164,6 +1148,7 @@ teams:
       - SlevinWasAlreadyTaken
       - stackedsax
       - szuecs
+      - tekenstam
       - trivoallan
       - vladfr
       - yhrn
@@ -1192,6 +1177,9 @@ teams:
       - catblade
       - guidemetothemoon
       - mkorbi
+      - nikimanoledaki
+      - patricia-cahill
+      - AntonioDiTuri
   - name: tag-contributor-strategy
     formation:
       - tcs-maintainers
