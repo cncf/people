@@ -4865,6 +4865,38 @@
       "image":"mary-phan.jpeg"
    },
    {
+      "name":"Maryam Tavakkoli",
+      "bio":"<p>Maryam Tavakkoli is a senior Cloud engineer at RELEX Solutions, specializing in the design and implementation of Cloud and Kubernetes infrastructure. She is also one of the organizers of the CNCF meetups in Finland. With a strong passion for open-source cloud-native solutions, Maryam actively engages in collaborative efforts and idea-sharing within this domain. </p><p>Why I am excited to be an ambassador: I've had the fortune to learn from world-class cloud native leaders, and I want to pay it forward by organizing, speaking at and participating in cloud native events. In addition, I'm excited to make the cloud native concepts more tangible through my research.</p>",
+      "company":"RELEX Solutions",
+      "pronouns":"She/Her",
+      "location":"Helsinki, Finland",
+      "linkedin":"https://www.linkedin.com/in/maryam-tavakoli/",
+      "twitter":"",
+      "github":"https://github.com/MaryamTavakkoli",
+      "wechat":"",
+      "website":"https://medium.com/@maryam.tavakoli.3",
+      "youtube":"",
+      "slack_id": "Maryam Tavakkoli",
+      "languages":[],
+      "projects":[
+      "cert-manager", 
+      "NGINX",
+      "external-secrets",
+      "Kured",
+      "Linkerd",
+      "Datadog",
+      "Grafana",
+      "OAuth2",
+      "Argo",
+      "Helm",
+      "Kubernetes",
+      "Prometheus"
+      ],
+      "expertise":["Technical", "Non-Technical"],
+      "category":["Ambassadors"],
+      "image":"maryam-tavakkoli.jpg"
+      },
+   {
       "name":"Mathieu Benoit",
       "bio":"<p>I’m passionate about Cloud Native Computing technologies driven by Cloud, Security, Kubernetes and Platform Engineering. I’m one of the co-organizers of the CNCF&K8s Meetup in Quebec city (Canada). You will find some of my learnings in my personal blog: https://mathieu-benoit.github.io/ and in my Medium space: https://medium.com/@mabenoit.</p><p>Why I am excited to be an ambassador: Being a Cloud Native Ambassador will allow me to be closer to the CNCF community, and be connected to more mentors to grow my knowledge and as an individual too. It will also allow me to find more tips to promote content related to CNCF projects, and hopefully I will be able to help and inspire others to be more involved in this community.</p>",
       "company":"Humanitec",
