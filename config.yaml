@@ -817,7 +817,7 @@ repositories:
   - name: tag-contributor-strategy
     external_collaborators:
       thetwopct: write
-      nate-double-u: write
+      nate-double-u: admin
     teams:
       tcs-maintainers: admin
       tcs-contributors: write
