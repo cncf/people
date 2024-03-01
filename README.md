@@ -1,37 +1,44 @@
 # CNCF People Overview
 
-This repo stores the data that will populate the various people listings on cncf.io and control access to repositories in the CNCF GitHub org.
+This repo stores the data that
 
-People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
+1. populates various people listing pages on the cncf.io website
+2. grants access to repositories in the CNCF GitHub Org
+
+## Update your listing(s) on the cncf.io website pages with people.json
+
+You can update your listing in people.json by submitting a pull request for approval. After the PR is merged, the CNCF site will reflect the update within 10 min.
+
+The listings include:
 
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 
-CNCF community members can request access to any repo by submitting a PR to change the config.yaml file in this repo.
+## Requesting access to CNCF repositories using CLOWarden and config.yaml
 
-## Listing Formats
+The CNCF has centralized access control for repos in this org using a application called CLOWarden [src](https://github.com/cncf/clowarden) [site](https://clowarden.io/audit/).
 
-### config.yaml configures CNCF org repository access
+Submitting Pull request to change config.yaml is how you request repo access.
 
-Use config.yaml here to control repo-level access to your CNCF org repository.
+Your submitted changes will be validated on the Pull Request by CLOWarden. If there are any problems with your request, you will receive clear instructions from CLOWarden on how to fix them.
 
-config.yaml documents the people, and teams of people, who are granted access to GitHub repositories in the CNCF org.
+The rules contained in config.yaml are the single source of truth that document who has access to repos in the CNCF Org on Github and represent the desired state that is read by CLOWarden. 
 
-DO NOT USE settings.yml at the repo-level to control permission; if you do, [Sheriff](#notes) will overwite permissions described in the repo-level settings.yml with the settings described here in config.yaml.
+If you grant access to a repo by any other means (manually using the GitHub web app, updating settings.yml in a repos .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted each time it checks the config.yaml file.
 
-A person's GitHub profile is used to grant access to a repository or define membership of a team.
-
-Adding an entry to repositories allow you to describe who has access to your repoistory.
+There are two ways to grant repo access to a community member in config.yaml. You can add their Github Profile to a repo entry or a named team. If you add them to a repo entry then the user will be granted the stated permission level to just that repo.
+If you add them to a named team then any repo that that team has access to will be conferred to the newly added team member. Teams can contain sub teams.
 
 ```yaml
 repositories:
-  - name: repo_name
+  - name: REPO_NAME
     external_collaborators:
-      github_profile_1: read | triage | write | maintain | admin
+      GITHUB_PROFILE_1: read | triage | write | maintain | admin
               |
-      github_profile_n: read | triage | write | maintain | admin
+              |
+      GITHUB_PROFILE_N: read | triage | write | maintain | admin
     teams:
       team_name_1: read | triage | write | maintain | admin
               |
@@ -42,31 +49,32 @@ repositories:
     visibility: public | private # Default is public
 ```
 
-Note: the ```name: repo name``` does not necessarily appear as the first field in a repositories entry which can be confusing.
+Note: the ```name: REPO_NAME``` does not necessarily appear as the first field in a repositories entry which can be confusing.
 
- Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
+Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
 
 ```yaml
 teams:
-  - name: team_name
+  - name: TEAM_NAME
+    displayName: You can add a full team name here with spaces.
     maintainers:
       - github_profile_1
                |
       - github_profile_n
     members:
       has_wiki: true|false
-    displayName: Team name that can have spaces used to create a Slack Channel
-    slack: {true|false|Slack channel name}  # Create a Slack channel for this team
     secret: {true|false} # Hidden GitHub Team
 ```
 
-#### Notes
+## Notes
 
-[cncf/sheriff](https://github.com/cncf/sheriff) periodically reads config.yaml on the main branch to apply the permissions to CNCF orgs, so once your PR is approved, the [Sheriff Apply GitHub action](https://github.com/cncf/people/actions/workflows/apply.yml ) will run to apply your changes.
+CLOWarden periodically reads config.yaml on the main branch to apply the permissions to repos in the CNCF orgs.
 
-[cncf/sheriff](https://github.com/cncf/sheriff) is a fork of [electron/sheriff](https://github.com/electron/sheriff). The cncf fork has code to cover CNCF-specific procedures. Thank you Electron Sheriff contributors.
+Changes are applied within an hour of being merged.
 
-### people.json
+You can monitor the application of your changes on [clowarden.io/audit](https://clowarden.io/audit/?page=1)
+
+### people.json is used to generate listings on CNCF Web sites
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
@@ -128,7 +136,7 @@ Upload your headshot image to the `/images/` directory with a filename made up o
 
 Also within this repo is a YAML file used by our [automation tooling](https://github.com/electron/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle.
 
-- To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
+- To find your Slack ID for the CNCF slack, please follow this [guide](https://slack.com/intl/en-ie/help/articles/221769328-Locate-your-Slack-URL-or-ID)
 
 - When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
 
