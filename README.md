@@ -23,7 +23,7 @@ The CNCF has centralized access control for repos in this org using a applicatio
 To request access to a repository
 
 - first invite the user to join the CNCF org
-- then submit a pull request to modify [./config.yaml] file as described below
+- then submit a pull request to modify [config.yaml](./config.yaml) file as described below
 
 Your submitted changes will be checked and validated on the Pull Request by CLOWarden.
 
