@@ -20,36 +20,51 @@ The listings include:
 
 The CNCF has centralized access control for repos in this org using a application called CLOWarden [src](https://github.com/cncf/clowarden) [site](https://clowarden.io/audit/).
 
-Submitting Pull request to change config.yaml is how you request repo access.
+To request access to a repository
 
-Your submitted changes will be validated on the Pull Request by CLOWarden. If there are any problems with your request, you will receive clear instructions from CLOWarden on how to fix them.
+- first invite the user to join the CNCF org
+- then submit a pull request to modify [./config.yaml] file as described below
 
-The rules contained in config.yaml are the single source of truth that document who has access to repos in the CNCF Org on Github and represent the desired state that is read by CLOWarden. 
+Your submitted changes will be checked and validated on the Pull Request by CLOWarden.
 
-If you grant access to a repo by any other means (manually using the GitHub web app, updating settings.yml in a repos .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted each time it checks the config.yaml file.
+If there are problems with your changes, you will receive clear instructions from CLOWarden on how to fix them.
 
-There are two ways to grant repo access to a community member in config.yaml. You can add their Github Profile to a repo entry or a named team. If you add them to a repo entry then the user will be granted the stated permission level to just that repo.
-If you add them to a named team then any repo that that team has access to will be conferred to the newly added team member. Teams can contain sub teams.
+The access rules contained in config.yaml are the single source of truth that document who has access to repos in the CNCF Org on GitHub.
+After each merged pull request config.yaml is read and processed automatically by CLOWarden to grant the stated access.
+
+In the config.yaml file there are two ways to grant repo access to a community member
+
+- add their GitHub username to a repository entry
+  
+  OR
+
+- add them to a team and then add the team to a repository entry
 
 ```yaml
 repositories:
   - name: REPO_NAME
     external_collaborators:
-      GITHUB_PROFILE_1: read | triage | write | maintain | admin
-              |
-              |
-      GITHUB_PROFILE_N: read | triage | write | maintain | admin
+      GITHUB_USERNAME_1: read | triage | write | maintain | admin
+              :
+              :
+      GITHUB_USERNAME_N: read | triage | write | maintain | admin
     teams:
-      team_name_1: read | triage | write | maintain | admin
-              |
-      team_name_n: read | triage | write | maintain | admin
+      TEAM_NAME_1: read | triage | write | maintain | admin
+              :
+      TEAM_NAME_N: read | triage | write | maintain | admin
     # Optional repository settings
     settings:
       has_wiki: true|false # Default is false
     visibility: public | private # Default is public
 ```
 
-Note: the ```name: REPO_NAME``` does not necessarily appear as the first field in a repositories entry which can be confusing.
+> [!IMPORTANT]:
+> Remember, invite users to join the CNCF Org and ensure they have accepted their invites *before you add them* to config.yaml
+> GitHub usernames are case sensitive, mixed case usernames *should match* how they appear in their GitHub profile page
+> Having ```name: REPO_NAME``` appear as the first key in an repository array entry makes it easier to find and read the entry. Placing it elsewhere in the entry is valid YAML but if you want to make it easier to update we suggest you add the name field first.
+> If you grant access to a repo by any other means (via the GitHub web app, updating settings.yml in a repository's .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted each time it checks the config.yaml file.
+> CLOWarden will check your Pull Request changes to config.yaml and report any errors before they are merged and 
+> The CNCF Projects Team are here to help.
 
 Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
 
@@ -58,9 +73,10 @@ teams:
   - name: TEAM_NAME
     displayName: You can add a full team name here with spaces.
     maintainers:
-      - github_profile_1
+      - GITHUB_USERNAME_1
                |
-      - github_profile_n
+               |
+      - GITHUB_USERNAME_N
     members:
       has_wiki: true|false
     secret: {true|false} # Hidden GitHub Team
@@ -128,18 +144,13 @@ And here is an example entry:
     }
 ```
 
-## Images
-
-Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
-
-## Team Management
-
-Also within this repo is a YAML file used by our [automation tooling](https://github.com/electron/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle.
-
 - To find your Slack ID for the CNCF slack, please follow this [guide](https://slack.com/intl/en-ie/help/articles/221769328-Locate-your-Slack-URL-or-ID)
-
 - When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
 
   ```shell
   email!address.xyz
   ```
+
+## Images
+
+Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
