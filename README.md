@@ -65,6 +65,7 @@ repositories:
 > - If you grant access to a repo by any other means (via the GitHub web app, updating settings.yml in a repository's .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted outside of CLOWarden each time it checks the config.yaml file.
 
 > [!NOTE]
+>
 > - CLOWarden will check your Pull Request changes to config.yaml and report any errors before they are merged and The CNCF Projects Team are here to help.
 > - Having ```name: REPO_NAME``` appear as the first key in an repository array entry makes it easier to find and read the entry. Placing it elsewhere in the entry is valid YAML but if you want to make it easier to update we suggest you add the name field first.
 
@@ -86,9 +87,7 @@ teams:
 
 ## Notes
 
-After your PR is merged, CLOWarden will apply changes you have requested and then report on [clowarden.io/audit](https://clowarden.io/audit/?page=1)
-
-CLOWarden periodically reads config.yaml on the main branch to apply the permissions to repos in the CNCF orgs.
+After your PR is merged to main, CLOWarden will apply changes you have requested and then report the access changes made taken on [clowarden.io/audit](https://clowarden.io/audit/?page=1)
 
 Changes are applied within an hour of being merged.
 
@@ -119,7 +118,10 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
     }
 ```
 
-Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
+TODO Fix broken link here OR update this statement
+Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  
+TODO Are Category names missing?
+Category names must exactly match the list above.
 
 And here is an example entry:
 
