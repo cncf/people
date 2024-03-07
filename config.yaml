@@ -1173,6 +1173,13 @@ teams:
       - onlydole
     displayName: CNCF End Users
     secret: false
+  - name: tag-env-leads
+    maintainers:
+      - leonardpahlke
+    members:
+      - catblade
+      - guidemetothemoon
+      - mkorbi
   - name: tag-env-sustainability
     maintainers:
       - leonardpahlke
