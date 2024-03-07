@@ -843,7 +843,6 @@ repositories:
   - external_collaborators:
       amye: admin
       caniszczyk: admin
-      caradelia: maintain
       catblade: admin
       guidemetothemoon: maintain
       leonardpahlke: admin
@@ -1178,12 +1177,15 @@ teams:
     maintainers:
       - leonardpahlke
     members:
-      - caradelia
+      - AntonioDiTuri
       - catblade
+      - claire-fletcher
       - guidemetothemoon
       - mkorbi
       - nikimanoledaki
       - patricia-cahill
+      - rossf7
+      - savitharaghunathan
   - name: tag-contributor-strategy
     formation:
       - tcs-maintainers
