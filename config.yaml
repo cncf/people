@@ -854,15 +854,12 @@ repositories:
   - external_collaborators:
       amye: admin
       caniszczyk: admin
-      caradelia: maintain
-      catblade: admin
-      guidemetothemoon: maintain
-      leonardpahlke: admin
-      mkorbi: admin
       nate-double-u: admin
-      nikimanoledaki: maintain
       chalin: maintain
     name: tag-env-sustainability
+    teams:
+      tag-envb-chairs: admin
+      tag-env-sustainability: maintain
     settings:
       has_wiki: true
   - external_collaborators:
@@ -1188,16 +1185,25 @@ teams:
       - onlydole
     displayName: CNCF End Users
     secret: false
+  - name: tag-env-chairs
+    maintainers:
+      - leonardpahlke
+    members:
+      - catblade
+      - mkorbi
   - name: tag-env-sustainability
     maintainers:
       - leonardpahlke
     members:
-      - caradelia
+      - AntonioDiTuri
       - catblade
+      - claire-fletcher
       - guidemetothemoon
       - mkorbi
       - nikimanoledaki
       - patricia-cahill
+      - rossf7
+      - savitharaghunathan
   - name: tag-contributor-strategy
     formation:
       - tcs-maintainers
