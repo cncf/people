@@ -3,7 +3,7 @@
 This repo stores the data that
 
 1. Populates various people listing pages on the cncf.io website
-2. grants access to repositories in the CNCF GitHub Org
+2. Grants access to repositories in the CNCF GitHub Org
 
 ## Update your listing(s) on the cncf.io website pages with people.json
 
