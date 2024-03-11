@@ -2612,23 +2612,6 @@
       "image":"halil-ibrahim-bugol.jpg"
    },
    {
-      "name":"Hari Srinivasan",
-      "bio":"Hari is a Sr. Director, Product Management in the Public Cloud team at Palo Alto Networks, responsible for the Cloud Workload Protection pillar of Prisma Cloud. He joined Palo Alto Networks from Qualys, where he was head of cloud and container security products. He has over 18 years of Product Management and Marketing experience, conceptualizing and building cybersecurity, systems management, and infrastructure products at industry leaders such as Oracle. Hari lives in the bay area, and outside of work, he is passionate about volunteering for environmental projects in and around the bay area.",
-      "company":"Palo Alto Networks",
-      "pronouns":"",
-      "linkedin":"https://www.linkedin.com/in/hariprasanna/",
-      "twitter":"https://twitter.com/harisrinivasan",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"hari-srinivasan.jpg"
-   },
-   {
       "name":"Harry Lee",
       "bio":"<p>Harry is a DevOps Evangelist and CTO @ Melio AI. He specialises in helping organisations navigate the cloud native landscape and adopt cloud native technologies. Harry runs the Cloud Native Computing Johannesburg Meetup which is part of the CNCF community groups in South Africa. https://www.meetup.com/cloud-native-computing-johannesburg/ https://community.cncf.io/johannesburg/</p><p>Why I am excited to be an ambassador: Harry is excited to be an ambassador as he is able to bring local cloud native enthusiasts together. This creates a platform where everyone can share their experiences embarking on their cloud native journeys. Through frequent knowledge sharing, this advances the entire cloud native community as a whole.</p>",
       "company":"Melio AI",
@@ -7750,23 +7733,6 @@
       "image":"thomas-vitale.jpg"
    },
    {
-      "name":"Thomas (Tom) Manville",
-      "bio":"Tom studied computer architecture at the University of Michigan and researched microprocessor design in partnership with ARM. After university, he joined the server team at Maginatics, a cloud-based file system company that was acquired by EMC. After the acquisition, he joined Dropbox where he was focused on improving the efficiency of Dropbox’s metadata storage, disaster recovery, and fault tolerance. Tom joined the founding team at Kasten, which was acquired by Veeam in 2020. He is now VP of Engineering building Kasten by Veeam’s flagship product K10, focussed on Kubernetes Backup and DR.",
-      "company":"Kasten",
-      "pronouns":"he/him",
-      "linkedin":"https://www.linkedin.com/in/tom-manville/",
-      "twitter":"https://twitter.com/tdmanv",
-      "github":"https://github.com/tdmanv",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"tom-manville.jpg"
-   },
-   {
       "name":"Tiexin Guo",
       "bio":"<p>Founder and PMC chair of DevStream@CNCF, ex-AWS senior DevOps, ex-Huawei tech expert, cloud architect for Daimler, Tesco, Credit Suisse, and other Fortune 500 corps. Writer at DevOps.com, guest expert at GitGuardian (DevSecOps), blog@Medium: https://medium.com/4th-coffee. Key speaker at the 1st Lisbon K8s meetup. Keynote speaker of BuildStuff 2022. I specialize in DevOps and cloud-related technologies, like CI/CD, developer tools, Terraform, AWS, etc., and I blog on DevOps/DevSecOps.</p><p>Why I am excited to be an ambassador: I am truly excited and honored to be an ambassador for the Cloud Native Computing Foundation (CNCF). This opportunity allows me to contribute to the promotion and adoption of cutting-edge cloud-native technologies, which play a crucial role in shaping the future of software development and infrastructure. Being an ambassador also connects me with a vibrant, passionate community of professionals who share insights and experiences, fostering collaboration and innovation. I am genuinely grateful for this chance to learn from others and help drive the industry forward, making a meaningful impact on the cloud-native ecosystem.</p>",
       "company":"Flexport",
@@ -8356,7 +8322,7 @@
    },
    {
       "name":"Andy Peng",
-      "bio":"<p>Seasoned software builder / technology leader based in Seattle (WA). Technical advisor. Public speaker and author. Specialized in large-scale distributed systems and cloud computing: AI + Data, containers & virtualization, serverless compute, open-source. Diverse experience encompassing both people management and technical leadership, including cross-company collaborations. Community Lead of Cloud Native Seattle. Member of LF AI & Data Generative AI Commons. Guest lecturer of University of Washington Foster School of Business. Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Homepage: https://pymslu.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting fundamental technologies, particularly in the realm of Cloud Native solutions, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to Linux Foundation and CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
+      "bio":"<p>Seasoned software builder / technology leader based in Seattle (WA). Technical advisor. Public speaker and author. Specialized in large-scale distributed systems and cloud computing: AI + Data, containers & virtualization, serverless compute, open-source. Diverse experience encompassing both people management and technical leadership, including cross-company collaborations. Community Lead of Cloud Native Seattle. Member of LF AI & Data Generative AI Commons. Guest lecturer of University of Washington Foster School of Business. Photographer, Music lover, have a taylor made in walnut, and I love Icewine. Homepage: https://pengandy.com/</p><p>Why I am excited to be an ambassador: I am thrilled to be joining the CNCF Ambassador program. As someone who is deeply passionate about building and promoting fundamental technologies, particularly in the realm of Cloud Native solutions, I feel grateful for the opportunity to deepen my connections with the community and share my knowledge and experience with open-source users around the globe. By being part of this program, I hope to make a broader impact and bring even more value to Linux Foundation and CNCF. Additionally, I am eager to learn more about the needs of users and help them understand how they can effectively use cloud native and container technology to solve their problems.</p>",
       "company":"AWS",
       "pronouns":"He/Him",
       "location":"Seattle, United States",
@@ -8364,7 +8330,7 @@
       "twitter":"https://www.twitter.com/pymhq",
       "github":"https://github.com/pymhq",
       "wechat":"",
-      "website":"https://pymslu.com/",
+      "website":"https://pengandy.com/",
       "youtube":"",
       "slack_id": "Andy Peng",
       "languages":[],
@@ -8453,23 +8419,6 @@
       "expertise":["Technical"],
       "category":["Ambassadors"],
       "image":"yoshiyuki-tabata.jpg"
-   },
-   {
-      "name":"Zain Asgar",
-      "bio":"<p>Zain is the GM/GVP of Pixie &amp; Open Source at New Relic. Zain is also an Adjunct Professor of Computer Science at Stanford University and was an Entrepreneur in Residence at Benchmark before co-founding Pixie. He has a PhD from Stanford and has helped build at-scale data and AI/ML at Google AI, Trifacta and Nvidia.</p>",
-      "company":"New Relic",
-      "pronouns":"",
-      "linkedin":"",
-      "twitter":"",
-      "github":"",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
-         "Governing Board"
-      ],
-      "image":"https://www.cncf.io/wp-content/uploads/2021/05/zain_headshot.jpg"
    },
    {
       "name":"Zdeněk Váňa",
