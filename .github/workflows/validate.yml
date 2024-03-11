@@ -4,7 +4,7 @@ on: [pull_request]
 
 jobs:
   verify-json-validation:
-    runs-on: oracle-aarch64-2cpu-8gb
+    runs-on: equinix-2cpu-8gb
     steps:
       - uses: actions/checkout@v1
       - name: Validate JSON
