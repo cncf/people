@@ -2315,9 +2315,9 @@
    },
    {
       "name":"Erin Boyd",
-      "bio":"<p>I have been an active member of the TOC as a contributor from its inception. I have led and participated discussions on how to improve the impact of the CNCF through the TOC and its wider community as well as performed the due diligence around countless projects. I have seen the space of projects grow and fully understand the challenges associated with scaling projects while still trying to maintain legitimacy and fairness in this Cloud Native community. Being a committer to the Ambari project and contributor to Kubernetes, I have worked across industries and communities and am sought as a trusted advisor and technical architect for the Kubernetes Storage SIG. As part of the Storage SIG I helped establish an E2E testing framework focused on real use cases from customers and usability of the system. I have consulted with other Kubernetes SIGs from this work to help grow the ecosystem with the vision of a more stable environment. I am dedicated to open source and the growing of the cloud native community to incorporate the tools that make this ecosystem so powerful. I bring to the table the perspective of both a developer, tester and usability fanatic and continually reach across communities to accomplish these shared goals. My history of working for both Apple and Red Hat gives me a fully holistic view I can contribute to evaluating and identifying technologies to continue to grow our Cloud Native community.</p>",
+      "bio":"Erin is currently the Director of Emerging Technologies  and Distinguished Engineer at Red Hat in the Office of the CTO. Erin was previously an Apple Cloud Services Engineer at Apple. Erin is a Kubernetes contributor and an Apache Ambari committer. Erin is an active contributor to the Kubernetes Storage SIG and is currently the co-chair of the CNCF Storage SIG. Erin’s main focus today is centered around how to enable storage in a stateless, hybrid, multi-cloud environment. Prior to working at Red Hat, she worked at IBM for 14 years. Erin worked in embedded systems development for several years before moving into global enterprise level services. Erin lives outside of Bozeman, MT with her husband and 5 children. She is a robot enthusiast and FIRST robotics mentor. Her family owns and runs a karate dojo in which they volunteer a considerable amount of time to teaching and empowering all people, especially women and children. And in what spare time she has, she runs marathons.",
       "company":"Red Hat",
-      "pronouns":"",
+      "pronouns":"She/Her",
       "linkedin":"https://www.linkedin.com/in/erin-a-boyd-16871a12/",
       "twitter":"https://twitter.com/erinaboyd",
       "github":"https://github.com/erinboyd",
@@ -2326,9 +2326,10 @@
       "youtube":"",
       "priority":"",
       "category":[
-         "Technical Oversight Committee"
+         "Technical Oversight Committee",
+         "Governing Board"
       ],
-      "image":"https://www.cncf.io/wp-content/uploads/2021/02/erin.jpeg"
+      "image":"erin-boyd.jpg"
    },
    {
       "name":"Erin Colvin",
