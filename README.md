@@ -1,72 +1,97 @@
 # CNCF People Overview
 
-This repo stores the data that will populate the various people listings on cncf.io and control access to repositories in the CNCF GitHub org.
+This repo stores the data that
 
-People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
+1. Populates various people listing pages on the cncf.io website
+2. Grants access to repositories in the CNCF GitHub Org
+
+## Update your listing(s) on the cncf.io website pages with people.json
+
+You can update your listing in people.json by submitting a pull request for approval. After the PR is merged, the CNCF site will reflect the update within 10 min.
+
+The listings include:
 
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 
-CNCF community members can request access to any repo by submitting a PR to change the config.yaml file in this repo.
+## Requesting access to CNCF repositories using CLOWarden and config.yaml
 
-## Listing Formats
+The CNCF has centralized access control for repos in this org using a application called CLOWarden [src](https://github.com/cncf/clowarden) [site](https://clowarden.io/audit/).
 
-### config.yaml configures CNCF org repository access
+To request access to a repository
 
-Use config.yaml here to control repo-level access to your CNCF org repository.
+- first invite the user to join the CNCF org
+- then submit a pull request to modify [config.yaml](./config.yaml) file as described below
 
-config.yaml documents the people, and teams of people, who are granted access to GitHub repositories in the CNCF org.
+Your submitted changes will be checked and validated on the Pull Request by CLOWarden.
 
-DO NOT USE settings.yml at the repo-level to control permission; if you do, [Sheriff](#notes) will overwite permissions described in the repo-level settings.yml with the settings described here in config.yaml.
+If there are problems with your changes, you will receive clear instructions from CLOWarden on how to fix them.
 
-A person's GitHub profile is used to grant access to a repository or define membership of a team.
+The access rules contained in config.yaml are the single source of truth that document who has access to repos in the CNCF Org on GitHub.
+After each merged pull request config.yaml is read and processed automatically by CLOWarden to grant the stated access.
 
-Adding an entry to repositories allow you to describe who has access to your repoistory.
+In the config.yaml file there are two ways to grant repo access to a community member
+
+- add their GitHub username to a repository entry
+  
+  OR
+
+- add them to a team and then add the team to a repository entry
 
 ```yaml
 repositories:
-  - name: repo_name
+  - name: REPO_NAME
     external_collaborators:
-      github_profile_1: read | triage | write | maintain | admin
-              |
-      github_profile_n: read | triage | write | maintain | admin
+      GITHUB_USERNAME_1: read | triage | write | maintain | admin
+              :
+              :
+      GITHUB_USERNAME_N: read | triage | write | maintain | admin
     teams:
-      team_name_1: read | triage | write | maintain | admin
-              |
-      team_name_n: read | triage | write | maintain | admin
+      TEAM_NAME_1: read | triage | write | maintain | admin
+              :
+      TEAM_NAME_N: read | triage | write | maintain | admin
     # Optional repository settings
     settings:
       has_wiki: true|false # Default is false
     visibility: public | private # Default is public
 ```
 
-Note: the ```name: repo name``` does not necessarily appear as the first field in a repositories entry which can be confusing.
+> [!IMPORTANT]
+>
+> - Invite users to join the CNCF Org *before you add them via a PR* to config.yaml
+> - GitHub usernames are case sensitive, mixed case usernames *should match* how they appear in their GitHub profile page
+> - If you grant access to a repo by any other means (via the GitHub web app, updating settings.yml in a repository's .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted outside of CLOWarden each time it checks the config.yaml file.
 
- Named teams referenced in a ```repository``` entry are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
+> [!NOTE]
+>
+> - CLOWarden will check your Pull Request changes to config.yaml and report any errors before they are merged and The CNCF Projects Team are here to help.
+> - Having ```name: REPO_NAME``` appear as the first key in an repository array entry makes it easier to find and read the entry. Placing it elsewhere in the entry is valid YAML but if you want to make it easier to update we suggest you add the name field first.
+
+Named teams referenced in an entry under ```repositories``` are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
 
 ```yaml
 teams:
-  - name: team_name
+  - name: TEAM_NAME
+    displayName: You can add a full team name here with spaces.
     maintainers:
-      - github_profile_1
+      - GITHUB_USERNAME_1
                |
-      - github_profile_n
+               |
+      - GITHUB_USERNAME_N
     members:
       has_wiki: true|false
-    displayName: Team name that can have spaces used to create a Slack Channel
-    slack: {true|false|Slack channel name}  # Create a Slack channel for this team
     secret: {true|false} # Hidden GitHub Team
 ```
 
-#### Notes
+## Notes
 
-[cncf/sheriff](https://github.com/cncf/sheriff) periodically reads config.yaml on the main branch to apply the permissions to CNCF orgs, so once your PR is approved, the [Sheriff Apply GitHub action](https://github.com/cncf/people/actions/workflows/apply.yml ) will run to apply your changes.
+After your PR is merged to main, CLOWarden will apply changes you have requested and then report the access changes made taken on [clowarden.io/audit](https://clowarden.io/audit/?page=1)
 
-[cncf/sheriff](https://github.com/cncf/sheriff) is a fork of [electron/sheriff](https://github.com/electron/sheriff). The cncf fork has code to cover CNCF-specific procedures. Thank you Electron Sheriff contributors.
+Changes are applied within an hour of being merged.
 
-### people.json
+### people.json is used to generate listings on CNCF Web sites
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
@@ -93,7 +118,10 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
     }
 ```
 
-Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
+TODO Fix broken link here OR update this statement
+Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  
+TODO Are Category names missing?
+Category names must exactly match the list above.
 
 And here is an example entry:
 
@@ -120,18 +148,13 @@ And here is an example entry:
     }
 ```
 
-## Images
-
-Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
-
-## Team Management
-
-Also within this repo is a YAML file used by our [automation tooling](https://github.com/electron/sheriff) to help us manage access to resources for teams. This tooling takes advantage of data in [people.json](people.json) such as the `email` and `slack_id` fields. This will allow us to add maintainers to different properties only using their GitHub handle.
-
-- To find your Slack ID for the CNCF slack, please follow this [handy guide](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
-
+- To find your Slack ID for the CNCF slack, please follow this [guide](https://slack.com/intl/en-ie/help/articles/221769328-Locate-your-Slack-URL-or-ID)
 - When adding your email, please follow the same format used within [devstats](https://github.com/cncf/devstats):
 
   ```shell
   email!address.xyz
   ```
+
+## Images
+
+Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
