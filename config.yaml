@@ -800,17 +800,14 @@ repositories:
       has_wiki: true
   - external_collaborators:
       kgamanji: admin
-      lianmakesthings: maintain
+      lianmakesthings: admin
       angellk: maintain
-      AloisReitbauer: admin
       joshgav: admin
       thschue: admin
       roberthstrand: write
-      scottrigby: write
-      todaywasawesome: write
-      chris-short: write
       abangser: write
-      afflom: write
+      krumware: write
+      sabre1041: write
       rchincha: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
