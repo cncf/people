@@ -516,7 +516,7 @@ repositories:
       ydFu: write
       yunkon-kim: write
       aliok: write
-      halil-bugol: write
+      symys: write
       rwxdash: write
       eminalemdar: write
       shurup: write
@@ -865,6 +865,7 @@ repositories:
       raravena80: admin
       k82cn: admin
       kad: admin
+      zanetworker: write
     name: tag-runtime
   - external_collaborators:
       JustinCappos: write
@@ -1128,6 +1129,7 @@ teams:
       - afirth
       - AlanHohn
       - alena1108
+      - aparna-subramanian
       - bocytko
       - c-rindi
       - dave-gantenbein
@@ -1137,8 +1139,10 @@ teams:
       - DPalilonis
       - geothery
       - gpjacobs
+      - grumps
       - hblixt
       - idunbarh
+      - jhoovermitre
       - matteosilv
       - micnncim
       - paulliwog
@@ -1173,10 +1177,13 @@ teams:
       - claire-fletcher
       - guidemetothemoon
       - mkorbi
+      - Nancy-Chauhan
       - nikimanoledaki
       - patricia-cahill
       - rossf7
       - savitharaghunathan
+      - xamebax
+      - JacobValdemar
   - name: tag-contributor-strategy
     formation:
       - tcs-maintainers

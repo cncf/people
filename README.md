@@ -122,7 +122,7 @@ And here is an example entry:
 
 ## Images
 
-Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
+Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px with file size less than 100kB.
 
 ## Team Management
 
