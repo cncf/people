@@ -1916,23 +1916,28 @@
          "OpenYurt",
          "TiKV"
       ],
-      "expertise":["Technical", "Non-Technical"],
-      "category":["Ambassadors"],
-      "image":"phippy.jpg"
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],
+      "category": [
+         "Ambassadors"
+      ],
+      "image": "phippy.jpg"
    },
    {
-      "name":"Chris Abraham",
-      "bio":"Chris is a PMP-certified technology leader with a consistent record leading high-performing software teams. He has managed projects for clients such as Samsung and MetLife in addition to distributed blockchain development teams like the Aragon DAC. Chris has been developing mobile and web applications for over 20 years and has been working with CNCF since May 2018. He holds a Systems Design Engineering degree from the University of Waterloo.",
-      "company":"Web Engineering Manager",
-      "pronouns":"he/him",
-      "linkedin":"https://www.linkedin.com/in/cjyabraham/",
-      "twitter":"",
-      "github":"https://github.com/cjyabraham",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
-      "priority":"",
-      "category":[
+      "name": "Chris Abraham",
+      "bio": "Chris is a PMP-certified technology leader with a consistent record leading high-performing software teams. He has managed projects for clients such as Samsung and MetLife in addition to distributed blockchain development teams like the Aragon DAC. Chris has been developing mobile and web applications for over 20 years and has been working with CNCF since May 2018. He holds a Systems Design Engineering degree from the University of Waterloo.",
+      "company": "Web Engineering Manager",
+      "pronouns": "he/him",
+      "linkedin": "https://www.linkedin.com/in/cjyabraham/",
+      "twitter": "",
+      "github": "https://github.com/cjyabraham",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "category": [
          "Staff"
       ],
       "image": "https://www.cncf.io/wp-content/uploads/2017/06/chrisabraham.jpg"
@@ -1967,24 +1972,28 @@
       "website": "",
       "youtube": "",
       "slack_id": "Chris Mzr",
-      "languages":[],
-      "projects":[],
-      "expertise":["Non-Technical"],
-      "category":["Ambassadors"],
-      "image":"chris-mazur.jpg"
+      "languages": [],
+      "projects": [],
+      "expertise": [
+         "Non-Technical"
+      ],
+      "category": [
+         "Ambassadors"
+      ],
+      "image": "chris-mazur.jpg"
    },
    {
-      "name":"Christoph Blecker",
-      "bio":"Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog.",
-      "company":"Red Hat",
-      "gb_role":"Kubernetes Rep",
-      "pronouns":"He/Him",
-      "linkedin":"https://www.linkedin.com/in/cblecker",
-      "twitter":"https://twitter.com/tophee",
-      "github":"https://github.com/cblecker",
-      "wechat":"",
-      "website":"",
-      "youtube":"",
+      "name": "Christoph Blecker",
+      "bio": "Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog.",
+      "company": "Red Hat",
+      "gb_role": "Kubernetes Rep",
+      "pronouns": "He/Him",
+      "linkedin": "https://www.linkedin.com/in/cblecker",
+      "twitter": "https://twitter.com/tophee",
+      "github": "https://github.com/cblecker",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
       "location": "Kelowna, British Columbia, Canada",
       "projects": [
          "Kubernetes"
@@ -8576,6 +8585,24 @@
       "image": "simen-krantz-knudsen.jpg"
    },
    {
+      "name": "Simen Røstvik",
+      "bio": "<p>Simen is half Cloud Engineer, half Platform Engineer, full on bodger. I enjoy making things work in ways they necessarily weren't supposed to, this sometimes makes it into written words on different blogging platforms. Professionally I create Cloud Native platforms, with the customers HCL based IaC tool of choice, running Kubernetes managed by Flux and Helm.  After hours I contribute to Open Source projects like LinuxServer.io and engage in Norwegian communities involving programming and tech. </p>",
+      "company": "Sopra Steria",
+      "pronouns": "He/Him",
+      "location": "Oslo, Norway",
+      "linkedin": "https://www.linkedin.com/in/simen-r%C3%B8stvik/?locale=en_UShttps://www.linkedin.com/in/simen-r%C3%B8stvik/?locale=en_US",
+      "twitter": "",
+      "github": "https://github.com/Roxedus",
+      "wechat": "",
+      "website": "https://roxedus.dev/",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U06UEL0LVK3",
+      "image": "simen-rostvik.jpg"
+   },
+   {
       "name": "Sjouke de Vries",
       "bio": "<p>I’m interested in Kubernetes, IaC, Argo CD, and all things that are cloud-native in general. I have a MSc in Computing Science Distributed Systems and Software Engineering, and am looking to contribute to open-source projects and collaborate on freelance projects.</p>",
       "company": "SDV Services",
@@ -8610,6 +8637,24 @@
       ],
       "slack_id": "Stan Hoe",
       "image": "stan-hoe.jpg"
+   },
+   {
+      "name": "Stanislav Kolenkin",
+      "bio": "<p>I have been working in the IT industry for 16+ years and has enormous hands-on and managerial experience with the most innovative DevOps projects using Kubernetes,  OpenStack, AWS, GCP, and Bare-Metal tech stacks. My professional achievements are numerous certificates, including SEI Software Architecture Professional Certificate, Kubernetes, AWS, GCP Certifications, and many others. Along with his outstanding architect skills and vast industry knowledge, I am proficient in critical problem-solving and excels in dealing with non-standard production issues.</p>",
+      "company": "",
+      "pronouns": "He/Him",
+      "location": "Warsaw, Poland",
+      "linkedin": "https://www.linkedin.com/in/stanislav-kolenkin-4b6b96a/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "sta.kolenkin@gmail.com",
+      "image": "stanislav-kolenkin.jpg"
    },
    {
       "name": "Stephan Kühne",
@@ -9636,6 +9681,24 @@
       "image": "tom-wilkie.jpeg"
    },
    {
+      "name": "Tony Norlin",
+      "bio": "<p>I'm working for Proact and Conoa as devops specialist, building Cloud Native Infrastructure at day and I'm a homelab tinkerer at night, experimenting with Kubernetes on other opensource platforms (such as illumos and FreeBSD). At my employer I am involved in organising in-person as well as online events, focused on Cloud Native and Kubernetes. I currently have a member seat in the CNCF Marketing Committee representing Conoa. My specialty is anything Cilium, but I work with technologies throughout the landscape. Currently blogging at https://medium.com/@norlin.t and https://kubernaut.eu/</p>",
+      "company": "",
+      "pronouns": "",
+      "location": "Sweden",
+      "linkedin": "https://www.linkedin.com/in/tonynorlin/",
+      "twitter": "https://twitter.com/tnorlin",
+      "github": "https://github.com/tnorlin",
+      "wechat": "",
+      "website": "https://kubernaut.eu/",
+      "youtube": "https://www.youtube.com/@TonyNorlin",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "Tony Norlin",
+      "image": "tony-norlin.jpg"
+   },
+   {
       "name": "Toru Komatsu",
       "bio": "<p>Toru contributes to OSS as an individual contributor. He is the author and lead developer of youki, an OCI Runtime in Rust, and I am also a maintainer of the OCI Runtime Specification. Additionally, he serves as a reviewer for runwasi and is involved in developing a world that utilizes containers and Wasm. Lately, he has developed an interest in Kubernetes schedulers. Furthermore, he has given presentations at KubeDay Japan and has spoken at various community events in Japan.</p><p>Why I am excited to be an ambassador: The area of container runtime is the unsung hero of the Cloud Native space, where the intricacies of the technology and new features often don't get the spotlight they deserve. As a developer in this field, I want to help more people become aware of the exciting features it has to offer. I aim to encourage them to take the leap into this fascinating domain! I am also looking forward to assisting the Japanese Cloud Native community in becoming more vibrant on an international level.</p>",
       "company": "Preferred Networks",
@@ -9911,6 +9974,24 @@
          "Governing Board"
       ],
       "image": "https://www.cncf.io/wp-content/uploads/2020/08/Vijoy33-1.jpg"
+   },
+   {
+      "name": "Vivek Yadav",
+      "bio": "<p>Vivek Yadav, a Lead DevOps Engineer at UKG, specializes in Platform Engineering, Cloud, DevOps, and Kubernetes, with a strong emphasis on Developer Experience. He is passionate about Cloud Native technologies, Linux, and DevOps. In his leisure time, he loves delving into the intricacies of Linux and Kubernetes internals.</p>",
+      "company": "Ultimate Kronos Group (UKG)",
+      "pronouns": "He/Him",
+      "location": "Noida, India",
+      "linkedin": "https://www.linkedin.com/in/vivekyadav20/",
+      "twitter": "https://twitter.com/erick_vivek21",
+      "github": "https://github.com/viveky20",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "vivek-yadav.jpg"
    },
    {
       "name": "Wei Wang",
@@ -10206,6 +10287,24 @@
          "Ambassadors"
       ],
       "image": "xunzhuo-liu.jpg"
+   },
+   {
+      "name": "Yannick Englert",
+      "bio": "<p>After completing my apprenticeship in 2016, I spent seven years working full-time for a telecommunications company as a DevOps engineer. In that role, I provided and maintained a container platform (PaaS) utilising CloudFoundry and Kubernetes. Currently, I work as a DevOps/Platform Engineer at an SME, where my responsibilities include supporting and developing our Kubernetes-based container platform, as well as education and enabling colleques and customers on their Cloud Native journey.</p>",
+      "company": "BEGASOFT AG",
+      "pronouns": "He/Him",
+      "location": "Bern, Switzerland",
+      "linkedin": "https://www.linkedin.com/in/englert/",
+      "twitter": "",
+      "github": "https://github.com/rumpli",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "yannick-englert.jpg"
    },
    {
       "name": "Yaron Haviv",
