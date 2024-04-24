@@ -1916,28 +1916,23 @@
          "OpenYurt",
          "TiKV"
       ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "phippy.jpg"
+      "expertise":["Technical", "Non-Technical"],
+      "category":["Ambassadors"],
+      "image":"phippy.jpg"
    },
    {
-      "name": "Chris Abraham",
-      "bio": "Chris is a PMP-certified technology leader with a consistent record leading high-performing software teams. He has managed projects for clients such as Samsung and MetLife in addition to distributed blockchain development teams like the Aragon DAC. Chris has been developing mobile and web applications for over 20 years and has been working with CNCF since May 2018. He holds a Systems Design Engineering degree from the University of Waterloo.",
-      "company": "Web Engineering Manager",
-      "pronouns": "he/him",
-      "linkedin": "https://www.linkedin.com/in/cjyabraham/",
-      "twitter": "",
-      "github": "https://github.com/cjyabraham",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "priority": "",
-      "category": [
+      "name":"Chris Abraham",
+      "bio":"Chris is a PMP-certified technology leader with a consistent record leading high-performing software teams. He has managed projects for clients such as Samsung and MetLife in addition to distributed blockchain development teams like the Aragon DAC. Chris has been developing mobile and web applications for over 20 years and has been working with CNCF since May 2018. He holds a Systems Design Engineering degree from the University of Waterloo.",
+      "company":"Web Engineering Manager",
+      "pronouns":"he/him",
+      "linkedin":"https://www.linkedin.com/in/cjyabraham/",
+      "twitter":"",
+      "github":"https://github.com/cjyabraham",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
          "Staff"
       ],
       "image": "https://www.cncf.io/wp-content/uploads/2017/06/chrisabraham.jpg"
@@ -1972,28 +1967,24 @@
       "website": "",
       "youtube": "",
       "slack_id": "Chris Mzr",
-      "languages": [],
-      "projects": [],
-      "expertise": [
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "chris-mazur.jpg"
+      "languages":[],
+      "projects":[],
+      "expertise":["Non-Technical"],
+      "category":["Ambassadors"],
+      "image":"chris-mazur.jpg"
    },
    {
-      "name": "Christoph Blecker",
-      "bio": "Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog.",
-      "company": "Red Hat",
-      "gb_role": "Kubernetes Rep",
-      "pronouns": "He/Him",
-      "linkedin": "https://www.linkedin.com/in/cblecker",
-      "twitter": "https://twitter.com/tophee",
-      "github": "https://github.com/cblecker",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
+      "name":"Christoph Blecker",
+      "bio":"Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog.",
+      "company":"Red Hat",
+      "gb_role":"Kubernetes Rep",
+      "pronouns":"He/Him",
+      "linkedin":"https://www.linkedin.com/in/cblecker",
+      "twitter":"https://twitter.com/tophee",
+      "github":"https://github.com/cblecker",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
       "location": "Kelowna, British Columbia, Canada",
       "projects": [
          "Kubernetes"
