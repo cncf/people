@@ -2296,33 +2296,6 @@
       "image": "dirk-michel.jpg"
    },
    {
-      "name": "Divya Mohan",
-      "bio": "<p>Divya is a Senior Technical Evangelist at SUSE, where she contributes to Rancher’s cloud native open source projects. She co-chairs the documentation for the Kubernetes & LitmusChaos projects & has previously worked extensively in the systems engineering space during her tenure with HSBC & IGate Global Solutions Pvt Ltd. A co-creator of the KCNA exam & a CNCF ambassador, she is invested in making technical communities & technologies more accessible & inclusive.</p><p>Why I am excited to be an ambassador: I've been an ambassador previously & I am aware of the impact that we have on the community. I'm excited to help out in making the community inclusive & accessible for everyone, irrespective of their skill level, where they are at in their career, or where they are from location-wise.</p>",
-      "company": "SUSE",
-      "pronouns": "She/Her",
-      "location": "Mumbai, India",
-      "linkedin": "https://linkedin.com/in/divya-mohan0209",
-      "twitter": "https://www.twitter.com/Divya_Mohan02",
-      "github": "https://github.com/divya-mohan0209",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Divya Mohan",
-      "languages": [],
-      "projects": [
-         "k3s",
-         "Kubernetes",
-         "Kubewarden"
-      ],
-      "expertise": [
-         "Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "divya-mohan.jpg"
-   },
-   {
       "name": "Dmytro Slotvinskyi",
       "bio": "<p>As DevOps Engineer, I work with a team of professionals to deliver high-quality solutions for various clients using Azure Kubernetes Service (AKS), GitOps I have successfully implemented and maintained multiple AKS clusters, automated deployments and configurations, and ensured security and compliance standards.</p>",
       "company": "",
@@ -5215,47 +5188,6 @@
       "image": "loo-chee-heong.jpg"
    },
    {
-      "name": "Lucas Käldström",
-      "bio": "<p>Lucas is an independent cloud native expert, former Kubernetes SIG co-lead, an avid KubeCon speaker, and one of the organizers of the CNCF meetups in Finland. Primary expertise include Kubernetes, GitOps and educating cloud native concepts.</p><p>Why I am excited to be an ambassador: I've had the fortune to learn from world-class cloud native leaders, and I want to pay it forward by organizing, speaking at and participating in cloud native events. In addition, I'm excited to make the cloud native concepts more tangible through my research.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "Helsinki, Finland",
-      "linkedin": "https://www.linkedin.com/in/luxas/",
-      "twitter": "https://www.twitter.com/kubernetesonarm",
-      "github": "https://github.com/luxas",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "luxas",
-      "languages": [],
-      "projects": [
-         "cert-manager",
-         "Container Network Interface (CNI)",
-         "containerd",
-         "CoreDNS",
-         "CRI-O",
-         "etcd",
-         "Flux",
-         "gRPC",
-         "Helm",
-         "Jaeger",
-         "Kubernetes",
-         "OpenGitOps",
-         "OpenMetrics",
-         "OpenTelemetry",
-         "Prometheus",
-         "The Update Framework (TUF)"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "lucas-kaldstrom.jpg"
-   },
-   {
       "name": "Lukasz Gryglicki",
       "bio": "Lukasz has been a Senior Developer at the CNCF since 2017 and has been working for The Linux Foundation since 2018. He is the creator and maintainer of the DevStats reporting tool. Prior to joining the CNCF, Lukasz worked remotely for companies based in the US, including Cleverstep, Jamis and Spreemo Health.\n\nHe loves to travel in polar areas, such as polar Norway, Finland and Russia. From 2011 to 2012, he was a scientist for a Polish polar expedition to the Hornsund fjord on the island of Spitsbergen, in northern Norway. Lukasz graduated from Warsaw University of Technology with a Master of Science in Engineering. He lives in a small town in Poland with his wife and two kids.",
       "company": "Senior Developer",
@@ -6124,39 +6056,6 @@
          "Ambassadors"
       ],
       "image": "nuno-docarmo.jpg"
-   },
-   {
-      "name": "Obinna Odirionye",
-      "bio": "<p>I'm Obinna Odirionye. I work on Kubernetes Tooling, Infrastructure, and Distributed Systems. I write and speak about Serverless, Containers, and Kubernetes. I am a Co-Maintainer and Member of Helm working on ChartMuseum. I write my thoughts on https://iamobinna.com</p><p>Why I am excited to be an ambassador: As a CNCF ambassador, I am passionate about bringing more individuals into the African ecosystem to contribute to the cloud-native community. I have seen the impact that becoming a co-maintainer and member of Helm has had on my career, and I am eager to extend these opportunities to others in my region. By leveraging the resources available through my role as a CNCF ambassador, I can support and mentor curious individuals in their transition into SRE and Kubernetes roles. My goal is to help grow the cloud-native community and positively impact my region.</p>",
-      "company": "Clouddley",
-      "pronouns": "He/Him",
-      "location": "Lagos, Nigeria",
-      "linkedin": "",
-      "twitter": "https://www.twitter.com/odirionyeo",
-      "github": "https://github.com/nerdeveloper",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Obinna Odirionye",
-      "languages": [],
-      "projects": [
-         "Argo",
-         "Buildpacks",
-         "Helm",
-         "Istio",
-         "Knative",
-         "Kubernetes",
-         "Linkerd",
-         "Prometheus"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "obinna-odirionye.jpg"
    },
    {
       "name": "Olawale Olaleye",
@@ -7784,37 +7683,6 @@
       "image": "sebastien-prune-thomas.jpg"
    },
    {
-      "name": "Sebastian Scheele",
-      "bio": "<p>Sebastian Scheele is CEO and co-founder of Kubermatic, a start-up with +90 employees that is one of the committers to Kubernetes, focused on developing open core software solutions for automating Kubernetes operations, at scale. Sebastian, a developer himself, has his finger on the pulse of where the Kubernetes landscape is going and is contributing many of his team's resources to upstream K8s development. As one of the early pioneers in the cloud native ecosystem , he has helped hundreds of enterprises embrace Kubernetes to solve cutting edge challenges in both cloud and edge computing.</p><p>Why I am excited to be an ambassador: As a CNCF Ambassador, I am proud to have the opportunity to make a positive impact on the cloud-native community. I want to contribute to the development of open-source projects, educate and inspire others through talks and content creation, and help promote the adoption of cloud-native technology.</p>",
-      "company": "Kubermatic",
-      "pronouns": "He/Him",
-      "location": "Hamburg, Germany",
-      "linkedin": "https://www.linkedin.com/in/sebastian-scheele/",
-      "twitter": "https://www.twitter.com/sscheele",
-      "github": "https://github.com/scheeles",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "scheeles",
-      "languages": [],
-      "projects": [
-         "Cilium",
-         "Helm",
-         "Istio",
-         "Kubernetes",
-         "KubeVirt",
-         "Tinkerbell"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "sebastian-scheele.jpg"
-   },
-   {
       "name": "Simen Krantz Knudsen",
       "bio": "<p>Simen works as a developer and technical architect in a platform team, with a focus on Kubernetes, Ansible/AWX, Hashicorp Terraform and Azure. As a Kubestronaut, Simen is looking forward to be a more active part of the CNCF community.</p>",
       "company": "",
@@ -8460,58 +8328,6 @@
          "Ambassadors"
       ],
       "image": "syedasad-raza.jpg"
-   },
-   {
-      "name": "Sylvain Huguet",
-      "bio": "<p>KCD France Organizer & Director of Technical Product Management at Kasten by Veeam, I specialize in all things Cloud Native, obviously Kubernetes, but also Storage, Network, Compute, Observability, Security, Infrastructure, etc. From datacenters to applications, from business to operations, I enjoy talking about every aspect of our connected world.</p><p>Why I am excited to be an ambassador: I'm excited to represent the CNCF as an Ambassador to help others find their path through Cloud Native technologies and get started in the space. There is a technology for everyone, and there is a space for everyone, no matter to skill level, no matter you interest. If you don't know where to start, come talk to me, I'll be happy to get you oriented!</p>",
-      "company": "Kasten by Veeam",
-      "pronouns": "He/Him",
-      "location": "Paris, France",
-      "linkedin": "",
-      "twitter": "https://www.twitter.com/vshuguet",
-      "github": "https://github.com/shuguet",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Sylvain Huguet",
-      "languages": [],
-      "projects": [
-         "cert-manager",
-         "Container Network Interface (CNI)",
-         "containerd",
-         "CRI-O",
-         "Dex",
-         "Emissary-ingress",
-         "Envoy",
-         "etcd",
-         "Falco",
-         "Fluentd",
-         "Harbor",
-         "Helm",
-         "Istio",
-         "k3s",
-         "K8up",
-         "Kubernetes",
-         "KubeVirt",
-         "Kyverno",
-         "Longhorn",
-         "Open Policy Agent (OPA)",
-         "OpenEBS",
-         "OpenTelemetry",
-         "OpenTracing",
-         "Operator Framework",
-         "Prometheus",
-         "Rook",
-         "WasmEdge"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "sylvain-huguet.jpg"
    },
    {
       "name": "Takao Indoh",
@@ -9505,7 +9321,6 @@
          "Technical"
       ],
       "category": [
-         "Ambassadors",
          "Kubestronaut"
       ],
       "image": "yongkang-he.jpg"
