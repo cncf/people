@@ -18,11 +18,11 @@ The listings include:
 
 ## Requesting access to CNCF repositories using CLOWarden and config.yaml
 
-The CNCF has centralized access control for repos in this org using a application called CLOWarden [src](https://github.com/cncf/clowarden) [site](https://clowarden.io/audit/).
+The CNCF has centralized access control for repos in this org using CLOWarden [src](https://github.com/cncf/clowarden) [site](https://clowarden.io/audit/).
 
 To request access to a repository
 
-- first invite the user to join the CNCF org
+- For team maintainers, first invite the user to join the CNCF org
 - then submit a pull request to modify [config.yaml](./config.yaml) file as described below
 
 Your submitted changes will be checked and validated on the Pull Request by CLOWarden.
@@ -118,12 +118,17 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
     }
 ```
 
-TODO Fix broken link here OR update this statement
-Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  
-TODO Are Category names missing?
-Category names must exactly match the list above.
+Project names must exactly match [the landscape listing](https://landscape.cncf.io/?group=projects-and-products&view-mode=card&project=cncf).  
 
-And here is an example entry:
+The ```category``` value is an array that can contain the following elements which determine where the entry for the person is rendered on the cncf.io site.
+
+- "Ambassadors",
+- "Governing Board"
+- "Marketing Committee"
+- "Staff"
+- "Technical Oversight Committee"
+
+Here is an sample entry:
 
 ```json
     {
