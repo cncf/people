@@ -855,7 +855,7 @@
    },
    {
       "name": "Arsh Sharma",
-      "bio": "<p>Arsh currently serves as the New Contributor Ambassador for the Documentation Special Interest Group of the Kubernetes project and mentors new folks in the community. He has also led the CI Signal Team in the 1.25 Kubernetes Release. Previously, he was also an active contributor to other CNCF projects, including cert-manager and Kyverno. Arsh has written blogs and spoken about different topics in the cloud-native ecosystem at various conferences before. Recordings of some of his talks can be found at: https://arshsharma.com/speaking/</p><p>Why I am excited to be an ambassador: I owe a lot to open source and the CNCF open source community in particular. I'm excited to be an ambassador to be able to give back to the community and help others get started on their journey of contributing! As someone who has firsthand witnessed the benefits in personal and professional life thanks to the community, I want others to be able to share these joys as well.</p>",
+      "bio": "<p>Arsh is a Developer Experience Engineer at Okteto. He has also been awarded the Kubernetes Contributor Award previously. Prior to joining Okteto, he worked at VMware. He has also been a contributor to the CNCF projects cert-manager and Kyverno. Arsh has written blogs and spoken about different topics in the cloud ecosystem. Recordings of some of his previous talks can be found at: https://arshsharma.com/speaking/</p><p>Why I am excited to be an ambassador: I owe a lot to open source and the CNCF open source community in particular. I'm excited to be an ambassador to be able to give back to the community and help others get started on their journey of contributing! As someone who has firsthand witnessed the benefits in personal and professional life thanks to the community, I want others to be able to share these joys as well.</p>",
       "company": "Okteto",
       "pronouns": "He/Him",
       "location": "Panchkula, India",
@@ -875,7 +875,8 @@
          "Crossplane",
          "Helm",
          "Kubernetes",
-         "Kyverno"
+         "Kyverno",
+         "Argo"
       ],
       "expertise": [
          "Technical",
