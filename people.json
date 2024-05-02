@@ -4031,8 +4031,8 @@
    },
    {
       "name": "Jon Zeolla",
-      "bio": "<p>I am the co-founder and CTO of <a href=\"https://sei.so\" target=\"_blank\" rel=\"noopener noreferrer\">Seiso</a>, where we work with software companies to improve their security and compliance. I've been contributing to open source for the past decade; I'm a member of the CNCF Security TAG, run a meetup called <a href=\"https://steelcityinfosec.com\" target=\"_blank\" rel=\"noopener noreferrer\">Steel City InfoSec</a>, the <a href=\"https://bsidespgh.com\" target=\"_blank\" rel=\"noopener noreferrer\">BSides Pittsburgh</a> conference, and teach <a href=\"https://sans.org/sec540\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud and DevOps Security classes</a>.</p><p>Why I am excited to be an ambassador: I'm looking to help people adopt cloud native technology quickly and securely!</p>",
-      "company": "Seiso",
+      "bio": "<p>Jon Zeolla is the founder of Zenable, where they are revolutionizing corporate governance by integrating cloud-native security and compliance with artificial intelligence. Previously he co-founded <a href=\"https://sei.so\" target=\"_blank\" rel=\"noopener noreferrer\">Seiso</a> where he received the 2021 Start-Up Innovator of the Year Award and currently serves as strategic advisor, guiding key business decisions and company growth.</p><p>He is also a CNCF Ambassador, SANS Instructor for SEC540: Cloud Security and DevSecOps Automation, and an active member of CNCF TAG Security.</p>",
+      "company": "Zenable",
       "pronouns": "He/Him",
       "location": "Pittsburgh, PA, United States",
       "linkedin": "https://www.linkedin.com/in/jonzeolla/",
@@ -4040,20 +4040,18 @@
       "github": "https://github.com/JonZeolla",
       "wechat": "",
       "website": "https://jonzeolla.com",
-      "youtube": "",
-      "slack_id": "JonZeolla",
-      "languages": [],
+      "youtube": "https://www.youtube.com/channel/UCmVsG9YtVESCinwMSwuZB8w",
+      "slack_id": "U01FMBHJ14G",
+      "languages": ["English", "American Sign Language"],
       "projects": [
          "Curiefense",
          "Falco",
          "Fluentd",
-         "Helm",
          "in-toto",
          "Kubernetes",
          "Kyverno",
          "Open Policy Agent (OPA)",
-         "OpenTelemetry",
-         "Prometheus"
+         "OpenTelemetry"
       ],
       "expertise": [
          "Technical",
