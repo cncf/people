@@ -6,6 +6,7 @@ People can update their listing by submitting a PR for approval. After a PR is m
 
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
+- [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 
