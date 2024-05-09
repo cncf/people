@@ -575,7 +575,7 @@ repositories:
       has_wiki: true
   - external_collaborators:
       BobyMCbobs: admin
-      Riaankl: admin
+      riaankleinhans: admin
       hh: admin
       cncf-ci: admin
       Cmierly: maintain
@@ -646,7 +646,7 @@ repositories:
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
-      Riaankl: maintain
+      riaankleinhans: maintain
       amye: admin
       caniszczyk: admin
       idvoretskyi: admin
@@ -1015,7 +1015,7 @@ repositories:
       phlax: write
       poconnor1: admin
       pritianka: admin
-      Riaankl: write
+      riaankleinhans: write
       Swil78: write
       taylor: write
       taylorwaggoner: admin
@@ -1067,7 +1067,7 @@ teams:
   - name: cncf-toc
     maintainers:
       - amye
-      - Riaankl
+      - riaankleinhans
     members:
       - kgamanji
       - dzolotusky
@@ -1194,7 +1194,7 @@ teams:
     members:
       - jberkus
       - CathPag
-      - Riaankl
+      - riaankleinhans
       - aliok
   - name: tcs-contributors
     maintainers:
