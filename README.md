@@ -61,13 +61,13 @@ repositories:
 > [!IMPORTANT]
 >
 > - Invite users to join the CNCF Org *before you add them via a PR* to config.yaml
-> - GitHub usernames are case sensitive, mixed case usernames *should match* how they appear in their GitHub profile page
-> - If you grant access to a repo by any other means (via the GitHub web app, updating settings.yml in a repository's .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted outside of CLOWarden each time it checks the config.yaml file.
+> - GitHub's usernames are case-sensitive, mixed case usernames *should match* how they appear in their GitHub profile page
+> - If you grant access to a repo by any other means (via the GitHub web app, updating settings.yml in a repository's .github directory) and the access granted is not already described in the config.yaml file here, then CLOWarden will revert the access granted using those other means each and every time it checks the config.yaml file.
 
 > [!NOTE]
 >
 > - CLOWarden will check your Pull Request changes to config.yaml and report any errors before they are merged and The CNCF Projects Team are here to help.
-> - Having ```name: REPO_NAME``` appear as the first key in an repository array entry makes it easier to find and read the entry. Placing it elsewhere in the entry is valid YAML but if you want to make it easier to update we suggest you add the name field first.
+> - Having ```name: REPO_NAME``` appear as the first key in a repository array entry makes it easier to find and read the entry. Placing it elsewhere in the entry is valid YAML but if you want to make it easier to update we suggest you add the name field first.
 
 Named teams referenced in an entry under ```repositories``` are also defined in config.yaml under ```teams```. (much further down the file, beyond line 10,000)
 
@@ -91,7 +91,7 @@ After your PR is merged to main, CLOWarden will apply changes you have requested
 
 Changes are applied within an hour of being merged.
 
-### people.json is used to generate listings on CNCF Web sites
+### people.json is used to generate listings on CNCF Websites
 
 The [people.json file](https://github.com/cncf/people/blob/main/people.json) lists all people in alphabetical order by name.  Add new entries in the right place in the list.  Not all fields are used by each listing.  This is the format:
 
@@ -128,7 +128,7 @@ The ```category``` value is an array that can contain the following elements whi
 - "Staff"
 - "Technical Oversight Committee"
 
-Here is an sample entry:
+Here is a sample entry:
 
 ```json
     {
