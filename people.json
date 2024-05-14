@@ -6041,6 +6041,58 @@
       "image": "mitch-connors.jpg"
    },
    {
+      "name": "Mohammad Reza Saleh Sedghpour",
+      "bio": "Mohammad Reza is a Senior Cloud-Native Engineer at Elastisys with multiple years of experience in DevOps and Software Engineering. He actively contributes to the KUbernetes as part of the Release Team and has published multiple research papers and his PhD thesis on cloud-native technologies, particularly service meshes such as Istio and Cilium. He is writing about Cloud-Native technologies on <a href=\"https://www.linkedin.com/in/saleh-sedghpour/\" target=\"_blank\" rel=\"noopener noreferrer\">his LinkedIn page</a> and <a href=\"https://cloudtrek.dev/\" target=\"_blank\" rel=\"noopener noreferrer\">his personal blog</a>. You can also find his previous talks in various venues on <a href=\"https://www.youtube.com/@salehsedghpour\" target=\"_blank\" rel=\"noopener noreferrer\">his Youtube channel.",
+      "company": "Elastisys",
+      "location": "Lund, Sweden",
+      "pronouns": "He/Him",
+      "linkedin": "https://www.linkedin.com/in/saleh-sedghpour/",
+      "twitter": "https://twitter.com/sedghpour",
+      "github": "https://github.com/salehsedghpour",
+      "wechat": "",
+      "website": "https://cloudtrek.dev/",
+      "youtube": "https://www.youtube.com/@salehsedghpour",
+      "slack_id": "Mohammad Reza Saleh",
+      "languages": [
+         "English",
+         "Persian",
+         "German"
+      ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],
+      "projects": [
+         "ArgoCD",
+         "Cilium",
+         "Containerd",
+         "CRI-O",
+         "Elastic",
+         "Envoy",
+         "etcd",
+         "FluentD",
+         "Grafana",
+         "gRPC",
+         "Harbor",
+         "Helm",
+         "Istio",
+         "Kafka",
+         "Kiali",
+         "Kubernetes",
+         "Logstash",
+         "Opensearch",
+         "Openstack",
+         "PostgreSQL",
+         "Prometheus",
+         "Terraform",
+         "Thanos"
+      ],
+      "category": [
+         "Ambassadors"
+      ],
+      "image": "mohammad-reza-saleh-sedghpour.jpg"
+   },
+   {
       "name": "Mohammad Zebetian",
       "bio": "<p>Mohammad is leading the cloud and infrastructure architecture for Charter Communications. He is responsible for driving the vision, strategy, and innovation for Cloud and Edge.</p>\n\n<p>Mohammad has been actively engaged with the industry and helping shape the future of cloud, NFV, and Edge for almost two decades. He is a globally-minded high-tech executive with extensive leadership experience and an inspiring leader and communicator with a proven track record of scaling organizations and cross functional teams towards a shared strategic vision.</p>\n\n<p>Mohammad currently resides in The Mile High City, Denver, Colorado.</p>",
       "company": "Charter Communications",
