@@ -4116,7 +4116,7 @@
    },
    {
       "name": "Jakub Krzywda",
-      "bio": "<p>I have over a decade of experience in cloud and distributed systems, and holds a PhD in the field.  In the role as Cloud Native Training Manager and Senior Engineer at Elastisys, I am helping organizations adopt cloud native technologies and DevOps practices.  As the Linux Foundation Authorized Instructor, I teach all Kubernetes courses in preparation for CKA, CKAD, and CKS exams.  Project Experience: Kubernetes, Argo, Fluentd, Harbor, Helm, Istio, Prometheus</p>",
+      "bio": "<p>I have over a decade of experience in cloud and distributed systems, and hold a PhD in the field.</p><p>In the role of Cloud Native Training Manager and Senior Engineer at Elastisys, I am helping organizations adopt cloud native technologies and DevOps practices.</p><p>As the Linux Foundation Authorized Instructor, I teach all Kubernetes courses in preparation for CKA, CKAD, and CKS exams.</p>",
       "company": "Elastisys",
       "pronouns": "He/Him",
       "location": "Umeå, Sweden",
@@ -4130,6 +4130,15 @@
          "Kubestronaut"
       ],
       "slack_id": "U020JJERTPD",
+      "projects": [
+         "Argo",
+         "Fluentd",
+         "Harbor",
+         "Helm",
+         "Istio",
+         "Kubernetes",
+         "Prometheus"
+      ],
       "image": "jakub-krzywda.jpg"
    },
    {
