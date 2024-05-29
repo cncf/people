@@ -155,22 +155,6 @@ repositories:
       thetwopct: maintain
     name: cncf.io
   - external_collaborators:
-      HashNuke: write
-      agentpoyo: maintain
-      amye: admin
-      caniszczyk: admin
-      denverwilliams: write
-      jeffsaelens: read
-      lixuna: admin
-      pritianka: admin
-      taylor: admin
-      tomkivlin: read
-      wavell: write
-      williscool: triage
-    name: cnf-certification
-    settings:
-      has_wiki: true
-  - external_collaborators:
       Snergster: read
       denverwilliams: admin
       edwarnicke: write
@@ -186,65 +170,6 @@ repositories:
       taylor: admin
       wavell: write
     name: cnf-testbed
-    settings:
-      has_wiki: true
-  - external_collaborators:
-      HashNuke: admin
-      agentpoyo: admin
-      cayu53: read
-      denverwilliams: admin
-      electrocucaracha: read
-      jeffsaelens: read
-      lixuna: admin
-      michaelspedersen: write
-      monadic: read
-      nickolaev: write
-      nupejosh: admin
-      rabi-abdel: read
-      rabiabdel: read
-      taylor: admin
-      tomkivlin: read
-      uditgaurav: write
-      wavell: admin
-      williscool: maintain
-    name: cnf-testsuite
-    settings:
-      has_wiki: true
-  - external_collaborators:
-      CsatariGergely: read
-      Smitholi67: read
-      TamasZsiros: read
-      agentpoyo: read
-      akapadiaaarna: read
-      bryanl: read
-      claudiobartolini: read
-      denverwilliams: read
-      electrocucaracha: write
-      fkautz: triage
-      gchurcher-matrixx: read
-      gupta-alok: read
-      iawells: write
-      ildikov: triage
-      jeffsaelens: write
-      lixuna: admin
-      mardim91: read
-      michaelspedersen: read
-      nickolaev: read
-      pgoyal01: read
-      rabi-abdel: read
-      rannyh: read
-      rich-l: read
-      robert-hillier: read
-      sishbi: read
-      slashben: read
-      taylor: admin
-      tliron: read
-      tomkivlin: write
-      v1k0d3n: read
-      vukg: triage
-      wavell: write
-      williscool: triage
-    name: cnf-wg
     settings:
       has_wiki: true
   - external_collaborators:
