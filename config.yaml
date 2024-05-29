@@ -30,7 +30,6 @@ repositories:
     teams:
       cncf-automation: admin
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       idvoretskyi: admin
     name: awards
@@ -52,7 +51,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      amye: admin
       ksatchit: maintain
     name: chaosengineering-wg
     settings:
@@ -109,7 +107,6 @@ repositories:
       TimBanks: maintain
       alexcontini: write
       alisondy: admin
-      amye: admin
       chris-short: read
       ctorbin: read
       dmueller2001: write
@@ -157,7 +154,6 @@ repositories:
   - external_collaborators:
       HashNuke: write
       agentpoyo: maintain
-      amye: admin
       caniszczyk: admin
       denverwilliams: write
       jeffsaelens: read
@@ -251,7 +247,6 @@ repositories:
       AudMonte01: admin
     name: communitygroups
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       geekygirldawn: write
       idvoretskyi: admin
@@ -293,7 +288,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       idvoretskyi: admin
     name: dcochecker
@@ -401,7 +395,6 @@ repositories:
     visibility: private
   - external_collaborators:
       Swil78: admin
-      amye: admin
       idvoretskyi: write
       onlydole: admin
       taylorwaggoner: admin
@@ -431,7 +424,6 @@ repositories:
       onlydole: admin
     name: financial-user-group
   - external_collaborators:
-      amye: admin
       taylorwaggoner: admin
       joannalee333: admin
       Cmierly: write
@@ -647,7 +639,6 @@ repositories:
   - external_collaborators:
       CathPag: maintain # TAG CS
       riaankleinhans: maintain
-      amye: admin
       caniszczyk: admin
       idvoretskyi: admin
       jaytiaki: maintain # Mentoring WG Co-chair
@@ -686,7 +677,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      amye: admin
       idvoretskyi: maintain
       thetwopct: maintain
     name: people
@@ -764,7 +754,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      amye: admin
       flanets: triage
       hh: triage
       idvoretskyi: admin
@@ -779,7 +768,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       idvoretskyi: admin
       onlydole: admin
@@ -821,7 +809,6 @@ repositories:
       tcs-comminfra-leads: admin
       tcs-deaf-and-hard-of-hearing: write
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       nate-double-u: admin
       chalin: maintain
@@ -890,7 +877,6 @@ repositories:
       xing-yang: admin
     name: tag-storage
   - external_collaborators:
-      amye: admin
       caniszczyk: admin
       chalin: maintain
       idvoretskyi: maintain
@@ -959,7 +945,6 @@ repositories:
   - name: wg-ci
   - external_collaborators:
       alena1108: maintain
-      amye: admin
       anvega: maintain
       arun-gupta: maintain
       caniszczyk: admin
@@ -983,7 +968,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       abuango: admin
-      amye: admin
       AndreyKozlov1984: write
       angomustee: maintain
       AudMonte01: write
@@ -1058,7 +1042,6 @@ teams:
     maintainers:
       - nate-double-u
       - jeefy
-      - amye
     members:
       - caniszczyk
       - chalin
@@ -1066,7 +1049,6 @@ teams:
       - thisisobate
   - name: cncf-toc
     maintainers:
-      - amye
       - riaankleinhans
     members:
       - kgamanji
@@ -1112,7 +1094,6 @@ teams:
       - jeefy
   - name: cncf-projects
     members:
-      - amye
       - Cmierly
     maintainers:
       - jeefy
