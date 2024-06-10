@@ -788,15 +788,20 @@ repositories:
       has_wiki: true
   - external_collaborators:
       kgamanji: admin
+      linsun: admin
       lianmakesthings: admin
-      angellk: maintain
       joshgav: admin
       thschue: admin
-      roberthstrand: write
+      angellk: maintain
+      AloisReitbauer: maintain
+      roberthstrand: maintain
       abangser: write
       krumware: write
       sabre1041: write
       rchincha: write
+      salaboy: write
+      danieloh30: write
+      ThomasVitale: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
     external_collaborators:
