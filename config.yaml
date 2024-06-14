@@ -553,7 +553,7 @@ repositories:
       clo-admins: admin
     external_collaborators:
       landscape2: write
- - name: images
+  - name: images
     settings:
       has_wiki: true
   - name: jp-translations
