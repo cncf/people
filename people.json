@@ -8833,8 +8833,8 @@
    },
    {
       "name": "Nitish Kumar",
-      "bio": "<p>I started my way in the Open Source in the year 2021 by getting involved in the CNCF Project - Kubernetes. The main motivation behind contributing was to attend the Kubecon event. Fast forward to 2023, I gave my first talk at Kubecon NA. I'm also the CNCF Community Chapter Lead for Jalandhar. I've contributed to various other projects that include etcd, okteto and several others. Apart from this, I was one of the two students who was invited to the Google Contributor Appreciation Dinner at KubeCon North America 2023.</p>",
-      "company": "Lovely Professional University",
+      "bio": "<p>Nitish has served as a Linux Foundation Mentee under the Kubernetes Release Engineering Team, where he built a library that is used by the Kubernetes project internally. Being passionate about Open Source, he has also contributed to various other projects including Kyverno, Okteto, etcd etc. Nitish has given various talks in the past around cloud-native, DevOps, and Security, one of which he led a panel discussion at KubeCon + CloudNativeCon North America, 2023 in Chicago. He has also been featured on one of the Veam Podcast Show.</p>",
+      "company": "",
       "pronouns": "He/Him",
       "location": "Gurdaspur, India",
       "twitter": "https://twitter.com/nitishfy",
@@ -8845,7 +8845,8 @@
       "projects": [
          "Kubernetes",
          "etcd",
-         "Kyverno"
+         "Kyverno",
+         "okteto"
       ],
       "image": "nitish-kumar.jpg"
    },
