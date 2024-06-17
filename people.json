@@ -20,13 +20,12 @@
    },
    {
       "name": "Aakansha Priya",
-      "bio": "<p>Aakansha Priya is DevRel at EmpathyOps, a CNCF Ambassador and an organiser for KubeHuddle, Toronto. Working on empowering & upscaling the communities. In the past, she has been a Community Manager at Hashnode & WeMakeDevs, experienced in working efficiently in groups as well as individually.  As a frontend dev turned DevOps explorer, loves sharing tech insights, and views on learning & building in public, blogging & building personal brand. Aakansha, a reader and speaker, paints, sings, and loves spontaneous travel. She has spoken at various conferences about DevOps and the human side of tech. Catch her at meetups & conferences!</p>",
-      "company": "EmpathyOps",
+      "bio": "<p>Aakansha Priya is DevRel at EmpathyOps, a CNCF Ambassador and an organiser for KubeHuddle, Toronto. Working on empowering & upscaling the communities. In the past, she has been a Community Manager at Hashnode & WeMakeDevs. Experienced in working efficiently in groups as well as individually.  As a frontend dev turned DevOps explorer, loves sharing tech insights, and views on learning & building in public, blogging & building personal brand. A reader and speaker, Aakansha paints, sings and loves spontaneous travel. She has spoken at various conferences about DevOps and the human side of tech. Catch her at meetups & conferences!</p>",
+      "company": "WeMakeDevs",
       "pronouns": "She/Her",
       "location": "Gurugram, India",
       "twitter": "https://twitter.com/AakanshaPriya_",
-      "linkedin": "https://www.linkedin.com/in/aakansha-priya-1782b91a0/",
-      "slack_id": "U03G74XTKJL",
+      "github": "https://github.com/priyaaakansha",
       "category": [
          "Ambassadors"
       ],
@@ -35,10 +34,6 @@
          "Cilium",
          "Istio",
          "Argo"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
       ],
       "image": "aakansha-priya.jpg"
    },
@@ -7361,6 +7356,20 @@
       ],
       "slack_id": "",
       "image": "loo-chee-heong.jpg"
+   },
+   {
+      "name":"Lori Lorusso",
+      "bio":"Lori has a passion and enthusiasm for working with the developer and open source community. She is a CNCF Ambassador, former CNCF Marketing Committee Chair, former Chair of the CDF Outreach Marketing Committee, program chair of cdCon 2023, and is active in the OpenSSF devrel committee. She co-hosts the CD Pipeline on behalf of the CDF with TechstrongTV. She is committed to helping open source and other tech communities grow and adapt in our ever changing environment. She is currently Head of Community for Percona.",
+      "company":"Head of Community @ Percona",
+      "pronouns":"she/her",
+      "location":"Wilmington, NC, USA",
+      "linkedin":"https://www.linkedin.com/in/lorilorusso/",
+      "twitter":"https://twitter.com/LoriLorusso",
+      "github":"https://github.com/LoriLorusso",
+      "category":["Ambassadors"],
+      "email": "lori.lorusso@gmail.com",
+      "slack_id": "U01NZ3FA3HT",
+      "image":"lori-lorusso.jpg"
    },
    {
       "name": "Luca Cavallin",
