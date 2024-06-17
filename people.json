@@ -20,12 +20,13 @@
    },
    {
       "name": "Aakansha Priya",
-      "bio": "<p>Aakansha Priya is DevRel at EmpathyOps, a CNCF Ambassador and an organiser for KubeHuddle, Toronto. Working on empowering & upscaling the communities. In the past, she has been a Community Manager at Hashnode & WeMakeDevs. Experienced in working efficiently in groups as well as individually.  As a frontend dev turned DevOps explorer, loves sharing tech insights, and views on learning & building in public, blogging & building personal brand. A reader and speaker, Aakansha paints, sings and loves spontaneous travel. She has spoken at various conferences about DevOps and the human side of tech. Catch her at meetups & conferences!</p>",
-      "company": "WeMakeDevs",
+      "bio": "<p>Aakansha Priya is DevRel at EmpathyOps, a CNCF Ambassador and an organiser for KubeHuddle, Toronto. Working on empowering & upscaling the communities. In the past, she has been a Community Manager at Hashnode & WeMakeDevs, experienced in working efficiently in groups as well as individually.  As a frontend dev turned DevOps explorer, loves sharing tech insights, and views on learning & building in public, blogging & building personal brand. Aakansha, a reader and speaker, paints, sings, and loves spontaneous travel. She has spoken at various conferences about DevOps and the human side of tech. Catch her at meetups & conferences!</p>",
+      "company": "EmpathyOps",
       "pronouns": "She/Her",
       "location": "Gurugram, India",
       "twitter": "https://twitter.com/AakanshaPriya_",
-      "github": "https://github.com/priyaaakansha",
+      "linkedin": "https://www.linkedin.com/in/aakansha-priya-1782b91a0/",
+      "slack_id": "U03G74XTKJL",
       "category": [
          "Ambassadors"
       ],
@@ -34,6 +35,10 @@
          "Cilium",
          "Istio",
          "Argo"
+      ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
       ],
       "image": "aakansha-priya.jpg"
    },
