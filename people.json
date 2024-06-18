@@ -608,8 +608,8 @@
    },
    {
       "name": "Amim Moises Salum Knabben",
-      "bio": "<p>I am a Brazilian software engineer with focus on Cloud Native and Free and Open-Source Software and have been contributing to the Kubernetes community since 2020 mainly on SIG-Network and SIG-Windows initiatives. My writings and notes can be find here: http://opssec.in/.</p><p>Why I am excited to be an ambassador: Is a great honor to have the opportunity on collaborate and increase the community, I am very excited to be part and advocate in favor of this big community.</p>",
-      "company": "VMware",
+      "bio": "<p>I am a Brazilian software engineer with focus on Cloud Native and Free and Open-Source Software and have been contributing to the Kubernetes community since 2020 mainly on SIG-Network and SIG-Windows initiatives. My writings and notes can be find here: https://opssec.in/.</p><p>Why I am excited to be an ambassador: Is a great honor to have the opportunity on collaborate and increase the community, I am very excited to be part and advocate in favor of this big community.</p>",
+      "company": "Broadcom",
       "pronouns": "He/Him",
       "location": "Florianopolis, Brazil",
       "linkedin": "",
@@ -624,23 +624,9 @@
          "Antrea",
          "Carvel",
          "cert-manager",
-         "Container Network Interface (CNI)",
          "containerd",
-         "CoreDNS",
-         "Envoy",
-         "etcd",
-         "gRPC",
-         "Harbor",
-         "Helm",
          "Istio",
-         "Jaeger",
-         "Kubeflow",
-         "Kubernetes",
-         "Open Policy Agent (OPA)",
-         "OpenTelemetry",
-         "Operator Framework",
-         "Prometheus",
-         "SPIFFE"
+         "Kubernetes"
       ],
       "expertise": [
          "Technical"
