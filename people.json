@@ -1841,6 +1841,29 @@
       "image": "bill-ren.jpg"
    },
    {
+      "name": "Bob Killen",
+      "bio": "Bob Killen is a Senior Technical Program Manager focusing on improving CNCF project governance processes and finding engaging ways to bring end users and maintainers together. He serves the Kubernetes project as a Steering Committee member and is a recently retired Contributor Experience Special Interest Group chair. Before joining the CNCF, Bob was a program manager at Google's Open Source Programs Office, where he guided and developed strategies for Google's open source projects. Bob has a history of bringing cloud and HPC/AI/ML together and is passionate about Academic Outreach. He is also an outspoken advocate of Open Source, Open Science, and pets of the furry 4-legged variety.",
+      "company": "CNCF",
+      "pronouns": "He/Him",
+      "linkedin": "https://www.linkedin.com/in/mrbobbytables/",
+      "twitter": "https://twitter.com/MrBobbyTables",
+      "github": "https://github.com/mrbobbytables",
+      "wechat": "",
+      "website": "https://mrbobbytabl.es",
+      "youtube": "",
+      "priority": 100,
+      "category": [
+         "Staff"
+      ],
+      "image": "bob-killen.jpg",
+      "location": "Minneapolis, MN",
+      "projects": [
+         "Kubernetes"
+      ],
+      "email": "bob.killen!linux.com",
+      "slack_id": "U8C6BEND9"
+   },
+   {
       "name": "Borko Djurkovic",
       "bio": "<p>Borko is a constant learner with passion for all things related to Kubernetes and cloud native technologies. In his free time, he enjoys reading books and running along the beautiful Rideau Canal in Ottawa, Canada.</p>",
       "company": "",
