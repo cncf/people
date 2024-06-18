@@ -477,7 +477,7 @@ repositories:
       edsoncelio: write
       electrocucaracha: write
       fsbaraglia: write
-      fydrah: write
+      seb-835: write
       hanyuancheung: write
       huats: write
       iamNoah1: admin
@@ -788,15 +788,20 @@ repositories:
       has_wiki: true
   - external_collaborators:
       kgamanji: admin
+      linsun: admin
       lianmakesthings: admin
-      angellk: maintain
       joshgav: admin
       thschue: admin
-      roberthstrand: write
+      angellk: maintain
+      AloisReitbauer: maintain
+      roberthstrand: maintain
       abangser: write
       krumware: write
       sabre1041: write
       rchincha: write
+      salaboy: write
+      danieloh30: write
+      ThomasVitale: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
     external_collaborators:
@@ -868,8 +873,9 @@ repositories:
       mnm678: admin
       pragashj: write
       ragashreeshekar: write
-      sublimino: admin
+      sublimino: write
       ultrasaurus: write
+      eddie-knight: admin
     name: tag-security
   - external_collaborators:
       chira001: admin
@@ -1161,6 +1167,7 @@ teams:
       - nikimanoledaki
       - patricia-cahill
       - rossf7
+      - saiyam1814
       - savitharaghunathan
       - xamebax
       - JacobValdemar
