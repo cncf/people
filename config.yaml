@@ -161,7 +161,7 @@ repositories:
       pritianka: admin
       taylor: admin
       tomkivlin: read
-      wavell: write
+      wvwatson: write
       williscool: triage
     name: cnf-certification
     settings:
@@ -180,7 +180,7 @@ repositories:
       robertstarmer: read
       rsiekmann: write
       taylor: admin
-      wavell: write
+      wvwatson: write
     name: cnf-testbed
     settings:
       has_wiki: true
@@ -201,7 +201,7 @@ repositories:
       taylor: admin
       tomkivlin: read
       uditgaurav: write
-      wavell: admin
+      wvwatson: admin
       williscool: maintain
     name: cnf-testsuite
     settings:
@@ -238,7 +238,7 @@ repositories:
       tomkivlin: write
       v1k0d3n: read
       vukg: triage
-      wavell: write
+      wvwatson: write
       williscool: triage
     name: cnf-wg
     settings:
@@ -902,12 +902,12 @@ repositories:
       onlydole: admin
       taylor: admin
       tomkivlin: read
-      wavell: triage
+      wvwatson: triage
     name: telecom-user-group
   - external_collaborators:
       agentpoyo: maintain
       denverwilliams: admin
-      wavell: maintain
+      wvwatson: maintain
     name: testsuite-infra
     settings:
       has_wiki: true
