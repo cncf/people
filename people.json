@@ -11069,22 +11069,39 @@
    },
    {
       "name": "Sandipan Panda",
-      "bio": "<p>Sandipan enjoys collaborating with people on developing software. He is a Member, part of the Contributor Experience Special Interest Group and the Contributor Communications team of Kubernetes. Drawing on the skills and experiences he gained as a mentee in the Linux Foundation Mentorship Program while working on Cilium, Sandipan continues to enhance the supply chain security and release process of various CNCF projects like Cilium, Tetragon, minikube, Kubeflow, KubeArmor, etc. As a participant in CNCF Security Slam 2023, he has also contributed to improving the security hygiene of Kubernetes subprojects. He is a CNCF Community Groups Organizer of the Kolkata chapter. Sandipan has been a mentee in the Community Manager group mentoring cohort of Kubernetes, and he continues working on improving the experience and reducing friction for Kubernetes community members, fostering strong community collaboration.</p>",
-      "company": "NA",
+      "bio": "<p>Sandipan enjoys collaborating with people on developing software. He is a Member, Community Manager, and part of the Contributor Experience Special Interest Group and the Contributor Communications team at Kubernetes. Sandipan has been a Mentee at CNCF under the Linux Foundation Mentorship Program, where he worked on Cilium, and a Google Summer of Code Contributor 2024 at Kubeflow. As a participant in CNCF Security Slam 2023, he has also contributed to improving the security hygiene of Kubernetes subprojects. Sandipan is a CNCF Community Groups Organizer of the Kolkata chapter.</p>",
+      "company": "",
       "pronouns": "He/Him",
       "location": "Kolkata, India",
-      "twitter": "https://twitter.com/meetsandipan",
+      "linkedin": "https://www.linkedin.com/in/sandipanpanda/",
+      "twitter": "https://www.twitter.com/sandipaning",
       "github": "https://github.com/sandipanpanda",
-      "category": [
-         "Ambassadors"
-      ],
+      "wechat": "",
+      "website": "https://sandipan.tech/",
+      "youtube": "https://www.youtube.com/@sandipanpanda",
+      "slack_id": "",
+      "languages": [],
       "projects": [
          "Kubernetes",
          "Helm",
          "Kubeflow",
          "Cilium",
          "KubeArmor",
-         "Prometheus"
+         "Prometheus",
+         "Thanos",
+         "Argo CD",
+         "Knative",
+         "Kyverno",
+         "KubeArmor",
+         "OpenTelemetry",
+         "gRPC"
+      ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],
+      "category": [
+         "Ambassadors"
       ],
       "image": "sandipan-panda.jpg"
    },
