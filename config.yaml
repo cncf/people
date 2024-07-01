@@ -676,11 +676,12 @@ repositories:
   - name: parallel-netlify-builds
     settings:
       has_wiki: true
-  - external_collaborators:
+  - name: people
+    external_collaborators:
       idvoretskyi: maintain
       thetwopct: maintain
       huats: maintain
-    name: people
+      nate-double-u: admin
     settings:
       has_wiki: true
   - external_collaborators:
