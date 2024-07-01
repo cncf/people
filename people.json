@@ -8177,13 +8177,19 @@
    {
       "name": "Michel Murabito",
       "bio": "<p>I'm Michel Murabito, but everyone calls me Mich. I'm a Developer Advocate at Mia-Platform with over 18 years of experience in software development. Throughout my career, I've held various roles in tech companies, enhancing my skills and contributing to numerous projects that have shaped my expertise. My areas of interest include Sustainability, Platform Engineering and Cloud Native technologies in general, which have guided my career choices and contributions  I actively contribute to the CNCF, participating in the Sustainability TAG and the Platform WG of the APP Delivery TAG, and I organize KCD Italy, a key event for the Kubernetes community in Italy.  I founded DevelopersLife, an Italian community of 800 members dedicated to supporting developers, both new and experienced, by providing them with the resources and guidance needed to maximize their professional opportunities in the development sector. </p>",
-      "company": "MIA s.r.l.",
+      "company": "Mia-Platform",
       "pronouns": "He/Him",
       "location": "Milan, Italy",
+      "linkedin": "https://www.linkedin.com/in/mich-murabito",
       "twitter": "https://twitter.com/michelmurabito",
       "github": "https://github.com/akelity",
+      "website": "https://michelmurabito.com",
       "category": [
          "Ambassadors"
+      ],
+      "languages": [
+         "Italian",
+         "English"
       ],
       "projects": [
          "Buildpacks",
@@ -8193,6 +8199,11 @@
          "Envoy",
          "Open Policy Agent (OPA)"
       ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],
+      "slack_id": "U02HX9T68QP",
       "image": "michel-murabito.jpg"
    },
    {
