@@ -553,12 +553,6 @@ repositories:
       clo-admins: admin
     external_collaborators:
       landscape2: write
-  - external_collaborators:
-      caniszczyk: admin
-      chalin: admin
-      nate-double-u: admin
-      sftim: admin
-    name: hugo-netlify-starter
   - name: images
     settings:
       has_wiki: true
