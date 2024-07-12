@@ -15151,5 +15151,55 @@
          "Ambassadors"
       ],
       "image": "phippy.jpg"
-   }
+   },
+      {
+      "name": "子篆 林",
+      "bio": "<p>My current focus is cloud-native computing, programming languages, and system software. I'm working as a compiler developer at secondstate. My blog https://dannypsnl.me writes technical content about formal methods and mathematics. I'm an open source technology enthusiast, and very excited to push formal methods in cloud computing.</p><p>Why I am excited to be an ambassador: I'm passionate about helping people as I could, been an ambassador is a well way to do so. Besides that, this is a good opportunities do learn from others, like how to maintain communities, or their invaluable personal perspectives.</p>",
+      "company": "",
+      "pronouns": "He/Him",
+      "location": "Tainan, Taiwan",
+      "linkedin": "",
+      "twitter": "",
+      "github": "https://github.com/dannypsnl",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "slack_id": "dannypsnl",
+      "languages": [],
+      "projects": [
+         "WasmEdge"
+      ],
+      "expertise": [
+         "Technical"
+      ],
+      "category": [
+         "Ambassadors"
+      ],
+      "image": "phippy.jpg"
+   },
+   {
+    "name": "Prashant Lakhera",
+    "bio": "<p>I'm an expert in Cloud and DevOps. I hold many technical certifications that show my deep understanding of AWS Cloud, DevOps, Kubernetes, Python and Shell Automation, and Linux system administration, along with problem- solving skills like debugging, troubleshooting, and performance tuning.</p>",
+    "company": "Salesforce",
+    "pronouns": "He/Him",
+    "location": "California, USA",
+    "linkedin": "https://www.linkedin.com/in/prashant-lakhera-696119b/",
+    "twitter": "https://twitter.com/lakhera2015",
+    "github": "https://github.com/dannypsnl",
+    "wechat": "https://github.com/100daysofdevops/",
+    "website": "https://100daysofdevops.com/",
+    "youtube": "https://www.youtube.com/@devops-boot-camp",
+    "slack_id": "plakhera",
+    "languages": ["English", "Hindi"],
+    "projects": [
+       "Kubernetes", "Helm"
+    ],
+    "expertise": [
+       "Technical"
+    ],
+    "category": [
+       "Kubestronaut"
+    ],
+    "image": "prashant_lakhera.jpg"
+ }
 ]
