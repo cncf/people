@@ -1039,6 +1039,16 @@ teams:
       - jeefy
       - idvoretskyi
       - krook
+  - name: cncf-tab
+    maintainers:
+      - mrbobbytables
+      - onlydole
+    members:
+      - aparna-subramanian
+      - dzolotusky
+      - hblixt
+      - kgamanji
+      - rochaporto
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
