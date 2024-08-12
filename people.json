@@ -14476,6 +14476,25 @@
       "category": [
          "Kubestronaut"
       ],
+      "projects":[
+      "Kubernetes",
+      "Backstage",
+      "Istio",
+      "Gloo",
+      "Envoy",
+      "Kong",
+      "Knative",
+      "Open Policy Agent (OPA)",
+      "Cert-Manager",
+      "Prometheus",
+      "OpenTelemetry",
+      "Flux",
+      "Argo",
+      "Dapr",
+      "Kyverno",
+      "K8sGPT",
+      "OpenCost"
+   ],
       "slack_id": "U01V9MVGFDK",
       "image": "sathish-kumar-venkatesan.jpg"
    },
