@@ -147,7 +147,6 @@ repositories:
       caniszczyk: admin
     name: cncf-fuzzing
   - external_collaborators:
-      Charley-Mann: maintain
       LFCIBot: write
       cjyabraham: admin
       thetwopct: maintain
@@ -388,7 +387,6 @@ repositories:
       nate-double-u: maintain
     name: docsy
   - external_collaborators:
-      Charley-Mann: write
       abuango: maintain
     name: ecosystem
     settings:
@@ -408,8 +406,6 @@ repositories:
     visibility: private
     external_collaborators:
       pritianka: admin
-      melsmo: admin
-      Charley-Mann: read
       nate-double-u: read
       poconnor1: read
   - external_collaborators:
@@ -979,7 +975,6 @@ repositories:
       catinahat85: write
       castrojo: write
       chalin: write
-      Charley-Mann: write
       Cmierly: write
       cjyabraham: admin
       ctorbin: write
@@ -1012,7 +1007,6 @@ repositories:
       tinmatienzo: write
       tmmoore1: write
       vheric: maintain
-      melsmo: write
       huats: write
     name: workflow
     settings:
