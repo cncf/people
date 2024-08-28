@@ -909,6 +909,11 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
+  - name: toc-private
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
+    visibility: private
   - teams:
       landscapers: admin
     name: trailmap
