@@ -47,6 +47,7 @@ repositories:
       daniellemcook: admin
       onlydole: admin
       siforster: admin
+      robertglenn: maintain
     name: cartografos
     settings:
       has_wiki: true
@@ -146,7 +147,6 @@ repositories:
       caniszczyk: admin
     name: cncf-fuzzing
   - external_collaborators:
-      Charley-Mann: maintain
       LFCIBot: write
       cjyabraham: admin
       thetwopct: maintain
@@ -161,7 +161,7 @@ repositories:
       pritianka: admin
       taylor: admin
       tomkivlin: read
-      wavell: write
+      wvwatson: write
       williscool: triage
     name: cnf-certification
     settings:
@@ -180,7 +180,7 @@ repositories:
       robertstarmer: read
       rsiekmann: write
       taylor: admin
-      wavell: write
+      wvwatson: write
     name: cnf-testbed
     settings:
       has_wiki: true
@@ -201,7 +201,7 @@ repositories:
       taylor: admin
       tomkivlin: read
       uditgaurav: write
-      wavell: admin
+      wvwatson: admin
       williscool: maintain
     name: cnf-testsuite
     settings:
@@ -238,7 +238,7 @@ repositories:
       tomkivlin: write
       v1k0d3n: read
       vukg: triage
-      wavell: write
+      wvwatson: write
       williscool: triage
     name: cnf-wg
     settings:
@@ -387,7 +387,6 @@ repositories:
       nate-double-u: maintain
     name: docsy
   - external_collaborators:
-      Charley-Mann: write
       abuango: maintain
     name: ecosystem
     settings:
@@ -407,8 +406,6 @@ repositories:
     visibility: private
     external_collaborators:
       pritianka: admin
-      melsmo: admin
-      Charley-Mann: read
       nate-double-u: read
       poconnor1: read
   - external_collaborators:
@@ -520,6 +517,7 @@ repositories:
       aj11anuj: write
       kumarankit999: write
       bishal7679: write
+      asem-hamid: write
     name: glossary
   - external_collaborators:
       halcyondude: admin
@@ -553,12 +551,6 @@ repositories:
       clo-admins: admin
     external_collaborators:
       landscape2: write
-  - external_collaborators:
-      caniszczyk: admin
-      chalin: admin
-      nate-double-u: admin
-      sftim: admin
-    name: hugo-netlify-starter
   - name: images
     settings:
       has_wiki: true
@@ -569,6 +561,7 @@ repositories:
       BobyMCbobs: admin
       riaankleinhans: admin
       hh: admin
+      heyste: admin
       cncf-ci: admin
       Cmierly: maintain
     name: k8s-conformance
@@ -676,11 +669,12 @@ repositories:
   - name: parallel-netlify-builds
     settings:
       has_wiki: true
-  - external_collaborators:
+  - name: people
+    external_collaborators:
       idvoretskyi: maintain
       thetwopct: maintain
       huats: maintain
-    name: people
+      nate-double-u: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -790,11 +784,9 @@ repositories:
       kgamanji: admin
       linsun: admin
       lianmakesthings: admin
-      joshgav: admin
       thschue: admin
-      angellk: maintain
+      roberthstrand: admin
       AloisReitbauer: maintain
-      roberthstrand: maintain
       abangser: write
       krumware: write
       sabre1041: write
@@ -855,6 +847,7 @@ repositories:
       k82cn: admin
       kad: admin
       zanetworker: write
+      ronaldpetty: write
     name: tag-runtime
   - external_collaborators:
       JustinCappos: write
@@ -891,7 +884,7 @@ repositories:
       thisisobate: maintain
       psgustafson: triage # Expert Support
       dwelsch-esi: triage # Expert Support
-      jbogarthyde: triage # Expert Support
+      Dindihub: read # https://github.com/cncf/techdocs/issues/267 - LFX 24T2
     name: techdocs
   - external_collaborators:
       dabernie: read
@@ -902,12 +895,12 @@ repositories:
       onlydole: admin
       taylor: admin
       tomkivlin: read
-      wavell: triage
+      wvwatson: triage
     name: telecom-user-group
   - external_collaborators:
       agentpoyo: maintain
       denverwilliams: admin
-      wavell: maintain
+      wvwatson: maintain
     name: testsuite-infra
     settings:
       has_wiki: true
@@ -916,6 +909,11 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
+  - name: toc-private
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
+    visibility: private
   - teams:
       landscapers: admin
     name: trailmap
@@ -982,7 +980,6 @@ repositories:
       catinahat85: write
       castrojo: write
       chalin: write
-      Charley-Mann: write
       Cmierly: write
       cjyabraham: admin
       ctorbin: write
@@ -1015,7 +1012,6 @@ repositories:
       tinmatienzo: write
       tmmoore1: write
       vheric: maintain
-      melsmo: write
       huats: write
     name: workflow
     settings:
@@ -1045,6 +1041,21 @@ teams:
       - jeefy
       - idvoretskyi
       - krook
+  - name: cncf-tab
+    maintainers:
+      - mrbobbytables
+      - onlydole
+    members:
+      - alolita
+      - aparna-subramanian
+      - bavarianbidi
+      - chadbeaudin
+      - dzolotusky
+      - hblixt
+      - jrsapi
+      - kgamanji
+      - peteanusergiu
+      - rochaporto
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
@@ -1109,6 +1120,7 @@ teams:
     slack: true
   - name: cncf-end-users
     members:
+      - abebars
       - abvaidya
       - afirth
       - AlanHohn
@@ -1126,6 +1138,7 @@ teams:
       - grumps
       - hblixt
       - idunbarh
+      - insidero
       - jhoovermitre
       - matteosilv
       - micnncim
