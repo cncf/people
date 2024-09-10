@@ -287,6 +287,9 @@ repositories:
     name: da-patroni
     settings:
       has_wiki: true
+  - teams:
+      clo-admins: admin
+    name: dco2
   - external_collaborators:
       caniszczyk: admin
       idvoretskyi: admin
