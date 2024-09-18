@@ -721,6 +721,7 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
+      tag-leads: maintain
     name: sandbox
     settings:
       has_wiki: true
@@ -1247,6 +1248,35 @@ teams:
     members:
       - robcube
       - Deafveloper
+  - name: tag-leads
+    maintainers:
+      - mrbobbytables
+    members:
+      - srust # Runtime
+      - raravena80 # Runtime
+      - rajaskakodkar # Runtime
+      - jberkus # ContribStrat
+      - CathPag # ContribStrat
+      - geekygirldawn # Contribstrat
+      - aliok # ContribStrat
+      - riaankleinhans # ContribStrat
+      - chira001 # Storage
+      - xing-yang # Storage
+      - ashutosh-narkar # Security
+      - JustinCappos # Security
+      - mlieberman85 # Security
+#     - tbd on others
+#     - mrcdb - Security - pending org invite
+#     - brandtkeller - pending org invite
+#     - eddie-knight - Security - pending org invite
+#     - raffaelespazzoli - Storage - pending org invite
+#     - mnm678 - Security - pending org invite
+#     - PushkarJ - Security - pending org invite
+#     - kad - Runtime - pending org invite
+#     - k82cn - Runtime - pending org invite
+#     - srust - Runtime - pending org invite
+#     - miao0miao - Runtime - pending org invite
+#     - nicholasjackson - Network - pending org invite
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
