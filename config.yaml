@@ -47,6 +47,7 @@ repositories:
       daniellemcook: admin
       onlydole: admin
       siforster: admin
+      robertglenn: maintain
     name: cartografos
     settings:
       has_wiki: true
@@ -146,7 +147,6 @@ repositories:
       caniszczyk: admin
     name: cncf-fuzzing
   - external_collaborators:
-      Charley-Mann: maintain
       LFCIBot: write
       cjyabraham: admin
       thetwopct: maintain
@@ -287,6 +287,9 @@ repositories:
     name: da-patroni
     settings:
       has_wiki: true
+  - teams:
+      clo-admins: admin
+    name: dco2
   - external_collaborators:
       caniszczyk: admin
       idvoretskyi: admin
@@ -387,7 +390,6 @@ repositories:
       nate-double-u: maintain
     name: docsy
   - external_collaborators:
-      Charley-Mann: write
       abuango: maintain
     name: ecosystem
     settings:
@@ -407,8 +409,6 @@ repositories:
     visibility: private
     external_collaborators:
       pritianka: admin
-      melsmo: admin
-      Charley-Mann: read
       nate-double-u: read
       poconnor1: read
   - external_collaborators:
@@ -520,6 +520,7 @@ repositories:
       aj11anuj: write
       kumarankit999: write
       bishal7679: write
+      asem-hamid: write
     name: glossary
   - external_collaborators:
       halcyondude: admin
@@ -563,6 +564,7 @@ repositories:
       BobyMCbobs: admin
       riaankleinhans: admin
       hh: admin
+      heyste: admin
       cncf-ci: admin
       Cmierly: maintain
     name: k8s-conformance
@@ -719,6 +721,7 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
+      tag-leads: maintain
     name: sandbox
     settings:
       has_wiki: true
@@ -910,6 +913,11 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
+  - name: toc-private
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
+    visibility: private
   - teams:
       landscapers: admin
     name: trailmap
@@ -976,7 +984,6 @@ repositories:
       catinahat85: write
       castrojo: write
       chalin: write
-      Charley-Mann: write
       Cmierly: write
       cjyabraham: admin
       ctorbin: write
@@ -1009,7 +1016,6 @@ repositories:
       tinmatienzo: write
       tmmoore1: write
       vheric: maintain
-      melsmo: write
       huats: write
     name: workflow
     settings:
@@ -1039,6 +1045,7 @@ teams:
       - jeefy
       - idvoretskyi
       - krook
+      - huats
   - name: cncf-tab
     maintainers:
       - mrbobbytables
@@ -1118,6 +1125,7 @@ teams:
     slack: true
   - name: cncf-end-users
     members:
+      - abebars
       - abvaidya
       - afirth
       - AlanHohn
@@ -1240,6 +1248,35 @@ teams:
     members:
       - robcube
       - Deafveloper
+  - name: tag-leads
+    maintainers:
+      - mrbobbytables
+    members:
+      - srust # Runtime
+      - raravena80 # Runtime
+      - rajaskakodkar # Runtime
+      - jberkus # ContribStrat
+      - CathPag # ContribStrat
+      - geekygirldawn # Contribstrat
+      - aliok # ContribStrat
+      - riaankleinhans # ContribStrat
+      - chira001 # Storage
+      - xing-yang # Storage
+      - ashutosh-narkar # Security
+      - JustinCappos # Security
+      - mlieberman85 # Security
+#     - tbd on others
+#     - mrcdb - Security - pending org invite
+#     - brandtkeller - pending org invite
+#     - eddie-knight - Security - pending org invite
+#     - raffaelespazzoli - Storage - pending org invite
+#     - mnm678 - Security - pending org invite
+#     - PushkarJ - Security - pending org invite
+#     - kad - Runtime - pending org invite
+#     - k82cn - Runtime - pending org invite
+#     - srust - Runtime - pending org invite
+#     - miao0miao - Runtime - pending org invite
+#     - nicholasjackson - Network - pending org invite
 #- name: ambassadors
 #- name: awards-maintainers
 #- name: bvs-team
