@@ -404,6 +404,7 @@ repositories:
     visibility: private
     teams:
       cncf-end-users: write
+      cncf-tab: admin
   - name: enduser-public
   - name: evolution-of-cloud-native
     visibility: private
