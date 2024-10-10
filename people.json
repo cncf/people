@@ -4905,27 +4905,6 @@
       "image": "di-xu.jpg"
    },
    {
-      "name": "Diane Mueller-Klingspor",
-      "bio": "Diane is the Director of Community Development at Red Hat, laser-focused on OpenShift ecosystem and passionate about creating new models of cross-community engagement. She codes and makes things in Canada.\n\nMeet-Up Organizer:\n<a href=\"http://www.meetup.com/Cloud-Native-Vancouver/\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud Native Vancouver</a>,<a href=\"http://www.meetup.com/Cloud-Native-Victoria/\" target=\"_blank\" rel=\"noopener noreferrer\">&nbsp;Cloud Native Victoria</a>",
-      "company": "Red Hat",
-      "pronouns": "",
-      "linkedin": "https://www.linkedin.com/in/muellerdiane/?ppe=1",
-      "twitter": "https://twitter.com/pythondj",
-      "github": "https://github.com/dmueller2001",
-      "wechat": "",
-      "website": "",
-      "location": "Vancouver, BC, Canada",
-      "projects": [
-         "Kubernetes"
-      ],
-      "youtube": "",
-      "priority": "",
-      "category": [
-         "Marketing Committee"
-      ],
-      "image": "https://www.cncf.io/wp-content/uploads/2017/06/1600113649793.jpg"
-   },
-   {
       "name": "Diego Armando Cuevas Marban",
       "bio": "<p>Multicertified Google Cloud Platform (GCP) Technical Account Advisor with up to 10 years of experience designing and supporting highly available applications. As a seasoned Kubernetes administrator and multicloud architect, I'm a champion for unlocking the full potential of Cloud Native technologies across cloud environments.  I'm also a FINOPS Certified Engineer, bringing expertise not just in cloud technologies, but also in optimizing cloud costs and maximizing business value.  My experience bridges the gap between Google Cloud and its customers, with a particular focus on helping them deploy and manage their workloads using Kubernetes in a multicloud setting.</p>",
       "company": "Google",
@@ -7383,33 +7362,6 @@
       ],
       "slack_id": "HuguesCnn",
       "image": "hugues-connan.jpg"
-   },
-   {
-      "name": "Hui Li",
-      "bio": "<p>I am a Senior R&D Engineer at Tencent, with a past focus in cloud computing and a current emphasis in the gaming industry. Alongside friends, I co-run a WeChat public account aimed at the Chinese audience on cloud-native technologies, [China CloudNative](https://cloudnative.to/). This year, we organized two meetups focusing on eBPF-based observability: [Meetup 1](https://mp.weixin.qq.com/s/ugDeIcdyugnTdiGhFZKIfg) and [Meetup 2](https://mp.weixin.qq.com/s/XXW8KHLPBX5YVqNOXFBDgw). My areas of expertise include Kubernetes, API gateways, and eBPF.</p><p>Why I am excited to be an ambassador: I am honored and thrilled at the prospect of becoming an CNCF ambassador. This role presents a wonderful opportunity for me to engage with more technology enthusiasts and share knowledge about cloud-native technologies. It also provides a platform for me to enhance my own skills in this area and stay abreast of the latest advancements in cloud-native technology.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "Shenzhen, China",
-      "linkedin": "",
-      "twitter": "https://twitter.com/y0usali",
-      "github": "https://github.com/Miss-you",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "yousali",
-      "languages": [],
-      "projects": [
-         "BFE",
-         "Envoy"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "hui-li.jpg"
    },
    {
       "name": "Humble Devassy Chirammal",
@@ -14069,39 +14021,6 @@
       "image": "orlin-vasilev.jpg"
    },
    {
-      "name": "Olivier Vernin",
-      "bio": "<p>Engineering Manager at SUSE, working on Kubernetes’s related projects such as Kubewarden, Epinio, Rancher Fleet. Builder of Updatecli, and Former Infrastructure officer of the Jenkins project. Olivier has some experience in building OSS tooling around infrastructure, automation, and growing communities.</p><p>Why I am excited to be an ambassador: OSS projects have been a game changer in today’s IT world. Not only, it allow us to read and understand today’s application source code but ultimately it allows us to learn and share knowledge across our industry. The CNCF had a tremendous impact on breaking boundaries and fostering communities to work together and I am super excited to bring my little contribution to this movement.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "Belgium",
-      "linkedin": "",
-      "twitter": "https://www.twitter.com/0lblak",
-      "github": "https://github.com/olblak",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Olivier Vernin",
-      "languages": [],
-      "projects": [
-         "Artifact Hub",
-         "Buildpacks",
-         "cert-manager",
-         "Helm",
-         "Kubernetes",
-         "Kubewarden",
-         "OpenGitOps",
-         "ORAS",
-         "zot"
-      ],
-      "expertise": [
-         "Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "olivier-vernin.jpg"
-   },
-   {
       "name": "Oskar Marthinussen",
       "bio": "<p>I’m an Infrastructure Engineer with two years of experience at an IT consulting company. Together with a few colleagues, we have started a platform team delivering Red Hat OpenShift to multiple critical infrastructure companies in Norway. I’m an active member of the Norwegian open source community and regularly attend various Red Hat meetups, including the Mad Roadshow in Oslo, which focuses on OpenShift.</p>",
       "company": "Sopra Steria",
@@ -16954,40 +16873,6 @@
       ],
       "slack_id": "",
       "image": "sammy-cheung.jpg"
-   },
-   {
-      "name": "SANCHITA MISHRA",
-      "bio": "<p>Sanchita is an engineering undergrad student from India who is passionate about cloud-native technologies and distributed systems. She served in the Kubernetes Release Team for several cycles and led the Release Notes Team in v1.28. Sanchita is actively involved in various CNCF projects, particularly in Kubernetes, and has contributed to the Kyverno project as an LFX mentee.</p><p>Why I am excited to be an ambassador: I’m excited to be an ambassador to be able to give back to the community and help others get started on their first steps into cloud-native. I hope to make an impact and bring even more value to CNCF. I feel fortunate to have this opportunity to strengthen my ties with the community, share my knowledge and learn from others.</p>",
-      "company": "",
-      "pronouns": "She/Her",
-      "location": "Bhubaneshwar, India",
-      "linkedin": "",
-      "twitter": "https://www.twitter.com/_sanchita_07",
-      "github": "https://github.com/sanchita-07",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Sanchita Mishra",
-      "languages": [],
-      "projects": [
-         "etcd",
-         "gRPC",
-         "Helm",
-         "Istio",
-         "Kubernetes",
-         "Kyverno",
-         "Open Policy Agent (OPA)",
-         "Prometheus",
-         "Thanos"
-      ],
-      "expertise": [
-         "Technical",
-         "Non-Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "sanchita-mishra.jpeg"
    },
    {
       "name": "Sander Sneekes",
@@ -20205,44 +20090,6 @@
       "image": "vasu-chandrasekhara.jpg"
    },
    {
-      "name": "Victor Morales",
-      "bio": "<p>Victor is a passionate Sr. Staff Software Engineer in the Samsung Open Source Group with nearly 18 years of experience in building solutions that are easy to use, scale and adapt. He is a regular speaker at technical conferences in LATAM Open Source communities. Co-chair of the CNF Working Group in the CNCF, and Co-founder of the OpenStackGDL, Cloud-Native El Salvador and Guadalajara communities. Active contributor to CNCF, LFN and Open Infrastructure projects and fervent supporter of the DevOps culture.</p><p>Why I am excited to be an ambassador: Besides the benefits that open source brings to the companies, fundamentally is people who fuel the innovation. Thanks to CNCF Ambassador program, I can be able to amplify the Latin America voice sharing their success local histories and distinct challenges faced by the region.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "San Jose, United States",
-      "linkedin": "",
-      "twitter": "https://twitter.com/electrocucarach",
-      "github": "https://github.com/electrocucaracha",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "electrocucaracha",
-      "languages": [],
-      "projects": [
-         "cert-manager",
-         "Cilium",
-         "CNI-Genie",
-         "Container Network Interface (CNI)",
-         "CRI-O",
-         "Envoy",
-         "Helm",
-         "Istio",
-         "Knative",
-         "ko",
-         "Kubernetes",
-         "KubeVirt",
-         "Tinkerbell",
-         "WasmEdge Runtime"
-      ],
-      "expertise": [
-         "Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "victor-morales.jpg"
-   },
-   {
       "name": "Viktor Farcic",
       "bio": "<p>Viktor Farcic is a lead rapscallion at Upbound and a published author. He is a host of the YouTube channel DevOps Toolkit and a co-host of DevOps Paradox.</p><p>Why I am excited to be an ambassador: Viktor Farcic is excited to join the CNCF Ambassadors program because he believes in the power of open source software to transform the world. He is passionate about helping others learn about and adopt CNCF technologies, and he is eager to contribute to the CNCF community in new and innovative ways. Viktor is also excited to be part of a team of dedicated and talented individuals who are working to make the world a better place through open source software.</p>",
       "company": "",
@@ -20739,54 +20586,6 @@
       ],
       "slack_id": "",
       "image": "xu-jin'an.jpg"
-   },
-   {
-      "name": "Xunzhuo Liu",
-      "bio": "<p>I am a software engineer at Tencent Cloud Mesh team, specializing in the cloud-native field with a focus on Service Mesh and API Gateway technologies. I am an active contributor to the open-source community and currently maintain several CNCF projects, including Envoy, Istio, Aeraki-Mesh, and Merbridge. I had the honor of attending as a speaker at KubeCon 2023 Shanghai and am the founder of the Envoy Gateway China community, where I strive to build connections in the open-source realm. In my spare time, I share my knowledge through blog posts on www.liuxunzhuo.com and also work on recording video tutorials, with a passion for helping others and promoting cloud-native technologies.</p><p>Why I am excited to be an ambassador: As an ambassador, I am thrilled about the opportunity to further engage with the cloud-native community and contribute to its growth and development. I am excited to share my knowledge and experience in CNCF technologies, and help others understand and adopt these technologies. Being an ambassador also allows me to learn from others, stay updated with the latest trends, and continuously improve my skills. Moreover, I am passionate about promoting open-source culture and believe that being an ambassador will provide a great platform to do so. Lastly, I look forward to fostering connections and collaborations within the community, which I believe is the essence of the open-source movement.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "Chengdu, Sichuan Province, China",
-      "linkedin": "",
-      "twitter": "https://twitter.com/liuxunzhuo",
-      "github": "https://github.com/Xunzhuo",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "slack_id": "Xunzhuo",
-      "languages": [],
-      "projects": [
-         "Aeraki Mesh",
-         "BFE",
-         "Chaos Mesh",
-         "Cilium",
-         "Container Network Interface (CNI)",
-         "containerd",
-         "Contour",
-         "CoreDNS",
-         "Dapr",
-         "Emissary-ingress",
-         "Envoy",
-         "etcd",
-         "gRPC",
-         "Harbor",
-         "Helm",
-         "Istio",
-         "Kubernetes",
-         "KubeVela",
-         "Linkerd",
-         "Merbridge",
-         "Meshery",
-         "OpenTelemetry",
-         "Prometheus",
-         "Thanos"
-      ],
-      "expertise": [
-         "Technical"
-      ],
-      "category": [
-         "Ambassadors"
-      ],
-      "image": "xunzhuo-liu.jpg"
    },
    {
       "name": "Yahya Alshamrani",
