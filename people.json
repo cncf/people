@@ -19750,15 +19750,15 @@
    {
       "name": "Seema Saharan",
       "bio": "<p>Seema Saharan is working as an SRE in Autodesk. I am an IT enthusiast, who is passionate about all the latest technologies from a research perspective. I love to help, mentor people, and share my knowledge. I do that through my blogs, videos, and meetups.</p><p>Why I am excited to be an ambassador: Becoming a CNCF ambassador is an exciting opportunity for me, who is passionate about cloud-native technologies, which enables me to promote these cutting-edge technologies, engage with a vibrant community, share my knowledge, network with industry professionals, and contribute to open-source projects. It offers opportunities for personal and professional growth, as well as the chance to influence the direction of the CNCF community and its projects.</p>",
-      "company": "",
+      "company": "Autodesk",
       "pronouns": "She/Her",
       "location": "Bangalore, India",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/seemasaharan/",
       "twitter": "https://www.twitter.com/SeemaSaharan5",
       "github": "https://github.com/seema1711",
       "wechat": "",
-      "website": "",
-      "youtube": "",
+      "website": "https://sessionize.com/seemasaharan/",
+      "youtube": "https://www.youtube.com/seemasaharan",
       "slack_id": "Seema Saharan",
       "languages": [],
       "projects": [
@@ -19768,7 +19768,17 @@
          "Fluentd",
          "Helm",
          "Istio",
-         "Kubernetes"
+         "Kubernetes",
+         "Crossplane",
+         "Backstage",
+         "Containerd",
+         "Docker",
+         "Grafana",
+         "Prometheus",
+         "NGINX",
+         "OpenTelemetry",
+         "Terraform",
+         "Thanos"
       ],
       "expertise": [
          "Technical"
