@@ -9411,21 +9411,22 @@
    {
       "name": "Jimmy Song",
       "bio": "<p>Jimmy Song(宋净超) is a developer advocate at Tetrate and founder of Cloud Native Community(China). He is an outstanding blogger and author of cloud native technical books. You can know him better from his blog jimmysong.io</p><p>Why I am excited to be an ambassador: I used to be the second Chinese to join the CNCF Ambassador program and then the CNCF Ambassador changed the rules of the game and I thought I should reapply.</p>",
-      "company": "",
+      "company": "Tetrate",
       "pronouns": "He/Him",
       "location": "Beijing, China",
-      "linkedin": "",
-      "twitter": "https://twitter.com/jimmysongio",
+      "linkedin": "https://www.linkedin.com/in/jimmysongio",
+      "twitter": "https://x.com/jimmysongio",
       "github": "https://github.com/rootsongjc",
-      "wechat": "",
-      "website": "",
+      "wechat": "jimmysong",
+      "website": "https://jimmysong.io",
       "youtube": "",
       "slack_id": "jimmysongio",
-      "languages": [],
+      "languages": ["Chinese","English"],
       "projects": [
          "Argo",
          "Istio",
-         "Kubernetes"
+         "Kubernetes",
+         "Envoy"
       ],
       "expertise": [
          "Technical"
