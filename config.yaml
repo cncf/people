@@ -790,6 +790,8 @@ repositories:
       linsun: admin
       lianmakesthings: admin
       roberthstrand: admin
+      schristoff: write
+      genpage: write
       abangser: write
       krumware: write
       sabre1041: write
@@ -797,6 +799,9 @@ repositories:
       salaboy: write
       danieloh30: write
       ThomasVitale: write
+      rynowak: write
+      elft3r: write
+      bschaatsbergen: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
     external_collaborators:
