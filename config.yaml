@@ -571,9 +571,10 @@ repositories:
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
-      ar4mirez: write
-      dagoshe: write
-      halil-bugol: write
+      CsatariGergely: triage
+      maci3jka: triage
+      ramrodo: triage
+      wrkode: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
   # But this is a quick fix to unblock Sheriff
