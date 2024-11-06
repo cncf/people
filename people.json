@@ -16395,8 +16395,8 @@
    },
    {
       "name": "Prithvi Raj",
-      "bio": "<p>Prithvi Raj has been leading the community efforts for LitmusChaos, the CNCF incubating project based on Cloud-Native Chaos Engineering, and has helped scale a community of 1500+ folks from scratch. He is currently working at Harness as a Technical Community Manager. He has worked on organizing global events, conferences, and meetups such as Chaos Carnival, Kubernetes Community Days Bengaluru & Chennai, CNCF Kubernetes Chaos Engineering Meetups, and more to help grow various communities in the DevOps ecosystem.</p><p>Why I am excited to be an ambassador: I am excited to represent the chaos engineering community as a CNCF ambassador and to also work with fellow ambassadors in helping curate more resources, events, and opportunities for the broader community. As an ambassador, I hope to take forward the cloud-native values amongst various folks keen on joining the ecosystem. I also look forward to learning a lot on this journey from my fellow ambassadors.</p>",
-      "company": "Harness",
+      "bio": "<p> Prithvi Raj is working as a Community Manager & Developer Advocate at Mirantis and is leading the community efforts for the Open Source Program Office at Mirantis including the k0s project, k0smortron, and the other OSS projects Mirantis is contributing to. He previously led the LitmusChaos project community, the CNCF incubating project based on Cloud-Native Chaos Engineering, and has helped scale a community of 3000+ folks from scratch. He is also a CNCF Ambassador and has closely worked with the CNCF community to run LFX Mentorship programs and helped build a Chaos Engineering community in the CNCF ecosystem. He has worked on global events, conferences, and meetups such as Chaos Carnival, Kubernetes Community Days Bengaluru & Chennai, CNCF Kubernetes Chaos Engineering Meetups, and more to help grow various communities in the DevOps ecosystem. He started his journey in 2020 at MayaData and has been passionately helping build the Chaos Engineering community since, being part of ChaosNative and previously Harness.</p> <p>Why I am excited to be an ambassador: I am excited to represent the k0s as a CNCF ambassador and to also work with fellow ambassadors in helping curate more resources, events, and opportunities for the broader community. As an ambassador, I hope to take forward the cloud-native values amongst various folks keen on joining the ecosystem. I also look forward to learning a lot on this journey from my fellow ambassadors.</p>",
+      "company": "Mirantis",
       "pronouns": "He/Him",
       "location": "Bhubaneswar, India",
       "linkedin": "",
@@ -16408,17 +16408,14 @@
       "slack_id": "Prithvi Raj",
       "languages": [],
       "projects": [
-         "containerd",
-         "Crossplane",
-         "Istio",
+         "LitmusChaos",
+         "Keptn",
+         "k0s",
          "k3s",
          "Knative",
          "Kubernetes",
          "OpenTelemetry",
-         "OpenTracing",
-         "Rook",
-         "SPIFFE",
-         "SPIRE"
+         "OpenEBS"
       ],
       "expertise": [
          "Non-Technical"
