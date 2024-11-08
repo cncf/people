@@ -1688,6 +1688,24 @@
       "image": "andrew-korolov.jpg"
    },
    {
+      "name": "Andrew Ravn",
+      "bio": "<p>I develop air-gapped kubernetes platforms focused on developing highly secure, scaleable solutions. Whenever possible, I try to take advantage of CNCF technologies to continue to push modernization into those environments where possible. When I'm not tinkering with my rpi lab at home, I enjoy the great outdoors with my family in Colorado and the surrounding area. </p>",
+      "company": "Sigma Defense Systems",
+      "pronouns": "He/Him",
+      "location": "Castle Rock, United States",
+      "linkedin": "https://www.linkedin.com/in/andrewravn",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U07V6Q6JKDX",
+      "image": "andrew-ravn.jpg"
+   },
+   {
       "name": "Andrey Gustavo de Oliveira",
       "bio": "<p>I am a Data Platform Engineer, with experience in providing resilient and scalable Big Data and Data Engineering solutions on Kubernetes, using CNCF technologies such as Airflow, Spark and Kafka. I also provide DevOps, SRE, and Security solutions to support a Data Platform on Kubernetes, using CNCF technologies such as Flux, KEDA, Velero, Prometheus, Gatekeeper.</p>",
       "company": "",
@@ -7630,6 +7648,24 @@
       "image": "hamdi-khelil.jpg"
    },
    {
+      "name": "Hamid Hirsi",
+      "bio": "<p>Hi, I’m Hamid, a Platform Engineer with a focus on Kubernetes. Becoming a Kubestronaut with CNCF is a proud moment, a reflection of all the hard work and commitment I've poured into my journey. I’m excited to keep challenging myself, learning new things, and sharing the experience with the incredible tech community!</p>",
+      "company": "Avanade",
+      "pronouns": "",
+      "location": "London, United Kingdom",
+      "linkedin": "https://www.linkedin.com/in/hamidhirsi",
+      "twitter": "",
+      "github": "https://github.com/hamidhirsi",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "Hamid Hirsi",
+      "image": "hamid-hirsi.jpg"
+   },
+   {
       "name": "Hans Kristian Flaatten",
       "bio": "<p>Platform Engineer in the largest branch of the Norwegian Government (NAV) where I am tech lead for Cloud Native Application Observability. Public speaker and Co-Organizer of KCD Oslo, Cloud Native Bergen, GDG Bergen and Co-Host of Norway's only Platform Engineering podcast Plattformpodden.</p>",
       "company": "NAV - Norwegian Labor and Welfare Administration",
@@ -7784,6 +7820,24 @@
       ],
       "slack_id": "",
       "image": "hector-sebastian-mendoza-salazar.jpg"
+   },
+   {
+      "name": "HEECHUL KIM",
+      "bio": "<p>As a senior full-stack developer with over 20 years of experience at Samsung SDS,  I am passionate about Kubernetes and the cloud native ecosystem.  In particular, I am very interested in building and optimizing DevOps environments for generative AI and RAG implementations.</p>",
+      "company": "Samsung SDS",
+      "pronouns": "He/Him",
+      "location": "Yongin-si, South Korea",
+      "linkedin": "https://www.linkedin.com/in/heechul-kim",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "hsumme@gmail.com",
+      "image": "heechul-kim.jpg"
    },
    {
       "name": "Hengzhou Wu",
@@ -8129,6 +8183,24 @@
          "Ambassadors"
       ],
       "image": "humble--devassy--chirammal.jpg"
+   },
+   {
+      "name": "Hung Tran",
+      "bio": "<p>Learner. Sport. Food. Joy</p>",
+      "company": "NAB",
+      "pronouns": "He/Him",
+      "location": "Ho Chi Minh, Vietnam",
+      "linkedin": "https://www.linkedin.com/in/hung-tran-46a4a1272/",
+      "twitter": "",
+      "github": "https://github.com/phuhung273",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "hung-tran.jpg"
    },
    {
       "name": "Hung-Ying Tai",
@@ -8592,7 +8664,7 @@
       "bio": "<p>Proudly Abruzzese, I love food, videogames and nerd culture. I am a software engineer working on both code and infrastructure, specialized in Kubernetes and Linux OS administration. I never stop being curious, learning and playing.</p>",
       "company": "Banca D'Italia",
       "pronouns": "He/Him",
-      "location": "Manoppello Scalo, Italia",
+      "location": "Manoppello Scalo, Italy",
       "linkedin": "",
       "twitter": "",
       "github": "",
@@ -12616,6 +12688,24 @@
       "image": "https://www.cncf.io/wp-content/uploads/2017/06/Indigirka_at_minus_46C.jpg"
    },
    {
+      "name": "Maciej Szytów",
+      "bio": "<p>DevOps Engineer</p>",
+      "company": "NewOps",
+      "pronouns": "",
+      "location": "Warszawa, Poland",
+      "linkedin": "https://www.linkedin.com/in/maciej-szyt%C3%B3w-2a9a461b6/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "maciej-szytow.jpg"
+   },
+   {
       "name": "Madhu S Mallisetty",
       "bio": "<p> Madhu Mallisetty is an exceptional Technology Solutions Architect with extraordinary expertise in MuleSoft integration and cloud-native technologies, particularly Kubernetes. As a certified Kubernetes Administrator and a Salesforce certified MuleSoft Integration Architect, Mallisetty possesses a rare combination of skills that places him at the forefront of digital transformation. His architectural designs have resulted in significant improvements, including a 30% increase in operational efficiency for major enterprises, demonstrating his ability to deliver high-impact solutions. Mallisetty's unique ability to seamlessly integrate legacy systems with cutting-edge cloud technologies enables businesses to achieve unprecedented levels of scalability and innovation. His continued contributions, including mentoring and thought leadership, are shaping the future of enterprise integration and cloud-native technologies across industries.</p>",
       "company": "Gemini Solutions",
@@ -12939,6 +13029,24 @@
          "Ambassadors"
       ],
       "image": "marcus-noble.jpg"
+   },
+   {
+      "name": "Marcus Notø",
+      "bio": "<p>Marcus Notø is a platform engineer specializing in Kubernetes, OpenShift, and cloud-native operations, with a focus on cost management, uptime, and security. </p>",
+      "company": "Sopra Steria",
+      "pronouns": "He/Him",
+      "location": "Oslo, Norway",
+      "linkedin": "https://www.linkedin.com/in/noto/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "marcus-noto.jpg"
    },
    {
       "name": "Marcus Ross",
@@ -13807,6 +13915,24 @@
       ],
       "slack_id": "sm.imani@gmail.com",
       "image": "mojtaba-imani.jpg"
+   },
+   {
+      "name": "Muhammad Khan",
+      "bio": "<p>I am a Solutions Engineer with over 15 years of expertise in the IT industry, specializing in cloud platforms like AWS and GCP, as well as Kubernetes. I work with customers to navigate complex use cases and overcome technical challenges, delivering tailored solutions in application modernization, DevOps, and cloud architecture. My strengths lie in optimizing workloads and aligning cloud strategies with business objectives to drive innovation and operational efficiency.</p>",
+      "company": "Insight Enterprises, Inc",
+      "pronouns": "He/Him",
+      "location": "Austin, United States",
+      "linkedin": "https://www.linkedin.com/in/muhammadkh/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U07V0L40GV8",
+      "image": "muhammad-khan.jpg"
    },
    {
       "name": "Muntashir Islam",
@@ -16734,6 +16860,24 @@
       "image": "rahul-jadhav.jpg"
    },
    {
+      "name": "Rahul K Shettigar",
+      "bio": "<p>Passionate about cloud-native technologies. I follow a hands-on approach: build it, break it, then rebuild it even better.</p>",
+      "company": "DigitalOcean",
+      "pronouns": "He/Him",
+      "location": "Mangaluru, India",
+      "linkedin": "https://www.linkedin.com/in/rahul-shettigar/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U07UZK4JMT6",
+      "image": "rahul-k-shettigar.jpg"
+   },
+   {
       "name": "Rahul Kumar",
       "bio": "<p>I work as a software architect at QuantumBlack, a subsidiary of McKinsey & Company. My expertise lies in MLOps and LLMOps solutions. I primarily use CNCF open source technologies to develop and design robust platforms and solutions for production. For example, I created a multiregional enterprise MLOps platform that is used daily by thousands of data scientists and involves scaling Spark on Kubernetes. Additionally, I guide clients on best practices in the Kubernetes stack.</p>",
       "company": "McKinsey & Company",
@@ -16921,7 +17065,8 @@
          "Non-Technical"
       ],
       "category": [
-         "Ambassadors"
+         "Ambassadors",
+         "Kubestronaut"
       ],
       "image": "ramesh-kumar.jpeg"
    },
@@ -18227,6 +18372,24 @@
       ],
       "slack_id": "",
       "image": "sachin-kumar.jpg"
+   },
+   {
+      "name": "Saed Farah",
+      "bio": "<p>A security engineer at Google, with a strong passion for community collaboration. I am a community leader and an advocate for all things cloud and containers.<p/><p>I run a weekly newsletter called: 𝗧𝗵𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗪𝗲𝗲𝗸𝗹𝘆 - 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗘𝗱𝗶𝘁𝗶𝗼𝗻.  I also have a YouTube channel where I demonstrate all of the latest cutting edge tech that I deploy onto my Kubernetes home lab in an attempt to make knowledge more accessible to the community, checkout my Kubernetes security playlist: https://youtube.com/playlist?list=PLOcpD_NJUvijebCmAmamt6vueTiuZp-yO&si=r8wz5JtlleDlbpPg</p>",
+      "company": "Google",
+      "pronouns": "He/Him",
+      "location": "London, United Kingdom",
+      "linkedin": "https://www.linkedin.com/in/saedf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "https://bsky.app/profile/saedf.bsky.social",
+      "github": "https://github.com/farah-sm",
+      "wechat": "",
+      "website": "",
+      "youtube": "https://youtube.com/playlist?list=PLOcpD_NJUvijebCmAmamt6vueTiuZp-yO&si=r8wz5JtlleDlbpPg",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "",
+      "image": "saed-farah.jpg"
    },
    {
       "name": "Saeid Bostandoust",
