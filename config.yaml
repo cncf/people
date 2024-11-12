@@ -786,6 +786,11 @@ repositories:
   - name: svg-website
     settings:
       has_wiki: true
+  - name: tab
+    teams:
+      cncf-tab: write
+      cncf-projects: admin
+    visibility: private
   - external_collaborators:
       kgamanji: admin
       linsun: admin
