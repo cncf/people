@@ -3898,14 +3898,18 @@
       "company": "Civo",
       "pronouns": "He/Him",
       "location": "Austin, TX, United States",
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/in/chadmcrowell",
       "twitter": "https://www.twitter.com/chadmcrowell",
       "github": "https://github.com/chadmcrowell",
+      "bluesky": "https://bsky.app/profile/chadcrowell.com",
       "wechat": "",
-      "website": "",
-      "youtube": "",
+      "website": "https://chadcrowell.com",
+      "youtube": "https://youtube.com/@kubeskills",
       "slack_id": "chad",
-      "languages": [],
+      "languages": [
+         "English",
+         "Spanish"
+      ],
       "projects": [
          "cert-manager",
          "Cilium",
@@ -3943,7 +3947,7 @@
       "category": [
          "Ambassadors"
       ],
-      "image": "chad-crowell.jpeg"
+      "image": "chad-crowell.jpg"
    },
    {
       "name": "Chamila de Alwis",
