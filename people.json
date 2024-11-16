@@ -1496,14 +1496,18 @@
       "company": "Dynatrace",
       "pronouns": "He/Him",
       "location": "Linz, Austria",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/grabnerandi/",
       "twitter": "https://www.twitter.com/grabnerandi",
       "github": "https://github.com/grabnerandi",
+      "bluesky": "https://bsky.app/profile/grabnerandi.bsky.social",
       "wechat": "",
-      "website": "",
-      "youtube": "",
+      "website": "https://grabnerandi.github.io/",
+      "youtube": "https://www.youtube.com/playlist?list=PLqt2rd0eew1YFx9m8dBFSiGYSBcDuWG38",
       "slack_id": "Andreas Grabner",
-      "languages": [],
+      "languages": [
+         "English",
+         "German"
+      ],
       "projects": [
          "Argo",
          "CloudEvents",
