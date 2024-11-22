@@ -10,6 +10,7 @@
             "linkedin":  {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "twitter":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "github":    {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
+            "bluesky":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "wechat":    {"type": "string"},
             "website":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "location":  {"type": "string"},
@@ -28,7 +29,8 @@
                         "Governing Board",
                         "Marketing Committee",
                         "End User TAB",
-                        "Technical Oversight Committee"
+                        "Technical Oversight Committee",
+                        "Kubestronaut"
                     ]
                 }
             },

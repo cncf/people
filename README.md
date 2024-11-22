@@ -6,6 +6,7 @@ People can update their listing by submitting a PR for approval. After a PR is m
 
 - [Ambassadors](https://www.cncf.io/people/ambassadors/)
 - [Governing Board](https://www.cncf.io/people/governing-board/)
+- [Kubestronaut](https://www.cncf.io/training/kubestronaut/)
 - [Staff](https://www.cncf.io/people/staff/)
 - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
 
@@ -80,6 +81,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
         "linkedin":"LinkedIn url",
         "twitter":"Twitter url",
         "github":"GitHub url",
+        "bluesky":"Bluesky url",
         "wechat":"Wechat url",
         "website":"Personal website",
         "youtube":"YouTube url",
@@ -107,6 +109,7 @@ And here is an example entry:
         "linkedin":"https://www.linkedin.com/in/johnny-appleseed/",
         "twitter":"https://twitter.com/jappleseed",
         "github":"https://github.com/jappleseed",
+        "bluesky":"https://bsky.app/profile/jappleseed",
         "wechat":"https://web.wechat.com/jappleseed",
         "website":"https://jappleseed.com",
         "youtube":"https://www.youtube.com/c/jappleseed",
@@ -122,7 +125,7 @@ And here is an example entry:
 
 ## Images
 
-Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px, 72dpi, and should be in JPG format with file size less than 100kB.
+Upload your headshot image to the `/images/` directory with a filename made up of your name.  Images should be at least 500x500px with file size less than 100kB.
 
 ## Team Management
 
