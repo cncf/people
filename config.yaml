@@ -397,15 +397,14 @@ repositories:
     visibility: private
   - external_collaborators:
       Swil78: admin
-      idvoretskyi: write
       onlydole: admin
       taylorwaggoner: admin
-    name: enduser
+    name: enduser-private
     visibility: private
     teams:
       cncf-end-users: write
-      cncf-tab: admin
-  - name: enduser-public
+      cncf-tab: write
+      cncf-projects: admin
   - name: evolution-of-cloud-native
     visibility: private
     external_collaborators:
@@ -790,9 +789,22 @@ repositories:
     settings:
       has_wiki: true
   - name: tab
+    visibility: public
     teams:
       cncf-tab: write
       cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
+  - name: tab-private
+    teams:
+      cncf-tab: write
+      cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
     visibility: private
   - external_collaborators:
       kgamanji: admin
