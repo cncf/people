@@ -635,6 +635,8 @@ repositories:
       has_wiki: true
     teams:
       landscapers: admin
+  - name: maintainer-summit
+    visibility: public
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
