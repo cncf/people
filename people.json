@@ -7807,6 +7807,40 @@
       "image": "georgy-charkseliani.jpg"
    },
    {
+      "name":"Gerald Venzl",
+      "bio":"<p>Gerald Venzl is the Lead Product Manager of Developer Initiatives, Oracle Database technologies. During his career, Gerald has worked as a Developer, DBA, Performance Engineer, Software Architect, Consultant, Enterprise Architect and Distinguished Product Manager before his current role. He is still active as a developer in his free time and on open-source projects. This allowed Gerald to live several different lives in the IT sector, providing him with a solid understanding of the concerns in these respective areas while gaining a holistic view overall. Gerald focuses on advocating how to build systems that offer flexibility yet still meet the users' needs. He is also a member of the ISO SQL Standard committee.</p>",
+      "company":"Oracle",
+      "pronouns":"He/Him",
+      "location":"San Francisco, CA, United States",
+      "linkedin":"https://www.linkedin.com/in/geraldvenzl/",
+      "twitter":"https://x.com/geraldvenzl",
+      "github":"https://github.com/gvenzl",
+      "bluesky":"https://bsky.app/profile/gvenzl.bsky.social",
+      "website":"https://geraldonit.com/",
+      "youtube":"https://www.youtube.com/c/geraldonit",
+      "languages":["English", "German"],
+      "projects": [
+         "Argo",
+         "Backstage",
+         "cert-manager",
+         "Helm",
+         "k3s",
+         "Kubernetes",
+         "OpenTelemetry",
+         "Operator-Framework",
+         "Prometheus"
+      ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],
+      "category": [
+         "Ambassadors"
+      ],
+      "slack_id": "",
+      "image":"gerald-venzl.jpg"
+   },
+   {
       "name": "Gerard de Leeuw",
       "bio": "<p>I'm always looking for challenges and enjoy solving complex problems, especially when you have to dig deep in order to solve them. I really like working with people that have different skills so we can help each other in improving ourselves and getting the best results.  Currently trying to share my passion for IT at Myst with my colleagues and the cloud-native community.</p>",
       "company": "Myst",
