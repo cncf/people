@@ -397,15 +397,14 @@ repositories:
     visibility: private
   - external_collaborators:
       Swil78: admin
-      idvoretskyi: write
       onlydole: admin
       taylorwaggoner: admin
-    name: enduser
+    name: enduser-private
     visibility: private
     teams:
       cncf-end-users: write
-      cncf-tab: admin
-  - name: enduser-public
+      cncf-tab: write
+      cncf-projects: admin
   - name: evolution-of-cloud-native
     visibility: private
     external_collaborators:
@@ -459,7 +458,6 @@ repositories:
       CathPag: maintain
       DaveVentura: write
       Garima-Negi: write
-      Giulia-dipietro: write
       Imtiaz1234: write
       JasonMorgan: admin
       Krast76: write
@@ -522,6 +520,9 @@ repositories:
       kumarankit999: write
       bishal7679: write
       asem-hamid: write
+      mboukhalfa: write
+      seifrajhi: write
+      adowair: write
     name: glossary
   - external_collaborators:
       halcyondude: admin
@@ -568,12 +569,16 @@ repositories:
       heyste: admin
       cncf-ci: admin
       Cmierly: maintain
+      koksay: admin
+      mfahlandt: admin
+      xmudrii: admin
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
       CsatariGergely: triage
       maci3jka: triage
-      ramrodo: triage
+      ramrodo: write
+      senthilrch: write
       wrkode: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
@@ -633,6 +638,8 @@ repositories:
       has_wiki: true
     teams:
       landscapers: admin
+  - name: maintainer-summit
+    visibility: public
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
@@ -787,17 +794,30 @@ repositories:
     settings:
       has_wiki: true
   - name: tab
+    visibility: public
     teams:
       cncf-tab: write
       cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
+  - name: tab-private
+    teams:
+      cncf-tab: write
+      cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
     visibility: private
   - external_collaborators:
       kgamanji: admin
       linsun: admin
       lianmakesthings: admin
-      thschue: admin
       roberthstrand: admin
-      AloisReitbauer: maintain
+      schristoff: write
+      GenPage: write
       abangser: write
       krumware: write
       sabre1041: write
@@ -805,6 +825,9 @@ repositories:
       salaboy: write
       danieloh30: write
       ThomasVitale: write
+      rynowak: write
+      elft3r: write
+      bschaatsbergen: write
     name: tag-app-delivery
   - name: tag-contributor-strategy
     external_collaborators:
@@ -1169,10 +1192,12 @@ teams:
       - leonardpahlke
     members:
       - catblade
+      - guidemetothemoon
   - name: tag-env-sustainability
     maintainers:
       - leonardpahlke
     members:
+      - ams0
       - AntonioDiTuri
       - catblade
       - claire-fletcher
@@ -1215,6 +1240,13 @@ teams:
       - dims
       - iennae
       - LFCIBot
+      - edrob999
+      - wrkode
+      - robcube
+      - Deafveloper
+      - xmulligan
+      - krol3
+      - AmyJuneH
   - name: tcs-toc-liasons
     maintainers:
       - geekygirldawn
