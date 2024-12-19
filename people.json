@@ -8332,12 +8332,14 @@
       "bio": "<p>Gerardo López Falcón is a CNCF Ambassador, Docker Captain, and Google Developer Expert, with a focus on cloud-native technologies, Kubernetes, and DevOps practices. He leads Cloud Native Costa Rica and frequently hosts meetups to empower the local tech community. As a dedicated advocate for open-source, he has co-authored resources like \"Kubernetes Observability in Action\" and shares insights on his blog, where he covers best practices and deep dives into tools like Docker, Prometheus, and Cilium.</p>",
       "company": "Veritas Automata",
       "pronouns": "He/Him/They/Them",
-      "location": "Heredia",
+      "location": "Costa Rica",
       "twitter": "https://twitter.com/gelopfalcon",
       "github": "https://github.com/falconcr",
+      "bluesky": "https://bsky.app/profile/gelopfalcon.bsky.social",
       "slack": "gelopfalcon",
       "category": [
-         "Ambassadors"
+         "Ambassadors",
+         "Kubestronaut"
       ],
       "projects": [
          "Brigade",
@@ -8365,24 +8367,6 @@
          "Rook"
       ],
       "image": "gerardo-lopez.jpg"
-   },
-   {
-      "name": "Gerardo López falcon",
-      "bio": "<p>I'm Gerardo López Falcón, a Docker Captain and Google Developer Expert with a focus on cloud, DevOps, and Kubernetes technologies. I run Cloud Native Costa Rica and frequently speak at conferences like KubeDay and Scale21x, sharing insights on cloud-native development and CNCF tools like Kubernetes and Prometheus. I'm passionate about empowering developers to adopt best practices in containerization, observability, and security. You can find my blog posts on my blog https://gelopfalcon.medium.com and follow my contributions to the community on Twitter at @gelopfalcon.</p>",
-      "company": "",
-      "pronouns": "He/Him",
-      "location": "Sarapiqui, Costa Rica",
-      "linkedin": "https://www.linkedin.com/in/gerardo-falcon",
-      "twitter": "https://x.com/gelopfalcon",
-      "github": "https://github.com/falconcr",
-      "wechat": "",
-      "website": "https://gelopfalcon.com",
-      "youtube": "https://www.youtube.com/@falconcodes",
-      "category": [
-         "Kubestronaut"
-      ],
-      "slack_id": "UPU73A4JY",
-      "image": "gerardo-lopez-falcon.jpg"
    },
    {
       "name": "Gerhard Häring",
