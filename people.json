@@ -627,27 +627,21 @@
       "twitter": "https://twitter.com/abebars88",
       "github": "https://github.com/abebars",
       "slack": "abebars",
+      "slack_id": "U0348V69AHK",
+      "expertise": [
+         "Technical",
+         "Non-Technical"
+      ],      
       "category": [
          "Ambassadors"
       ],
       "projects": [
          "Argo",
-         "CDK for Kubernetes (CDK8s)",
-         "cert-manager",
-         "Chaos Mesh",
          "Cilium",
-         "Container Network Interface (CNI)",
-         "CoreDNS",
-         "Crossplane",
          "Envoy",
-         "Helm",
          "Istio",
          "KEDA",
-         "KubeArmor",
-         "Kubernetes",
-         "Open Cluster Management",
-         "Open Policy Agent (OPA)",
-         "OpenTelemetry"
+         "Kubernetes"
       ],
       "image": "ahmed-bebars.jpg"
    },
