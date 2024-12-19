@@ -22573,17 +22573,22 @@
    },
    {
       "name": "Shivanshu Raj Shrivastava",
-      "bio": "",
-      "company": "Tetrate.io",
-      "pronouns": "",
+      "bio": "<p>Shivanshu is a Founding Engineer at SigNoz (YC-W21), he is deeply engaged in the fields of deep technology and open-source software, he is a contributor and organization member of CNCF projects such as OpenTelemetry, Kubernetes, and Istio. He has served as a mentor in the Google Summer of Code (GSoC) program, guiding contributors and fostering the growth of the open-source community. Shivanshu has presented his work at renowned global conferences, including AI_Dev, the GSoC Mentor Summit, IstioCon, and KubeCon, showcasing his expertise and commitment to advancing open-source innovation. He is available for connections on LinkedIn, Twitter, or through CNCF Slack.</p>",
+      "company": "SigNoz",
+      "pronouns": "He/Him",
       "location": "India",
-      "twitter": "",
-      "github": "",
+      "linkedin": "https://www.linkedin.com/in/shivanshu1333",
+      "twitter": "https://x.com/shivanshu1333",
+      "github": "https://github.com/shivanshuraj1333",
       "category": [
          "Ambassadors"
       ],
-      "projects": [],
-      "image": "phippy.jpg"
+      "projects": [
+         "OpenTelemetry",
+         "Kubernetes",
+         "Istio"
+      ],
+      "image": "shivanshu-shrivastava.jpg"
    },
    {
       "name": "Shivay Lamba",
