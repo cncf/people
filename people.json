@@ -11342,13 +11342,20 @@
    {
       "name": "Jintao Zhang",
       "bio": "<p>Jintao is a Sr. SE at Kong Inc. Kubernetes Ingress-NGINX maintainer. Microsoft MVP. Public speaker and author. He was speaking at multiple conferences, including KCD, IstioCon, DockerCon, and more. He enjoys sharing technology and has been actively involved in open-source projects for a long time.</p>",
-      "company": "",
+      "company": "Kong Inc.",
       "pronouns": "He/Him",
       "location": "Beijing, China",
+      "linkedin": "https://www.linkedin.com/in/jintao-zhang-402645193",
       "twitter": "https://twitter.com/zhangjintao9020",
       "github": "https://github.com/tao12345666333",
+      "website": "https://moelove.info",
       "category": [
          "Ambassadors"
+      ],
+      "slack_id": "Jintao Zhang",
+      "languages": [
+         "Chinese",
+         "English"
       ],
       "projects": [
          "Kubernetes",
