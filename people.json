@@ -15644,13 +15644,16 @@
    },
    {
       "name": "Marvin Beckers",
-      "bio": "<p>Marvin is a Team Lead and Senior Software Engineer at Kubermatic. He initially started out in IT operations and became fascinated with Kubernetes in 2018, eventually transitioning into software development. Today, he is a public speaker, a maintainer for the CNCF project kcp and an organiser for Cloud Native Aachen. His personal blog is available at https://marvin.beckers.dev.</p>",
+      "bio": "<p>Marvin is a Team Lead and Senior Software Engineer at Kubermatic. He initially started out in IT operations and became fascinated with Kubernetes in 2018, eventually transitioning into software development. Today, he is a public speaker, a maintainer for the CNCF project kcp and an organiser for Cloud Native Aachen.</p>",
       "company": "Kubermatic",
       "pronouns": "He/Him",
       "location": "Aachen, Germany",
-      "twitter": "https://twitter.com/",
+      "bluesky": "https://bsky.app/profile/marvin.beckers.dev",
+      "linkedin": "https://www.linkedin.com/in/marvinbeckers/",
+      "twitter": "",
       "github": "https://github.com/embik",
-      "slack": "MarvinBeckers",
+      "website": "https://marvin.beckers.dev",
+      "slack_id": "MarvinBeckers",
       "category": [
          "Ambassadors"
       ],
