@@ -3624,23 +3624,6 @@
       "slack_id": "U8C6BEND9"
    },
    {
-      "name": "Bob Wise",
-      "bio": "Bob is the EVP and CEO for Heroku at Salesforce. Heroku, a platform as a service (PaaS) built on AWS, enables developers to build, run, and operate applications on the cloud. Prior to his time at Salesforce, Bob was the GM for EKS, EKS-A, ROSA and was responsible for the Amazon OSPO. He was CTO for Samsung’s cloud native effort, ran engineering for HP Cloud, and has worked for a number of startups as a CTO.",
-      "company": "Heroku",
-      "pronouns": "",
-      "linkedin": "https://www.linkedin.com/in/bobwise/",
-      "twitter": "",
-      "github": "",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "priority": "",
-      "category": [
-         "Governing Board"
-      ],
-      "image": "bob-wise.jpg"
-   },
-   {
       "name": "Bogdan Sass",
       "bio": "<p>Infrastructure engineer with 20+ years of experience in networking, virtualization and storage. Currently spends his time tinkering with Kubernetes, ElasticSearch, and automation technologies (Ansible, Terraform).</p>",
       "company": "SASS SYSTEMS DEVOPS",
@@ -4789,6 +4772,23 @@
       "image": "chris-werner-rau.jpg"
    },
    {
+      "name": "Chris Wright",
+      "bio": "",
+      "company": "Red Hat",
+      "pronouns": "",
+      "linkedin": "https://www.linkedin.com/in/chris-wright-b733851/",
+      "twitter": "https://x.com/kernelcdub",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "category": [
+         "Governing Board"
+      ],
+      "image": "chris-wright.jpg"
+   },
+   {
       "name": "Christian Colic",
       "bio": "<p>I am a passionate DevOps Engineer with a strong background in automation. Always eager to expand my knowledge, I'm constantly seeking to learn new technologies and improve my skills. With expertise in networking, Linux, automation, cybersecurity, and virtualization, I excel at quickly understanding problems and implementing innovative solutions and streamlining processes</p>",
       "company": "Swisscom",
@@ -5101,6 +5101,23 @@
       ],
       "slack_id": "",
       "image": "claudio-da-silva-pinheiro-junior.jpg"
+   },
+   {
+      "name": "Clint Kitson",
+      "bio": "",
+      "company": "VMware",
+      "pronouns": "",
+      "linkedin": "https://www.linkedin.com/in/clintonkitson/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "category": [
+         "Governing Board"
+      ],
+      "image": "clint-kitson.jpeg"
    },
    {
       "name": "Cody Galloway",
@@ -7339,23 +7356,6 @@
       "image": "eric-ng.jpg"
    },
    {
-      "name": "Erin Boyd",
-      "bio": "Erin is currently the Director of Emerging Technologies  and Distinguished Engineer at Red Hat in the Office of the CTO. Erin was previously an Apple Cloud Services Engineer at Apple. Erin is a Kubernetes contributor and an Apache Ambari committer. Erin is an active contributor to the Kubernetes Storage SIG and is currently the co-chair of the CNCF Storage SIG. Erin’s main focus today is centered around how to enable storage in a stateless, hybrid, multi-cloud environment. Prior to working at Red Hat, she worked at IBM for 14 years. Erin worked in embedded systems development for several years before moving into global enterprise level services. Erin lives outside of Bozeman, MT with her husband and 5 children. She is a robot enthusiast and FIRST robotics mentor. Her family owns and runs a karate dojo in which they volunteer a considerable amount of time to teaching and empowering all people, especially women and children. And in what spare time she has, she runs marathons.",
-      "company": "Red Hat",
-      "pronouns": "She/Her",
-      "linkedin": "https://www.linkedin.com/in/erin-a-boyd-16871a12/",
-      "twitter": "https://twitter.com/erinaboyd",
-      "github": "https://github.com/erinboyd",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "priority": "",
-      "category": [
-         "Governing Board"
-      ],
-      "image": "erin-boyd.jpg"
-   },
-   {
       "name": "Erin Colvin",
       "bio": "Erin is an experienced Event Manager with a specific expertise in Tradeshows and Conferences. She has a passion for strategic event marketing, strong vendor relationships, and delivering exceptional experiences. She earned her Bachelor's degree in Communications and Business at the University of Utah, and began her career in sales and marketing. She managed 20+ tradeshows annually for a CPG company, before moving to the agency side where she mastered her Project Management and Customer Services skills managing experiential marketing campaigns for clients like Amazon Fresh and Kodiak Cakes. She recently received her Master's degree in Strategic Communication and is excited to utilize this knowledge to bring more research, data and strategy into her projects and events.",
       "company": "Tradeshow Manager, Events",
@@ -8128,6 +8128,23 @@
       ],
       "slack_id": "",
       "image": "gael-hascoet.jpg"
+   },
+   {
+      "name": "Gail Frederick",
+      "bio": "",
+      "company": "Heroku",
+      "pronouns": "",
+      "linkedin": "https://www.linkedin.com/in/gfred/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "priority": "",
+      "category": [
+         "Governing Board"
+      ],
+      "image": "gail-frederick.jpeg"
    },
    {
       "name": "Garry Cairns",
@@ -10399,23 +10416,6 @@
       ],
       "slack_id": "",
       "image": "jagadeesan-arumugam.jpg"
-   },
-   {
-      "name": "Jaice Singer DuMars",
-      "bio": "<p>Jaice Singer DuMars is a cloud native ecosystem specialist and top 1% Kubernetes contributor who has served in many crucial leadership roles in the project over the last 7 years. They are currently a Senior Director of Engineering at VMware, overseeing development of upstream Kubernetes and components within the Tanzu Kubernetes platform. Prior to VMware, Jaice worked on cloud native strategy and engineering at Apple, Google, and Microsoft. In their spare time, they can be found playing or hand-engraving saxophones, painting, and drawing.</p>",
-      "company": "VMware",
-      "pronouns": "They/Them/Theirs",
-      "linkedin": "https://www.linkedin.com/in/jaicesinger/",
-      "twitter": "https://twitter.com/jaicesd",
-      "github": "https://github.com/jdumars",
-      "wechat": "",
-      "website": "",
-      "youtube": "",
-      "priority": "",
-      "category": [
-         "Governing Board"
-      ],
-      "image": "jaice-singer-dumars.jpg"
    },
    {
       "name": "Jaime Andres Cubillos Patiño",
