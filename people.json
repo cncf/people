@@ -19643,18 +19643,22 @@
    },
    {
       "name": "Qing Hao",
-      "bio": "",
+      "bio": "<p>Qing Hao is a senior software engineer at Red Hat. She loves open source and sharing, she is a maintainer of Open Cluster Management and enjoys writing blogs to share new developments in the community. She has been involved in numerous open source activities over the past few years, including being a speaker at KubeCon, a mentor for OSPP and GSoC many times. She has hosted many open source meetups in Xi’an as early as 2015, and she is now one of the organizers of KCD.</p><p>Why I am excited to be an ambassador: I am passionate about open source and sharing, and becoming an ambassador would provide me with more opportunities and motivation to do what I love. I’ve witnessed the CNCF project’s remarkable growth in recent years, and now, with the rise of AI, it’s thriving more than ever. As an ambassador, I look forward to helping more people and projects benefit from open source, which is one of the most exciting aspects of this role.</p>",
       "company": "Red Hat",
-      "pronouns": "",
-      "location": "",
-      "twitter": "https://twitter.com/",
-      "github": "https://github.com/",
-      "slack_id": "",
+      "pronouns": "She/Her",
+      "location": "Xi'an, China",
+      "linkedin": "https://www.linkedin.com/in/haoqing/",
+      "twitter": "https://x.com/haoqing0110",
+      "github": "https://github.com/haoqing0110",
+      "slack_id": "Qing Hao",
       "category": [
          "Ambassadors"
       ],
-      "projects": [],
-      "image": "phippy.jpg"
+      "projects": [
+         "Kubernetes",
+         "Open Cluster Management"
+      ],
+      "image": "qing-hao.jpg"
    },
    {
       "name": "Quentin MARSZALEK",
