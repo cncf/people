@@ -17436,20 +17436,22 @@
       "image": "nathanael-liechti.jpg"
    },
    {
-      "name": "Natália Granato de Assis",
-      "bio": "Currently, as a Site Reliability Engineer, I contribute to the construction of Magalu Cloud, the Brazilian public cloud, with Kubernetes and other open source software. I transitioned from education and telemarketing to DevOps and Cloud Native, focusing on continuous improvement, agile software delivery, vulnerability correction and adoption of best practices for platform provisioning, configuration and maintenance.",
+      "name": "Natália Granato",
+      "bio": "<p>Currently working as a Site Reliability Engineer, he contributes to the construction of Magalu Cloud, the Brazilian public cloud. He contributes to Kubernetes and other open source software. He transitioned his career from the education and telemarketing sectors to DevOps and Cloud Native, focusing on continuous improvement, agile software delivery, vulnerability correction and adoption of best practices for platform provisioning, configuration and maintenance. It promotes a culture of collaboration and knowledge sharing.</p>",
       "company": "Magalu Cloud",
-      "pronouns": "she/her",
-      "location": "Brazil, Minas Gerais",
+      "pronouns": "She/Her",
+      "location": "Belo Horizonte, Brazil",
       "twitter": "https://twitter.com/granatowp",
+      "bluesky": "https://bsky.app/profile/nataliagranato.bsky.social",
       "github": "https://github.com/nataliagranato",
-      "website": "https://www.nataliagranato.xyz",
-      "linkedin": "https://www.linkedin.com/in/nataliagranato",
-      "slack": "",
+      "linkedin": "https://linkedin.com/in/nataliagranato",
+      "website": "https://nataliagranato.xyz",
       "category": [
          "Ambassadors"
       ],
-      "projects": [],
+      "projects": [
+         "Kubernetes"
+      ],
       "image": "nataliagranato.jpg"
    },
    {
@@ -27090,27 +27092,5 @@
       ],
       "slack_id": "DJJ9JDMHB",
       "image": "nabarun-pal.jpg"
-   },
-   {
-   "name": "Natália Granato",
-   "bio": "<p>Currently working as a Site Reliability Engineer, he contributes to the construction of Magalu Cloud, the Brazilian public cloud. He contributes to Kubernetes and other open source software. He transitioned his career from the education and telemarketing sectors to DevOps and Cloud Native, focusing on continuous improvement, agile software delivery, vulnerability correction and adoption of best practices for platform provisioning, configuration and maintenance. It promotes a culture of collaboration and knowledge sharing.</p>",
-   "company": "Magalu Cloud",
-   "pronouns": "She/Her",
-   "location": "Belo Horizonte, Brazil",
-   "twitter": "https://twitter.com/granatowp",
-   "bluesky": "https://bsky.app/profile/nataliagranato.bsky.social",
-   "github": "https://github.com/nataliagranato",
-   "linkedin": "https://linkedin.com/in/nataliagranato",
-   "website": "https://nataliagranato.xyz",
-
-
-   "category": [
-      "Ambassadors"
-   ],
-   "projects": [
-      "Kubernetes"
-
-   ],
-   "image": "nataliagranato.jpg"
    }
 ]
