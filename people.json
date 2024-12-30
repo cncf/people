@@ -8342,11 +8342,20 @@
       "company": "Oracle",
       "pronouns": "He/Him",
       "location": "San Francisco",
-      "twitter": "https://twitter.com/geraldvenzl",
-      "github": "https://github.com/gvenzl",
+      "linkedin":"https://www.linkedin.com/in/geraldvenzl/",
+      "twitter":"https://twitter.com/geraldvenzl",
+      "github":"https://github.com/gvenzl",
+      "bluesky":"https://bsky.app/profile/gvenzl.bsky.social",
+      "website":"https://geraldonit.com/",
+      "youtube":"https://www.youtube.com/c/geraldonit",
       "slack_id": "gvenzl",
+      "languages":["English", "German"],
       "category": [
          "Ambassadors"
+      ],
+      "expertise": [
+         "Technical",
+         "Non-Technical"
       ],
       "projects": [
          "Backstage",
