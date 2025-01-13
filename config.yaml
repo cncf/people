@@ -397,7 +397,6 @@ repositories:
     visibility: private
   - external_collaborators:
       Swil78: admin
-      idvoretskyi: write
       onlydole: admin
       taylorwaggoner: admin
     name: enduser-private
@@ -405,6 +404,7 @@ repositories:
     teams:
       cncf-end-users: write
       cncf-tab: admin
+      cncf-projects: admin
   - name: evolution-of-cloud-native
     visibility: private
     external_collaborators:
@@ -568,6 +568,9 @@ repositories:
       heyste: admin
       cncf-ci: admin
       Cmierly: maintain
+      koksay: admin
+      mfahlandt: admin
+      xmudrii: admin
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
@@ -634,6 +637,8 @@ repositories:
       has_wiki: true
     teams:
       landscapers: admin
+  - name: maintainer-summit
+    visibility: public
   - name: memorials
   - external_collaborators:
       CathPag: maintain # TAG CS
@@ -788,9 +793,22 @@ repositories:
     settings:
       has_wiki: true
   - name: tab
+    visibility: public
     teams:
       cncf-tab: write
       cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
+  - name: tab-private
+    teams:
+      cncf-tab: write
+      cncf-projects: admin
+    external_collaborators:
+      Swil78: admin
+      onlydole: admin
+      taylorwaggoner: admin
     visibility: private
   - external_collaborators:
       kgamanji: admin
@@ -1222,6 +1240,13 @@ teams:
       - dims
       - iennae
       - LFCIBot
+      - edrob999
+      - wrkode
+      - robcube
+      - Deafveloper
+      - xmulligan
+      - krol3
+      - AmyJuneH
   - name: tcs-toc-liasons
     maintainers:
       - geekygirldawn
@@ -1234,7 +1259,6 @@ teams:
       - geekygirldawn
     members:
       - jberkus
-      - juliasimon
       - mcgonagle
       - melaniadeangelis
       - SaraTrap
