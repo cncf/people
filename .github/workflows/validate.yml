@@ -4,7 +4,7 @@ on: [pull_request]
 
 jobs:
   verify-json-validation:
-    runs-on: [self-hosted, "Default"]
+    runs-on: equinix-2cpu-8gb 
     steps:
       - uses: actions/checkout@v4
       - name: Validate JSON
