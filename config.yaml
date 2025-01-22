@@ -1274,6 +1274,7 @@ teams:
     maintainers:
       - mrbobbytables
     members:
+      - kad # Runtime
       - srust # Runtime
       - raravena80 # Runtime
       - rajaskakodkar # Runtime
@@ -1294,7 +1295,6 @@ teams:
 #     - raffaelespazzoli - Storage - pending org invite
 #     - mnm678 - Security - pending org invite
 #     - PushkarJ - Security - pending org invite
-#     - kad - Runtime - pending org invite
 #     - k82cn - Runtime - pending org invite
 #     - srust - Runtime - pending org invite
 #     - miao0miao - Runtime - pending org invite
