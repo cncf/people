@@ -1006,6 +1006,18 @@
       "wechat": "",
       "website": "",
       "youtube": "",
+      "languages": [
+         "English",
+         "Malayalam"
+      ],
+      "projects":[
+         "Argo",
+         "Helm",
+         "Istio",
+         "Knative",
+         "Kubernetes",
+         "Linkerd"
+      ],
       "category": [
          "Kubestronaut"
       ],
