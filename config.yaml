@@ -966,11 +966,6 @@ repositories:
     name: web-landscape
     settings:
       has_wiki: true
-  - external_collaborators:
-      jordinl: admin
-    name: website
-    settings:
-      has_wiki: true
   - name: wg-ci
   - external_collaborators:
       alena1108: maintain
