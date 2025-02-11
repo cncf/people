@@ -12466,6 +12466,23 @@
         "image": "jan-laudahn.jpg"
     },
     {
+        "name": "Jan Melén",
+        "bio": "Jan Melén is an expert in networking, open-source software, and cloud technologies, with a career spanning over two decades. He is a staunch advocate for Free and Open-Source Software (FOSS) adoption within Ericsson and the broader community he engages with.</p>\n\n<p>Jan has served as a Research Leader for Cloud Research, driving innovations in cloud computing. Since 2019, he has led a team dedicated to CNCF open-source projects, contributing significantly to Ericsson's Kubernetes distribution, and fostering an "upstream-first" culture within the company. He now oversees Ericsson’s open-source contributions and coordinates collaborations with CNCF projects. With his technical expertise and leadership, Jan aims to support CNCF's mission and strengthen the global cloud-native ecosystem.",
+        "company": "Ericsson",
+        "pronouns": "",
+        "linkedin": "https://fi.linkedin.com/in/jan-melen-07a45457",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "jan-melen.jpg"
+    },
+    {
         "name": "Jan Pipan",
         "bio": "<p>Jan is a Systems Engineer at NIL Ltd., specializing in Kubernetes and virtualization technologies. He primarily works with Kubernetes clusters on VMware Tanzu, managing and optimizing various workloads by following GitOps best practices. His responsibilities also involve implementing robust and effective backup strategies for Kubernetes environments.</p>",
         "company": "NIL Ltd.",
@@ -26206,6 +26223,23 @@
         ],
         "slack_id": "",
         "image": "sebastian-fernandez-nunez.jpg"
+    },
+    {
+        "name": "Sebastian Scheele",
+        "bio": "Sebastian Scheele is CEO and co-founder of Kubermatic, focused on developing open core software solutions for automating Kubernetes operations, at scale. Sebastian, a developer himself, has his finger on the pulse of where the Kubernetes landscape is going and is contributing many of his team's resources to upstream K8s development. As one of the early pioneers in the cloud native ecosystem, he has helped hundreds of enterprises embrace Kubernetes to solve cutting edge challenges in both cloud and edge computing.</p>\n\n<p>Sebastian speaks at numerous conferences around the world about the impact of Kubernetes and cloud native technologies for IT.",
+        "company": "Kubermatic",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/sebastian-scheele/",
+        "twitter": "",
+        "github": "https://github.com/scheeles",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "sebastian-scheele.jpg"
     },
     {
         "name": "Sebastien Prune Thomas",
