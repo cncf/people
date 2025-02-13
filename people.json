@@ -12466,6 +12466,23 @@
         "image": "jan-laudahn.jpg"
     },
     {
+        "name": "Jan Melén",
+        "bio": "Jan Melén is an expert in networking, open-source software, and cloud technologies, with a career spanning over two decades. He is a staunch advocate for Free and Open-Source Software (FOSS) adoption within Ericsson and the broader community he engages with.</p>\n\n<p>Jan has served as a Research Leader for Cloud Research, driving innovations in cloud computing. Since 2019, he has led a team dedicated to CNCF open-source projects, contributing significantly to Ericsson's Kubernetes distribution, and fostering an \"upstream-first\" culture within the company. He now oversees Ericsson’s open-source contributions and coordinates collaborations with CNCF projects. With his technical expertise and leadership, Jan aims to support CNCF's mission and strengthen the global cloud-native ecosystem.",
+        "company": "Ericsson",
+        "pronouns": "",
+        "linkedin": "https://fi.linkedin.com/in/jan-melen-07a45457",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "jan-melen.jpg"
+    },
+    {
         "name": "Jan Pipan",
         "bio": "<p>Jan is a Systems Engineer at NIL Ltd., specializing in Kubernetes and virtualization technologies. He primarily works with Kubernetes clusters on VMware Tanzu, managing and optimizing various workloads by following GitOps best practices. His responsibilities also involve implementing robust and effective backup strategies for Kubernetes environments.</p>",
         "company": "NIL Ltd.",
@@ -26174,6 +26191,23 @@
         "image": "sebastian-fernandez-nunez.jpg"
     },
     {
+        "name": "Sebastian Scheele",
+        "bio": "Sebastian Scheele is CEO and co-founder of Kubermatic, focused on developing open core software solutions for automating Kubernetes operations, at scale. Sebastian, a developer himself, has his finger on the pulse of where the Kubernetes landscape is going and is contributing many of his team's resources to upstream K8s development. As one of the early pioneers in the cloud native ecosystem, he has helped hundreds of enterprises embrace Kubernetes to solve cutting edge challenges in both cloud and edge computing.</p>\n\n<p>Sebastian speaks at numerous conferences around the world about the impact of Kubernetes and cloud native technologies for IT.",
+        "company": "Kubermatic",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/sebastian-scheele/",
+        "twitter": "",
+        "github": "https://github.com/scheeles",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "sebastian-scheele.jpg"
+    },
+    {
         "name": "Sebastien Prune Thomas",
         "bio": "<p>I've been involved and passionated by the CNCF community for many years ! I'm co-organizing the Canadian CNCF & Kubernetes meetups for Canada (virtual) and Quebec City / Montreal meetups in person with other wonderful Organizers and Ambassadors ! I'm also a speaker in other meetups, at 2022 KubeCon US and at KubeCon's Rejeks 2023. I love sharing my experience and documenting. I try to blog my projects and experiences. Check at https://medium.com/@prune998 I'm invested in some CNCF or OSS projects linked to K8s and I'm maintaining an official fork of KubeColor that was unmaintained for years: https://github.com/kubecolor/kubecolor I've been patching a lot of projects, OSS or CNCF, like ArgoCD, Cilium, Kafka tools...</p><p>Why I am excited to be an ambassador: My goal as an ambassador is to promote Kubernetes and the wonderful ecosystem under the CNCF banner. Being involved in the Ambassador community will help me grow my skills at communicating and hopefully inspire others to join the movement.</p>",
         "company": "",
@@ -31370,6 +31404,23 @@
             "etcd"
         ],
         "image": "yuanpeng-liang.jpg"
+    },
+    {
+        "name": "Yuichi Nakamura",
+        "bio": "Yuichi has been engaged with OSS for over 20 years. At Hitachi, he launched an ecosystem of business and OSS contribution model based on Keycloak and is leading Hitachi OSPO as head of OSPO. He is one of the first Japan evangelists of The Linux Foundation and launched Cloud Native Community Japan as CNCF Japan Chapter with community colleagues. He is also on the board of the Linux Foundation.",
+        "company": "Hitachi",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/yuichi-nakamura-b8b953154/",
+        "twitter": "https://x.com/yhimainu",
+        "github": "https://github.com/yuichi-nakamura",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "yuichi-nakamura.jpg"
     },
     {
         "name": "Yuki Kirii",
