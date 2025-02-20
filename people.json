@@ -21301,17 +21301,29 @@
     },
     {
         "name": "Niki Manoledaki",
-        "bio": "",
-        "company": "Weaveworks Inc.",
-        "pronouns": "",
+        "bio": "Niki Manoledaki is a senior software engineer, environmental sustainability advocate, keynote speaker, and community facilitator. Her work focuses on managing cloud resources efficiently as part of the platform engineering team at Grafana Labs and as a co-chair of the CNCF Environmental Sustainability TAG's Green Reviews Working Group.",
+        "company": "Grafana Labs",
+        "pronouns": "she/they",
         "location": "Barcelona, Spain",
+        "linkedin": "https://www.linkedin.com/in/niki-%F0%9F%8C%B1-manoledaki-9b505111b/",
         "twitter": "",
-        "github": "",
+        "github": "https://github.com/nikimanoledaki",
+        "slack_id": "niki",
         "category": [
             "Ambassadors"
         ],
-        "projects": [],
-        "image": "phippy.jpg"
+        "languages": [
+            "English",
+            "Greek",
+            "French",
+            "Catalan"
+        ],
+        "projects": [
+            "Kepler",
+            "Kubernetes",
+            "OpenGitOps"
+        ],
+        "image": "niki-manoledaki.jpg"
     },
     {
         "name": "Nimesh Pandeya",
