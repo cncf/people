@@ -32975,5 +32975,38 @@
             "Ambassadors"
         ],
         "image": "phippy.jpg"
+    },
+    {
+        "name": "Anwar Hassen",
+        "bio": "Senior Software Engineer (Consultant) providing fast and iterative solutions to complex problems. Main focus on Kubernetes ecosystem ranging from bare-metal to cloud provided flavors. Heavily involved in infrastructure configuration, monitoring, access control and security of Linux based system. Also certified in multiple areas of the the GCP, AWS and Azure platforms. Proactively involved in learning, knowledge sharing, mentoring and collaboration with teams and friends as well as contribute to CNCF open-source projects.",
+        "company": "",
+        "pronouns": "",
+        "location": "Helsinki, Finland",
+        "linkedin": "",
+        "twitter": "",
+        "github": "https://github.com/Xenwar",
+        "bluesky": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "slack_id": "U0707TQ0S8G",
+        "projects": [
+            "cluster-api-provider-openstack",
+            "cluster-api-provider-metal3",
+            "cluster-api-provider-bare metal",
+            "metal3-clusterapi-docs",
+            "metal3-dev-env",
+            "cluster-api-provider-docker",
+            "metal3-dev-tools",
+            "metal3-docs "
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Kubestronaut"
+        ],
+        "image": "anwar-hassen.png"
     }
 ]
