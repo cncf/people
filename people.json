@@ -19767,21 +19767,36 @@
     },
     {
         "name": "Michael Yao",
-        "bio": "<p>I'm an active maintainer to k8s, istio, and OTel, a speaker in KubeCon and KCD, and a frequent member of KubeCon Program Committee. I own a tech website about cloud native and write those content in https://docs.daocloud.io/en/</p>",
+        "bio": "<p>I'm an active maintainer to kubernetes, Istio, OTel, and more website, a speaker in KubeCon and KCD, and a frequent member of KubeCon Program Committee. I own a technical website about cloud native and AI, and write those content in https://docs.daocloud.io/en/</p>",
         "company": "DaoCloud",
         "pronouns": "He/Him",
-        "location": "Shanghai",
+        "location": "Shanghai, China",
         "twitter": "https://twitter.com/michaelyao63618",
+        "linkedin": "https://www.linkedin.com/in/michael-yao-5020b2286/",
         "github": "https://github.com/windsonsea",
         "slack_id": "michael.yao",
+        "wechat": "seawind100",
+        "website": "https://aikdocs.github.io/michaelyao/en/index.html",
+        "youtube": "https://www.youtube.com/@michaelyao-pf9rd",
+        "expertise": [
+            "Technical",
+            "Writing"
+        ],
         "category": [
             "Ambassadors"
         ],
         "projects": [
-            "Helm",
+            "Clusterpedia",
+            "HAMi",
+            "HwameiStor",
             "Istio",
+            "Karmada",
+            "Kubean",
             "Kubernetes",
-            "OpenTelemetry"
+            "KWOK",
+            "Merbridge",
+            "OpenTelemetry",
+            "Spiderpool"
         ],
         "image": "michael-yao.jpeg"
     },
