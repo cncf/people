@@ -639,6 +639,8 @@
         "name": "Ahmed Bebars",
         "bio": "<p>Principal Engineer at The New York Times, specializing in building and scaling internal developer platforms on Kubernetes and cloud-native technologies.I actively contribute to the tech community, frequently sharing insights at conferences like AWS re:invent, KubeCon, and KubeCrash. Also, I lead the organization of Kubernetes Community Days (KCD) New York and share his expertise on CNCF technologies through his blog at abebars.io</p>",
         "company": "The New York Times",
+        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/the-new-york-times-supporter.svg",
+        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--end-user-supporter--the-new-york-times-supporter",
         "pronouns": "He/Him",
         "location": "East Brunswick, NJ , United States",
         "twitter": "https://twitter.com/abebars88",
@@ -650,7 +652,8 @@
         ],
         "category": [
             "Ambassadors",
-            "Kubestronaut"
+            "Kubestronaut",
+            "End User TAB"
         ],
         "projects": [
             "Argo",
@@ -1727,26 +1730,6 @@
         "image": "amos-egonmwan.jpg"
     },
     {
-        "name": "Amr Abdelhalem",
-        "bio": "Amr leads Cloud Platforms at Fidelity Investments. Over the past five years, he has led Fidelity's strategy toward open source and CNCF projects like Kubernetes, Envoy, and OTEL to migrate the majority of the applications workload to the cloud. This strategy led to successful migration to build the industry's largest Financial service, Kubernetes and Envoy farm.",
-        "company": "Fidelity Investments",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/fidelity-investments.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--gold--fidelity-investments-member",
-        "tab_role": "",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/amrhalem/",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "End User TAB"
-        ],
-        "image": "amr-abdelhalem.jpeg"
-    },
-    {
         "name": "Amr Muhammed Mahmoud",
         "bio": "<p> Enthusiastic DevOps/Platform Engineer dedicated to delivering innovative and scalable solutions that drive organizational growth. With expertise in CI/CD pipeline architecture, Kubernetes management, cloud-native infrastructure, observability, and security integration, I ensure secure and efficient software delivery. I leverage cutting-edge technologies, particularly within the Kubernetes and CNCF ecosystems, to drive operational excellence and foster innovation. Passionate about collaborating with highly skilled teams to lead impactful digital transformation initiatives, bridging the gap between development and operations to achieve efficiency, resilience, and continuous improvement.</p>",
         "company": "",
@@ -2814,26 +2797,6 @@
             "Ambassadors"
         ],
         "image": "phippy.jpg"
-    },
-    {
-        "name": "Aparna Subramanian",
-        "bio": "Aparna is a technologist and cloud-native enthusiast. She started her career as a Software Engineer and has spent most part of her 18 years of experience specializing in Infrastructure and Data Platforms. She serves as co-chair of the \"CNCF End User Developer Experience\" SIG. She is passionate about building inclusive communities where everyone knows their voices will be heard. She is currently Director of Production Engineering at Shopify where she leads Shopify's Cloud Native Production Platform. Previously, she was Director of Engineering at VMware where she was a founding member of Tanzu on vSphere, a Kubernetes Platform for the hybrid cloud. When not working, Aparna enjoys baking, gardening, and yoga.",
-        "company": "Shopify",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/shopify-supporter.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--end-user-supporter--shopify-supporter",
-        "tab_role": "",
-        "pronouns": "she/her",
-        "linkedin": "https://www.linkedin.com/in/subramanianaparna/",
-        "twitter": "",
-        "github": "https://github.com/aparna-subramanian",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "End User TAB"
-        ],
-        "image": "aparna-subramanian.jpg"
     },
     {
         "name": "Apinant U-Suwantim",
@@ -6726,8 +6689,7 @@
         "youtube": "",
         "priority": "",
         "category": [
-            "Technical Oversight Committee",
-            "End User TAB"
+            "Technical Oversight Committee"
         ],
         "image": "https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg"
     },
@@ -15922,6 +15884,26 @@
         "image": "kenta-goto.jpg"
     },
     {
+        "name": "Kenta Tada",
+        "bio": "Kenta Tada has worked as a Linux engineer and team lead for various organizations, specializing in Linux kernel tracing technologies and eBPF. He has contributed to the Linux kernel and the BPF Compiler Collection (BCC) to enhance kernel tracing infrastructure. He has also contributed to several CNCF-related projects, including serving as a reviewer for the system validator used in kubeadm preflight checks.</p>\n\n<p>In 2023, he reviewed the Japanese translation of Learning eBPF, published by O'Reilly Japan. In 2024, he became an organizer of Cloud Native Community Japan (CNCJ), fostering open source culture in Japan. Additionally, he served as Co-Chair of KubeDay Japan 2024, playing a key role in shaping the event and promoting cloud-native technologies within the Japanese developer community.</p>\n\n<p>Recognizing the growing importance of eBPF in cloud-native environments, Kenta founded the eBPF Japan Community for engineers across various industries to collaborate, share knowledge, and drive eBPF adoption in Japan.",
+        "company": "Toyota Motor Corporation",
+        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/toyota.svg",
+        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--silver--toyota-motor-corporation-member",
+        "tab_role": "",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "https://x.com/kenta_tada",
+        "github": "https://github.com/KentaTada",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "End User TAB"
+        ],
+        "image": "kenta-tada.jpeg"
+    },
+    {
         "name": "Kerem \u0130zg\u00f6l",
         "bio": "<p>I graduated from Do\u011fu\u015f University in the Department of Control and Automation Engineering. I have worked in industrial automation and digital marketing companies. In 2017, my book titled \u201cHerkes \u0130\u00e7in Tinylab ve Arduino\u201d (Tinylab and Arduino for Everyone) was published by Abak\u00fcs Kitap. I am currently working as a DevOps engineer in a software company.</p>",
         "company": "Konzek Teknoloji",
@@ -18284,26 +18266,6 @@
             "Envoy"
         ],
         "image": "marino-wijay.jpeg"
-    },
-    {
-        "name": "Mario Constanti",
-        "bio": "Mario is a Software Engineer at Mercedes-Benz Tech Innovation. In 2015 he jumped into the very young Kubernetes ecosystem and helped application teams to learn all the stuff around containers and K8s.</p>\n\n<p>When Mercedes Benz decided in 2016 to launch a managed Kubernetes service, Mario was one of the initial members in that team in the very early beginning. That managed service evolved to a worldwide distributed platform within MB with nearly 1,000 dedicated clusters.</p>\n\n<p>Over time, he has witnessed the evolution of Kubernetes and the CNCF as well as the adoption of cloud native patterns in software teams all over the world. He always wore different hats to make the product and the team a success. But at heart, he is still an engineer who loves to code.",
-        "company": "Mercedes-Benz Tech Innovation",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/mercedes-benz.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--gold--mercedes-benz-ag-member",
-        "tab_role": "",
-        "pronouns": "He/Him",
-        "linkedin": "https://www.linkedin.com/in/mario-constanti/",
-        "twitter": "https://twitter.com/bavarian_bidi",
-        "github": "https://github.com/bavarianbidi",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "End User TAB"
-        ],
-        "image": "mario-constanti.jpg"
     },
     {
         "name": "Mario Fahlandt",
