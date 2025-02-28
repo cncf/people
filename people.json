@@ -4131,6 +4131,26 @@
         "image": "ben-kooijman.jpg"
     },
     {
+        "name": "Ben Somogyi",
+        "bio": "Ben is a Senior Staff DevSecOps engineer at Lockheed Martin, where he spearheads the development of innovative cloud-native platform architectures. With over a decade of experience in the Cloud Native landscape, Ben has established himself as a trusted expert in leveraging cutting-edge tools and technologies to drive business results in both commercial and public sectors. Before joining Lockheed Martin, Ben held key roles as a Principal Platform engineer and consultant at various commercial companies, where he refined his expertise in cloud-native technologies and developed a passion for delivering high-impact solutions.</p>\n\n<p>As a Technical Lead at Lockheed Martin, Ben is responsible for designing, developing, and maintaining a Kubernetes-based cloud-native platform that empowers all of the company's business areas to deliver exceptional value to a growing customer base. He holds a Bachelor's degree in Computer Engineering from the University of Florida and a Master's degree in Computer Science from Colorado State University, providing a strong foundation for his technical expertise.</p>\n\n<p>Outside of work, Ben values spending time with his family, including his wife and two children, in the beautiful state of Colorado. When he's not working, you can find him mountain biking, exploring the outdoors, or enjoying the many recreational activities that Colorado has to offer.",
+        "company": "Lockheed Martin",
+        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/lockheedmartin.svg",
+        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--silver--lockheed-martin-member",
+        "tab_role": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/benjamin-somogyi",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "End User TAB"
+        ],
+        "image": "ben-somogyi.jpeg"
+    },
+    {
         "name": "Benjamin Boerner",
         "bio": "<p>I am a system engineer, installing and maintaining Kubernetes clusters primarily in airgapped environments.</p>",
         "company": "SVA System Vertrieb Alexander GmbH",
