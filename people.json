@@ -1067,25 +1067,6 @@
         "image": "alex-kattathra-johnson.jpg"
     },
     {
-        "name": "Alex Lustenberg",
-        "bio": "<p>Avid Linux on Desktop user, admin, and developer with over 25 years experience across physical on prem, cloud, and container / serverless technologies.  When not wrangling servers, Alex spends his time SCUBA cave diving, and fishing for electrons as an Amature Radio operator.</p>",
-        "company": "",
-        "pronouns": "He/Him/They/Them",
-        "location": "Burlington, KY, United States",
-        "linkedin": "attps://www.linkedin.com/in/alustenberg/",
-        "twitter": "",
-        "github": "https://github.com/alustenberg",
-        "wechat": "",
-        "website": "https://lustenberg.org/",
-        "youtube": "https://www.youtube.com/@alustenberg",
-        "certdirectory": "",
-        "category": [
-            "Kubestronaut"
-        ],
-        "slack_id": "",
-        "image": "alex-lustenberg.jpg"
-    },
-    {
         "name": "Alex Litvinenko",
         "bio": "<p>I have over 17 years of software development experience. I specialize in designing and implementing scalable cloud architectures and use advanced automation tools such as Argo CD and Flux to optimize processes. I provide technical leadership to engineering and development teams focusing on Kubernetes, cloud, and security. Years of experience with Kubernetes, Helm, Prometheus, and Istio allow me to build fault-tolerant solutions on all popular cloud platforms.</p>",
         "company": "iits-consulting",
@@ -1103,6 +1084,25 @@
         ],
         "slack_id": "aazon",
         "image": "alex-litvinenko.jpg"
+    },
+    {
+        "name": "Alex Lustenberg",
+        "bio": "<p>Avid Linux on Desktop user, admin, and developer with over 25 years experience across physical on prem, cloud, and container / serverless technologies.  When not wrangling servers, Alex spends his time SCUBA cave diving, and fishing for electrons as an Amature Radio operator.</p>",
+        "company": "",
+        "pronouns": "He/Him/They/Them",
+        "location": "Burlington, KY, United States",
+        "linkedin": "attps://www.linkedin.com/in/alustenberg/",
+        "twitter": "",
+        "github": "https://github.com/alustenberg",
+        "wechat": "",
+        "website": "https://lustenberg.org/",
+        "youtube": "https://www.youtube.com/@alustenberg",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "alex-lustenberg.jpg"
     },
     {
         "name": "Alex Rimlin",
