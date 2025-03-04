@@ -629,11 +629,8 @@ repositories:
   - name: landscapeapp
     teams:
       landscapers: admin
-    name: lf-landscapes
     settings:
       has_wiki: true
-    teams:
-      landscapers: admin
   - name: maintainer-summit
     visibility: public
   - name: memorials
@@ -658,7 +655,6 @@ repositories:
   - name: multi-cloud-provisioner
     settings:
       has_wiki: true
-    name: next.js
   - external_collaborators:
       gcid12: admin
     name: obsolete-interactive-landscape
