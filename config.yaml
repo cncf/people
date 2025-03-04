@@ -629,13 +629,8 @@ repositories:
   - name: landscapeapp
     teams:
       landscapers: admin
-  - external_collaborators:
-      jordinl: admin
-    name: lf-landscapes
     settings:
       has_wiki: true
-    teams:
-      landscapers: admin
   - name: maintainer-summit
     visibility: public
   - name: memorials
@@ -660,9 +655,6 @@ repositories:
   - name: multi-cloud-provisioner
     settings:
       has_wiki: true
-  - external_collaborators:
-      jordinl: admin
-    name: next.js
   - external_collaborators:
       gcid12: admin
     name: obsolete-interactive-landscape
@@ -708,7 +700,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      jordinl: write
       onlydole: admin
     name: radar
   - name: public-sector-user-group
