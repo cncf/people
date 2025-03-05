@@ -1079,19 +1079,22 @@ teams:
       - thisisobate
   - name: cncf-toc
     maintainers:
+      - mrbobbytables
       - riaankleinhans
     members:
-      - kgamanji
-      - dzolotusky
-      - linsun
-      - TheFoxAtWork
-      - rochaporto
-      - cathyhongzhang
-      - mauilion
-      - nikhita
-      - kevin-wangzefeng
-      - dims
       - angellk
+      - chadbeaudin
+      - chira001
+      - dims
+      - jeremyrickard
+      - kevin-wangzefeng
+      - kfaseela
+      - kgamanji
+      - klueska
+      - linsun
+      - raravena80
+      - rochaporto
+      - TheFoxAtWork
   - name: envoy
     maintainers:
       - jeefy
