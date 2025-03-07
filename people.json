@@ -25095,18 +25095,32 @@
     },
     {
         "name": "Ricardo Aravena",
-        "bio": "",
+        "bio": "Ricardo is a Cloud Native AI Lead at Snowflake. He's an open source enthusiast, co-chairing the CNCF TAG-Runtime, lead for the Cloud Native AI Working Group and CNCF Ambassador. Recently, he led the publication of the Cloud Native AI Whitepaper and is currently leading various initiatives in the Cloud Native AI Working Group. He has worked in tech and software engineering roles for over 25 years. He comes from a diverse professional background, having held different roles at large companies such as Rakuten, Cisco, and VMware and startups such as Truera, Branch Metrics and Coupa.",
         "company": "Snowflake",
-        "pronouns": "",
+        "pronouns": "He/Him",
         "location": "United\u00a0States",
         "twitter": "https://twitter.com/",
         "github": "https://github.com/",
-        "slack_id": "",
+        "slack_id": "D9PB03Y3G",
+        "toc_role": "Shadow (GB)",
+        "website": "https://serverbooter.com/",
         "category": [
+            "Technical Oversight Committee",
             "Ambassadors"
         ],
-        "projects": [],
-        "image": "phippy.jpg"
+        "projects": [
+            "containerd",
+            "Helm",
+            "k3s",
+            "Kubernetes",
+	    "KubeFlow",
+	    "Kserve"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "image": "ricardo-aravena.jpg"
     },
     {
         "name": "Ricardo Rocha",
