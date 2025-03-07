@@ -16127,6 +16127,34 @@
         "image": "kevin-evans.jpeg"
     },
     {
+        "name": "Kevin Klues",
+        "bio": "<p>Kevin Klues is a distinguished engineer on the NVIDIA Cloud Native team. He is a sig-node maintainer, having been involved in the design and implementation of a number of Kubernetes technologies, including the CPU Manager, the Device Manager, the Topology Manager, the Kubernetes stack for Multi-Instance GPUs, and Dynamic Resource Allocation (DRA). Kevin holds a bachelors degree from Rose-Hulman Institute of Technology, a masters degree from Washington University in St. Louis, and a Ph.D. from UC Berkeley. When not working, you can usually find Kevin hanging out with his kids or enjoying a beer in the sun somewhere.</p>",
+        "company": "NVIDIA",
+        "pronouns": "He/Him",
+        "location": "Berlin, Germany",
+        "linkedin": "https://www.linkedin.com/in/klueska/",
+        "twitter": "https://www.twitter.com/klueska",
+        "github": "https://github.com/klueska",
+        "bluesky": "https://bsky.app/profile/klueska.bsky.social",
+        "wechat": "",
+        "website": "",
+        "youtube": "https://www.youtube.com/@klueska",
+        "languages": [
+            "English",
+            "German"
+        ],
+        "projects": [
+            "CDI",
+            "Kubernetes"
+        ],
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "email": "klueska!gmail.com",
+        "slack_id": "U016RPEEME3",
+        "image": "kevin-klues.png"
+    },
+    {
         "name": "Kevin Tijssen",
         "bio": "<p>Kevin Tijssen is a Cloud Native Engineer at Fullstaq, specializing in Kubernetes, Infrastructure-as-Code, pipeline automation, and cloud technologies. With a wealth of experience in Cloud Native and DevOps roles, Kevin brings valuable expertise to Fullstaq. He is dedicated to driving cloud-native transformations and enhancing operational excellence.</p>",
         "company": "TrueFullstaq",
