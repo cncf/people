@@ -426,7 +426,6 @@ repositories:
   - external_collaborators:
       taylorwaggoner: admin
       joannalee333: admin
-      Cmierly: write
       nate-double-u: write
     name: foundation
   - external_collaborators:
@@ -567,7 +566,6 @@ repositories:
       hh: admin
       heyste: admin
       cncf-ci: admin
-      Cmierly: maintain
       koksay: admin
       mfahlandt: admin
       xmudrii: admin
@@ -990,7 +988,6 @@ repositories:
       catinahat85: write
       castrojo: write
       chalin: write
-      Cmierly: write
       cjyabraham: admin
       ctorbin: write
       cynthia-sg: write
@@ -1125,8 +1122,6 @@ teams:
     maintainers:
       - jeefy
   - name: cncf-projects
-    members:
-      - Cmierly
     maintainers:
       - jeefy
     displayName: CNCF Projects Team
