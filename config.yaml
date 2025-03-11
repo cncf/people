@@ -205,40 +205,7 @@ repositories:
     name: cnf-testsuite
     settings:
       has_wiki: true
-  - external_collaborators:
-      CsatariGergely: read
-      Smitholi67: read
-      TamasZsiros: read
-      agentpoyo: read
-      akapadiaaarna: read
-      bryanl: read
-      denverwilliams: read
-      electrocucaracha: write
-      fkautz: triage
-      gchurcher-matrixx: read
-      gupta-alok: read
-      iawells: write
-      ildikov: triage
-      jeffsaelens: write
-      lixuna: admin
-      mardim91: read
-      michaelspedersen: read
-      nickolaev: read
-      pgoyal01: read
-      rabi-abdel: read
-      rannyh: read
-      rich-l: read
-      robert-hillier: read
-      sishbi: read
-      slashben: read
-      taylor: admin
-      tliron: read
-      tomkivlin: write
-      v1k0d3n: read
-      vukg: triage
-      wvwatson: write
-      williscool: triage
-    name: cnf-wg
+  - name: cnf-wg
     settings:
       has_wiki: true
   - external_collaborators:
