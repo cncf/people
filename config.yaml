@@ -1071,6 +1071,15 @@ teams:
   - name: cncf-projects
     maintainers:
       - jeefy
+      - krook
+      - mrbobbytables
+    members:
+      - caniszczyk
+      - castrojo
+      - idvoretskyi
+      - nate-double-u
+      - riaankleinhans
+      - RobertKielty
     displayName: CNCF Projects Team
     secret: false
     slack: true
