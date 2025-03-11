@@ -268,7 +268,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      Phillels: admin
       jberkus: admin
     name: devstats
     teams:
@@ -276,7 +275,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      Phillels: admin
       jberkus: admin
     name: devstats.archive
     teams:
