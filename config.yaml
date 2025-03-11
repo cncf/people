@@ -403,7 +403,7 @@ repositories:
     visibility: private
     teams:
       cncf-end-users: write
-      cncf-tab: admin
+      cncf-tab: write
       cncf-projects: admin
   - name: evolution-of-cloud-native
     visibility: private
@@ -1055,18 +1055,17 @@ teams:
   - name: cncf-tab
     maintainers:
       - mrbobbytables
-      - onlydole
     members:
+      - abebars
       - alolita
       - aparna-subramanian
-      - bavarianbidi
       - chadbeaudin
-      - dzolotusky
       - hblixt
       - jrsapi
       - kgamanji
+      - KentaTada
       - michael-bowen-sc
-      - peteanusergiu
+      - ride808
       - rochaporto
   - name: cncf-tech-docs
     maintainers:
