@@ -161,7 +161,6 @@ repositories:
       taylor: admin
       tomkivlin: read
       wvwatson: write
-      williscool: triage
     name: cnf-certification
     settings:
       has_wiki: true
@@ -201,7 +200,6 @@ repositories:
       tomkivlin: read
       uditgaurav: write
       wvwatson: admin
-      williscool: maintain
     name: cnf-testsuite
     settings:
       has_wiki: true
