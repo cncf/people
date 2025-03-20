@@ -14,6 +14,7 @@
             "wechat":    {"type": "string"},
             "website":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "location":  {"type": "string"},
+            "certdirectory":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "youtube":   {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri", "default": "null"} ] },
             "priority":  {"anyOf": [ { "maxLength": 0 }, { "type": "number"  } ] },
             "image":     {"type": "string"},
