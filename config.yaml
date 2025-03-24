@@ -229,8 +229,8 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
+      huats: write
       caitmulholland: write
-      lizkline: write
       zuzannapn: write
     name: curriculum
     settings:
