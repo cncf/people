@@ -1039,6 +1039,22 @@ teams:
       - raravena80
       - rochaporto
       - TheFoxAtWork
+  - name: cncf-toc-voters
+    maintainers:
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - angellk
+      - chadbeaudin
+      - chira001
+      - dims
+      - jeremyrickard
+      - kevin-wangzefeng
+      - kfaseela
+      - kgamanji
+      - linsun
+      - rochaporto
+      - TheFoxAtWork
   - name: envoy
     maintainers:
       - jeefy
