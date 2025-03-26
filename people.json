@@ -1580,7 +1580,7 @@
         "company": "Apple",
         "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apple.svg",
         "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--platinum--apple-member",
-        "tab_role": "TAB Chair",
+        "tab_role": "",
         "pronouns": "She/Her",
         "linkedin": "https://www.linkedin.com/in/alolita/",
         "twitter": "https://twitter.com/alolita",
@@ -1590,8 +1590,7 @@
         "youtube": "",
         "priority": "",
         "category": [
-            "End User TAB",
-            "Governing Board"
+            "End User TAB"
         ],
         "image": "alolita-sharma.jpeg"
     },
@@ -9205,7 +9204,7 @@
         "name": "Emily Fox",
         "bio": "<p>Emily Fox is a DevOps enthusiast, security unicorn, and advocate for Women in Technology. She promotes the cross-pollination of development and security practices. She has worked in security for over 13 years to drive a cultural change where security is unobstructive, natural, and accessible to everyone. Her technical interests include containerization, least privilege, automation, and promoting women in technology. She holds a BS in Information Systems and an MS in cybersecurity. Serving as chair on the Cloud Native Computing Foundation\u2019s (CNCF) Technical Oversight Committee (TOC) and co-chair for KubeCon+CloudNativeCon China 2021, Europe 2022, North America 2022, Europe 2023, and CloudNativeSecurityCon 2023, she is involved in a variety of open source communities and activities.</p>",
         "company": "Red Hat",
-        "toc_role": "Chair",
+        "toc_role": "",
         "pronouns": "",
         "linkedin": "https://www.linkedin.com/in/TheMoxieFox",
         "twitter": "https://twitter.com/TheMoxieFox",
@@ -9215,8 +9214,7 @@
         "youtube": "",
         "priority": "",
         "category": [
-            "Technical Oversight Committee",
-            "Governing Board"
+            "Technical Oversight Committee"
         ],
         "image": "emily-fox.JPG"
     },
@@ -16638,7 +16636,7 @@
         "name": "Karena Angell",
         "bio": "<p>Karena Angell is a member of the CNCF Technical Oversight Committee (TOC) and was a Technical Lead for the CNCF Technical Advisory Group (TAG) App Delivery. She is also a Senior Principal Technical Product Manager at Red Hat focused on upstream projects, including Kubernetes. She has a broad background within various disciplines including Product Management, Enterprise Architecture, Enterprise Solution design and management, Marketing, IT Service Management and technical community building. She has also worked extensively within Commercial and Government enterprises. These experiences give her a unique understanding of how to guide strategic efforts to engage community members and drive increased CNCF involvement.</p>",
         "company": "Red Hat",
-        "toc_role": "",
+        "toc_role": "Chair",
         "pronouns": "She/Her",
         "linkedin": "https://www.linkedin.com/in/KarenaAngell",
         "twitter": "https://twitter.com/KarenaAngell",
@@ -16648,7 +16646,8 @@
         "youtube": "",
         "priority": "",
         "category": [
-            "Technical Oversight Committee"
+            "Technical Oversight Committee",
+            "Governing Board"
         ],
         "image": "karena-angell.jpeg"
     },
@@ -26805,7 +26804,7 @@
         "company": "CERN",
         "company_logo_url": "https://www.cncf.io/wp-content/uploads/2024/06/cern-logo.svg",
         "company_landscape_url": "https://home.cern/",
-        "tab_role": "",
+        "tab_role": "TAB Chair",
         "pronouns": "",
         "linkedin": "https://www.linkedin.com/in/ricardo-rocha-739aa718/",
         "twitter": "https://twitter.com/ahcorporto",
@@ -26816,7 +26815,8 @@
         "priority": "",
         "category": [
             "Technical Oversight Committee",
-            "End User TAB"
+            "End User TAB",
+            "Governing Board"
         ],
         "image": "https://www.cncf.io/wp-content/uploads/2021/03/ricardo.jpg"
     },
