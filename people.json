@@ -1,5 +1,24 @@
 [
     {
+        "name": "Jaroslav Jánoš",
+        "bio": "<p>Enthusiast in OpenSource, Cloud Native and Kubernetes, building solutions to make life easier. </p>",
+        "company": "evoila",
+        "pronouns": "He/Him",
+        "location": "Bratislava, Slovakia",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "jaroslav-janos.jpg"
+    },
+    {
         "name": "Kacper Szymański",
         "bio": "<p>Technical specialist in Kubernetes ecosystem with hands-on experience building Operators and CSI drivers. Co-founded Stellatarum to help companies benefit from Kubernetes. Open Source advocate. Happy user of Talos, Cilium, Prometheus and Grafana.</p>",
         "company": "Stellatarum",
