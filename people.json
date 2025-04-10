@@ -9111,11 +9111,12 @@
     },
     {
         "name": "Edson Ferreira",
-        "bio": "<p>Currently working as an SRE, he is passionate about open-source communities and the cloud-native universe. He has already organized meetups for Docker, Hashicorp, and other local communities, in addition to having participated in the organization of DevOpsDays in Fortaleza (Brazil). He also loves writing blog posts on his blog (edsoncelio.dev) and speaking at community events. He is currently one of the maintainers of the Kubernetes documentation and the CNCF glossary in Portuguese (Brazil) and is part of the AWS Community Builder and Grafana Champions program. In his spare time, he divides himself between traveling, visiting cool restaurants, and watching and playing tennis.</p>",
-        "company": "",
+        "bio": "<p>With over 7 years of experience in the tech industry, currently working as a Solutions Engineer at Sysdig, focusing on cloud native security. He actively contributes to open source by maintaining the Portuguese (Brazil) translations of the Kubernetes documentation, the CNCF Cloud Native Glossary, and OpenTelemetry documentation.</p>",
+        "company": "Sysdig",
         "pronouns": "He/Him",
         "location": "Fortaleza, Brazil",
-        "twitter": "https://twitter.com/tuxpilgrim",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/edsoncelio/",
         "github": "https://github.com/edsoncelio",
         "category": [
             "Ambassadors",
@@ -9128,7 +9129,8 @@
             "KEDA",
             "Kyverno",
             "Prometheus",
-            "OpenTelemetry"
+            "OpenTelemetry",
+            "Falco"
         ],
         "image": "edson-ferreira.jpg"
     },
