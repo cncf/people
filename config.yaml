@@ -743,6 +743,7 @@ repositories:
       taylorwaggoner: admin
   - name: tab-private
     teams:
+      cncf-toc: write
       cncf-tab: write
       cncf-projects: admin
     external_collaborators:
@@ -872,6 +873,7 @@ repositories:
       cncf-projects: admin
   - name: toc-private
     teams:
+      cncf-tab: write
       cncf-toc: write
       cncf-projects: admin
     visibility: private
