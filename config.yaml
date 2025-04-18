@@ -1,5 +1,11 @@
 organization: cncf
 repositories:
+  - name: actions-runner-controller
+    teams:
+      cncf-automation: admin
+    external_collaborators:
+      justinsb: admin
+      bentheelder: admin
   - name: subdomain-redirector
     teams:
       cncf-automation: admin
