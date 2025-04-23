@@ -755,6 +755,7 @@ repositories:
       cncf-toc: write
       cncf-tab: write
       cncf-projects: admin
+      cncf-enduser-staff-core: admin
     external_collaborators:
       Swil78: admin
       onlydole: admin
@@ -885,6 +886,7 @@ repositories:
       cncf-tab: write
       cncf-toc: write
       cncf-projects: admin
+      cncf-enduser-staff-core: admin
     visibility: private
   - teams:
       landscapers: admin
@@ -1114,6 +1116,10 @@ teams:
     secret: false
     slack: true
   - name: cncf-end-users
+    maintainers:
+      - bdougie
+      - mrbobbytables
+      - taylorwaggoner
     members:
       - abebars
       - abvaidya
@@ -1152,9 +1158,16 @@ teams:
       - vladfr
       - yhrn
       - zeebonk
-    maintainers:
-      - onlydole
     displayName: CNCF End Users
+    secret: false
+  - name: cncf-enduser-staff-core
+    maintainers:  
+      - bdougie
+      - mrbobbytables
+      - taylorwaggoner
+    members:
+      - joannalee333
+    displayName: CNCF End User Staff Core Team
     secret: false
   - name: tag-env-chairs
     maintainers:
