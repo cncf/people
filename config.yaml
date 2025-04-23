@@ -31,7 +31,6 @@ repositories:
       landscapers: write
     external_collaborators:
       alexcontini: maintain
-      thetwopct: write
       nate-double-u: admin
   - name: automation
     teams:
@@ -65,7 +64,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       cjyabraham: admin
-      thetwopct: maintain
     name: china-video-block
     settings:
       has_wiki: true
@@ -77,7 +75,6 @@ repositories:
       has_wiki: true
   - external_collaborators:
       cjyabraham: admin
-      thetwopct: maintain
     name: presentations-website
     settings:
       has_wiki: true
@@ -92,7 +89,6 @@ repositories:
     name: clo-ui
   - external_collaborators:
       cjyabraham: admin
-      thetwopct: maintain
     name: clone-page-tree
     settings:
       has_wiki: true
@@ -154,7 +150,6 @@ repositories:
   - external_collaborators:
       LFCIBot: write
       cjyabraham: admin
-      thetwopct: maintain
     name: cncf.io
   - external_collaborators:
       HashNuke: write
@@ -211,7 +206,6 @@ repositories:
       idvoretskyi: admin
       jberkus: write
       mrbobbytables: write
-      thetwopct: write
     name: contribute
   - external_collaborators:
       lukaszgryglicki: admin
@@ -456,7 +450,6 @@ repositories:
       seokho-son: admin
       sestegra: write
       sistella: write
-      thetwopct: write
       tym83: write
       ugho16: write
       waleed318: write
@@ -632,7 +625,6 @@ repositories:
   - name: people
     external_collaborators:
       idvoretskyi: maintain
-      thetwopct: maintain
       huats: maintain
       nate-double-u: admin
     settings:
@@ -697,7 +689,6 @@ repositories:
       onlydole: admin
     name: sheriff
   - external_collaborators:
-      thetwopct: admin
     name: shopify-theme
   - external_collaborators:
       lucperkins: admin
@@ -781,7 +772,6 @@ repositories:
     name: tag-app-delivery
   - name: tag-contributor-strategy
     external_collaborators:
-      thetwopct: write
       nate-double-u: admin
     teams:
       tcs-maintainers: admin
@@ -976,7 +966,6 @@ repositories:
       taylor: write
       taylorwaggoner: admin
       tegioz: write
-      thetwopct: write
       tinmatienzo: write
       tmmoore1: write
       vheric: maintain
@@ -986,12 +975,10 @@ repositories:
       has_wiki: true
     visibility: private
   - external_collaborators:
-      thetwopct: write
     name: wp-mu-plugins
     settings:
       has_wiki: true
   - external_collaborators:
-      thetwopct: write
     name: wp-svg-autocrop
     settings:
       has_wiki: true
