@@ -20929,19 +20929,21 @@
     },
     {
         "name": "Mahamed Ali",
-        "bio": "<p>I'm a Senior DevOps Engineer at ThousandEyes by Cisco and a maintainer of Kubernetes and Knative. I'm working on improving the cloud infrastructure of the Kubernetes project for our contributors and end-users.  I'm also a member of the Kubestronaut program. </p>",
-        "company": "Cisco Systems, Inc.",
+        "bio": "<p>I'm a Senior DevOps Engineer and a maintainer of Kubernetes and Knative. I'm working on improving the cloud infrastructure of the Kubernetes project for our contributors and end-users.  I'm also a member of the Kubestronaut program. </p>",
+        "company": "Independent",
         "pronouns": "",
-        "location": "Leicester, United Kingdom",
+        "location": "Doha, Qatar",
         "twitter": "",
         "github": "https://github.com/upodroid",
         "category": [
-            "Ambassadors"
+            "Ambassadors",
+            "Kubestronaut"
         ],
         "projects": [
             "Kubernetes",
             "Knative",
-            "Istio"
+            "Istio",
+            "k3s"
         ],
         "image": "mahamed-ali.jpg"
     },
