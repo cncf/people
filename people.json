@@ -1,24 +1,5 @@
 [
     {
-        "name": "Fabio Sesta",
-        "bio": "<p>Working mainly as a Kubernetes Administrator, I focus on maintaining the health and stability of Kubernetes infrastructures, specifically on AKS and K3s clusters.  The goal is to ensure optimal cluster performance, monitor resource usage, and resolve system-level issues to guarantee high availability.  I am interested in CNCF projects to leverage their features and integrate them into daily work (e.g. Helm, Harbor, Keycloak etc.) and excited to learn more and more about the open source ecosystem!</p>",
-        "company": "iCubed - part of Lodestar",
-        "pronouns": "He/Him",
-        "location": "Oppido Lucano, Basilicata, Italy",
-        "linkedin": "https://www.linkedin.com/in/fabio-sesta-1b44aa205",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "certdirectory": "",
-        "category": [
-            "Kubestronaut"
-        ],
-        "slack_id": "",
-        "image": "fabio-sesta.jpg"
-    },
-    {
         "name": "Aakansha Priya",
         "bio": "<p>Aakansha Priya is DevRel at EmpathyOps, a CNCF Ambassador and an organiser for KubeHuddle, Toronto. Working on empowering & upscaling the communities. In the past, she has been a Community Manager at Hashnode & WeMakeDevs, experienced in working efficiently in groups as well as individually.  As a frontend dev turned DevOps explorer, loves sharing tech insights, and views on learning & building in public, blogging & building personal brand. Aakansha, a reader and speaker, paints, sings, and loves spontaneous travel. She has spoken at various conferences about DevOps and the human side of tech. Catch her at meetups & conferences!</p>",
         "company": "EmpathyOps",
@@ -10822,6 +10803,25 @@
         ],
         "slack_id": "",
         "image": "fabian-dohmen.jpg"
+    },
+    {
+        "name": "Fabio Sesta",
+        "bio": "<p>Working mainly as a Kubernetes Administrator, I focus on maintaining the health and stability of Kubernetes infrastructures, specifically on AKS and K3s clusters.  The goal is to ensure optimal cluster performance, monitor resource usage, and resolve system-level issues to guarantee high availability.  I am interested in CNCF projects to leverage their features and integrate them into daily work (e.g. Helm, Harbor, Keycloak etc.) and excited to learn more and more about the open source ecosystem!</p>",
+        "company": "iCubed - part of Lodestar",
+        "pronouns": "He/Him",
+        "location": "Oppido Lucano, Basilicata, Italy",
+        "linkedin": "https://www.linkedin.com/in/fabio-sesta-1b44aa205",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "fabio-sesta.jpg"
     },
     {
         "name": "Fabricio Mariani",
