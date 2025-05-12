@@ -20,6 +20,7 @@ repositories:
       castrojo: admin
       jeefy: admin
       mfahlandt: admin
+    visibility: private
   - name: ambassadors
   - external_collaborators:
       stevenphtan: admin
