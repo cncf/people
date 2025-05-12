@@ -15,6 +15,12 @@ repositories:
   - teams:
       cncf-projects: admin
     name: migrate-maintainers
+  - name: ai-conformance
+    external_collaborators:
+      castrojo: admin
+      jeefy: admin
+      mfahlandt: admin
+    visibility: private
   - name: ambassadors
   - external_collaborators:
       stevenphtan: admin
