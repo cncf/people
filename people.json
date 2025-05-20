@@ -11750,23 +11750,6 @@
         "image": "gael-hascoet.jpg"
     },
     {
-        "name": "Gail Frederick",
-        "bio": "",
-        "company": "Heroku",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/gfred/",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "gail-frederick.jpeg"
-    },
-    {
         "name": "Ganesh Kaila",
         "bio": "<p>As a Cloud Architect with expertise in Google Cloud, Kubernetes, and DevSecOps, I focus on building secure, reliable, and redundant systems. I have a proven track record of delivering diverse cloud-native solutions, encompassing Internet of Things (IoT), Google Cloud, Kubernetes, Docker, infrastructure automation, configuration management, chatbots, and backend development. I am excited to actively participate in the CNCF community through the Kubestronaut program, contributing and assisting others.  Blog: https://medium.com/searce/migrating-kubernetes-workloads-from-gke-to-eks-f541acb8f269</p>",
         "company": "SADA Systems India Pvt Ltd",
@@ -38376,6 +38359,24 @@
         ],
         "slack_id": "U01UMAVPGV9",
         "image": "vinod-kumar.jpg"
+    },
+    {
+        "name": "Vish Abrams",
+        "bio": "Vish is Chief Architect at Heroku, a subsidiary of Salesforce. Formerly he helped Oracle create their cloud, where he focused on virtualization, containerization, and machine learning. He was also NASA Nebula Technical Lead during the creation of Nova, one of the founding OpenStack projects, and was a member of both the OpenStack board and technical committee.",
+        "company": "Heroku",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/vishvananda/",
+        "twitter": "https://x.com/vish",
+        "github": "",
+        "bluesky": "https://bsky.app/profile/vishvananda.bsky.social",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "vish-abrams.jpg"
     },
     {
         "name": "Vishal Anarase",
