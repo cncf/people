@@ -19842,10 +19842,10 @@
     },
     {
         "name": "Kiran Anil",
-        "bio": "<p>I'm a Senior DevOps Engineer with over 9 years of experience building and scaling cloud-native infrastructure, primarily on AWS and Kubernetes. I specialize in GitOps, ArgoCD, Helm, and securing workloads with IRSA and external secrets. I'm an active member of the CNCF community and regularly contribute to Kubernetes-focused discussions and projects. Outside of work, I enjoy sharing practical DevOps insights on GitHub, medium and attending local cloud-native meetups.  https://medium.com/@kiran007anil,  https://github.com/kirananil007/Run-Ollama-local</p>",
+        "bio": "<p>Kiran Anil is a Senior DevOps Engineer with over 9 years of experience in containerization, pipeline automation and security. He specializes in GitOps workflows using ArgoCD, Helm-based deployments, AWS and emphaizing on securing workloads using different opensource tools. Kiran is actively involved in the CNCF ecosystem. He contributes to open-source projects and discussions around Kubernetes best practices. Kiran shares his work on GitHub and participates in cloud-native meetups in Ontario. Outside of work, he enjoys mentoring, travelling, and exploring the bike trails nearby.</p>",
         "company": "",
         "pronouns": "He/Him",
-        "location": "Windsor, Ontario, Canada",
+        "location": "Toronto, Ontario, Canada",
         "linkedin": "https://www.linkedin.com/in/kiran-anil/",
         "twitter": "",
         "github": "https://github.com/kirananil007",
@@ -19855,6 +19855,21 @@
         "certdirectory": "https://certdirectory.io/profile/2b37a509-d6c9-46ff-adf4-7bb63bee6660",
         "category": [
             "Kubestronaut"
+        ],
+        "projects": [
+            "Kubernetes",
+            "ArgoCD",
+            "Helm",
+            "CoreDNS",
+            "Kong",
+            "Open Policy Agent (OPA)",
+            "Cert-Manager",
+            "Prometheus",
+            "OpenTelemetry",
+            "ExternalDNS",
+            "Kyverno",
+            "K8sGPT",
+            "OpenCost"
         ],
         "slack_id": "kanil",
         "image": "kiran-anil.jpg"
