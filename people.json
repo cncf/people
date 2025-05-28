@@ -2639,6 +2639,30 @@
         "image": "andres-arias.jpg"
     },
     {
+        "name": "Andres Mujica",
+        "bio": "<p>Cloud native architect and founder of SEAQ. Andres trains and consults on AI, Kubernetes, OpenStack, and Automation across LATAM, EU, and the US. Marathoner, lifelong learner, cat dad to Leia & Luke, always exploring the next leap in tech or on foot.</p>",
+        "company": "SEAQ",
+        "pronouns": "He/Him",
+        "location": "Bogota, Colombia",
+        "linkedin": "https://www.linkedin.com/in/andresmauriciomujica/",
+        "twitter": "",
+        "github": "https://github.com/andresmmujica/",
+        "wechat": "",
+        "website": "https://www.seaq.co",
+        "youtube": "",
+        "certdirectory": "",
+        "languages":[
+            "English",
+            "Spanish"
+        ],
+        "category": [
+            "Kubestronaut"
+        ],
+        "email": "andres.mujica!seaq.co",
+        "slack_id": "U01U9KNJ6CV",
+        "image": "andres-mujica.jpg"
+    },
+    {
         "name": "Andres Perez Velez",
         "bio": "<p>I’m a Senior Technical Specialist at Microsoft. I am passionate about Kubernetes and cloud-native technologies. My role is to help customers design and implement cloud-ready architectures.  </p>",
         "company": "Microsoft",
@@ -26755,7 +26779,7 @@
     {
         "name": "Noam Strauss",
         "bio": "<p>I’m a DevOps/Site Reliability Engineer who enjoys digging into complex systems, solving real-world problems, and continuously learning new things. I’m especially drawn to the ever-evolving world of cloud-native technologies and love the challenge of making infrastructure more efficient, scalable, and reliable.</p>",
-        "company": "Splunk",
+        "company": "Aqua Secuirty",
         "pronouns": "",
         "location": "Providence, RI, United States",
         "linkedin": "https://www.linkedin.com/in/noam-strauss",
