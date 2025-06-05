@@ -33405,11 +33405,11 @@
         "pronouns": "He/Him",
         "location": "Kolkata, India",
         "linkedin": "https://www.linkedin.com/in/sandipanpanda/",
-        "twitter": "https://www.twitter.com/sandipaning",
         "github": "https://github.com/sandipanpanda",
         "wechat": "",
         "website": "https://sandipan.tech/",
         "youtube": "https://www.youtube.com/@sandipanpanda",
+        "bluesky": "https://bsky.app/profile/sandipan.tech",
         "slack_id": "",
         "languages": [],
         "projects": [
@@ -33425,7 +33425,12 @@
             "Kyverno",
             "KubeArmor",
             "OpenTelemetry",
-            "gRPC"
+            "gRPC",
+            "Terraform",
+            "ArgoCD",
+            "OpenCost",
+            "etcd",
+            "containerd"
         ],
         "expertise": [
             "Technical",
