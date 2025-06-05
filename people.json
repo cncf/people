@@ -11449,6 +11449,25 @@
         "image": "feynman-zhou.jpg"
     },
     {
+        "name": "Filipe Magalhães",
+        "bio": "<p>DevOps Engineer with a strong focus on cloud-native technologies, container orchestration, and platform engineering. Experienced in managing and operating Kubernetes and OpenShift clusters across both cloud and on-premises environments. Passionate about building scalable, secure, and resilient infrastructure, and contributing to the adoption of CNCF technologies within the organization.</p>",
+        "company": "Altice Labs",
+        "pronouns": "He/Him",
+        "location": "Aveiro, Portugal",
+        "linkedin": "https://www.linkedin.com/in/filipemagalhaes96/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "filipe-magalhaes.jpg"
+    },
+    {
         "name": "Filip Wardzichowski",
         "bio": "<p>Senior Cloud & Network Architect with extensive experience in data center and service provider networking, specializing in cloud-native networking and security. Expertise includes Kubernetes networking (CNI), service meshes, eBPF, SDN, EVPN, and workload segmentation. Strong focus on integrating OpenShift and OpenStack with data center fabrics to build scalable and secure private cloud solutions. An advocate for DevOps and GitOps methodologies, driving automation, declarative infrastructure, and continuous integration in cloud-native environments. Currently part of Cisco’s Cloud Networking Business Unit, contributing to the development of Kubernetes and cloud-native networking solutions.</p>",
         "company": "Cisco Systems",
