@@ -20755,6 +20755,29 @@
         "image": "kolawole-olowoporoku.jpeg"
     },
     {
+        "name": "Konrad Rzentarzewski",
+        "bio": "<p>I was there when the config burned.</p> <p>In the age before observability, chaos reigned. The servers howled, and nothing scaled but entropy.</p> <p>Then kube cattle were born — simple, nameless beasts born of children’s games. But they multiplied. And their hunger grew vast.</p> <p>Years passed. The sun revolved the Earth. Then the Earth revolved the Cloud.</p> <p>I grew tired of debugging in darkness. I longed for light. And logs. Preferably structured. That’s when I began preaching — not loudly, just… declaratively. One <code>apply</code> at a time.</p> <p>I walked among DevOps tribes, where bash begat shell, and shell begat pain. To them I brought ConfigMaps, and Secrets hidden in plain sight.</p> <p>Then came the mysterious YAML — a language too holy to lint — inscribed deep within the API’s own heart.</p> <p>Through toil and merge, the infrastructure became manifest. Pods floated on the waters. Deployments begat replicas. Helm bore Charts. Git begat Ops. What was once dev spun to prod. And every service had a name — and every name resolved. Unless external DNS was involved.</p> <p>And the Preachers said: <em>\"Behold, our logs streameth clean.\"</em></p> <p>Thus began the age of the declarative. We once dwelled in darkness. Now, we scale planetary in full light.</p>",
+        "company": "1/1 READY",
+        "pronouns": "He/Him",
+        "location": "Warsaw, PL",
+        "linkedin": "https://www.linkedin.com/asquelt",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "https://readyone.one",
+        "youtube": "",
+        "languages": [
+            "English", 
+            "Polish"
+        ],
+        "category": [
+            "Kubestronaut"
+        ],
+        "email": "k!psu.je",
+        "slack_id": "",
+        "image": "asquelt.jpg"
+    },
+    {
         "name": "Konstantin",
         "bio": "<p>DevOps/SRE professional with over 7 years of experience in Tech</p>",
         "company": "Exness",
