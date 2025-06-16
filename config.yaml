@@ -6,6 +6,9 @@ repositories:
     external_collaborators:
       justinsb: admin
       BenTheElder: admin
+  - name: kubestronaut
+    teams:
+      cncf-automation: admin
   - name: subdomain-redirector
     teams:
       cncf-automation: admin
