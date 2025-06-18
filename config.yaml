@@ -1117,7 +1117,6 @@ teams:
     slack: true
   - name: cncf-end-users
     maintainers:
-      - bdougie
       - mrbobbytables
       - taylorwaggoner
     members:
@@ -1162,7 +1161,6 @@ teams:
     secret: false
   - name: cncf-enduser-staff-core
     maintainers:  
-      - bdougie
       - mrbobbytables
       - taylorwaggoner
     members:
