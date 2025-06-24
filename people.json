@@ -18621,6 +18621,23 @@
         "image": "jonas-raberg.jpg"
     },
     {
+        "name": "Jonathan Bryce",
+        "bio": "Jonathan Bryce is the Executive Director of Cloud & Infrastructure at the Linux Foundation, where he leads both the Cloud Native Computing Foundation (CNCF) and the OpenInfra Foundation—two of the largest and most influential open source communities in the world. With over 15 years of open source leadership, Jonathan co-founded the OpenStack project, guiding its evolution into a global ecosystem that supports a multi-billion-dollar market and serves as the de facto standard for open cloud infrastructure. Before his open source career, Jonathan spent over a decade in data center infrastructure and co-founded one of the industry's earliest cloud computing companies, which grew into a billion-dollar business following its acquisition by Rackspace. Passionate about open collaboration, infrastructure innovation, and empowering users, contributors, and ecosystems worldwide, Jonathan frequently speaks at international conferences on open source strategy, infrastructure modernization, cloud-native technologies, and open source AI initiatives.",
+        "company": "Executive Director",
+        "pronouns": "he/him",
+        "linkedin": "https://www.linkedin.com/in/jbryce/",
+        "twitter": "https://x.com/jbryce",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": 300,
+        "category": [
+            "Staff"
+        ],
+        "image": "Jonathan-Bryce.jpg"
+    },
+    {
         "name": "Jonathan Yeh",
         "bio": "<p>Jonathan is an AI & DevOps/MLOps Solutions Engineer passionate about bridging the gap between cutting-edge AI models and scalable deployment.  He specializes in Generative AI, Computer Vision, MLOps automation, container technology such as Docker, and CNCF technologies like Kubernetes. By actively contributing to the AI and DevOps communities through technical blogs, mentorship, and Meetups, he helps teams to optimize and integrate AI and streamline deployment workflows.  His expertise spans AI model optimization, CI/CD automation, and edge AI solutions, with hands-on experiences in OpenVINO, TensorFlow, PyTorch, and cloud platforms like AWS, Azure, and GCP. Always learning and innovating, he embraces the challenges of VUCA environments to drive cloud native, AI-powered transformation.</p>",
         "company": "YOSUNg, Sertek - A Member of WPG Holdings",
@@ -31159,8 +31176,8 @@
     },
     {
         "name": "Priyanka Sharma",
-        "bio": "Priyanka is the Executive Director of the Cloud Native Computing Foundation (CNCF) which serves as the vendor-neutral home for 100+ of the fastest-growing open source projects, including Kubernetes, Prometheus, and Envoy. She is also a co-creator of the Inclusive Naming Initiative whose mission is to promote and facilitate replacing harmful and exclusionary language in information technology. She was a founding team member of the OpenTracing standard and has contributed to other open source projects such as Jaeger, Vitess, and GitLab. Priyanka is a long time champion of and advisor to startups in cutting-edge technology spaces and serves as an Advisor at HeavyBit Industries, an accelerator and fund for developer and enterprise companies.",
-        "company": "General Manager",
+        "bio": "",
+        "company": "",
         "pronouns": "she/her;they/them",
         "linkedin": "https://www.linkedin.com/in/pritianka/",
         "twitter": "https://twitter.com/pritianka",
@@ -31168,10 +31185,7 @@
         "wechat": "",
         "website": "",
         "youtube": "",
-        "priority": 300,
-        "category": [
-            "Staff"
-        ],
+        "category": [],
         "image": "priyanka-sharma1.jpg"
     },
     {
