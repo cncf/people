@@ -824,16 +824,16 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      nikhita: admin
       cathyhongzhang: admin
-      srust: admin
-      miao0miao: admin
-      raravena80: admin
-      k82cn: admin
       kad: admin
-      zanetworker: write
-      ronaldpetty: write
+      k82cn: admin
+      miao0miao: admin
+      nikhita: admin
       rajaskakodkar: admin
+      raravena80: admin
+      srust: admin
+      ronaldpetty: write
+      zanetworker: write
     name: tag-runtime
   - external_collaborators:
       JustinCappos: write
