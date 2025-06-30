@@ -796,6 +796,7 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
+      tag-leads: triage
   - name: toc-private
     teams:
       cncf-tab: write
@@ -1080,4 +1081,85 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-
+  - name: tag-leads
+    displayName: CNCF TAG Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    formation:
+      - tag-developer-experience-leads
+      - tag-infrastructure-leads
+      - tag-operational-resilence-leads
+      - tag-security-compliance-leads
+      - tag-workloads-foundation-leads
+  - name: tag-developer-experience-leads
+    displayName: CNCF TAG Developer Experience Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - cloudmelon
+      - danielOh
+      - julsemaan
+      - kdubois
+      - salaboy
+      - SwEngin
+  - name: tag-infrastructure-leads
+    displayName: CNCF TAG Infrastructure Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - kashifest
+      - xing-yang
+  - name: tag-operational-resilience-leads
+    displayName: CNCF TAG Operational Resilience Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - brito-rafa
+      - halcyondude
+      - mfahlandt
+      - palnabarun
+      - raffaelespazzoli
+      - saiyam1814
+  - name: tag-security-compliance-leads
+    displayName: CNCF TAG Security and Compliance Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - eddie-knight
+      - evankanderson
+      - mnm678
+      - jpower432
+      - JustinCappos
+      - y-tabata
+  - name: tag-workloads-foundation-leads
+    displayName: CNCF TAG Security and Compliance Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - kad
+      - pacoxu
+      - terrytangyuan
