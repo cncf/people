@@ -683,7 +683,6 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-leads: maintain
     name: sandbox
     settings:
       has_wiki: true
@@ -766,93 +765,6 @@ repositories:
       taylorwaggoner: admin
     visibility: private
   - external_collaborators:
-      kgamanji: admin
-      linsun: admin
-      lianmakesthings: admin
-      roberthstrand: admin
-      schristoff: write
-      GenPage: write
-      abangser: write
-      krumware: write
-      sabre1041: write
-      rchincha: write
-      salaboy: write
-      danieloh30: write
-      ThomasVitale: write
-      rynowak: write
-      elft3r: write
-      bschaatsbergen: write
-    name: tag-app-delivery
-  - name: tag-contributor-strategy
-    external_collaborators:
-      nate-double-u: admin
-    teams:
-      tcs-maintainers: admin
-      tcs-contributors: write
-      tcs-toc-liasons: write
-      tcs-burnout-and-inclusiveness: write
-      tcs-comminfra-leads: admin
-      tcs-deaf-and-hard-of-hearing: write
-  - external_collaborators:
-      caniszczyk: admin
-      nate-double-u: admin
-      chalin: maintain
-    name: tag-env-sustainability
-    teams:
-      tag-env-chairs: admin
-      tag-env-sustainability: maintain
-    settings:
-      has_wiki: true
-  - external_collaborators:
-      dzolotusky: admin
-      kenowens12: admin
-      leecalcote: admin
-      lizrice: admin
-    name: tag-network
-  - external_collaborators:
-      RichiH: admin
-      alolita: admin
-      bwplotka: maintain
-      halcyondude: admin
-      henrikrexed: write
-      kenfinnigan: write
-      manolama: write
-      mhausenblas: write
-      resouer: admin
-      vjsamuel: write
-    name: tag-observability
-    settings:
-      has_wiki: true
-  - external_collaborators:
-      nikhita: admin
-      cathyhongzhang: admin
-      srust: admin
-      miao0miao: admin
-      raravena80: admin
-      k82cn: admin
-      kad: admin
-      zanetworker: write
-      ronaldpetty: write
-      rajaskakodkar: admin
-    name: tag-runtime
-  - external_collaborators:
-      JustinCappos: write
-      ashutosh-narkar: write
-      jkjell: write
-      mlieberman85: write
-      mnm678: admin
-      eddie-knight: admin
-      brandtkeller: write
-      mrcdb: write
-      matthewflannery: write
-    name: tag-security
-  - external_collaborators:
-      chira001: admin
-      saad-ali: admin
-      sougou: admin
-      xing-yang: admin
-    name: tag-storage
-  - external_collaborators:
       caniszczyk: admin
       chalin: admin
       idvoretskyi: maintain
@@ -884,6 +796,7 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
+      tag-leads: triage
   - name: toc-private
     teams:
       cncf-tab: write
@@ -1117,6 +1030,7 @@ teams:
     slack: true
   - name: cncf-end-users
     maintainers:
+      - castrojo
       - mrbobbytables
       - taylorwaggoner
     members:
@@ -1167,170 +1081,85 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-  - name: tag-env-chairs
-    maintainers:
-      - leonardpahlke
-    members:
-      - guidemetothemoon
-  - name: tag-env-sustainability
-    maintainers:
-      - leonardpahlke
-    members:
-      - ams0
-      - claire-fletcher
-      - guidemetothemoon
-      - locomundo
-      - Nancy-Chauhan
-      - nikimanoledaki
-      - rossf7
-      - saiyam1814
-      - savitharaghunathan
-      - vallss
-  - name: tag-contributor-strategy
-    formation:
-      - tcs-maintainers
-      - tcs-contributors
-      - tcs-toc-liasons
-      - tcs-burnout-and-inclusiveness
-      - tcs-comminfra-leads
-      - tcs-deaf-and-hard-of-hearing
-  - name: tcs-maintainers
-    maintainers:
-      - geekygirldawn
-    members:
-      - jberkus
-      - CathPag
-      - riaankleinhans
-      - aliok
-  - name: tcs-contributors
-    maintainers:
-      - geekygirldawn
-    members:
-      - jberkus
-      - mrbobbytables
-      - justaugustus
-      - parispittman
-      - gerred
-      - mattklein123
-      - thisisnotapril
-      - karenhchu
-      - dims
-      - iennae
-      - LFCIBot
-      - edrob999
-      - wrkode
-      - robcube
-      - sandeepkanabar
-      - xmulligan
-      - krol3
-      - AmyJuneH
-  - name: tcs-toc-liasons
-    maintainers:
-      - geekygirldawn
-    members:
-      - jberkus
-      - TheFoxAtWork
-      - dzolotusky
-  - name: tcs-burnout-and-inclusiveness
-    maintainers:
-      - geekygirldawn
-    members:
-      - jberkus
-      - SaraTrap
-  - name: tcs-comminfra-leads
-    maintainers:
-      - geekygirldawn
-    members:
-      - jberkus
-      - hh
-  - name: tcs-deaf-and-hard-of-hearing
-    maintainers:
-      - geekygirldawn
-    members:
-      - robcube
-      - sandeepkanabar
   - name: tag-leads
+    displayName: CNCF TAG Leads
     maintainers:
+      - castrojo
+      - jeefy
+      - krook
       - mrbobbytables
+      - riaankleinhans
+    formation:
+      - tag-developer-experience-leads
+      - tag-infrastructure-leads
+      - tag-operational-resilence-leads
+      - tag-security-compliance-leads
+      - tag-workloads-foundation-leads
+  - name: tag-developer-experience-leads
+    displayName: CNCF TAG Developer Experience Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
     members:
-      - kad # Runtime
-      - srust # Runtime
-      - raravena80 # Runtime
-      - rajaskakodkar # Runtime
-      - jberkus # ContribStrat
-      - CathPag # ContribStrat
-      - geekygirldawn # Contribstrat
-      - aliok # ContribStrat
-      - riaankleinhans # ContribStrat
-      - chira001 # Storage
-      - xing-yang # Storage
-      - ashutosh-narkar # Security
-      - JustinCappos # Security
-      - mlieberman85 # Security
-#     - tbd on others
-#     - mrcdb - Security - pending org invite
-#     - brandtkeller - pending org invite
-#     - eddie-knight - Security - pending org invite
-#     - raffaelespazzoli - Storage - pending org invite
-#     - mnm678 - Security - pending org invite
-#     - PushkarJ - Security - pending org invite
-#     - k82cn - Runtime - pending org invite
-#     - srust - Runtime - pending org invite
-#     - miao0miao - Runtime - pending org invite
-#     - nicholasjackson - Network - pending org invite
-#- name: ambassadors
-#- name: awards-maintainers
-#- name: bvs-team
-#- name: cncf-ci-working-group
-#  displayName: CNCF CI Working Group
-#- name: cncf-contractors
-#  displayName: CNCF Contractors
-#- name: cncf-member-developers
-#  displayName: CNCF Member Developers
-#- name: cncf-movie-planning
-#  displayName: CNCF Movie planning
-#- name: cncf-networking-wg
-#  displayName: CNCF Networking WG
-#- name: cncf-sig-storage
-#  displayName: CNCF SIG Storage
-#- name: cncf-staff
-#  displayName: CNCF Staff
-#- name: cncf-tag-observability
-#  displayName: CNCF TAG Observability
-#- name: cncf-images
-#- name: cncf-serverless-wg
-#- name: cnf-test-suite-developers
-#  displayName: CNF Test Suite Developers
-#- name: cnf-conformance
-#- name: cnf-testbed
-#- name: cnf-wg-reviewers
-#- name: endusers
-#- name: financial-user-group
-#- name: gitvote-tests
-#- name: glossary-maintainers
-#- name: gsoc-2017-mentors
-#- name: gsoc-2018-mentors
-#- name: k8s-conformance
-#  displayName: Kubernetes Conformance
-#- name: kcd-maintainers
-#- name: kubernetes-conformance-team
-#- name: landscape-developers
-#  displayName: Landscape Developers
-#- name: landscape-graph-contrib
-#- name: landscape-graph-leads
-#- name: presentation-maintainers
-#- name: research-user-group-maintainers
-#  displayName: Research User Group maintainers
-#- name: serverless-workflow-owners
-#- name: servicebroker-team
-#- name: sig-contributor-strategy
-#  displayName: SIG Contributor Strategy
-#- name: sig-security-github-admin
-#- name: sig-security-triage
-#- name: tag-observability-contrib
-#- name: tag-security
-#- name: telecom-user-group
-#- name: toc
-#- name: wordpress
-#  displayName: Wordpress
-#- name: xds-wg
+      - cloudmelon
+      - danielOh
+      - julsemaan
+      - kdubois
+      - salaboy
+      - SwEngin
+  - name: tag-infrastructure-leads
+    displayName: CNCF TAG Infrastructure Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - kashifest
+      - xing-yang
+  - name: tag-operational-resilience-leads
+    displayName: CNCF TAG Operational Resilience Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - brito-rafa
+      - halcyondude
+      - mfahlandt
+      - palnabarun
+      - raffaelespazzoli
+      - saiyam1814
+  - name: tag-security-compliance-leads
+    displayName: CNCF TAG Security and Compliance Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - eddie-knight
+      - evankanderson
+      - mnm678
+      - jpower432
+      - JustinCappos
+      - y-tabata
+  - name: tag-workloads-foundation-leads
+    displayName: CNCF TAG Security and Compliance Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - kad
+      - pacoxu
+      - terrytangyuan
