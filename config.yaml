@@ -219,6 +219,10 @@ repositories:
       jberkus: write
       mrbobbytables: write
     name: contribute
+  - name: contribute-site
+    teams:
+      cncf-projects: admin
+      cncf-tech-docs: admin
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
