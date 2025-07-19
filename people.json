@@ -5632,23 +5632,6 @@
         "image": "barisi-kane.jpg"
     },
     {
-        "name": "Barry Cooks",
-        "bio": "Barry is responsible for growing Kubernetes across AWS including Amazon EKS, Amazon EKS Anywhere and RedHat Open Shift.</p>\n\n<p> Barry joined Amazon in 2022 from DigitalOcean, whereas CTO he led the organization through its IPO. A global enterprise technology veteran, Barry brings 25 years of experience across all aspects of technology, from board design, FPGA based hardware, and operating systems, to application microservices and cloud. Over the course of his career, Barry has twice led teams through successful IPOs. His previous experience includes DigitalOcean, VMware, and Sun Microsystems. Barry holds a BS in Computer Science from Purdue University and a MS in Computer Science from the University of Oregon.",
-        "company": "Amazon Web Services",
-        "pronouns": "He/Him",
-        "linkedin": "https://www.linkedin.com/in/barryjcooks/",
-        "twitter": "https://twitter.com/barryjcooks",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "barry-cooks.jpg"
-    },
-    {
         "name": "Bartholomew Farrell",
         "bio": "<p>Passionate, bilingual, creative non-technical community leader who loves being in innovative projects with folks from all over the world and focusing on being inclusive. Leader of CNCF Bilbao Meetup Speaker/Mentor in CNCF Students Co-Organizer KCD Pakistan and KCD Guatemala</p><p>Why I am excited to be an ambassador: Because I get to do what I love and I love what I do! I love bringing new folks into the CNCF ecosystem so they get to enjoy the amazing experiences and connections I'm so lucky to have as well. Being an ambassador gives me the privilege to highlight the amazing work folks are doing through online/offline events and storytelling.</p>",
         "company": "Data on Kubernetes Community",
@@ -6160,6 +6143,24 @@
         ],
         "slack_id": "",
         "image": "besfort-haxhani.jpg"
+    },
+    {
+        "name": "Betty Junod",
+        "bio": "Betty Junod is the chief marketing officer and senior vice president of Heroku from Salesforce. Betty has previously held marketing leadership positions at VMware, Docker, solo.io and is a strategic advisor to technology startups. She likes to hang out at the intersection of enterprise software, open source and developer tools, and enjoys a good selfie with the community.",
+        "company": "Heroku",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/bettyjunod/",
+        "twitter": "",
+        "github": "",
+        "bluesky": "https://bsky.app/profile/bettyjunod.bsky.social",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "betty-junod.jpg"
     },
     {
         "name": "Bhanu Theja Pasam",
@@ -27302,6 +27303,24 @@
         "image": "mike-smith.jpg"
     },
     {
+        "name": "Mike Stefaniak",
+        "bio": "Mike Stefaniak leads Product Management for Kubernetes and Container Registry services at Amazon Web Services (AWS). In this role, he oversees the strategy and development of Amazon Elastic Kubernetes Service (EKS) and Amazon Elastic Container Registry (ECR), helping organizations successfully run containerized applications at scale in the cloud.",
+        "company": "Amazon Web Services",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/mike-stefaniak/",
+        "twitter": "",
+        "github": "",
+        "bluesky": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "mike-stefaniak.jpg"
+    },
+    {
         "name": "Mikuya Nagashima",
         "bio": "<p>I am involved in data management for “Family Album みてね” at MIXI, and the organization operates Kubernetes and other cloud-native technologies at a large scale. I have a particular interest in Terraform and Kubernetes.</p>",
         "company": "MIXI, inc",
@@ -43269,24 +43288,6 @@
         ],
         "slack_id": "vinodsr",
         "image": "vinod-sr.jpg"
-    },
-    {
-        "name": "Vish Abrams",
-        "bio": "Vish is Chief Architect at Heroku, a subsidiary of Salesforce. Formerly he helped Oracle create their cloud, where he focused on virtualization, containerization, and machine learning. He was also NASA Nebula Technical Lead during the creation of Nova, one of the founding OpenStack projects, and was a member of both the OpenStack board and technical committee.",
-        "company": "Heroku",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/vishvananda/",
-        "twitter": "https://x.com/vish",
-        "github": "",
-        "bluesky": "https://bsky.app/profile/vishvananda.bsky.social",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "vish-abrams.jpg"
     },
     {
         "name": "Vishal Anarase",
