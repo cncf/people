@@ -9001,7 +9001,7 @@
     },
     {
         "name": "Dag Bjerre Andersen",
-        "bio": "<p>I’m a Senior Platform Engineer with a strong focus on GitOps and Argo CD. I enjoy working with cloud native technologies and have experience building Kubernetes platforms in both startups and larger organizations. I try to speak at conferences whenever I get the chance, often blending real code examples with storytelling from the field.</p>",
+        "bio": "<p>I’m a Senior Platform Engineer with a strong focus on GitOps. I enjoy working with cloud native technologies and have experience building Kubernetes platforms in both startups and larger organizations. I try to speak at conferences whenever I get the chance, often blending real code examples with storytelling from the field.</p>",
         "company": "Egmont",
         "pronouns": "",
         "location": "Copenhagen, Denmark",
@@ -9012,8 +9012,19 @@
         "website": "",
         "youtube": "",
         "certdirectory": "",
-        "category": [
-            "Kubestronaut"
+        "category": ["Kubestronaut"],
+        "projects": [
+            "Argo",
+            "cert-manager",
+            "Crossplane",
+            "external-secrets",
+            "Falco",
+            "Flux",
+            "Helm",
+            "Kubernetes",
+            "Kyverno",
+            "OpenTelemetry",
+            "Prometheus"
         ],
         "slack_id": "U05MYRE7CPP",
         "image": "dag-bjerre-andersen.jpg"
