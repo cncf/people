@@ -800,7 +800,11 @@ repositories:
     teams:
       cncf-toc: write
       cncf-projects: admin
-      tag-leads: triage
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
   - name: toc-private
     teams:
       cncf-tab: write
@@ -932,6 +936,7 @@ teams:
   - name: cncf-tab
     maintainers:
       - mrbobbytables
+      - castrojo
     members:
       - abebars
       - alolita
@@ -944,6 +949,7 @@ teams:
       - michael-bowen-sc
       - ride808
       - rochaporto
+    secret: false
   - name: cncf-tech-docs
     maintainers:
       - nate-double-u
@@ -971,6 +977,7 @@ teams:
       - raravena80
       - rochaporto
       - TheFoxAtWork
+    secret: false
   - name: cncf-toc-voters
     maintainers:
       - mrbobbytables
@@ -987,6 +994,7 @@ teams:
       - linsun
       - rochaporto
       - TheFoxAtWork
+    secret: false
   - name: envoy
     maintainers:
       - jeefy
@@ -1099,6 +1107,7 @@ teams:
       - tag-operational-resilence-leads
       - tag-security-compliance-leads
       - tag-workloads-foundation-leads
+    secret: false
   - name: tag-developer-experience-leads
     displayName: CNCF TAG Developer Experience Leads
     maintainers:
@@ -1114,6 +1123,7 @@ teams:
       - kdubois
       - salaboy
       - SwEngin
+    secret: false
   - name: tag-infrastructure-leads
     displayName: CNCF TAG Infrastructure Leads
     maintainers:
@@ -1123,8 +1133,12 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
+      - aojea
+      - hzxuzhonghu
       - kashifest
+      - nicholasjackson
       - xing-yang
+    secret: false
   - name: tag-operational-resilience-leads
     displayName: CNCF TAG Operational Resilience Leads
     maintainers:
@@ -1140,6 +1154,7 @@ teams:
       - palnabarun
       - raffaelespazzoli
       - saiyam1814
+    secret: false
   - name: tag-security-compliance-leads
     displayName: CNCF TAG Security and Compliance Leads
     maintainers:
@@ -1155,6 +1170,7 @@ teams:
       - jpower432
       - JustinCappos
       - y-tabata
+    secret: false
   - name: tag-workloads-foundation-leads
     displayName: CNCF TAG Workloads Foundation Leads
     maintainers:
@@ -1165,5 +1181,9 @@ teams:
       - riaankleinhans
     members:
       - kad
+      - miao0miao
       - pacoxu
+      - RainbowMango
+      - rajaskakodkar
       - terrytangyuan
+    secret: false
