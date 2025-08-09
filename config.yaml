@@ -799,6 +799,7 @@ repositories:
   - name: toc
     teams:
       cncf-toc: write
+      cncf-toc-voters: write
       cncf-projects: admin
       tag-developer-experience-leads: write
       tag-infrastructure-leads: write
