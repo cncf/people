@@ -47294,21 +47294,24 @@
     },
     {
         "name": "Yilmaz Guleryuz",
-        "bio": "<p>As a hands-on Technical Lead, I bring over two decades of experience in software development to craft scalable, cloud-native platforms. My expertise lies in Kubernetes, containerization technologies, and cloud platforms, where I focus on building robust and lovable systems. As the founder of Artemis19, I provide freelance technology consulting and mentorship, specializing in Kubernetes, Azure, AKS, Golang.</p>",
-        "company": "Artemis19",
+        "bio": "<p>I am a hands-on Technical Lead with 20+ years of experience in software engineering, specializing in Kubernetes, containerization, and cloud-native platforms. As the founder of <b>Antaka Tech</b> and <b>Artemis19</b>, I partner with organizations to modernize infrastructure, adopt Kubernetes at scale, and implement resilient, future-ready systems. My expertise spans <b>Kubernetes, Azure, AKS, and Golang,</b> with a proven track record of guiding teams toward operational excellence and cloud-native maturity.</p>",
+        "company": "AntakaTech & Artemis19 / Advania Norge",
         "pronouns": "He/Him",
         "location": "Greåker, Norway",
         "linkedin": "https://www.linkedin.com/in/yilmazguleryuz/",
         "twitter": "",
         "github": "https://github.com/zeusbaba",
         "wechat": "",
-        "website": "https://artemis19.no",
+        "website": "https://antaka.tech",
         "youtube": "",
         "certdirectory": "",
         "category": [
             "Kubestronaut"
         ],
         "slack_id": "",
+        "languages":["English", "Spanish", "Turkish", "Norwegian"],
+        "projects": ["Kubernetes", "Argo", "Cilium", "Helm", "Istio"],
+        "expertise": ["Technical", "Non-Technical"],
         "image": "yilmaz-guleryuz.jpg"
     },
     {
