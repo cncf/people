@@ -43548,20 +43548,23 @@
     },
     {
         "name": "Thomas Schuetz",
-        "bio": "<p>Thomas is a Enterprise Architect, Advocate and Educator enthusiastic about making cloud-native more comfortable. As a CNCF/CDF Ambassador and Open Source Contributor, he is always eager to find ways to deliver software and troubleshoot issues more efficiently.</p><p>Why I am excited to be an ambassador: I am very passionate about cloud-native technologies and working with them is cool. In the last few years, I got more and more involved in the cloud-native community and learned that it's not only about technical things, it's also about the people and the community. I am excited to be an ambassador because I like to bring people into the cloud-native world but also educate and teach them how to use products and technologies.</p>",
-        "company": "karriere.at",
+        "bio": "<p>Thomas is a Enterprise Architect, Advocate and Educator enthusiastic about making cloud-native more comfortable. As a CNCF Ambassador and Open Source Contributor, he is always eager to find ways to deliver software and troubleshoot issues more efficiently.</p><p>Why I am excited to be an ambassador: I am very passionate about cloud-native technologies and working with them is cool. In the last few years, I got more and more involved in the cloud-native community and learned that it's not only about technical things, it's also about the people and the community. I am excited to be an ambassador because I like to bring people into the cloud-native world but also educate and teach them how to use products and technologies.</p>",
+        "company": "TSC Labs",
         "pronouns": "He/Him",
         "location": "St. Pölten, Austria",
         "linkedin": "https://linkedin.com/in/thschue",
         "twitter": "",
         "github": "https://github.com/thschue",
         "wechat": "",
-        "website": "https://t-sc.eu",
+        "website": "https://www.tsc-labs.at",
         "bluesky": "https://bsky.app/profile/t-sc.eu",
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/7c8ddddb-bc42-42a8-8536-abd583b928eb",
         "slack_id": "Thomas Schuetz",
-        "languages": [],
+        "languages": [
+          "German",
+          "English"
+        ],
         "projects": [
             "Argo",
             "Carvel",
