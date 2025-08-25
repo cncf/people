@@ -686,6 +686,11 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
     name: sandbox
     settings:
       has_wiki: true
