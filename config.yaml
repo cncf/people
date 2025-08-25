@@ -695,8 +695,8 @@ repositories:
       tag-operational-resilience-leads: write
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
-  settings:
-    has_wiki: true
+    settings:
+      has_wiki: true
   - name: serverless-landscape
     teams:
       landscapers: admin
