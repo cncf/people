@@ -686,8 +686,7 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
-  - name: sandbox
-    teams:
+  - teams:
       cncf-toc: maintain
       cncf-projects: admin
       tag-developer-experience-leads: write
@@ -695,6 +694,7 @@ repositories:
       tag-operational-resilience-leads: write
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
+    name: sandbox
     settings:
       has_wiki: true
   - name: serverless-landscape
