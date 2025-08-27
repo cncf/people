@@ -135,9 +135,7 @@ repositories:
       mrbobbytables: read
       murillodigital: maintain
       nelliesnoodles: write
-      onlydole: admin
       paulczar: maintain
-      pritianka: admin
       saiyam1814: maintain
     name: cloudnativetv
     settings:
@@ -169,7 +167,6 @@ repositories:
       caniszczyk: admin
       denverwilliams: write
       lixuna: admin
-      pritianka: admin
       taylor: admin
       tomkivlin: read
       wvwatson: write
@@ -234,8 +231,6 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      BobyMCbobs: admin
-      hh: admin
       idvoretskyi: admin
     name: credits
   - external_collaborators:
@@ -364,7 +359,6 @@ repositories:
     visibility: private
   - external_collaborators:
       Swil78: admin
-      onlydole: admin
       taylorwaggoner: admin
     name: enduser-private
     visibility: private
@@ -375,9 +369,7 @@ repositories:
   - name: evolution-of-cloud-native
     visibility: private
     external_collaborators:
-      pritianka: admin
       nate-double-u: read
-      poconnor1: read
   - external_collaborators:
       alexkontsevoy: write
       levbogusiewicz: write
@@ -529,10 +521,7 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      BobyMCbobs: admin
       riaankleinhans: admin
-      hh: admin
-      heyste: admin
       cncf-ci: admin
       koksay: admin
       mfahlandt: admin
@@ -602,17 +591,13 @@ repositories:
     visibility: public
   - name: memorials
   - external_collaborators:
-      CathPag: maintain # TAG CS
       riaankleinhans: maintain
       caniszczyk: admin
       idvoretskyi: admin
-      jaytiaki: maintain # Mentoring WG Co-chair
-      jberkus: maintain # TAG CS
       jeefy: admin
       nate-double-u: admin
       thisisobate: maintain
       Swil78: maintain
-      aliok: maintain # GSoC admin
     name: mentoring
   - external_collaborators:
       lukaszgryglicki: admin
@@ -706,7 +691,6 @@ repositories:
   - external_collaborators:
       RobertKielty: admin
       jeefy: admin
-      onlydole: admin
     name: sheriff
   - external_collaborators:
     name: shopify-theme
@@ -722,11 +706,9 @@ repositories:
       has_wiki: true
   - external_collaborators:
       flanets: triage
-      hh: triage
       idvoretskyi: admin
       jacmathew: triage
       kunal-kushwaha: maintain
-      pritianka: admin
       saiyam1814: read
       sajitss: triage
       savitharaghunathan: triage
@@ -737,7 +719,6 @@ repositories:
   - external_collaborators:
       caniszczyk: admin
       idvoretskyi: admin
-      onlydole: admin
     name: surveys
   - external_collaborators:
       AndreyKozlov1984: maintain
@@ -759,7 +740,6 @@ repositories:
       cncf-projects: admin
     external_collaborators:
       Swil78: admin
-      onlydole: admin
       taylorwaggoner: admin
   - name: tab-private
     teams:
@@ -769,7 +749,6 @@ repositories:
       cncf-enduser-staff-core: admin
     external_collaborators:
       Swil78: admin
-      onlydole: admin
       taylorwaggoner: admin
     visibility: private
   - external_collaborators:
@@ -870,12 +849,9 @@ repositories:
     settings:
       has_wiki: true
   - external_collaborators:
-      abuango: admin
       AndreyKozlov1984: write
-      angomustee: maintain
       AudMonte01: write
       caniszczyk: admin
-      catinahat85: write
       castrojo: write
       chalin: write
       cjyabraham: admin
@@ -883,26 +859,15 @@ repositories:
       cynthia-sg: write
       DPalilonis: write
       Emily-Spady: write
-      hh: write
       idvoretskyi: write
-      jamesgrafas: write
-      jaytiaki: write
       jeefy: admin
       joannalee333: write
-      k8tgreenley: admin
       krook: write
-      libbyschulze: write
-      lixuna: write
       lukaszgryglicki: admin
-      motunrayoalake: maintain
       nate-double-u: write
-      onlydole: admin
       phlax: write
-      poconnor1: admin
-      pritianka: admin
       riaankleinhans: write
       Swil78: write
-      taylor: write
       taylorwaggoner: admin
       tegioz: write
       tinmatienzo: write
