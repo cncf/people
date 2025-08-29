@@ -676,6 +676,8 @@ repositories:
       tag-operational-resilience-leads: write
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
+    external_collaborators:
+      joshgav: write
     name: sandbox
     settings:
       has_wiki: true
