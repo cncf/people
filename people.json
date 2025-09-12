@@ -21155,14 +21155,24 @@
     },
     {
         "name": "Joe Searcy",
-        "bio": "<p>Joe is a Staff Software Engineer working within the Software & Advanced Technology group at Intel. He's a passionate technologist and loves solving complex problems. Joe leads the Kubernetes Atlanta Meetup and is an active contributor to many CNCF projects (Kubernetes, Istio, Carvel, etc.). Outside of technology, Joe is an audiophile, a lego enthusiast, and a practitioner of Brazilian Jiu-Jitsu.</p>",
+        "bio": "<p>Joe is a Staff Software Engineer. He's a passionate technologist and loves solving complex problems. Joe leads the Kubernetes Atlanta Meetup and is a contributor to many CNCF projects (Kubernetes, Istio, Carvel, etc.). Outside of technology, Joe is an audiophile, a lego enthusiast, and a practitioner of Brazilian Jiu-Jitsu.</p>",
         "company": "Intel",
         "pronouns": "He/Him",
         "location": "Atlanta, GA, United States",
+        "languages": [
+            "English"
+        ],
+        "slack_id": "phenixblue",
+        "linkedin": "https://www.linkedin.com/in/jmsearcy/",
         "twitter": "https://twitter.com/jmsearcy",
         "github": "https://github.com/phenixblue",
+        "youtube": "https://www.youtube.com/c/k8satl",
         "category": [
             "Ambassadors"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
         ],
         "projects": [
             "Kubernetes",
