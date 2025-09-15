@@ -7972,20 +7972,6 @@
         "image": "casper-thygesen.jpg"
     },
     {
-        "name": "Cathy Zhang",
-        "bio": "<p>Cathy is a Principal Engineer at Confluent. She has over 20 years of software design\nand development experience in a wide range of areas such as serverless, large scale distributed\nVM/container orchestration and scheduling, edge computing, container runtime, service mesh,\nsoftware defined network, and high availability etc.\nCathy has been an active contributor in the cloud-native computing ecosystems including\nKubernetes, OpenStack, OPNFV, and has led the development of several open-source projects\nunder CNCF, Linux Foundation Networking, Linux Foundation Edge and Open Infrastructure.\nShe has made strong contributions to the technical direction and design, driving working group\ndiscussion, and resolving technical disagreements. She co-authored the CNCF serverless\nwhitepaper, the CloudEvents specification, and the OpenStack service function chaining design.\nShe has served as the program committee member/track chair for several Kubecons and\nOpenStack summits. She has delivered talks at various open-source conferences (Kubecon,\nOpenStack Summit, Open Source Summit, OPNFV).</p>",
-        "company": "Confluent",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/cathy-zhang-cloud/",
-        "twitter": "",
-        "github": "https://github.com/cathyhongzhang",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "image": "cathy-zhang.jpg"
-    },
-    {
         "name": "Cedric  Kouogang",
         "bio": "<p>I’m just a DevOps/SRE engineer passionate about tech who like learning new technologies, playing with them and running them in production, if possible. </p>",
         "company": "",
@@ -10439,22 +10425,6 @@
         "image": "dave-altena.jpg"
     },
     {
-        "name": "Dave Zolotusky",
-        "bio": "<p>Dave is an engineer in Spotify's Platform team, where his focus has been core infrastructure, the data platform, and Spotify's use of cloud services. A noted evangelist for cloud native and open source technologies, Dave spurred Spotify to join the CNCF and remain active in the community, launched the Stockholm CNCF meetup, and is both a CNCF Ambassador and a member of the KubeCon + CloudNativeCon Program Committee.</p>\n\n<p>In his work at Spotify, Dave has been essential to the adoption of CNCF projects like Kubernetes, gRPC, Envoy, and OpenTelemetry, as well as experimentation with Service Mesh. Prior to his time with Spotify, Dave worked at AWS, at VMware on cloud management software, and at Microsoft on the Office team.</p>",
-        "company": "Platform Engineer at Spotify",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/spotify-member.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--silver--spotify-member",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/dzolotusky/",
-        "twitter": "https://twitter.com/dzolotusky",
-        "github": "https://github.com/dzolotusky",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "image": "https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg"
-    },
-    {
         "name": "Davi Vercillo C. Garcia",
         "bio": "<p>Davi Vercillo C. Garcia is a Specialist Solutions Architect at Amazon Web Services with expertise in platform engineering, container networking, and observability. He specializes in CNCF technologies including Kubernetes, Prometheus, Grafana, ArgoCD/FluxCD, and Istio/Envoy, helping customers with cloud migration and infrastructure modernization. An active community contributor, Davi participates in KCD Porto and AWS User Group Lisbon since moving to Portugal, previously supporting OSS communities in Rio de Janeiro. He has contributed to several CNCF projects, primarily through documentation improvements and issue triage, demonstrating his commitment to advancing cloud-native technologies.</p>",
         "company": "Amazon Web Services",
@@ -11988,42 +11958,6 @@
         ],
         "slack_id": "U0887A8NFAQ",
         "image": "duc-anh-luu.jpg"
-    },
-    {
-        "name": "Duffie Cooley",
-        "bio": "<p>Duffie is a member of the CNCF Technology Oversight Committee and speaks on a number of topics ranging from Kuberenetes to security and networking.</p><p>Why I am excited to be an ambassador: I am excited to be an ambassador as I really enjoy helping others navigate our community. Helping them feel welcome and learning from them as we all lift each other up!</p>",
-        "company": "Isovalent",
-        "pronouns": "He,His",
-        "linkedin": "https://linkedin.com/in/mauilion",
-        "twitter": "https://twitter.com/mauilion",
-        "github": "https://github.com/mauilion",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "location": "San Francisco, CA, United States",
-        "projects": [
-            "Antrea",
-            "Cilium",
-            "CNI-Genie",
-            "Confidential Containers",
-            "Container Network Interface (CNI)",
-            "containerd",
-            "CoreDNS",
-            "Dex",
-            "etcd",
-            "external-secrets",
-            "Helm",
-            "Kubernetes",
-            "Kubescape",
-            "KubeVirt",
-            "rkt"
-        ],
-        "languages": [
-            "English"
-        ],
-        "priority": "",
-        "slack_id": "mauilion",
-        "image": "duffie-cooley.jpg"
     },
     {
         "name": "Dulmandakh Sukhbaatar",
@@ -32399,21 +32333,6 @@
         ],
         "slack_id": "https://cloud-native.slack.com/team/U094N7QLW22",
         "image": "niels-heidbrink.jpg"
-    },
-    {
-        "name": "Nikhita Raghunath",
-        "bio": "Nikhita is a member of the CNCF Technical Oversight Committee, a core contributor to the Kubernetes project and works as a Staff Software Engineer at VMware. She won the CNCF 'Top Committer Award' in 2021 for her technical contributions and the 'Chop Wood Carry Water' in 2018 for her community work. Additionally, Nikhita is the technical lead for Kubernetes SIG Contributor Experience and a former member of the Kubernetes Steering Committee. She has also been featured in Business Insider as one the ‘top 21 developers transforming Silicon Valley’.",
-        "company": "VMware",
-        "pronouns": "she/her",
-        "linkedin": "https://www.linkedin.com/in/nikinath/",
-        "twitter": "https://twitter.com/TheNikhita",
-        "github": "https://github.com/nikhita",
-        "wechat": "",
-        "website": "",
-        "location": "Bangalore, India",
-        "youtube": "",
-        "priority": "",
-        "image": "nikhita-raghunath.jpg"
     },
     {
         "name": "Niki Manoledaki",
