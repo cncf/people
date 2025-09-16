@@ -24412,35 +24412,6 @@
         "image": "kevin-evans.jpeg"
     },
     {
-        "name": "Kevin Klues",
-        "bio": "<p>Kevin Klues is a distinguished engineer on the NVIDIA Cloud Native team. He is a sig-node maintainer, having been involved in the design and implementation of a number of Kubernetes technologies, including the CPU Manager, the Device Manager, the Topology Manager, the Kubernetes stack for Multi-Instance GPUs, and Dynamic Resource Allocation (DRA). Kevin holds a bachelors degree from Rose-Hulman Institute of Technology, a masters degree from Washington University in St. Louis, and a Ph.D. from UC Berkeley. When not working, you can usually find Kevin hanging out with his kids or enjoying a beer in the sun somewhere.</p>",
-        "company": "NVIDIA",
-        "pronouns": "He/Him",
-        "location": "Berlin, Germany",
-        "linkedin": "https://www.linkedin.com/in/klueska/",
-        "twitter": "https://www.twitter.com/klueska",
-        "toc_role": "Shadow (TOC)",
-        "github": "https://github.com/klueska",
-        "bluesky": "https://bsky.app/profile/klueska.bsky.social",
-        "wechat": "",
-        "website": "",
-        "youtube": "https://www.youtube.com/@klueska",
-        "languages": [
-            "English",
-            "German"
-        ],
-        "projects": [
-            "CDI",
-            "Kubernetes"
-        ],
-        "category": [
-            "Technical Oversight Committee"
-        ],
-        "email": "klueska!gmail.com",
-        "slack_id": "U016RPEEME3",
-        "image": "kevin-klues.jpg"
-    },
-    {
         "name": "Kevin Python",
         "bio": "<p>With over 10 years of experience in the IT industry, I built a strong foundation in system engineering before transitioning into the cloud and embracing DevOps.  In early 2023, I discovered Kubernetes, which sparked my passion for the Cloud Native ecosystem and open-source projects.  Now working as a Cloud DevOps Engineer, I am actively contributing to the development of a Kubernetes toolset aimed at simplifying workload management, improving efficiency, and enhancing scalability. I thrive on automation, innovation, and optimizing cloud infrastructure for modern workloads.</p>",
         "company": "Swisscom",
