@@ -924,11 +924,12 @@ teams:
     secret: false
   - name: cncf-tech-docs
     maintainers:
+      - krook
       - nate-double-u
-      - jeefy
     members:
       - caniszczyk
       - chalin
+      - jeefy
       - idvoretskyi
       - thisisobate
   - name: cncf-toc
