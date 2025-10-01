@@ -5,8 +5,6 @@
         "pronouns":"she/her",
         "location":"Toronto, Canada",
         "linkedin":"https://www.linkedin.com/in/dolis-sharma-212003129/",
-        "twitter":"https://x.com/DolisSharma",
-        "github":"https://github.com/dolisss",
         "youtube":"https://www.youtube.com/@dolissharma",
         "priority":10,
         "languages":["English"],
@@ -19,9 +17,14 @@
             "Grafana",
             "Kind",
         ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
         "category":["Ambassadors"],
         "email": "dolis!nirmata.com",
         "slack_id": "U01F7ADG27K",
         "image":"dolis.jpg"
     }
+
 
