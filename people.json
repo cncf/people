@@ -30255,6 +30255,35 @@
         "image": "matthias-loibl.jpg"
     },
     {
+        "name": "Matthieu Evrin",
+        "bio": "<p>I'm a Plaform Engineer and help developers to focus on features delivery based on robust infrastrucure. I am passionate by Kubernetes and all the ecosystem around. I contribute to meshery, jaegertracing, score-spec, and more, and I am a Meshery maintainer.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Québec, Québec, Canada",
+        "linkedin":"https://www.linkedin.com/in/mathtieu-evrin/",
+        "twitter": "",
+        "bluesky": "",
+        "github": "https://github.com/lekaf974",
+        "slack_id": "U08BFFXNTN0",
+        "languages":[
+            "French",
+            "English"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "projects": [
+            "cert-manager",
+            "external-secrets",
+            "Envoy",
+            "Kubernetes",
+            "Meshery",
+            "Score"
+        ],
+        "email": "matthieu.evrin!gmail.com",
+        "image": "matthieu-evrin.jpg"
+    },
+    {
         "name": "Maurice Rozema",
         "bio": "<p>As a Solution Architect, I help organizations design, build and manage modern applications using cloud-native technologies such as Kubernetes. With a background as a Software Developer, I develop and migrate full-stack applications, applying cloud-native principles from the ground up. My focus is on scalability, reliability, and accelerating innovation through modern infrastructure, artificial intelligence and automation.</p>",
         "company": "",
