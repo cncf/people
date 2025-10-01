@@ -791,6 +791,7 @@ repositories:
       tag-operational-resilience-leads: write
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
+      toc-project-reviews-subproject: write
   - name: toc-private
     teams:
       cncf-tab: write
@@ -1171,4 +1172,15 @@ teams:
       - rajaskakodkar
       - srust
       - terrytangyuan
+    secret: false
+  - name: toc-project-reviews-subproject
+    displayName: TOC Project Reviews Subproject
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - joshgav
     secret: false
