@@ -10,9 +10,18 @@
         "youtube":"https://www.youtube.com/@dolissharma",
         "priority":10,
         "languages":["English"],
-        "projects":["kyverno","crossplance","kubernetes","argocd","github"],
+        "projects":[
+            "Argo",
+            "Crossplane",
+            "Kyverno",
+            "Kubernetes",
+            "Prometheus",
+            "Grafana",
+            "Kind",
+        ],
         "category":["Ambassadors"],
         "email": "dolis!nirmata.com",
         "slack_id": "U01F7ADG27K",
         "image":"dolis.jpg"
     }
+
