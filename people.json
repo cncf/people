@@ -39360,6 +39360,22 @@
         "image": "rishit-dagli.jpg"
     },
     {
+        "name":"Rob Kenefeck",
+        "bio":"I've been Automating toil in Linux for over 20 years, but when Kubernetes came along I was initially dismissive, after all I was already building everything in Containers with Docker and orchestrating in a variety of semi-manual ways. I've since come to appreciate all Kubernetes can do and also what its limitations are and when NOT to use it. I've taught DevOps courses and Kubernetes courses while also helping large enterprises setup internally managed Kubernetes platforms with a product based mindset. I believe that security is so fundamental to everything that we do, we shouldn't be shoving it in as an afterthought with DevSecOps",
+        "company":"ControlPlane",
+        "pronouns":"He/Him",
+        "location":"Melbourne, Australia",
+        "linkedin":"https://linkedin.com/in/robkenefeck",
+        "github":"https://github.com/rkenefeck",
+        "certdirectory": "https://certdirectory.io/profile/410d8b76-1369-4e36-8e85-e61f99fc3190",
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "rob.kenefeck!control-plane.io",
+        "slack_id": "U01UM5QETM0",
+        "image":"rob-kenefeck.jpg"
+    },
+    {
         "name": "Rob Maas",
         "bio": "<p>As Field CTO at ON2IT, I’m dedicated to helping organizations strengthen their security posture by adopting Zero Trust as a core strategy. With extensive expertise in cybersecurity, I provide technical leadership across a wide range of platforms, ensuring seamless integration of advanced security principles into modern IT environments. My work frequently involves cloud and cloud-native solutions. I’m passionate about empowering businesses to navigate complex security challenges, combining strategic insight with hands-on technical expertise to drive innovation and resilience in the face of cyber threats.</p>",
         "company": "ON2IT",
