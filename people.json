@@ -30605,6 +30605,31 @@
         "image": "michael.jpg"
     },
     {
+        "name":"Michael Foster",
+        "bio":"Michael Foster serves as the Community Lead for the open-source StackRox project and as a Senior Principal Technical Marketing Manager at Red Hat, based in Toronto. With a background in containers and Kubernetes adoption for large enterprises, he currently focuses on upskilling security teams to better utilize Kubernetes information for SOC teams. Michael played a pivotal role in creating the Cloud Native Glossary initiative and is an active organizer of CNCF Toronto Meetups. In his free time, he enjoys staying active through skiing, exploring Toronto’s on his motorcycle, and tinkering with mechanical projects at home.",
+        "company":"Red Hat",
+        "pronouns":"He/Him",
+        "location":"Toronto, Canada ",
+        "linkedin":"https://www.linkedin.com/in/mfosterche/",
+        "twitter":"https://x.com/IdealUsrname",
+        "github":"https://github.com/IdealUsrname",
+        "youtube":"https://www.youtube.com/@staywiredin",
+        "languages":["English"],
+        "projects":[
+            "Cloud Native Glossary",
+            "Kubernetes"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "slack_id": "U01DN5W5ZD2",
+        "image":"michael-foster.jpg"
+    },
+    {
         "name": "Michael Hajjar",
         "bio": "<p>I am a freelance Linux, Kubernetes and Security engineer. Owner of CloudyLinux. Love working on complex problems to create and combine innovative solutions in the CNCF-ecosystem.</p>",
         "company": "CloudyLinux",
