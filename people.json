@@ -50159,6 +50159,29 @@
         "image": "wendi-west.jpg"
     },
     {
+        "name": "Wendy Ha",
+        "bio": "<p>Wendy is a Software Engineer with passion across Platform Engineering, Site Reliability and Observability. In her role, she helps teams build systems that are not just scalable, but reliable and resilient. Wendy is also an open source contributor and has contributed to various aspects of Kubernetes, including SIG Release (serving on the Release Team since v1.31 - v1.34), SIG Cluster Lifecycle and Etcd. She has taken on leadership roles as the Release Signal Lead for Kubernetes v1.33 and Release Lead Shadow for v1.34, where she focuses on improving release processes and mentoring new contributors into the open source space. Wendy is a proud advocate for Women in Tech, the Deaf and Hard of Hearing community, and Women-led Entrepreneurship. She’s passionate about making complex technologies easy to understand and make the Cloud Native space more inclusive and accessible.</p>",
+        "company": "SEEK",
+        "pronouns": "She/Her",
+        "location": "Melbourne, Australia",
+        "linkedin": "https://www.linkedin.com/in/wendyha-sut/",
+        "twitter": "https://x.com/wendy_ha18",
+        "github":"https://github.com/wendy-ha18",
+        "slack_id": "U072Q1ZPVA7",
+        "category": [
+            "Ambassadors"
+        ],
+        "projects": [
+            "etcd",
+            "Kubernetes"       
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "image": "wendy-ha.jpg"
+    },
+    {
         "name": "Wesley Pritchard",
         "bio": "<p>Avid self-hoster turned Linux and container professional. I spend my free time improving my homelab, playing video games, and listening to tech podcasts like Linux Unplugged, Darknet Diaries, and Google's Kubernetes podcast  Currently working as an infrastructure automation engineer. </p>",
         "company": "",
