@@ -30457,10 +30457,11 @@
             "Prometheus",
             "Litmus Chaos",
             "Keycloak",
-            "Rook"
+            "Dex",
+            "Rook",
+            "Vault"
         ],
         "category":["Ambassadors"],
-        "email": "",
         "slack_id": "U019P9KA2QY",
         "image":"arif-hossen.jpg"
     },
