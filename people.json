@@ -52799,5 +52799,25 @@
         ],
         "slack_id": "",
         "image": "phippy.jpg"
+    },
+    {
+        "name": "Tatiana Mikhaleva",
+        "bio": "Tatiana Mikhaleva is a <b>Docker Captain</b>, <b>GitKraken Ambassador</b>, <b>Notion Ambassador</b>, and <b>DevOps engineer</b> — the creator of <a href='https://devops.pink/'>DevOps.Pink</a>, a corner of the internet where cloud automation meets clarity, community, and a touch of pink rebellion.<br><br>She has years of experience working with <b>AWS</b>, <b>Azure</b>, <b>Kubernetes</b>, <b>Terraform</b>, and <b>Docker</b>, focusing on transforming messy, fragile systems into clean, automated, and reliable infrastructures that give engineers back their time and sanity.<br><br>Through DevOps.Pink, Tatiana has built a vibrant community that promotes inclusive, real-world DevOps learning — breaking down barriers and amplifying voices, especially women in tech. Her mission is to make DevOps <i>exciting instead of exhausting</i>, showing that cloud and containers can be a superpower.<br><br>Featured by Docker on their official YouTube channel, Tatiana shares practical, empowering insights through talks, tutorials, and creative content that makes tech feel human, approachable, and even fun.",
+        "company": "DevOps.Pink / Docker Captain / GitKraken Ambassador / Notion Ambassador",
+        "pronouns": "She/Her",
+        "location": "Toronto, Canada",
+        "linkedin": "https://www.linkedin.com/in/DevOpsPink/",
+        "twitter": "https://x.com/DevOpsPink",
+        "github": "https://github.com/DevOpsPink",
+        "wechat": "",
+        "website": "https://devops.pink/",
+        "youtube": "https://www.youtube.com/@DevOpsPink",
+        "priority": 10,
+        "languages": ["English"],
+        "projects": ["docker", "kubernetes", "cncf", "devops"],
+        "category": ["Ambassadors", "Community", "DevOps", "Cloud"],
+        "email": "ask!devops.pink",
+        "slack_id": "",
+        "image": "tatiana-mikhaleva.jpg"
     }
 ]
