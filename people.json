@@ -47387,21 +47387,42 @@
     },
     {
         "name": "Tiago Miguel Reichert",
-        "bio": "<p>Tiago is a Solutions Architect at AWS, focused on helping startups across Latin America to optimize their container strategies. With a deep passion for Containers, DevOps, and SaaS, he collaborates with businesses to design scalable and efficient cloud solutions. Tiago also actively contributes to the tech community as an organizer of KCD Brazil and meetups focused on promoting cloud-native technologies.</p>",
+        "bio": "<p>Tiago is a Principal Containers Specialist SA at AWS, where he helps startups optimize their container and cloud-native strategies. With experience in DevOps, GenAI, and SaaS architectures, he collaborates with businesses to design scalable and efficient cloud solutions. Tiago also actively contributes to the tech community as an organizer of KCD Brazil and meetups focused on promoting cloud-native technologies.</p>",
         "company": "Amazon Web Services",
         "pronouns": "He/Him",
         "location": "Santo Amaro, Sao Paulo, Brazil",
         "linkedin": "https://www.linkedin.com/in/tiago-reichert/",
         "twitter": "",
         "github": "https://github.com/tiagoReichert",
+        "youtube": "",
         "wechat": "",
         "website": "",
-        "youtube": "",
+        "languages":[
+            "Portuguese",
+            "English",
+            "German"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Argo",
+            "Flux",
+            "Helm",
+            "KEDA",
+            "Crossplane",
+            "Istio",
+            "Envoy",
+            "Fluentd",
+            "Jaeger",
+            "Prometheus",
+            "OpenTelemetry"
+        ],
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Ambassadors"
         ],
-        "slack_id": "tiago@reichert.eti.br",
+        "email": "tiago!reichert.eti.br",
+        "slack_id": "U053R2X5ARZ",
         "image": "tiago-miguel-reichert.jpg"
     },
     {
