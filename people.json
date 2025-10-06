@@ -13360,6 +13360,35 @@
         "image": "eliezer-weisman.jpg"
     },
     {
+        "name": "Elif Samedin",
+        "bio": "<p>As a Senior Platform Engineer and an organizer of Cloud Native Days Romania, I am passionate about fostering welcoming communities and advocating for cloud-native solutions. My goal as a CNCF Ambassador is to empower talented individuals, support meaningful initiatives, and expand CNCF's reach.</p>",
+        "company": "AirDNA",
+        "pronouns": "",
+        "location": "Bucharest, Romania",
+        "linkedin": "https://www.linkedin.com/in/elifsamedin/",
+        "twitter": "https://x.com/elifsamedin",
+        "github": "https://github.com/elifsamedin",
+        "category": [
+            "Ambassadors"
+        ],
+        "projects": [
+            "Argo",
+            "cert-manager",
+            "containerd",
+            "CoreDNS",
+            "external-secrets",
+            "Falco",
+            "Kyverno",
+            "Harbor",
+            "Helm",
+            "KEDA",
+            "Kubernetes",
+            "Open Policy Agent (OPA)",
+            "Prometheus"
+        ],
+        "image": "elif-samedin.jpg"
+    },
+    {
         "name": "Elkana Mbiti",
         "bio": "<p>I'm a self-taught Python and Golang software and cloud engineer. Early in my journey, I simply believed software 'just worked.' It wasn't until I was immersed in the world of DevOps that I quickly realized how layered and interconnected software systems are – software supported by software, supported by more software... a fascinating complexity. This realization fueled continuous learning and self-improvement, leading to certifications in multiple cloud platforms, Kubernetes, and software testing. Outside of work, I'm a nature enthusiast with a strong interest in computer networking, storage, and systems reliability, especially within the cloud native solutions ecosystem.</p>",
         "company": "Safaricom PLC",
