@@ -9215,6 +9215,34 @@
         "image": "chris-short.jpg"
     },
     {
+        "name": "Chris Suszynski",
+        "bio": "<p>Chris contributes to open-source projects such as CNCF's Knative and CloudEvents, as well as ByteCode Alliance's WebAssembly and WASI. He primarily focuses on event-driven development and enhancing the developer experience. His main interests lie in hybrid cloud technologies, particularly within the Kubernetes ecosystem, as well as WASM/WASI technologies and fostering clean application architectures.</p><p>With nearly 20 years of experience in a variety of technologies, including Golang, Rust, Java, Python, and Ruby, he considers himself a software craftsman.</p>",
+        "company": "Red Hat",
+        "pronouns": "he/him",
+        "location": "Warsaw, Poland",
+        "linkedin": "https://www.linkedin.com/in/krzysztof-suszynski",
+        "twitter": "https://x.com/ksuszynski",
+        "github": "https://github.com/cardil",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "languages":["Polish","English"],
+        "projects": [
+            "CloudEvents",
+            "KEDA",
+            "Knative",
+            "ko",
+            "Kubernetes",
+            "Operator Framework",
+            "Wasmtime"
+        ],
+        "category":["Ambassadors"],
+        "email": "krzysztof.suszynski!gmail.com",
+        "slack_id": "U01F7LP6EJD",
+        "image":"ksuszyns.jpg"
+    },
+    {
         "name": "Chris Werner Rau",
         "bio": "<p>I'm a k8s loving DevOps Engineer focusing on GitOps and automation using flux, helm and more. I run the Kotlin Usergroup Bielefeld and also co-run the Kubernetes Meetup Bielefeld as well.</p>",
         "company": "",
