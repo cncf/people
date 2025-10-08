@@ -30534,6 +30534,26 @@
         "image": "maxim-skakun.jpg"
     },
     {
+        "name":"Maxime Coquerel",
+        "bio":"<p>Maxime Coquerel is a Principal Cloud Security Architect driving cloud threat research, cloud security architecture, threat model and risk assessments across enterprise-scale designs. Passionate about knowledge sharing, he collaborates with cloud vendors and emerging startups to co-develop innovative cloud security solutions, while actively contributing to the global cloud-native community through mentoring, blogging, and community events to inspire secure and scalable adoption of CNCF technologies.</p>",
+        "company":"RBC - Royal Bank of Canada",
+        "pronouns":"He/Him",
+        "location":"Quebec, QC, Canada",
+        "linkedin":"https://www.linkedin.com/in/maximecoquerel/",
+        "twitter":"http://twitter.com/zig_max",
+        "github":"https://github.com/zigmax",
+        "wechat":"",
+        "website":"https://zigmax.net",
+        "youtube":"",
+        "bluesky": "https://bsky.app/profile/zigmax.bsky.social",
+        "languages":["English", "French"],
+        "projects":["Istio","Kubernetes","Kyverno","Open Policy Agent (OPA)","Prometheus"],
+        "category":["Ambassadors"],
+        "email": "max.coquerel!gmail.com",
+        "slack_id": "UTDG7N0Q0",
+        "image":"maxime-coquerel.jpg"
+    },
+    {
         "name": "Maximilian Marschall",
         "bio": "<p>Enthusiastically immersed in the ever-evolving world of technology, Maximilian finds joy in pushing boundaries and continually venturing into uncharted territories. His current focus centers around Kubernetes and the realm of automation, with a particular penchant for harnessing the power of VMware Tanzu and ArgoCD to streamline and optimize processes. In the fascinating journey of technology exploration, his homelab has flourished, expanding to a scale that rivals the capabilities of some enterprise-level cloud infrastructures.</p>",
         "company": "evoila",
