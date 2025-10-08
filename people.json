@@ -16418,7 +16418,7 @@
     },
     {
         "name": "Giorgi Keratishvili",
-        "bio": "<p>Giorgi is very actively participating in community He plays role as AWS Community Leader in Tbilisi also Ambassador for CD foundation, CNCF chapter lead also he conducts meetups to grow DevOps/SRE/Platform Engineering awareness in Georgian community.<p/><p>All about kubernetes and cloud native  </p>",
+        "bio": "<p><Giorgi is a seasoned IT professional with over a decade of experience spanning both Development and Operations. His expertise covers a wide range from baremetal infrastructure   to advanced automation of cloud, Agile transformations, container        orchestration, Platform Engineering, SRE, Incident Management, and Cloud Native maturity. Beyond his professional work, Giorgi is a passionate community leader. He serves as an AWS Community Builder & User Group Leader in Tbilisi, CNCF Chapter Lead and Golden            Kubestronaut, CDF Ambassador, IEEE Senior Member, and Ambassador for  the Institute of DevOps. He actively organizes meetups and workshops to foster awareness and growth in DevOps, SRE and Platform Engineering across the Georgian tech community and beyond. <p/><p>All    about kubernetes, cloud and AI native  </p>",
         "company": "EPAM Systems",
         "pronouns": "He/Him",
         "location": "Tbilisi, Georgia",
@@ -16431,9 +16431,29 @@
         "certdirectory": "https://certdirectory.io/profile/af109dac-e461-45b7-add9-db75dea99be6",
         "category": [
             "Kubestronaut",
+            "Ambassadors",
             "Golden-Kubestronaut"
         ],
         "slack_id": "George",
+        "languages": [
+            "English",
+            "Russian",
+            "Georgian"
+        ],
+        "projects": [
+            "Argo",
+            "Flux",
+            "Kyverno",
+            "Kubernetes",
+            "Prometheus",
+            "Falco",
+            "Kind",
+            "Cilium"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
         "image": "giorgi-keratishvili.jpg"
     },
     {
