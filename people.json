@@ -20089,9 +20089,11 @@
         "website": "",
         "youtube": "",
         "category": [
+            "Ambassadors",
             "Kubestronaut"
         ],
         "slack_id": "U020JJERTPD",
+        "languages":["Polish","English"],
         "projects": [
             "Argo",
             "Fluentd",
@@ -20099,7 +20101,10 @@
             "Helm",
             "Istio",
             "Kubernetes",
-            "Prometheus"
+            "Prometheus",
+            "Elastisys Welkin® based on Kubespray",
+            "Elastisys Welkin® based on Cluster API"
+
         ],
         "image": "jakub-krzywda.jpg"
     },
