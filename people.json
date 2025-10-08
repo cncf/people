@@ -10687,18 +10687,19 @@
     },
     {
         "name": "Daniel Drack",
-        "bio": "<p>I'm Daniel Drack, a DevOps engineer and community organizer from Graz, Austria. I work as a cloud-native consultant, teach at an Austrian university of applied sciences, and currently run the local CNCF chapter in Graz. Additionally, I'm one of the founders of Cloud Native Austria, the association hosting KCD Austria. I love speaking at conferences and meetups, solving technical challenges, and being part of the cloud-native community.</p>",
-        "company": "FullStackS GmbH",
+        "bio": "<p>I'm Daniel Drack, a DevOps engineer and community organizer from Graz, Austria. I work as a cloud-native consultant, teach at two Austrian universities of applied sciences, and currently run the local CNCF chapter in Graz. Additionally, I'm one of the founders of Cloud Native Austria, the association hosting KCD Austria/Cloud Native Days Austria. I love speaking at conferences and meetups, solving technical challenges, and being part of the cloud-native community.</p>",
+	"company": "FullStackS GmbH",
         "pronouns": "He/Him",
         "location": "Graz, Austria",
         "linkedin": "https://www.linkedin.com/in/drackthor/",
         "twitter": "",
-        "github": "",
+        "github": "https://github.com/DrackThor",
         "wechat": "",
         "website": "https://drackthor.me/",
         "youtube": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+	    "Ambassadors"
         ],
         "slack_id": "Daniel Drack",
         "image": "daniel-drack.jpg"
