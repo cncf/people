@@ -28032,6 +28032,19 @@
         "image": "magdalena-jablonska.jpg"
     },
     {
+        "name":"Mageshwaran Sekar",
+        "bio":"<p>Open source enthusiast, Senior DevOps Engineer with experience in implementing CNCF projects/tools including Kubernetes, Argo, etc. and an active community organizer in Kuala Lumpur</p>",
+        "company":"DÜRR NDT GmbH & Co. KG",
+        "pronouns":"He/Him",
+        "location":"Kuala Lumpur, Malaysia",
+        "linkedin":"https://linkedin.com/in/mageshwaransekar",
+        "github":"https://github.com/mageshwaransekar",
+        "projects": ["Kubernetes", "Argo", "OpenTelemetry"],
+        "category": ["Ambassadors"],
+        "slack_id": "U05PGHC1A0N",
+        "image":"mageshwaran-sekar.jpg"
+    },
+    {
         "name": "Mahamed Ali",
         "bio": "<p>I'm a Senior DevOps Engineer and a maintainer of Kubernetes and Knative. I'm working on improving the cloud infrastructure of the Kubernetes project for our contributors and end-users.  I'm also a member of the Kubestronaut program. </p>",
         "company": "Independent",
