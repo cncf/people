@@ -308,6 +308,25 @@
         "image": "abdullah-cosgun.jpg"
     },
     {
+        "name": "Abdullah Sowilah",
+        "bio": "<p>DevOps engineer focused on modernizing infrastructure and platform tooling. My specialties include Kubernetes, GitOps with ArgoCD, Helm, Terraform, and CNCF observability tooling. I design self-healing clusters, automate secure workload delivery, and strive to reduce developer cognitive load so teams ship faster and safer.</p>",
+        "company": "Universal Robots",
+        "pronouns": "He/Him",
+        "location": "Odense, Denmark",
+        "linkedin": "https://www.linkedin.com/in/linkedin.com/in/abdullahsowilah",
+        "twitter": "",
+        "github": "https://github.com/github.com/ihmdika",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "abdullah-sowilah.jpg"
+    },
+    {
         "name": "Abdulrahim Aljahdali",
         "bio": "<p>DevOps & Cloud Engineer</p>",
         "company": "",
@@ -647,35 +666,6 @@
         "image": "adarsh-r.jpg"
     },
     {
-        "name": "Adetokunbo Ige",
-        "bio": "<p> I am Platform Engineer and a Certified ISO 22301 Lead Implementer in Business Continuity, I bring a wealth of experience in Software Engineering, Enterprise Application Management, Server Infrastructure Management, Database Management, Incident Management, and Cloud Engineering. I holds a B.Sc in Computer Science from Babcock University and an M.Sc in Business Information Technology from Middlesex University. My technical proficiencies span various programming languages and tools including SQL Server, Oracle, MySQL, Docker, Kubernetes, and numerous scripting languages.</p>",
-        "company": "Planview",
-        "pronouns": "He/Him",
-        "location": "Vancouver, British Columbia, Canada",
-        "linkedin": "https://www.linkedin.com/in/igeadetokunbo/",
-        "twitter": "https://x.com/talk2toks",
-        "github": "https://github.com/ExitoLab",
-        "wechat": "",
-        "website": "https://igeadetokunbo.medium.com/",
-        "youtube": "",
-        "certdirectory": "https://certdirectory.io/profile/af47befe-c772-4d71-a8a6-04ee59b88394",
-        "category": ["Ambassadors"],
-        "projects":[ "Argo",
-        "Envoy",
-        "Fluentd",
-        "Flux",
-        "Helm",
-        "Prometheus",
-        "Kubernetes",
-        "Kyverno",
-        "Linkerd",
-        "Open Policy Agent"],
-        "languages": ["English"],
-        "email": "igeadetokunbo!gmail.com",
-        "slack_id": "igeadetokunbo@gmail.com",
-        "image": "adetokunbo_ige.jpg"
-    },
-    {
         "name": "Ademola Adedeji",
         "bio": "<p>I'm a DevOps/Site Reliability Engineer that specialises in innovative solutions across AWS, Azure, and GCP. I thrive on building designs around constraints. My expertise lies in implementing GitOps automation, optimising cloud infrastructure, and ensuring system security and stability.</p>",
         "company": "Deimos Cloud",
@@ -711,6 +701,41 @@
         ],
         "slack_id": "U0415ECRB4Y",
         "image": "ader-fu.jpg"
+    },
+    {
+        "name": "Adetokunbo Ige",
+        "bio": "<p> I am Platform Engineer and a Certified ISO 22301 Lead Implementer in Business Continuity, I bring a wealth of experience in Software Engineering, Enterprise Application Management, Server Infrastructure Management, Database Management, Incident Management, and Cloud Engineering. I holds a B.Sc in Computer Science from Babcock University and an M.Sc in Business Information Technology from Middlesex University. My technical proficiencies span various programming languages and tools including SQL Server, Oracle, MySQL, Docker, Kubernetes, and numerous scripting languages.</p>",
+        "company": "Planview",
+        "pronouns": "He/Him",
+        "location": "Vancouver, British Columbia, Canada",
+        "linkedin": "https://www.linkedin.com/in/igeadetokunbo/",
+        "twitter": "https://x.com/talk2toks",
+        "github": "https://github.com/ExitoLab",
+        "wechat": "",
+        "website": "https://igeadetokunbo.medium.com/",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/af47befe-c772-4d71-a8a6-04ee59b88394",
+        "category": [
+            "Ambassadors"
+        ],
+        "projects": [
+            "Argo",
+            "Envoy",
+            "Fluentd",
+            "Flux",
+            "Helm",
+            "Prometheus",
+            "Kubernetes",
+            "Kyverno",
+            "Linkerd",
+            "Open Policy Agent"
+        ],
+        "languages": [
+            "English"
+        ],
+        "email": "igeadetokunbo!gmail.com",
+        "slack_id": "igeadetokunbo@gmail.com",
+        "image": "adetokunbo_ige.jpg"
     },
     {
         "name": "Aditya Joshi",
@@ -1155,6 +1180,25 @@
         ],
         "slack_id": "",
         "image": "ahmed-essam-salem.jpg"
+    },
+    {
+        "name": "Ahmed Kamal Madani",
+        "bio": "<p>Ahmad Madani is a software engineer and Kubeastronaut with a strong focus on cloud-native technologies and DevOps practices. He enjoys working with Kubernetes, Docker, and Google Cloud Platform to build scalable and efficient systems. Ahmad shares his learning journey through articles on Medium https://medium.com/@ahmedkmadani</p>",
+        "company": "Mozn",
+        "pronouns": "He/Him",
+        "location": "Riyadh, Riyadh, Saudi Arabia",
+        "linkedin": "https://www.linkedin.com/in/ahmedkmadani/",
+        "twitter": "",
+        "github": "https://github.com/ahmedkmadani/",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/d52ff80e-7429-40ef-92dc-385eb4495d08",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09JY1K65TN",
+        "image": "ahmed-kamal-madani.jpg"
     },
     {
         "name": "Ahmed Mannai",
@@ -1697,6 +1741,25 @@
         "image": "aleksandar-ivanov.jpg"
     },
     {
+        "name": "Aleksander Didriksen",
+        "bio": "<p>Aleksander is a platform engineer with a passion for delivering a great end-user experience, whether it be in the cloud, on-premises, or in a hybrid cloud. He enjoys integrating the best open source and proprietary projects into internal development platforms, and making use automation to deliver these at scale. With extensive experience in national and international IT solutions in both legacy and modern architectures, he feels confident in solving even the most complex challenges.</p>",
+        "company": "Sopra Steria",
+        "pronouns": "He/Him",
+        "location": "Trondheim, Norway",
+        "linkedin": "https://www.linkedin.com/in/aleksander-did/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09KDJDCPFB",
+        "image": "aleksander-didriksen.jpg"
+    },
+    {
         "name": "Aleksandr Grigorenko",
         "bio": "<p>“I have been interested in computer technology for a long time. I have had the opportunity to work in telecom and 5G deployment. I am actively involved in sports and enjoy mountain hiking.</p>",
         "company": "Hewlett Packard Enterprise (HPE)",
@@ -2008,7 +2071,10 @@
         "github": "https://github.com/parraletz",
         "wechat": "",
         "website": "https://parraletz.space/",
-        "languages": ["English", "Spanish"],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
         "youtube": "",
         "category": [
             "Ambassadors"
@@ -4087,34 +4153,6 @@
         "image": "anh-tuan-pham.jpg"
     },
     {
-        "name":"Anita Ihuman",
-        "bio":"<p> Anita Ihuman is a developer advocate and community strategist with over 6+ years of experience driving contributions and growth of cloud-native tech and developer communities. Anita is a cloud evangelist promoting the growth and adoption of platform and cloud-native solutions across Africa, serving as an organizer for Kubernetes Community Days (KCD) Nigeria and the CNCF Abuja community group. She serves as a maintainer and Governing Board member at CHAOSS. She also contributes as an advisory board member at OpenUK, a member of the NumFOCUS DISC Committee, and proudly contributes to the DevNetwork Cloud Advisory Board—sharing insights that help shape the future of cloud technology.</p>",
-        "company":"Developer Advocate",
-        "pronouns":"She/Her",
-        "location":"Abuja, Nigeria",
-        "linkedin":"https://www.linkedin.com/in/anita-ihuman/",
-        "twitter":"https://x.com/Anita_ihuman",
-        "github":"https://github.com/Anita-ihuman",
-        "website":"https://anitaihuman.notion.site/Hey-I-m-Anita-Ihuman-972daab7c39a44b99d6ab92c5404df8f?source=copy_link",
-        "youtube":"https://www.youtube.com/@TechwithAnita",
-        "languages":["English"],
-        "projects":[
-            "meshery", 
-            "kyverno", 
-            "kubernetes"
-        ],
-        "category":[
-            "Ambassadors"
-        ],
-         "expertise": [
-            "Technical",
-            "Non-Technical"
-        ],
-        "email": "charlesanita403!gmail.com",
-        "slack_id": "U02FULX3YRH",
-        "image":"anita-ihuman.jpg"
-    }, 
-    {
         "name": "Aniello Serio",
         "bio": "<p>Hi all! I’m Aniello, a passionate advocate for Kubernetes, cloud-native technologies, and the open-source ecosystem.  I am deeply committed to promoting the adoption of Kubernetes and CNCF technologies through content sharing, open-source contributions, and active participation in community meetups.  I thrive on connecting with like-minded professionals, mentoring fellow enthusiasts, and engaging with the community.  My expertise lies in architecting and deploying scalable, reliable, and cloud-agnostic infrastructures and applications that adhere to cloud-native principles, as well as building Internal Developer Platforms (IDPs). I strongly leverage GitOps, DevOps best practices, and open-source solutions whenever possible, while maximizing the potential of the cloud.  I am dedicated to driving innovation in cloud-native technologies, contributing to the growth of this vibrant community, and expanding my network with fellow enthusiasts!</p>",
         "company": "",
@@ -4261,6 +4299,36 @@
         ],
         "slack_id": "U091SENCDCK",
         "image": "anish-bista-.jpg"
+    },
+    {
+        "name": "Anita Ihuman",
+        "bio": "<p> Anita Ihuman is a developer advocate and community strategist with over 6+ years of experience driving contributions and growth of cloud-native tech and developer communities. Anita is a cloud evangelist promoting the growth and adoption of platform and cloud-native solutions across Africa, serving as an organizer for Kubernetes Community Days (KCD) Nigeria and the CNCF Abuja community group. She serves as a maintainer and Governing Board member at CHAOSS. She also contributes as an advisory board member at OpenUK, a member of the NumFOCUS DISC Committee, and proudly contributes to the DevNetwork Cloud Advisory Board—sharing insights that help shape the future of cloud technology.</p>",
+        "company": "Developer Advocate",
+        "pronouns": "She/Her",
+        "location": "Abuja, Nigeria",
+        "linkedin": "https://www.linkedin.com/in/anita-ihuman/",
+        "twitter": "https://x.com/Anita_ihuman",
+        "github": "https://github.com/Anita-ihuman",
+        "website": "https://anitaihuman.notion.site/Hey-I-m-Anita-Ihuman-972daab7c39a44b99d6ab92c5404df8f?source=copy_link",
+        "youtube": "https://www.youtube.com/@TechwithAnita",
+        "languages": [
+            "English"
+        ],
+        "projects": [
+            "meshery",
+            "kyverno",
+            "kubernetes"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "email": "charlesanita403!gmail.com",
+        "slack_id": "U02FULX3YRH",
+        "image": "anita-ihuman.jpg"
     },
     {
         "name": "Ankit Kumar",
@@ -4435,6 +4503,25 @@
         ],
         "slack_id": "",
         "image": "anshuk-kesarwani.jpg"
+    },
+    {
+        "name": "Anson Lee",
+        "bio": "<p>Anson (Ho Sang) Lee is an enthusiastic Machine Learning Engineer, Software Developer and Kubernetes Developer. He brings your AI ideas into production. https://medium.com/@leehosanganson</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Reading, United Kingdom",
+        "linkedin": "https://www.linkedin.com/in/leehosanganson",
+        "twitter": "",
+        "github": "https://github.com/leehosanganson",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09K10GDA3C",
+        "image": "anson-lee.jpg"
     },
     {
         "name": "Anssi Järvinen",
@@ -6581,6 +6668,25 @@
         "image": "bartlomiej-kasprzak.jpg"
     },
     {
+        "name": "Bartłomiej Zapotoczny",
+        "bio": "<p>I'm Bartłomiej Zapotoczny, a DevOps engineer and cloud-native enthusiast. I’m passionate about Kubernetes, automation, and modern infrastructure. Beyond the technical side, I enjoy engaging with the DevOps and Kubernetes community, sharing knowledge, and continuously learning from others.</p>",
+        "company": "Rapidson",
+        "pronouns": "",
+        "location": "Kraków, Poland",
+        "linkedin": "https://www.linkedin.com/in/bartłomiej-zapotoczny-ab18a987/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "Bartłomiej Zapotoczny",
+        "image": "bartlomiej-zapotoczny.jpg"
+    },
+    {
         "name": "Barun Acharya",
         "bio": "<p>Barun likes hacking on low level stuff and fiddling around developer toolings. He maintains KubeArmor, a CNCF Sandbox project and currently works as a Software Engineer at Accuknox. He loves to talk about Open Source and has been associated with programs like Google Summer of Code and LFX Mentorship. Find his blogs at https://barun.cc</p><p>Why I am excited to be an ambassador: Becoming a CNCF Ambassador has heightened my enthusiasm to further promote, educate, and support the cloud-native community. Leveraging my prior experience as a speaker and maintainer, I am now even better positioned to advocate for and strengthen the ecosystem through advocacy and knowledge sharing.</p>",
         "company": "",
@@ -7202,6 +7308,25 @@
             "Argo"
         ],
         "image": "bhavani-indukuri.jpg"
+    },
+    {
+        "name": "Bhushan Rane",
+        "bio": "<p>Bhushan Rane is a DevOps, Platform Engineering, and Data specialist with hands-on experience across multi-cloud environments. He focuses on Kubernetes, ArgoCD, DevSecOps, and observability within CNCF ecosystems. Passionate about AI-driven automation and self-hosted infrastructure, he regularly experiments and shares learnings from his homelab projects. He is active in cloud-native communities and enjoys translating complex systems into practical solutions.</p>",
+        "company": "Ollion",
+        "pronouns": "He/Him",
+        "location": "Pune, India",
+        "linkedin": "https://www.linkedin.com/in/drtinkerer/",
+        "twitter": "https://x.com/drtinkerer",
+        "github": "https://github.com/drtinkerer",
+        "wechat": "",
+        "website": "https://cloudpoet.in/",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/d1c870ac-01c8-4233-8154-1f8979004711",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "@Bhushan Rane",
+        "image": "bhushan-rane.jpg"
     },
     {
         "name": "Bijoy Paul",
@@ -9303,7 +9428,10 @@
         "website": "",
         "youtube": "",
         "priority": "",
-        "languages":["Polish","English"],
+        "languages": [
+            "Polish",
+            "English"
+        ],
         "projects": [
             "CloudEvents",
             "KEDA",
@@ -9313,10 +9441,12 @@
             "Operator Framework",
             "Wasmtime"
         ],
-        "category":["Ambassadors"],
+        "category": [
+            "Ambassadors"
+        ],
         "email": "krzysztof.suszynski!gmail.com",
         "slack_id": "U01F7LP6EJD",
-        "image":"ksuszyns.jpg"
+        "image": "ksuszyns.jpg"
     },
     {
         "name": "Chris Werner Rau",
@@ -9371,6 +9501,25 @@
         ],
         "slack_id": "@Christian Lacsina",
         "image": "christian-alday-lacsina.jpg"
+    },
+    {
+        "name": "Christian Bieri",
+        "bio": "<p>I am a Site Reliability Engineer, specializing in Kubernetes, Linux, Docker, technologies from the CNCF landscape, cloud computing, and Python. By regularly attending conferences such as KubeCon + CloudNativeCon Europe and smaller meetups in Switzerland, I continuously broaden my knowledge in cloud-native technologies. Improving system reliability is close to my heart, and I enjoy collaborating with DevOps teams and IT architects to drive innovation forward.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Lucerne, Switzerland",
+        "linkedin": "https://www.linkedin.com/in/christian-bieri-7162381a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "christian-bieri.jpg"
     },
     {
         "name": "Christian Boon",
@@ -10484,6 +10633,25 @@
         "image": "damon-wright.jpg"
     },
     {
+        "name": "Dan Ardelean",
+        "bio": "<p>Passionate Cloud DevOps Engineer with over 12 years of experience delivering innovative solutions in cloud infrastructure.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Oradea, Bihor, Romania",
+        "linkedin": "https://www.linkedin.com/in/dan-ardelean-659baa60",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "dan-ardelean.jpg"
+    },
+    {
         "name": "Dan Farrall",
         "bio": "<p>Lead Platform Engineer @ Capgemini.  Dan has extensive experience in technical architecture and cloud solutions, specializing in designing and implementing scalable, resilient infrastructure that drives business transformation. With 10+ years of experience across energy, healthcare, and public sector organisations, he brings a wealth of industry knowledge to engagements. Dan is highly certified, posessing a broad range of technical prowess allowing him to bridge traditional domain boundaries and drive cross-functional teams in a leadership capacity. 27x Microsoft Certified | Kubestronaut | DevSecOps | Terraform | AWS SA | CCNA | VCP</p>",
         "company": "Capgemini",
@@ -10748,7 +10916,7 @@
     {
         "name": "Daniel Drack",
         "bio": "<p>I'm Daniel Drack, a DevOps engineer and community organizer from Graz, Austria. I work as a cloud-native consultant, teach at two Austrian universities of applied sciences, and currently run the local CNCF chapter in Graz. Additionally, I'm one of the founders of Cloud Native Austria, the association hosting KCD Austria/Cloud Native Days Austria. I love speaking at conferences and meetups, solving technical challenges, and being part of the cloud-native community.</p>",
-	"company": "FullStackS GmbH",
+        "company": "FullStackS GmbH",
         "pronouns": "He/Him",
         "location": "Graz, Austria",
         "linkedin": "https://www.linkedin.com/in/drackthor/",
@@ -10759,7 +10927,7 @@
         "youtube": "",
         "category": [
             "Kubestronaut",
-	    "Ambassadors"
+            "Ambassadors"
         ],
         "slack_id": "Daniel Drack",
         "image": "daniel-drack.jpg"
@@ -11817,6 +11985,25 @@
         "image": "dennis-kanbier.jpg"
     },
     {
+        "name": "Dennis Kaulbars",
+        "bio": "<p>I'm a Linux system engineer who loves working with Kubernetes and cloud-native technologies. Having spent my childhood exploring every computer-like device I could get my hands on, I turned my hobby into my profession after completing my electrical engineering studies. I started my career as a system administrator and first encountered Kubernetes in 2018. I have been fascinated by this incredible technology ever since. CNCF's Kubestronaut program will enable me to further develop my skills, and I'm looking forward to seeing what's coming next - starting with a great jacket!</p>",
+        "company": "Airbus Defence and Space GmbH",
+        "pronouns": "He/Him",
+        "location": "Manching, Bavaria, Germany",
+        "linkedin": "https://www.linkedin.com/in/dennis-kaulbars-18188377",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "Dennis Kaulbars",
+        "image": "dennis-kaulbars.jpg"
+    },
+    {
         "name": "Dennis Marinho De Paiva Reis",
         "bio": "<p>Dennis Reis is a seasoned Platform Engineer with over 16 years of experience in systems architecture and development, with the past 8 years focused on cloud-native and DevOps practices. He specializes in Kubernetes, Terraform, and observability stacks, with proven success leading infrastructure modernization initiatives in high-scale environments such as ASML and TomTom. Dennis brings deep expertise in CNCF technologies and platform automation across multi-cloud setups. His work bridges strategic architecture with hands-on engineering, enabling resilient, scalable, and secure systems.</p>",
         "company": "",
@@ -12361,20 +12548,31 @@
         "image": "dirk-michel.jpg"
     },
     {
-        "name":"Divine Akachukwu Odazie",
-        "bio":"<p>The Founder of EverythingDevOps, Divine Odazie, is a Developer Relations Professional and Technical Writer with over 8+ years of experience in Technology and a track record in Backend Engineering, DevOps, Cloud Native, and Developer Relations on a global scale. He has given talks/workshops at developer conferences like Open Source Summit Europe, KubeCon North America, Cloud Native Rejekts, and Ansible Contributor Summit. </p> <p>He also supports the cloud native community in Africa as a KCD (Kubernetes Community Days) Organizer, and other communities empowering Africa with Technology.</p>",
-        "company":"EverythingDevOps",
-        "pronouns":"he/him",
-        "location":"Port Harcourt, Rivers State, Nigeria",
-        "linkedin":"https://www.linkedin.com/in/divine-odazie/",
-        "twitter":"https://twitter.com/_odazie",
-        "github":"https://github.com/Kikiodazie",
-        "wechat":"",
-        "website":"https://www.everythingdevops.dev/",
-        "youtube":"",
-        "languages":["Igbo","English"], 
-        "projects":["cilium","kubernetes","Helm","prometheus", "kratix"],
-        "category":["Ambassadors"],
+        "name": "Divine Akachukwu Odazie",
+        "bio": "<p>The Founder of EverythingDevOps, Divine Odazie, is a Developer Relations Professional and Technical Writer with over 8+ years of experience in Technology and a track record in Backend Engineering, DevOps, Cloud Native, and Developer Relations on a global scale. He has given talks/workshops at developer conferences like Open Source Summit Europe, KubeCon North America, Cloud Native Rejekts, and Ansible Contributor Summit. </p> <p>He also supports the cloud native community in Africa as a KCD (Kubernetes Community Days) Organizer, and other communities empowering Africa with Technology.</p>",
+        "company": "EverythingDevOps",
+        "pronouns": "he/him",
+        "location": "Port Harcourt, Rivers State, Nigeria",
+        "linkedin": "https://www.linkedin.com/in/divine-odazie/",
+        "twitter": "https://twitter.com/_odazie",
+        "github": "https://github.com/Kikiodazie",
+        "wechat": "",
+        "website": "https://www.everythingdevops.dev/",
+        "youtube": "",
+        "languages": [
+            "Igbo",
+            "English"
+        ],
+        "projects": [
+            "cilium",
+            "kubernetes",
+            "Helm",
+            "prometheus",
+            "kratix"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
         "email": "dodazie!gmail.com",
         "slack_id": "U0394EM0RRB",
         "image": "divine-odazie.jpg"
@@ -12547,7 +12745,8 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/838d5e30-28fe-45ab-9d3e-36ae3b3ffea6",
         "category": [
-            "Kubestronaut", "Ambassadors"
+            "Kubestronaut",
+            "Ambassadors"
         ],
         "slack_id": "U08FR3A06UE",
         "image": "dmytro-slotvinskyi-1.jpg"
@@ -13423,6 +13622,25 @@
         "image": "eelke-hoffman.jpg"
     },
     {
+        "name": "Egy Ardian",
+        "bio": "<p>I’m a DevOps and Cloud Engineer with experience in automation, infrastructure management, and FinOps. My work spans Kubernetes operations, CI/CD engineering, and cloud cost optimization, where I’ve helped improve reliability, streamline deployments, and reduce costs. I enjoy research and innovation, mentoring teams, and leading workshops to share knowledge. Outside of work, I’m a normal guy who enjoys learning new technologies and experimenting with creative cloud-native solutions. also, I Love Cats.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Kota Bandung, Indonesia",
+        "linkedin": "https://www.linkedin.com/in/gyarlabs/",
+        "twitter": "",
+        "github": "https://github.com/gyarlabs",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/?p=55ea79cc-4fc9-4f4e-bf25-8bbdb18e64f6",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "egy-ardian.jpg"
+    },
+    {
         "name": "Ekrem Onur Gures",
         "bio": "<p>DevOps Engineer working with Linux, Kubernetes, Infrastructure Technologies, CI/CD.</p>",
         "company": "ING Hubs Turkiye",
@@ -13730,7 +13948,7 @@
         "slack_id": "",
         "image": "emil-hjelle.jpg"
     },
-        {
+    {
         "name": "Emily Chen",
         "bio": "<p>Emily is a sales/solutions engineer at Akuity and an Argo enthusiast. She is an active contributor to various CNCF projects, and an advocate for diversity and inclusion. She is involved with translation and localization of numerous documentations for open-source projects, including the CNCF Glossary.</p>",
         "company": "Akuity",
@@ -13744,7 +13962,7 @@
         "youtube": "",
         "languages": [
             "English",
-            "Chinese", 
+            "Chinese",
             "French"
         ],
         "category": [
@@ -13898,6 +14116,25 @@
         ],
         "slack_id": "U06HSQRAMS5",
         "image": "emidio-neto.jpg"
+    },
+    {
+        "name": "Enes Koc",
+        "bio": "<p>Enes Koç is a dedicated System Architect with a strong focus on Runtime and Cloud architecture. With an 18-year career in the industry, he specializes in Container Platforms, performance and optimization, monitoring and logging, and Infrastructure as Code (IaC). Enes holds the RHCA title and is now honored to join the Kubernetes community as a Kubestronaut.</p>",
+        "company": "GarantiBBVA Technology",
+        "pronouns": "He/Him",
+        "location": "Istanbul, Turkey",
+        "linkedin": "https://www.linkedin.com/in/eneskoc/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "enes-koc.jpg"
     },
     {
         "name": "Enrico Becker",
@@ -14255,6 +14492,25 @@
         ],
         "slack_id": "",
         "image": "erlend-leiknes.jpg"
+    },
+    {
+        "name": "Ertuğrul Safa Bağdatlı",
+        "bio": "<p>I am a devops engineer enjoys kubernetes. Working mostly on private clouds.</p>",
+        "company": "ASELSAN",
+        "pronouns": "He/Him",
+        "location": "Ankara, Turkey",
+        "linkedin": "https://www.linkedin.com/in/ertu%C4%9Frul-safa-ba%C4%9Fdatl%C4%B1-585b62201/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "ertugrul-safa-bagdatli.jpg"
     },
     {
         "name": "Erwin Espejo",
@@ -14628,9 +14884,9 @@
             "Kubestronaut"
         ],
         "languages": [
-    	    "Italian",
+            "Italian",
             "English",
-	        "Portuguese",
+            "Portuguese",
             "Spanish"
         ],
         "expertise": [
@@ -15614,6 +15870,25 @@
         ],
         "slack_id": "",
         "image": "frikk-johnsen.jpg"
+    },
+    {
+        "name": "Fumiya Toyama",
+        "bio": "<p>I'm a software engineer specializing in backend development, and in our company, much of the development is done within Kubernetes clusters.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Aichi, Japan",
+        "linkedin": "https://www.linkedin.com/feed/",
+        "twitter": "",
+        "github": "https://github.com/to-fumi",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "fumiya-toyama.jpg"
     },
     {
         "name": "Fábio Luciano",
@@ -17851,6 +18126,25 @@
         "image": "hein-htet-ko-ko.jpg"
     },
     {
+        "name": "Hemalatha Rambabu",
+        "bio": "<p> Solutions Architect with deep expertise in Kubernetes and AWS. Passionate about cloud-native technologies, infrastructure as code, and secure architecture design.</p>",
+        "company": "Cognizant Technology Solutions",
+        "pronouns": "She/Her",
+        "location": "Philadelphia, PA, United States",
+        "linkedin": "https://www.linkedin.com/in/hemalatha-rambabu/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "hemalatha-rambabu.jpg"
+    },
+    {
         "name": "Hemanth Ande",
         "bio": "<p>Hemanth is a solutions architect with focused expertise in Kubernetes orchestration and AWS cloud services. He has implemented production-grade k8s clusters across multi-region environments. His interests span Kubernetes, container security, service mesh, observability, and network policies. He has hands-on work with tools like Istio, Cilium, Falco, and Trivy.</p>",
         "company": "Amazon Web Services",
@@ -18201,6 +18495,25 @@
         ],
         "slack_id": "",
         "image": "hikaru-saito.jpg"
+    },
+    {
+        "name": "Himanshu Gaikwad",
+        "bio": "<p>My journey into cloud and DevOps began during my early days learning Linux in school, igniting a passion that continues to drive me today. I specialize in building scalable, reliable cloud solutions with Kubernetes at their core, backed by extensive experience across GCP and AWS.<p/><p>I'm constantly exploring emerging technologies and their potential to enhance cloud-native systems, always seeking ways to push the boundaries of what's possible in this evolving landscape.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Mumbai, Maharashtra, India",
+        "linkedin": "https://www.linkedin.com/in/himanshu-gaikwad/",
+        "twitter": "",
+        "github": "https://github.com/spookyintheam",
+        "wechat": "",
+        "website": "https://blog.spookyintheam.com/",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/c24d45a6-b0d4-4dea-88dd-b13da3db45e9",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "Himanshu Gaikwad",
+        "image": "himanshu-gaikwad.jpg"
     },
     {
         "name": "Hiroki Ikeda",
@@ -20349,7 +20662,10 @@
             "Kubestronaut"
         ],
         "slack_id": "U020JJERTPD",
-        "languages":["Polish","English"],
+        "languages": [
+            "Polish",
+            "English"
+        ],
         "projects": [
             "Argo",
             "Fluentd",
@@ -20360,7 +20676,6 @@
             "Prometheus",
             "Elastisys Welkin® based on Kubespray",
             "Elastisys Welkin® based on Cluster API"
-
         ],
         "image": "jakub-krzywda.jpg"
     },
@@ -20587,6 +20902,44 @@
         ],
         "slack_id": "",
         "image": "janakiram-msv.jpg"
+    },
+    {
+        "name": "Janelle Dougherty",
+        "bio": "<p>I've been a devops engineer for the last seven years. I love building, automating, and troubleshooting infrastructure across diverse environments. I'm passionate about all things kubernetes and cloud-native. And, absolutely love tinkering with things even though this usually means they get broken.</p>",
+        "company": "",
+        "pronouns": "She/Her",
+        "location": "Akron, Ohio, United States",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "janelle-dougherty.jpg"
+    },
+    {
+        "name": "Jang Hyunsuk",
+        "bio": "<p>HI </p>",
+        "company": "Hana TI ",
+        "pronouns": "",
+        "location": "Seoul, South Korea",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "jang-hyunsuk.jpg"
     },
     {
         "name": "Jang, Sung Il",
@@ -21363,6 +21716,25 @@
         ],
         "slack_id": "",
         "image": "jeroen-van-de-lockand.jpg"
+    },
+    {
+        "name": "Jerry Chan",
+        "bio": "<p>Interested in cloud native, networking, and security technologies.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Hong Kong, Hong Kong",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "jerry-chan.jpg"
     },
     {
         "name": "Jerry Lee",
@@ -23549,6 +23921,25 @@
         "image": "juan-jose-ruiz-romero.jpg"
     },
     {
+        "name": "Juho Saarinen",
+        "bio": "<p>I'm Test & DevOps Architect with wide interest and knowledge around Cloud technologies and providers. In addition to Linux Foundation certificates I hold also many certificates from AWS, Microsoft (both Azure and GitHub) and Google. As a consultant those certificates are not just on paper, but also utilized on actual customer cases directly.</p>",
+        "company": "Mavericks Software",
+        "pronouns": "He/Him",
+        "location": "Helsinki, Finland",
+        "linkedin": "https://www.linkedin.com/in/jjsaarinen/",
+        "twitter": "https://x.com/hifi_fi",
+        "github": "https://github.com/Hi-Fi",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/aca50c80-ae37-4303-8256-4c8036d1668c",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09JTGT5DPC",
+        "image": "juho-saarinen.jpg"
+    },
+    {
         "name": "Jules Pichon",
         "bio": "<p>With a keen interest in information security and automation, I am eager to discover and learn about the technologies of tomorrow. Perhaps the boundary between the worlds of cybersecurity and artificial intelligence is closer than it seems. Who knows?</p>",
         "company": "FDJ",
@@ -23656,6 +24047,25 @@
             "Ambassadors"
         ],
         "image": "juliano-costa.jpg"
+    },
+    {
+        "name": "Julien Fostier",
+        "bio": "<p>I'm a DevOps Engineer and Kubestronaut passionate about Kubernetes and cloud-native technologies.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Lille, Hauts-de-France, France",
+        "linkedin": "https://www.linkedin.com/in/julien-fostier",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09K1KP930S",
+        "image": "phippy.jpg"
     },
     {
         "name": "Julien Redel",
@@ -24438,6 +24848,25 @@
         "image": "kaiwen-yang.jpg"
     },
     {
+        "name": "Kaj Grant-Mathiasen",
+        "bio": "<p>Cloud Support Engineer with an academic background in Computer Engineering. Previous professional experience developing and maintaining distributed microservice-based cloud platforms. Extensive hands-on knowledge investigating, diagnosing, and quickly resolving mission-critical issues in both development pipelines and customer environments. Currently focused on expanding expertise with Linux administration/development and distributed system design as well as technologies such as Kubernetes, Ceph, OpenStack, and Juju.</p>",
+        "company": "Canonical",
+        "pronouns": "He/Him",
+        "location": "Toronto, Ontario, Canada",
+        "linkedin": "https://www.linkedin.com/in/kaj-grant-mathiasen/",
+        "twitter": "",
+        "github": "https://github.com/kajgm",
+        "wechat": "",
+        "website": "https://kajgm.com/",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "kaj-grant-mathiasen.jpg"
+    },
+    {
         "name": "Kamlesh Nandlal Koladiya",
         "bio": "<p>As an experienced DevOps Engineer, I specialize in collaborating with diverse clients on a wide range of projects, particularly in Network Automation, CI/CD pipelines, and Infrastructure as Code (IaC). My expertise in using Python and Ansible for automation, along with my skills in Kubernetes, Linux, and cloud technologies, enables me to design and manage efficient, scalable environments. Driven by a passion for exploring new technologies and solving complex challenges, I am committed to continuous learning and enjoy mentoring others in their technical journeys. I aim to foster a culture of innovation and collaboration, ensuring that each project benefits from cutting-edge solutions and best practices.</p>",
         "company": "NTT DATA, Inc.",
@@ -24568,6 +24997,25 @@
         ],
         "slack_id": "",
         "image": "phippy.jpg"
+    },
+    {
+        "name": "Karapet Andreasyan",
+        "bio": "<p>I'm a DevOps Engineer who enjoys working with complex cloud and Kubernetes environments. I’ve been working with cloud and server setups since 2010, and my passion for software engineering and internet networks goes back to my childhood. Over the years, I've focused on building secure, scalable, and automated platforms while continuously learning and solving new infrastructure challenges. Joining the Kubestronaut program feels like a great opportunity to deepen my Kubernetes expertise and grow alongside others who share the same passion.</p>",
+        "company": "Vacuumlabs",
+        "pronouns": "",
+        "location": "Yerevan, Armenia",
+        "linkedin": "https://www.linkedin.com/in/kandreasyan/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "karapet-andreasyan.jpg"
     },
     {
         "name": "Karen Chu",
@@ -26246,6 +26694,25 @@
         "image": "kotaro-inoue.jpg"
     },
     {
+        "name": "Kotaro Nishiuchi",
+        "bio": "<p>I am an SRE engineer specializing in performance-related non-functional requirements, with broad expertise in cloud-native technologies such as Kubernetes. I also have a solid background in observability and DevOps practices. In my free time, I manage a personal Kubernetes cluster at home and develop side projects written in Rust and Go and so on.</p>",
+        "company": "NTT DATA Group Corporation",
+        "pronouns": "He/Him",
+        "location": "Funabashi-city, Chiba-prefecture, Japan",
+        "linkedin": "",
+        "twitter": "https://x.com/Kotaro7750",
+        "github": "https://github.com/Kotaro7750",
+        "wechat": "",
+        "website": "https://gehirn.kotaro7750.net/",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "Display Name: Kotaro7750 , Member ID: U09HLQ2CNDB",
+        "image": "kotaro-nishiuchi.jpg"
+    },
+    {
         "name": "Kounoshin Kojiyama",
         "bio": "<p>I  work as a platform engineer at OPTAGE Inc.  I built a Kubernetes infrastructure within the company . And I aim to build an infrastructure that combines efficiency, scalability, and security, and to create a platform that is easy for developers to use. Definitely, I love and am enthusiastic about development that creates new value!</p>",
         "company": "OPTAGE Inc.",
@@ -26915,6 +27382,25 @@
         ],
         "slack_id": "",
         "image": "larry-lai-yanlin.jpg"
+    },
+    {
+        "name": "Lars Dold",
+        "bio": "<p>I’m an infrastructure expert with a strong passion for Linux and Kubernetes, always striving to keep systems clean, correct, and simple in line with the KISS principle. I enjoy optimizing infrastructure and helping teams build reliable, maintainable cloud-native environments. I regularly attend KubeCon Europe to stay connected with the CNCF community and the latest developments in Kubernetes. My focus is on practical, elegant solutions that make complex systems easier to understand and operate.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Tettnang, BW, Germany",
+        "linkedin": "https://www.linkedin.com/in/lars-dold",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09JKQMQQR5",
+        "image": "lars-dold.jpg"
     },
     {
         "name": "Lars Gerber",
@@ -28269,17 +28755,23 @@
         "image": "magdalena-jablonska.jpg"
     },
     {
-        "name":"Mageshwaran Sekar",
-        "bio":"<p>Open source enthusiast, Senior DevOps Engineer with experience in implementing CNCF projects/tools including Kubernetes, Argo, etc. and an active community organizer in Kuala Lumpur</p>",
-        "company":"DÜRR NDT GmbH & Co. KG",
-        "pronouns":"He/Him",
-        "location":"Kuala Lumpur, Malaysia",
-        "linkedin":"https://linkedin.com/in/mageshwaransekar",
-        "github":"https://github.com/mageshwaransekar",
-        "projects": ["Kubernetes", "Argo", "OpenTelemetry"],
-        "category": ["Ambassadors"],
+        "name": "Mageshwaran Sekar",
+        "bio": "<p>Open source enthusiast, Senior DevOps Engineer with experience in implementing CNCF projects/tools including Kubernetes, Argo, etc. and an active community organizer in Kuala Lumpur</p>",
+        "company": "DÜRR NDT GmbH & Co. KG",
+        "pronouns": "He/Him",
+        "location": "Kuala Lumpur, Malaysia",
+        "linkedin": "https://linkedin.com/in/mageshwaransekar",
+        "github": "https://github.com/mageshwaransekar",
+        "projects": [
+            "Kubernetes",
+            "Argo",
+            "OpenTelemetry"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
         "slack_id": "U05PGHC1A0N",
-        "image":"mageshwaran-sekar.jpg"
+        "image": "mageshwaran-sekar.jpg"
     },
     {
         "name": "Mahamed Ali",
@@ -30314,12 +30806,12 @@
         "company": "",
         "pronouns": "",
         "location": "Québec, Québec, Canada",
-        "linkedin":"https://www.linkedin.com/in/mathtieu-evrin/",
+        "linkedin": "https://www.linkedin.com/in/mathtieu-evrin/",
         "twitter": "",
         "bluesky": "",
         "github": "https://github.com/lekaf974",
         "slack_id": "U08BFFXNTN0",
-        "languages":[
+        "languages": [
             "French",
             "English"
         ],
@@ -30617,24 +31109,35 @@
         "image": "maxim-skakun.jpg"
     },
     {
-        "name":"Maxime Coquerel",
-        "bio":"<p>Maxime Coquerel is a Principal Cloud Security Architect driving cloud threat research, cloud security architecture, threat model and risk assessments across enterprise-scale designs. Passionate about knowledge sharing, he collaborates with cloud vendors and emerging startups to co-develop innovative cloud security solutions, while actively contributing to the global cloud-native community through mentoring, blogging, and community events to inspire secure and scalable adoption of CNCF technologies.</p>",
-        "company":"RBC - Royal Bank of Canada",
-        "pronouns":"He/Him",
-        "location":"Quebec, QC, Canada",
-        "linkedin":"https://www.linkedin.com/in/maximecoquerel/",
-        "twitter":"http://twitter.com/zig_max",
-        "github":"https://github.com/zigmax",
-        "wechat":"",
-        "website":"https://zigmax.net",
-        "youtube":"",
+        "name": "Maxime Coquerel",
+        "bio": "<p>Maxime Coquerel is a Principal Cloud Security Architect driving cloud threat research, cloud security architecture, threat model and risk assessments across enterprise-scale designs. Passionate about knowledge sharing, he collaborates with cloud vendors and emerging startups to co-develop innovative cloud security solutions, while actively contributing to the global cloud-native community through mentoring, blogging, and community events to inspire secure and scalable adoption of CNCF technologies.</p>",
+        "company": "RBC - Royal Bank of Canada",
+        "pronouns": "He/Him",
+        "location": "Quebec, QC, Canada",
+        "linkedin": "https://www.linkedin.com/in/maximecoquerel/",
+        "twitter": "http://twitter.com/zig_max",
+        "github": "https://github.com/zigmax",
+        "wechat": "",
+        "website": "https://zigmax.net",
+        "youtube": "",
         "bluesky": "https://bsky.app/profile/zigmax.bsky.social",
-        "languages":["English", "French"],
-        "projects":["Istio","Kubernetes","Kyverno","Open Policy Agent (OPA)","Prometheus"],
-        "category":["Ambassadors"],
+        "languages": [
+            "English",
+            "French"
+        ],
+        "projects": [
+            "Istio",
+            "Kubernetes",
+            "Kyverno",
+            "Open Policy Agent (OPA)",
+            "Prometheus"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
         "email": "max.coquerel!gmail.com",
         "slack_id": "UTDG7N0Q0",
-        "image":"maxime-coquerel.jpg"
+        "image": "maxime-coquerel.jpg"
     },
     {
         "name": "Maximilian Marschall",
@@ -30784,18 +31287,20 @@
         "image": "mayur-tendulkar.jpg"
     },
     {
-        "name":"Md Arif Hossen",
-        "bio":"<p>Arif is a Cloud, Platform, Cybersecurity, and AI Architect with over two decade of experience in telecom and cloud-native transformation. He is a passionate advocate for open source and community-driven innovation. As a community leader, Arif co-organizes Kubernetes User Group Bangladesh, Cloud Native Dhaka, and Cloud Native Rajshahi, fostering collaboration and knowledge-sharing across the region.</p>",
-        "company":"MetaHeed",
-        "pronouns":"he/him",
-        "location":"Dhaka, Bangladesh",
-        "linkedin":"https://www.linkedin.com/in/arifhossen/",
-        "twitter":"https://x.com/earihos",
-        "github":"https://github.com/arif332",
-        "wechat":"",
-        "website":"",
-        "youtube":"",
-        "languages":["English"],
+        "name": "Md Arif Hossen",
+        "bio": "<p>Arif is a Cloud, Platform, Cybersecurity, and AI Architect with over two decade of experience in telecom and cloud-native transformation. He is a passionate advocate for open source and community-driven innovation. As a community leader, Arif co-organizes Kubernetes User Group Bangladesh, Cloud Native Dhaka, and Cloud Native Rajshahi, fostering collaboration and knowledge-sharing across the region.</p>",
+        "company": "MetaHeed",
+        "pronouns": "he/him",
+        "location": "Dhaka, Bangladesh",
+        "linkedin": "https://www.linkedin.com/in/arifhossen/",
+        "twitter": "https://x.com/earihos",
+        "github": "https://github.com/arif332",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "languages": [
+            "English"
+        ],
         "projects": [
             "Argo",
             "Cilium",
@@ -30819,9 +31324,11 @@
             "Rook",
             "Vault"
         ],
-        "category":["Ambassadors"],
+        "category": [
+            "Ambassadors"
+        ],
         "slack_id": "U019P9KA2QY",
-        "image":"arif-hossen.jpg"
+        "image": "arif-hossen.jpg"
     },
     {
         "name": "Md Nasir Uddin",
@@ -32409,6 +32916,25 @@
         "image": "mohamed-anouar-khediri.jpg"
     },
     {
+        "name": "Mohamed Aziz Ben Yahia",
+        "bio": "<p>I’m a Cloud-Native AI Engineer specializing in Kubernetes, Docker, Argo, Cilium, Envoy, KGateway, KAgent, and AgentGateway.  My current focus is on integrating AI agents into cloud-native environments, tackling challenges around multi-tenancy, security, and reliability.</p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Évry, Île-de-France, France",
+        "linkedin": "https://www.linkedin.com/in/mohamed-aziz-ben-yahia/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "mohamed-aziz-ben-yahia-.jpg"
+    },
+    {
         "name": "Mohamed Chaaben",
         "bio": "<p>I'm DevOps Engineer at AWS. I build and scale cloud infrastructure using AWS and Kubernetes. My work focuses on implementing cloud-native technologies that deliver reliable, high-performance solutions for our customers.</p>",
         "company": "Amazon web services",
@@ -33358,6 +33884,25 @@
         ],
         "slack_id": "",
         "image": "muhammed-yakup-demirtas.jpg"
+    },
+    {
+        "name": "Munashe Murimi",
+        "bio": "<p>I’m Munashe Murimi, a DevOps enthusiast passionate about using cloud-native technologies to solve real-world problems. I’m especially interested in AI-driven DevOps, exploring how automation and machine learning can improve the way we build and manage systems. I enjoy learning from and contributing to the DevOps and CNCF communities, sharing insights that help others grow. My goal is to create solutions that empower teams to work smarter and innovate faster together.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Harare, Harare, Zimbabwe",
+        "linkedin": "https://www.linkedin.com/in/munashe-murimi-8b551b185",
+        "twitter": "",
+        "github": "https://github.com/munashe2804",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/0a0443a1-8daa-4e7b-ac0a-f56e803dd10d",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09JL49TS6T",
+        "image": "munashe-murimi.jpg"
     },
     {
         "name": "Munirathnakumar Sivaramakrishnan",
@@ -34606,6 +35151,25 @@
         "image": "nicolas-bayona.jpg"
     },
     {
+        "name": "Nida Rehman",
+        "bio": "<p>DevOps and Sr. Site Reliability Engineer. Passionate learner with experiences in varied technologies from Middleware  to Cloud DevOps, AWS, Kubernetes, Istio and so on. Always striving to master new technologies. Enthusiastic about sharing and mentoring</p>",
+        "company": "",
+        "pronouns": "She/Her",
+        "location": "Bengaluru, Karnataka, India",
+        "linkedin": "https://www.linkedin.com/in/nida-rehman-6219a819",
+        "twitter": "",
+        "github": "https://github.com/NidaRe",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "U09K431NJR4",
+        "image": "nida-rehman.jpg"
+    },
+    {
         "name": "Niels Heidbrink",
         "bio": "<p>Hello, everyone! My name is Niels, and I currently work as a Freelance DevOps/SRE Engineer in Hà Nội, Việt Nam. My role involves a diverse range of responsibilities that blend my technical expertise in Kubernetes and the Cloud with my passion for problem-solving. I thrive in fast-paced environments and find joy in creating efficient systems that streamline development processes and enhance collaboration between teams. Outside of work, I enjoy playing tennis or going to the gym and writing blog posts with my wife (found on heidbrink.dev). I am always excited about connecting with fellow professionals to exchange thoughts and ideas.</p>",
         "company": "dthn Technology (https://www.dthn.io/)",
@@ -35134,6 +35698,25 @@
         ],
         "slack_id": "",
         "image": "nijat-hasanli.jpg"
+    },
+    {
+        "name": "Obijah",
+        "bio": "<p>Cloud / DevOps engineer skilled in AWS, Azure, and GCP. Techie, Linux user, Kubernetes enthusiast. Aside from tech, a perpetual learner, tinkerer,  interested in cars, crypto, music, movies and travel. </p>",
+        "company": "",
+        "pronouns": "",
+        "location": "Houston, Texas, United States",
+        "linkedin": "https://www.linkedin.com/in/obijah/",
+        "twitter": "",
+        "github": "https://github.com/ohbster",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "obijah.jpg"
     },
     {
         "name": "Oktay Savdi",
@@ -40185,20 +40768,20 @@
         "image": "rishit-dagli.jpg"
     },
     {
-        "name":"Rob Kenefeck",
-        "bio":"I've been Automating toil in Linux for over 20 years, but when Kubernetes came along I was initially dismissive, after all I was already building everything in Containers with Docker and orchestrating in a variety of semi-manual ways. I've since come to appreciate all Kubernetes can do and also what its limitations are and when NOT to use it. I've taught DevOps courses and Kubernetes courses while also helping large enterprises setup internally managed Kubernetes platforms with a product based mindset. I believe that security is so fundamental to everything that we do, we shouldn't be shoving it in as an afterthought with DevSecOps",
-        "company":"ControlPlane",
-        "pronouns":"He/Him",
-        "location":"Melbourne, Australia",
-        "linkedin":"https://linkedin.com/in/robkenefeck",
-        "github":"https://github.com/rkenefeck",
+        "name": "Rob Kenefeck",
+        "bio": "I've been Automating toil in Linux for over 20 years, but when Kubernetes came along I was initially dismissive, after all I was already building everything in Containers with Docker and orchestrating in a variety of semi-manual ways. I've since come to appreciate all Kubernetes can do and also what its limitations are and when NOT to use it. I've taught DevOps courses and Kubernetes courses while also helping large enterprises setup internally managed Kubernetes platforms with a product based mindset. I believe that security is so fundamental to everything that we do, we shouldn't be shoving it in as an afterthought with DevSecOps",
+        "company": "ControlPlane",
+        "pronouns": "He/Him",
+        "location": "Melbourne, Australia",
+        "linkedin": "https://linkedin.com/in/robkenefeck",
+        "github": "https://github.com/rkenefeck",
         "certdirectory": "https://certdirectory.io/profile/410d8b76-1369-4e36-8e85-e61f99fc3190",
         "category": [
             "Ambassadors"
         ],
         "email": "rob.kenefeck!control-plane.io",
         "slack_id": "U01UM5QETM0",
-        "image":"rob-kenefeck.jpg"
+        "image": "rob-kenefeck.jpg"
     },
     {
         "name": "Rob Maas",
@@ -41545,6 +42128,25 @@
         ],
         "slack_id": "U08UBK22KJ8",
         "image": "ryota-morimoto.jpg"
+    },
+    {
+        "name": "Ryuhei Furuta",
+        "bio": "<p>I started my career as a backend engineer in 2020, mainly working with Go, Kotlin, and Java. I have extensive experience with Kubernetes and a deep interest in cloud-native technologies within the CNCF ecosystem. I look forward to connecting with the community.</p>",
+        "company": "UPSIDER Holdings, Inc.",
+        "pronouns": "He/Him",
+        "location": "Nagoya, Aichi, Japan",
+        "linkedin": "",
+        "twitter": "https://x.com/vkq2kgd9bs?s=11&t=Eq8z0mQ4gH2tgqagV32gLw",
+        "github": "https://github.com/Ryuheeeei",
+        "wechat": "",
+        "website": "https://engineering-logs.vercel.app",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "Ryuhei Furuta",
+        "image": "ryuhei-furuta.jpg"
     },
     {
         "name": "Ryuichiro Obi",
@@ -43292,6 +43894,25 @@
         "image": "sean-hanson.jpg"
     },
     {
+        "name": "Sean Harrington",
+        "bio": "<p>I'm Sean Harrington, a Staff SRE with a deep focus on observability and platform engineering. I spend my days working with Kubernetes, Prometheus, Thanos, and OpenTelemetry to build resilient systems.  I am passionate about demystifying complex systems and empowering development teams to operate their services with confidence.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Rochester, NH, United States",
+        "linkedin": "https://www.linkedin.com/in/harringtonsean/",
+        "twitter": "",
+        "github": "https://github.com/initharrington",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "@Sean Harrington / https://cloud-native.slack.com/archives/DMLTU643B",
+        "image": "sean-harrington.jpg"
+    },
+    {
         "name": "Sean Mcginnis",
         "bio": "<p>I have spent most of my career in the infrastructure space, working with both proprietary and open source solutions for infrastructure automation. My involvement in open source projects has allowed me to be involved in many different projects, from being a project lead, active presenter and evangelist, or just casual contributor. I have helped run local meetups for Open Infrastructure MN and MN Python User Group, and spoken at or supported other meetups and events around the world.</p>",
         "company": "Lambda",
@@ -43575,6 +44196,25 @@
         ],
         "slack_id": "",
         "image": "seito-miyazaki.jpg"
+    },
+    {
+        "name": "Semjon Nordmann",
+        "bio": "<p>Platform Engineer with expertise in building secure, scalable cloud-native solutions. Passionate about creating developer-friendly tooling that maintains security and compliance standards in containerized applications. Experienced in implementing GitOps workflows, infrastructure-as-code, service mesh architectures, and multi-cluster management strategies.</p>",
+        "company": "CGI",
+        "pronouns": "He/Him",
+        "location": "Bremen, Bremen, Germany",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "semjon-nordmann.jpg"
     },
     {
         "name": "Senee Tantaso",
@@ -44437,6 +45077,25 @@
         "image": "shivlal-sharma.jpg"
     },
     {
+        "name": "Shiyang Li",
+        "bio": "<p>Lead Cloud Engineer on a mission to architect the future of scalable infrastructure. I'm a results-driven technologist who believes the cloud is a canvas for innovation. I specialize in Kubernetes, DevOps, and turning complex problems into elegant, automated solutions. </p>",
+        "company": "Charles Schwab",
+        "pronouns": "He/Him",
+        "location": "Ann Arbor, Michigan, United States",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "jackli8402@gmail.com",
+        "image": "shiyang-li.jpg"
+    },
+    {
         "name": "Shogo Shimahara",
         "bio": "<p>Engineer based in Japan.  I have strong passion for learning cloud-native technologies. My current work involves advising usage and troubleshooting technical issues for managed Kubernetes and container-based services on Microsoft Azure.</p>",
         "company": "",
@@ -45078,31 +45737,33 @@
         ],
         "slack_id": "",
         "image": "simon-reddy-kommareddy.jpg"
-    },    
+    },
     {
-        "name":"Simon Schrotter",
-        "bio":"<p>Hi, I’m Simon Schrottner, dedicated to building vibrant communities and mentoring individuals in the cloud-native ecosystem. I’m primarily focused on OpenFeature, a vendor-neutral open standard for feature flag management, where I work to drive innovation and adoption. I’m deeply committed to open source and love contributing to projects that empower developers and organizations to embrace scalable, modern solutions. I also enjoy connecting with the global tech community, sharing knowledge, and collaborating on exciting cloud-native initiatives</p>",
-        "company":"Dynatrace",
-        "pronouns":"he/him",
-        "location":"Pernegg an der Mur, Austria",
-        "linkedin":"https://www.linkedin.com/in/aepfli/",
-        "twitter":"",
-        "github":"https://github.com/aepfli",
+        "name": "Simon Schrotter",
+        "bio": "<p>Hi, I’m Simon Schrottner, dedicated to building vibrant communities and mentoring individuals in the cloud-native ecosystem. I’m primarily focused on OpenFeature, a vendor-neutral open standard for feature flag management, where I work to drive innovation and adoption. I’m deeply committed to open source and love contributing to projects that empower developers and organizations to embrace scalable, modern solutions. I also enjoy connecting with the global tech community, sharing knowledge, and collaborating on exciting cloud-native initiatives</p>",
+        "company": "Dynatrace",
+        "pronouns": "he/him",
+        "location": "Pernegg an der Mur, Austria",
+        "linkedin": "https://www.linkedin.com/in/aepfli/",
+        "twitter": "",
+        "github": "https://github.com/aepfli",
         "bluesky": "https://bsky.app/profile/aepfli.bsky.social",
-        "wechat":"",
-        "website":"",
-        "youtube":"",
-        "languages":[
-            "German", 
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "languages": [
+            "German",
             "English"
         ],
-        "projects":[
-            "OpenFeature", 
+        "projects": [
+            "OpenFeature",
             "Keptn"
         ],
-        "category":["Ambassadors"],
+        "category": [
+            "Ambassadors"
+        ],
         "slack_id": "U04CAKX0944",
-        "image":"simon_schrottner.jpg"
+        "image": "simon_schrottner.jpg"
     },
     {
         "name": "Simone Bruzzese",
@@ -47263,6 +47924,35 @@
         "image": "taskin-nehir-dogan.jpg"
     },
     {
+        "name": "Tatiana Mikhaleva",
+        "bio": "Tatiana Mikhaleva is a <b>Docker Captain</b>, <b>GitKraken Ambassador</b>, <b>Notion Ambassador</b>, and <b>DevOps engineer</b> — the creator of <a href='https://devops.pink/'>DevOps.Pink</a>, a corner of the internet where cloud automation meets clarity, community, and a touch of pink rebellion.<br><br>She has years of experience working with <b>AWS</b>, <b>Azure</b>, <b>Kubernetes</b>, <b>Terraform</b>, and <b>Docker</b>, focusing on transforming messy, fragile systems into clean, automated, and reliable infrastructures that give engineers back their time and sanity.<br><br>Through DevOps.Pink, Tatiana has built a vibrant community that promotes inclusive, real-world DevOps learning — breaking down barriers and amplifying voices, especially women in tech. Her mission is to make DevOps <i>exciting instead of exhausting</i>, showing that cloud and containers can be a superpower.<br><br>Featured by Docker on their official YouTube channel, Tatiana shares practical, empowering insights through talks, tutorials, and creative content that makes tech feel human, approachable, and even fun.",
+        "company": "DevOps.Pink / Docker Captain / GitKraken Ambassador / Notion Ambassador",
+        "pronouns": "She/Her",
+        "location": "Toronto, Canada",
+        "linkedin": "https://www.linkedin.com/in/DevOpsPink/",
+        "twitter": "https://x.com/DevOpsPink",
+        "github": "https://github.com/DevOpsPink",
+        "wechat": "",
+        "website": "https://devops.pink/",
+        "youtube": "https://www.youtube.com/@DevOpsPink",
+        "priority": 10,
+        "languages": [
+            "English"
+        ],
+        "projects": [
+            "docker",
+            "kubernetes",
+            "cncf",
+            "devops"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "ask!devops.pink",
+        "slack_id": "",
+        "image": "tatiana-mikhaleva.jpg"
+    },
+    {
         "name": "Tawei Chen",
         "bio": "<p>I am an engineer with a deep passion for cloud-native technologies and am honored to have recently been awarded the Kubestronaut title by the CNCF.  My love for open source is rooted in its spirit of collaboration and innovation, and I am dedicated to leveraging Kubernetes technologies to solve complex challenges and build resilient, scalable modern applications.  This honor marks a new beginning, and I am eager to engage more deeply with the community, learn from peers worldwide, and contribute to this thriving ecosystem.</p>",
         "company": "",
@@ -47972,7 +48662,7 @@
         "youtube": "",
         "wechat": "",
         "website": "",
-        "languages":[
+        "languages": [
             "Portuguese",
             "English",
             "German"
@@ -50584,6 +51274,25 @@
         "image": "wajhat-syed.jpg"
     },
     {
+        "name": "Waqas Ahmad",
+        "bio": "<p>Waqas is a cloud and DevOps engineer with a growing interest in Kubernetes and CNCF technologies. He focuses on platform engineering, GitOps practices, and building efficient cloud-native environments. He enjoys learning from the community, attending meetups, and exploring open-source tools to deepen his expertise in the cloud-native ecosystem.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Hannover, Lower Saxony, Germany",
+        "linkedin": "https://www.linkedin.com/in/waqas-ahmad-23b92358/",
+        "twitter": "",
+        "github": "https://github.com/iamwaqasahmad",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "waqas-ahmad.jpg"
+    },
+    {
         "name": "Ward",
         "bio": "<p>I am a seasoned System Engineer with many years of experience managing software delivery. I am passionate about Linux, containers and networking.</p>",
         "company": "",
@@ -50762,14 +51471,14 @@
         "location": "Melbourne, Australia",
         "linkedin": "https://www.linkedin.com/in/wendyha-sut/",
         "twitter": "https://x.com/wendy_ha18",
-        "github":"https://github.com/wendy-ha18",
+        "github": "https://github.com/wendy-ha18",
         "slack_id": "U072Q1ZPVA7",
         "category": [
             "Ambassadors"
         ],
         "projects": [
             "etcd",
-            "Kubernetes"       
+            "Kubernetes"
         ],
         "expertise": [
             "Technical",
@@ -52332,6 +53041,25 @@
         "image": "yu-liu.jpg"
     },
     {
+        "name": "Yu Misaki",
+        "bio": "<p>I work at an enterprise company engaged in chemical product development, where I have served as an ML engineer, product owner, and backend engineer. Currently, I’m part of a team responsible for infrastructure and platform operations. I study Kubernetes as a personal interest, and I’ve built a home Kubernetes cluster as part of my journey toward platform engineering. Here is my technical blog: https://zenn.dev/yuu7751 .</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Yokohama, Kanagawa, Japan",
+        "linkedin": "https://www.linkedin.com/in/yu-misaki-101605261/",
+        "twitter": "",
+        "github": "https://github.com/yu-min3",
+        "wechat": "",
+        "website": "https://zenn.dev/yuu7751",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "https://cloud-native.slack.com/team/U09JZM165T4",
+        "image": "yu-misaki.jpg"
+    },
+    {
         "name": "Yu Saito",
         "bio": "<p>I am a solution engineer based in Japan, working with enterprise clients. My main focus is on Azure Kubernetes Service, but I am also passionate about Kubernetes in general. I have a strong interest in AI agents, application development, and DevOps. I enjoy exploring new technologies and applying them to solve complex problems.</p>",
         "company": "Microsoft",
@@ -52783,6 +53511,32 @@
         "image": "phippy.jpg"
     },
     {
+        "name": "Zaynul Abedin Miah",
+        "bio": "Cloud-native community leader, Co-Organizer Azure Tech Group Bangladesh and  AWS Cloud Club Captain at BRAC University, passionate about empowering students through open source and cloud technologies. As Bangladesh's first AWS Cloud Club to reach 1,238+ members, Zaynul has hosted global events featuring AWS leadership, trained 15+ tech professionals in cloud certifications in his study group, and organized KCD Chattogram 2024 with 2,000+ participants. Active contributor on <a href='https://dev.to/zaynul10'>dev.to</a> AWS and Microsoft tag moderation, <a href='https://community.aws/posts/zaynul10'>AWS Builder Center</a> technical blogs, and recognized in AWS PartyRock Hackathon. Driven by democratizing cloud-native education across South Asia, he bridges students with global ecosystems while promoting inclusive tech communities.",
+        "company": "BRAC University",
+        "pronouns": "he/him",
+        "location": "Dhaka, Bangladesh",
+        "linkedin": "https://www.linkedin.com/in/zaynul-abedin-miah/",
+        "twitter": "https://twitter.com/azaynul123",
+        "github": "https://github.com/azaynul10",
+        "wechat": "",
+        "website": "https://zaynul-abedin-miah.vercel.app/",
+        "youtube": "https://www.youtube.com/@zaynulabedinmiah",
+        "languages": [
+            "English",
+            "Bengali"
+        ],
+        "projects": [
+            "kubernetes"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "azaynul123!gmail.com",
+        "slack_id": "U06D02KK2E6",
+        "image": "zaynul-abedin-miah.jpg"
+    },
+    {
         "name": "Zdeněk Váňa",
         "bio": "<p>My agenda is taking care of team serving cloud platform and design it's architecture. I'm a cloud enthusiast who missed events and community in my area. So I have relaunched Cloud Native Prague meetups and I co-organize Kubernetes Community Days Czech & Slovak.</p><p>Why I am excited to be an ambassador: I'm honored to be an ambassador as I can help with spreading knowledge about fantastic cloud native technologies and connecting people with the same interest. It can help them to solve their issues instead of reinventing the wheel over and over again.</p>",
         "company": "Prusa Research a.s. / Freelance Cloud Consultant",
@@ -53050,33 +53804,33 @@
         "slack_id": "",
         "image": "zied.jpg"
     },
-        {
-        "name":"Ziyi Xie",
-        "bio":"<p>Xie Ziyi is an active Kubernetes community contributor focusing on documentation and storage.</p> <p>She is an organizer of the Cloud Native Community Japan, and serves as an instructor for new contributors at Kubernetes Upstream Training Japan.</p> <p>She has spoken at the Kubernetes Contributor Summit, KubeDay Japan, and KubeCon + CloudNativeCon Japan.</p>",
-        "company":"NEC Solution Innovators, Ltd.",
-        "pronouns":"She/Her",
-        "location":"Tokyo, Japan",
-        "linkedin":"https://www.linkedin.com/in/ziyiii-x/",
-        "twitter":"https://x.com/ziyii_xie",
-        "github":"https://github.com/ziyi-xie",
-        "wechat":"",
-        "website":"",
-        "youtube":"",
-        "priority":"",
-        "languages":[
+    {
+        "name": "Ziyi Xie",
+        "bio": "<p>Xie Ziyi is an active Kubernetes community contributor focusing on documentation and storage.</p> <p>She is an organizer of the Cloud Native Community Japan, and serves as an instructor for new contributors at Kubernetes Upstream Training Japan.</p> <p>She has spoken at the Kubernetes Contributor Summit, KubeDay Japan, and KubeCon + CloudNativeCon Japan.</p>",
+        "company": "NEC Solution Innovators, Ltd.",
+        "pronouns": "She/Her",
+        "location": "Tokyo, Japan",
+        "linkedin": "https://www.linkedin.com/in/ziyiii-x/",
+        "twitter": "https://x.com/ziyii_xie",
+        "github": "https://github.com/ziyi-xie",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "languages": [
             "Chinese",
             "Japanese",
             "English"
         ],
-        "projects":[
+        "projects": [
             "Kubernetes"
         ],
-        "category":[
+        "category": [
             "Ambassadors"
         ],
         "email": "ziyixie073!gmail.com",
         "slack_id": "XIE ZIYI (Zoey)",
-        "image":"ziyi-xie.jpg"
+        "image": "ziyi-xie.jpg"
     },
     {
         "name": "Zohaib Ul-Hassan",
@@ -53433,44 +54187,5 @@
         ],
         "slack_id": "",
         "image": "phippy.jpg"
-    },
-    {
-        "name": "Tatiana Mikhaleva",
-        "bio": "Tatiana Mikhaleva is a <b>Docker Captain</b>, <b>GitKraken Ambassador</b>, <b>Notion Ambassador</b>, and <b>DevOps engineer</b> — the creator of <a href='https://devops.pink/'>DevOps.Pink</a>, a corner of the internet where cloud automation meets clarity, community, and a touch of pink rebellion.<br><br>She has years of experience working with <b>AWS</b>, <b>Azure</b>, <b>Kubernetes</b>, <b>Terraform</b>, and <b>Docker</b>, focusing on transforming messy, fragile systems into clean, automated, and reliable infrastructures that give engineers back their time and sanity.<br><br>Through DevOps.Pink, Tatiana has built a vibrant community that promotes inclusive, real-world DevOps learning — breaking down barriers and amplifying voices, especially women in tech. Her mission is to make DevOps <i>exciting instead of exhausting</i>, showing that cloud and containers can be a superpower.<br><br>Featured by Docker on their official YouTube channel, Tatiana shares practical, empowering insights through talks, tutorials, and creative content that makes tech feel human, approachable, and even fun.",
-        "company": "DevOps.Pink / Docker Captain / GitKraken Ambassador / Notion Ambassador",
-        "pronouns": "She/Her",
-        "location": "Toronto, Canada",
-        "linkedin": "https://www.linkedin.com/in/DevOpsPink/",
-        "twitter": "https://x.com/DevOpsPink",
-        "github": "https://github.com/DevOpsPink",
-        "wechat": "",
-        "website": "https://devops.pink/",
-        "youtube": "https://www.youtube.com/@DevOpsPink",
-        "priority": 10,
-        "languages": ["English"],
-        "projects": ["docker", "kubernetes", "cncf", "devops"],
-        "category": ["Ambassadors"],
-        "email": "ask!devops.pink",
-        "slack_id": "",
-        "image": "tatiana-mikhaleva.jpg"
-    }
-    ,{
-    "name": "Zaynul Abedin Miah",
-    "bio": "Cloud-native community leader, Co-Organizer Azure Tech Group Bangladesh and  AWS Cloud Club Captain at BRAC University, passionate about empowering students through open source and cloud technologies. As Bangladesh's first AWS Cloud Club to reach 1,238+ members, Zaynul has hosted global events featuring AWS leadership, trained 15+ tech professionals in cloud certifications in his study group, and organized KCD Chattogram 2024 with 2,000+ participants. Active contributor on <a href='https://dev.to/zaynul10'>dev.to</a> AWS and Microsoft tag moderation, <a href='https://community.aws/posts/zaynul10'>AWS Builder Center</a> technical blogs, and recognized in AWS PartyRock Hackathon. Driven by democratizing cloud-native education across South Asia, he bridges students with global ecosystems while promoting inclusive tech communities.",
-    "company": "BRAC University",
-    "pronouns": "he/him",
-    "location": "Dhaka, Bangladesh",
-    "linkedin": "https://www.linkedin.com/in/zaynul-abedin-miah/",
-    "twitter": "https://twitter.com/azaynul123",
-    "github": "https://github.com/azaynul10",
-    "wechat":"",
-    "website": "https://zaynul-abedin-miah.vercel.app/",
-    "youtube": "https://www.youtube.com/@zaynulabedinmiah",
-    "languages": ["English", "Bengali"],
-    "projects": ["kubernetes"],
-    "category": ["Ambassadors"],
-    "email": "azaynul123!gmail.com",
-    "slack_id": "U06D02KK2E6",
-    "image": "zaynul-abedin-miah.jpg"
     }
 ]
