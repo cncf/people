@@ -14568,6 +14568,10 @@
         "youtube":"https://www.youtube.com/@FabrizioLazzaretti",
         "priority": 10,
         "languages":["German","English"],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
         "projects":["Helm", "Kubernetes", "CloudEvents", "Strimzi", "Backstage", "KEDA", "Knative", "WasmEdge Runtime", "NATS", "Prometheus", "Keycloak", "Istio"],
         "category":[
             "Ambassadors"
