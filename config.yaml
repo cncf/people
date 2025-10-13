@@ -222,6 +222,7 @@ repositories:
     teams:
       cncf-projects: admin
       cncf-tech-docs: admin
+      cncf-toc: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
