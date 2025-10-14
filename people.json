@@ -14870,6 +14870,31 @@
         "image": "fabricio-mariani.jpg"
     },
     {
+        "name":"Fabrizio Lazzaretti",
+        "bio":"<p>Fabrizio Lazzaretti is a Managing Consultant specializing in software architecture at Wavestone. He has over a decade of expertise in software architecture, development, and DevOps. He is a maintainer of the Cloud Native Computing Foundation (CNCF) project CloudEvents. Recognized for his proficiency as both a team player and leader in software development, architecture, and Scrum, he excels in dynamic work settings. His primary areas of expertise lie in event-driven architecture and microservice design within cloud environments. Currently, he is actively engaged in enterprise architecture within the insurance sector.</p>",
+        "company":"Wavestone",
+        "pronouns":"He/Him",
+        "location":"Zurich, Switzerland",
+        "linkedin":"https://www.linkedin.com/in/fabrizio-lazzaretti/",
+        "twitter":"https://x.com/LazzareFabrizio",
+        "github":"https://github.com/Lazzaretti",
+        "website":"https://lazzaretti.me",
+        "youtube":"https://www.youtube.com/@FabrizioLazzaretti",
+        "priority": 10,
+        "languages":["German","English"],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "projects":["Helm", "Kubernetes", "CloudEvents", "Strimzi", "Backstage", "KEDA", "Knative", "WasmEdge Runtime", "NATS", "Prometheus", "Keycloak", "Istio"],
+        "category":[
+            "Ambassadors"
+        ],
+        "email": "fabrizio!lazzaretti.me",
+        "slack_id": "UTV7ZGPAR",
+        "image":"fabrizio-lazzaretti.jpg"
+    },
+    {
         "name": "Fabrizio Sgura",
         "bio": "<p>Committed to innovation and new technologies, strong believer in cloud native and container orchestration. Participating in main events, both as speaker and attendant, actively spreading the CNCF principles and project. My job is my favorite game.</p>",
         "company": "Veritas Automata",
