@@ -23419,22 +23419,39 @@
     },
     {
         "name": "Joseph Sandoval",
-        "bio": "Joseph is the Principal Product Manager at Adobe, leading the Ethos platform team focused on developer experience with cloud-native infrastructure, traffic engineering, and API gateways. His expertise has directly supported thousands of developers in creating scalable and resilient applications. With over a decade of deep involvement in the Kubernetes and cloud-native ecosystems, Joseph currently serves as a Release Manager Associate within SIG-Release and has been a part of six Kubernetes release teams. Beyond his technical contributions, Joseph is dedicated to fostering diversity in tech. He actively mentors individuals from underrepresented groups, guiding them toward successful careers in open-source and technology sectors.",
-        "company": "Adobe",
+        "bio": "<p>I'm Joseph Sandoval, a Principal Product Manager at Adobe, where I lead product strategy for our internal developer platform. I've been in tech for over 25 years, working across large-scale infrastructure, DevOps, and site reliability engineering. I became an early Kubernetes end user back in 2013, before the 1.0 release, and I've been passionate ever since about helping others adopt and succeed with cloud native technologies.</p><p>I currently serve as co-chair of the CNCF Technical Advisory Board and as a KubeCon + CloudNativeCon co-chair for Atlanta 2025. Before that, I was part of the Kubernetes SIG Release team. These days, my focus is on AI and machine learning workloads and building agentic experiences both on our platform and for Adobe's users. You'll often find me at CNCF and AI/ML community events in the San Francisco Bay Area, where I love connecting with practitioners, sharing what I've learned, and supporting others in their cloud native journey.</p>",
+        "company": "Adobe Inc",
         "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/adobe.svg",
         "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--silver--adobe-member",
         "tab_role": "TAB Vice Chair",
-        "pronouns": "",
+        "pronouns": "he/him",
+        "location": "Pollock Pines, California, United States",
         "linkedin": "https://www.linkedin.com/in/josephrsandoval/",
         "twitter": "https://twitter.com/cloudtaquero",
-        "github": "",
+        "github": "https://github.com/jrsapi",
         "wechat": "",
         "website": "",
         "youtube": "",
-        "priority": "",
+        "priority": 10,
+        "languages": [
+            "English"
+        ],
+        "projects": [
+            "Prometheus",
+            "Kubernetes",
+            "Envoy",
+            "Cilium"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
         "category": [
+            "Ambassadors",
             "End User TAB"
         ],
+        "email": "joseph.r.sandoval!gmail.com",
+        "slack_id": "U0DS2L6E8",
         "image": "joseph-sandoval.jpg"
     },
     {
