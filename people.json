@@ -32309,8 +32309,33 @@
         "image": "michael.jpg"
     },
     {
+        "name":"Michael Foster",
+        "bio":"Michael Foster serves as the Community Lead for the open-source StackRox project and as a Senior Principal Technical Marketing Manager at Red Hat, based in Toronto. With a background in containers and Kubernetes adoption for large enterprises, he currently focuses on upskilling security teams to better utilize Kubernetes information for SOC teams. Michael played a pivotal role in creating the Cloud Native Glossary initiative and is an active organizer of CNCF Toronto Meetups. In his free time, he enjoys staying active through skiing, exploring Toronto's on his motorcycle, and tinkering with mechanical projects at home.",
+        "company":"Red Hat",
+        "pronouns":"He/Him",
+        "location":"Toronto, Canada ",
+        "linkedin":"https://www.linkedin.com/in/mfosterche/",
+        "twitter":"https://x.com/IdealUsrname",
+        "github":"https://github.com/IdealUsrname",
+        "youtube":"https://www.youtube.com/@staywiredin",
+        "languages":["English"],
+        "projects":[
+            "Cloud Native Glossary",
+            "Kubernetes"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "slack_id": "U01DN5W5ZD2",
+        "image":"michael-foster.jpg"
+    },
+    {
         "name": "Michael Göttsche",
-        "bio": "<p>I’m a DevSecOps engineer with deep expertise in Kubernetes and cloud infrastructure across AWS, Google Cloud, and on-premise environments. I design and operate secure, scalable platforms using Terraform, ArgoCD, and Helm to ensure stability and efficiency from development to production. My work focuses on automation, security, and reliability in modern cloud-native and hybrid setups.</p>",
+        "bio": "<p>I'm a DevSecOps engineer with deep expertise in Kubernetes and cloud infrastructure across AWS, Google Cloud, and on-premise environments. I design and operate secure, scalable platforms using Terraform, ArgoCD, and Helm to ensure stability and efficiency from development to production. My work focuses on automation, security, and reliability in modern cloud-native and hybrid setups.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Laboe, Schleswig-Holstein, Germany",
