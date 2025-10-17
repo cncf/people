@@ -160,6 +160,8 @@ repositories:
   - external_collaborators:
       LFCIBot: write
       cjyabraham: admin
+      marco-s: admin
+      LinuxAzzamean: admin
     name: cncf.io
   - external_collaborators:
       HashNuke: write
@@ -220,6 +222,7 @@ repositories:
     teams:
       cncf-projects: admin
       cncf-tech-docs: admin
+      cncf-toc: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
