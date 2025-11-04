@@ -32464,6 +32464,23 @@
         "image": "max-zeballos.jpg"
     },
     {
+        "name": "Maximilian Braun",
+        "bio": "<p>Maximilian Braun is an Engineering Manager at SAP where he leads a team of cloud native engineers at the forefront of the digital transformation from traditional enterprise IT to modern cloud-native platforms.</p><p>He was forged in the human cauldron of DevOps toil (including the genuinely terrifying Friday deployments), emerging with a perspective shaped by Infrastructure-as-Data principles and the DORA metrics ethos. He turned those hard-earned lessons into a philosophy: treat everything as code and data for full reproducibility and auditability, and let key metrics guide continuous improvement. The goal: to banish the fear from deployment days and elevate the developer experience.</p><p>Today, his work extends to the broader European technology landscape. He is a workstream lead in the European IPCEI-CIS initiative and a NeoNephos Ambassador, advocating for European interoperability and an ecosystem built together on an open-source digital commons. He also champions multiple CNCF and NeoNephos projects and initiatives with his team.</p><p>Looking ahead, Maximilian is focused on helping build a future where European digital sovereignty is not just a concept but a reality - powered by open, interoperable, and community-driven cloud technologies that empower the next generation of developers.</p>",
+        "company": "SAP",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/mxbraun/",
+        "twitter": "",
+        "github": "https://github.com/maximilianbraun",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "max-braun.jpg"
+    },
+    {
         "name": "Maxim Filipovich",
         "bio": "<p>I’m a Site Reliability Engineer, passionate about Kubernetes, cloud-native infrastructure, everything Linux-related, and open source. I love being on the cutting edge of technology and bringing things together that weren’t originally meant to be together. I am also fully AWS certified and a holder of the “Gold Jacket.”</p>",
         "company": "",
@@ -33152,6 +33169,26 @@
         ],
         "slack_id": "U09687ZFH8R",
         "image": "michael.jpg"
+    },
+    {
+        "name": "Michael Amundson",
+        "bio": "<p>Michael Amundson is a Distinguished Engineer in the Developer Experience organization at CVS Health. Michael steers the design and implementation of CAP, a fully managed self-service hosting and deployment platform used by software engineers to ship and operate business applications across the entire company. Prior to joining CVS, Michael was a Principal Engineer at Target Corporation, where he helped lead engineering efforts for the Target Application Platform.</p><p>Outside of work, Michael enjoys reverse engineering everything from network protocols to mobile apps. When the weather's cooperative, you'll find him hiking and biking on Minnesota's 1,300 miles of scenic trails or canoeing in its more than 10,000 lakes.</p>",
+        "company": "CVS Health",
+        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/hosted_logos/cvshealth.svg",
+        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--platinum--cvs-health-member",
+        "tab_role": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/michaelamundson",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "End User TAB"
+        ],
+        "image": "michael-amundson-headshot.jpg"
     },
     {
         "name": "Michael Foster",
@@ -52439,23 +52476,6 @@
             "Staff"
         ],
         "image": "vanessa-heric.jpg"
-    },
-    {
-        "name": "Vasu Chandrasekhara",
-        "bio": "Vasu is Vice President and Chief Architect on topics concerning the Cloud Native Strategy at SAP. Having always been accused of having his head in the clouds, he went on to make it his career. In his current role, he works with several cross-product initiatives to foster the cloud native mindset across engineering teams. In spite of having a very brown thumb, he went green by reaching into the bountiful cloud native and open source ecosystem and was instrumental in establishing Kubernetes (with Project Gardener) as the modern foundation at SAP. As a champion of cloud native development, advocating both inner and open source technologies, he aims to make innovation simpler for both SAP and its customers. Vasu holds a degree in Physics and Computer Science from the University of Osnabrück but refuses to be tied down to any geography. He prefers it in the cloud.",
-        "company": "SAP",
-        "pronouns": "He/Him",
-        "linkedin": "https://www.linkedin.com/in/vasu-chandrasekhara-b570202/",
-        "twitter": "https://twitter.com/vas1124",
-        "github": "https://github.com/vasu1124",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "vasu-chandrasekhara.jpg"
     },
     {
         "name": "Vasu Madaan",
