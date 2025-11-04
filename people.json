@@ -24968,10 +24968,10 @@
     },
     {
         "name": "Julia Furst Morgado",
-        "bio": "<p>Julia Furst Morgado is a Global Technologist - Office of the CTO at Veeam Software. With over five years of experience in the industry, her focus is on simplifying Cloud Native technologies by sharing her expertise and experiences. She is also committed to empowering communities as the organizer of the NY Code & Coffee Meetup and KubeHuddle conference, and by being an AWS Community Builder, a Women Techmakers Ambassador and a Girl Code Ambassador.</p><p>Why I am excited to be an ambassador: I strongly believe in raising awareness about how people can help the CNCF community beyond just coding, and encourage more individuals to get involved in whatever capacity they can. I am excited to produce content, promote cloud native technologies, participate in major events, and connect with global communities.</p>",
-        "company": "Veeam",
+        "bio": "<p>Julia is passionate about helping teams build reliable, observable, and scalable systems. At Dash0, she focuses on bridging the gap between technology and people, enabling organizations to understand their systems better and make data-driven decisions with confidence. Beyond her work, Julia is a CNCF Ambassador, AWS Container Hero, Docker Captain, Google Women Techmakers Ambassador, and Girl Code Ambassador. She’s an active community leader who helps organize Kubernetes Community Days New York, AWS Community Day New York, and the CNCF Midtown Meetup NYC, creating spaces where technologists can connect, learn, and grow together.</p>",
+        "company": "Dash0",
         "pronouns": "She/Her",
-        "location": "New York, United States",
+        "location": "Baltimore, United States",
         "linkedin": "https://www.linkedin.com/in/juliafmorgado",
         "twitter": "https://www.twitter.com/juliafmorgado",
         "github": "https://github.com/juliafmorgado",
@@ -24986,11 +24986,7 @@
             "French"
         ],
         "projects": [
-            "containerd",
-            "Crossplane",
-            "Istio",
-            "k3s",
-            "Knative",
+            "Opentelemetry",
             "Kubernetes",
             "Prometheus"
         ],
