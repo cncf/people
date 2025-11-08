@@ -5459,6 +5459,25 @@
         "image": "artem-bortnikov.jpg"
     },
     {
+        "name": "Artem Goriachev",
+        "bio": "<p>DevOps architect with more than 15 years of experience in IT industry. Kubernetes enthusiast and dedicated father.</p>",
+        "company": "Jet Infosystems",
+        "pronouns": "He/Him",
+        "location": "Zelenograd, Moscow, Russia",
+        "linkedin": "https://www.linkedin.com/in/artem-goriachev-398a6b72/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "artem-goriachev.jpg"
+    },
+    {
         "name": "Artem Lajko",
         "bio": "<p>I'm a Platform Engineer specializing in cloud-native technologies, with a keen interest in optimizing and streamlining operational frameworks. As a blogger and contributor, my writings on cloud-native tools attract 5-6 thousand reads per month, reflecting my deep involvement in the community. I'm also an author and the co-founder of CONNECTii, a platform designed to facilitate smooth networking among professionals. When I'm not immersed in technology, I enjoy staying active as a casual runner.</p>",
         "company": "Hamburg Port Authority ",
@@ -21596,14 +21615,24 @@
         "pronouns": "she/her",
         "location": "Valencia, Spain",
         "linkedin": "https://www.linkedin.com/in/jadelassery/",
-        "twitter":"",
+        "twitter": "",
         "github": "https://github.com/jlassery",
         "wechat": "",
         "website": "",
         "youtube": "",
-        "languages": ["Spanish","English", "Portuguese"],
-        "projects": ["prometheus","kubernetes","OpenTelemetry"],
-        "category": ["Ambassadors"],
+        "languages": [
+            "Spanish",
+            "English",
+            "Portuguese"
+        ],
+        "projects": [
+            "prometheus",
+            "kubernetes",
+            "OpenTelemetry"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
         "email": "jadellassery!gmail.com",
         "slack_id": "U05FGRK6RMY",
         "image": "jade-lassery.jpg"
