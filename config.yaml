@@ -513,6 +513,15 @@ repositories:
   - name: jp-translations
     settings:
       has_wiki: true
+  - name: k8s-ai-conformance
+    external_collaborators:
+      castrojo: admin
+      jeefy: admin
+      mfahlandt: admin
+      fedebongio: maintain
+      jagosan: maintain
+      janetkuo: maintain
+    visibility: public      
   - external_collaborators:
       riaankleinhans: admin
       cncf-ci: admin
