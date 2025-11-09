@@ -18,15 +18,6 @@ repositories:
   - teams:
       cncf-projects: admin
     name: migrate-maintainers
-  - name: k8s-ai-conformance
-    external_collaborators:
-      castrojo: admin
-      jeefy: admin
-      mfahlandt: admin
-      fedebongio: maintain
-      jagosan: maintain
-      janetkuo: maintain
-    visibility: public
   - name: ambassadors
   - external_collaborators:
       stevenphtan: admin
