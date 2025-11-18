@@ -1,0 +1,502 @@
+[33mcommit baa3c4a887f6a3e8465850dd307c28ce0e8137d2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: yanzakha <117249825+yanzakha@users.noreply.github.com>
+Date:   Tue Nov 18 12:14:21 2025 +0300
+
+    added Yan Zakharau photo
+    
+    Signed-off-by: yanzakha <117249825+yanzakha@users.noreply.github.com>
+
+[33mcommit 72450fad5a40d1b69bcae0142a0f9351b564c5a3[m
+Merge: 829496d a251739
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Sat Nov 15 10:38:14 2025 -0500
+
+    Merge pull request #1366 from takagiken/update-ken-takagi
+    
+    update personal info Ken Takagi
+
+[33mcommit a2517398111b70e7870650f1b8adf0e0ccbdfd38[m
+Author: takagiken <tkg1016@gmail.com>
+Date:   Sun Nov 16 00:05:33 2025 +0900
+
+    update personal info Ken Takagi
+
+[33mcommit 829496dd05be033478d9cfc11672f0c2aa6736df[m
+Merge: b8ad6cb 28b3baa
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Fri Nov 14 17:40:28 2025 -0500
+
+    Merge pull request #1365 from e2rabi/feature/update-personal-info
+    
+    Update my personal info
+
+[33mcommit 28b3baaae8352a4c57daaa9ac5e7e6464a704d1d[m
+Author: errabi ayoub <errabi.ayoub@gmail.com>
+Date:   Fri Nov 14 23:00:21 2025 +0100
+
+    Update my personal info
+    
+    Signed-off-by: errabi ayoub <errabi.ayoub@gmail.com>
+
+[33mcommit b8ad6cbbc6d4aa0abb363915d327aebdceda923a[m
+Merge: feed1a4 8536437
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Fri Nov 14 12:55:20 2025 -0500
+
+    Merge pull request #1364 from huats/kubestronauts-20251114
+    
+    Add Kubestronauts 20251114
+
+[33mcommit 8536437ba1ff11ed448581a81ef864fdac6cdc12[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Fri Nov 14 12:50:47 2025 -0500
+
+    Add Kubestronauts 20251114
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit feed1a4e6b801c1bf5859c6840258a3ad0ed0f25[m
+Author: Antoine Barthelemy <antoine.barthelemy@swan.io>
+Date:   Thu Nov 13 09:34:28 2025 +0100
+
+    fix(people): img and profile description update (#1363)
+    
+    Signed-off-by: Antoine Barthelemy <antoine@linux.com>
+
+[33mcommit 4b5944b75a6b17f08b96f8baf2aec7cdaa3e2a25[m
+Merge: 36ee73f c06d34c
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Wed Nov 12 18:14:26 2025 -0500
+
+    Merge pull request #1361 from nnzv/feature/enzo-venturi-ambassador
+    
+    feat(enzo-venturi): add ambassadors category
+
+[33mcommit 36ee73ff058cc7a40de190a0e75cfb6ffcfcdea0[m
+Merge: 211911e 69ac812
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Wed Nov 12 18:14:09 2025 -0500
+
+    Merge pull request #1362 from Ant0wan/fix/antoine-barthelemy-profile
+    
+    fix(people): img and profile description update
+
+[33mcommit 69ac8127282cc1405ebc674e7c640575aefd41c2[m
+Author: Antoine Barthelemy <antoine.barthelemy@swan.io>
+Date:   Wed Nov 12 22:52:53 2025 +0100
+
+    fix(people): img and profile description update
+    
+    Signed-off-by: Antoine Barthelemy <antoine@linux.com>
+
+[33mcommit c06d34c2b6b98c1572694c227e2b5f86b4b483b9[m
+Author: Enzo Venturi <enzo.venturi@rimac.com.pe>
+Date:   Wed Nov 12 15:18:13 2025 -0500
+
+    feat(enzo-venturi): add ambassadors category
+    
+    Signed-off-by: Enzo Venturi <nzventuri@proton.me>
+
+[33mcommit 211911e563bc7fb69a1438b4e337869e14461810[m
+Merge: 0834076 1086696
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Wed Nov 12 14:32:55 2025 -0500
+
+    Merge pull request #1360 from arturmkr/update_slack_id_artur_mkrtychian
+    
+    update slack_id artur mkrtychian
+
+[33mcommit 108669656efe74bf27c324b98e129e24ae6559a1[m
+Author: amkrtychian <artur.mkr@gmail.com>
+Date:   Wed Nov 12 20:28:47 2025 +0200
+
+    update slack_id artur mkrtychian
+    
+    Signed-off-by: amkrtychian <artur.mkr@gmail.com>
+
+[33mcommit 08340760870801a33756be1771698986b64a77e5[m
+Merge: 65d4cda 8b0e1c4
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Tue Nov 11 23:27:04 2025 -0500
+
+    Merge pull request #1359 from poalo1201/daisuke-watarai/fix-location
+    
+    location fixed
+
+[33mcommit 8b0e1c4c23388b6fadfeb2509a2e88c5188039db[m
+Author: daisuke.watarai <d.watarai10@gmail.com>
+Date:   Wed Nov 12 13:23:22 2025 +0900
+
+    location fixed
+
+[33mcommit 65d4cda5fab1490db442dee1b5469fd59594afc3[m
+Merge: 7a35e96 aaace29
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Tue Nov 11 23:02:47 2025 -0500
+
+    Merge pull request #1358 from ashishcomps/main
+    
+    Adding new profile image
+
+[33mcommit aaace291bed57ac364e901d43baf284c3bba9a26[m
+Author: Ashish Shah <ashishcomps@users.noreply.github.com>
+Date:   Wed Nov 12 09:30:34 2025 +0530
+
+    Adding new profile image
+    
+    Adding new profile image for Kubestronaut Ashish Shah
+    
+    Signed-off-by: Ashish Shah <ashishcomps@users.noreply.github.com>
+
+[33mcommit 7a35e96416b6e2ac2d27226cbc9c651760138311[m
+Author: cloudmesh42 <118007177+cloudmesh42@users.noreply.github.com>
+Date:   Tue Nov 11 00:04:13 2025 -0500
+
+    Adding Santosh Nukala slack id  people.json (#1357)
+    
+    Signed-off-by: santosh Nukala <santosh.nukala@charter.com>
+    Co-authored-by: santosh Nukala <santosh.nukala@charter.com>
+
+[33mcommit 2ca05bd5dffc978e52795bcefbb624c34d53cb8d[m
+Merge: 4b120d5 b4d912a
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Mon Nov 10 17:49:00 2025 -0500
+
+    Merge pull request #1354 from mohamadsalahdarwish/fix/location-format-cairo
+    
+    Fix: corrected location format from 'Cairo. Egypt' to 'Cairo, Egypt'
+
+[33mcommit 4b120d5f42e82e3a25a535ce31cdb7bf9915717a[m
+Merge: 2a8847d 369424c
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Mon Nov 10 17:48:40 2025 -0500
+
+    Merge pull request #1355 from kumar-venukrishnan/main
+    
+    updated photo with size adjustments
+
+[33mcommit 369424c311694335fef02a997e508e52b7633a26[m
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Tue Nov 11 06:24:33 2025 +0800
+
+    updated photo with size adjustments
+    
+    updated photo with size adjustments
+    
+    Signed-off-by: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+
+[33mcommit b4d912a2e197fc9cdaafddfdff9287a60cd94eb1[m
+Author: mohamadsalahdarwish <mohammaddarwish@Mohammads-MacBook-Pro.local>
+Date:   Mon Nov 10 23:07:13 2025 +0300
+
+    Fix: corrected location format from 'Cairo. Egypt' to 'Cairo, Egypt'
+    
+    Signed-off-by: mohamadsalahdarwish <mohammaddarwish@Mohammads-MacBook-Pro.local>
+
+[33mcommit 2a8847d88fa8efd8d59c52650f26ea2f2627e7fd[m
+Author: Chris Abraham <cjyabraham@gmail.com>
+Date:   Mon Nov 10 15:52:39 2025 +0700
+
+    Add staff and optimize images (#1353)
+    
+    Signed-off-by: Chris Abraham <cjyabraham@gmail.com>
+
+[33mcommit 3a49de62d6f5cdd8f9e3e609aaa0e89dc4f15f26[m
+Merge: 83e719a 3da8f60
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Mon Nov 10 01:55:52 2025 -0500
+
+    Merge pull request #1352 from kumar-venukrishnan/main
+    
+    update my photo with correct size
+
+[33mcommit 3da8f60780fc9e35d04b422d1c9d561d266e7b96[m
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Mon Nov 10 06:24:22 2025 +0800
+
+    updated with photo reduced size limit
+    
+    updated with photo reduced size limit
+    
+    Signed-off-by: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+
+[33mcommit c8d19475f5ca31ac378afc4b64da98f138d0716c[m
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Sun Nov 9 21:50:32 2025 +0800
+
+    Add files via upload
+    
+    Signed-off-by: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+
+[33mcommit a7514508df8d21b2036eb79a384e7140d60a46a0[m
+Merge: 8f8e4da 83e719a
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Sun Nov 9 21:49:52 2025 +0800
+
+    Merge branch 'cncf:main' into main
+
+[33mcommit 83e719a938ed235f12e789472614db9ea847cd23[m
+Merge: 639ce66 6ea8d77
+Author: Jeffrey Sica <jsica@linuxfoundation.com>
+Date:   Sat Nov 8 23:27:21 2025 -0500
+
+    Merge pull request #1351 from mfahlandt/patch-4
+    
+    Add k8s-ai-conformance
+
+[33mcommit 6ea8d77558cd2b9f07841065c102884f9277df5f[m
+Author: Mario <mfahlandt@pixel-haufen.de>
+Date:   Sun Nov 9 05:24:22 2025 +0100
+
+    Add k8s-ai-conformance
+    
+    Re Add k8s-ai-conformance with redirects fixed and on the correct place in the yaml
+    
+    Signed-off-by: Mario <mfahlandt@pixel-haufen.de>
+
+[33mcommit 639ce6638d95b721f4a5121cb014d77a6aad2592[m
+Merge: abcd3c1 984d1db
+Author: Jeffrey Sica <jsica@linuxfoundation.com>
+Date:   Sat Nov 8 23:17:51 2025 -0500
+
+    Merge pull request #1350 from mfahlandt/patch-3
+    
+    Remove 'k8s-ai-conformance'  for fixing redirect
+
+[33mcommit 984d1dbc74b2dee99b5022b0ea8607543e3cd59b[m
+Author: Mario <mfahlandt@pixel-haufen.de>
+Date:   Sun Nov 9 05:16:48 2025 +0100
+
+    Remove 'k8s-ai-conformance'  for fixing redirect
+    
+    Signed-off-by: Mario <mfahlandt@pixel-haufen.de>
+
+[33mcommit abcd3c1c2ec54c13a4ccf537dfa90f9c72745d66[m
+Merge: 65a39b6 4e6f939
+Author: Jeffrey Sica <jsica@linuxfoundation.com>
+Date:   Sat Nov 8 22:44:49 2025 -0500
+
+    Merge pull request #1349 from mfahlandt/patch-2
+    
+    Rename ai-conformance to k8s-ai-conformance
+
+[33mcommit 4e6f939e865392b4ed561517d4abe79e3cbbd2f6[m
+Author: Mario <mfahlandt@pixel-haufen.de>
+Date:   Sun Nov 9 04:39:48 2025 +0100
+
+    Rename ai-conformance to k8s-ai-conformance
+    
+    Signed-off-by: Mario <mfahlandt@pixel-haufen.de>
+
+[33mcommit 65a39b6e13a6fc5458b0809cebf7e7867a6609ce[m
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Sat Nov 8 22:12:29 2025 +0800
+
+    Add files via upload (#1348)
+    
+    update my photo with correct size requirements
+    
+    Signed-off-by: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+
+[33mcommit 8f8e4dad4e344438080907d0fa574e7065c443f6[m
+Author: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+Date:   Sat Nov 8 20:21:43 2025 +0800
+
+    Add files via upload
+    
+    update my photo with correct size requirements
+    
+    Signed-off-by: kumar-venukrishnan <85773539+kumar-venukrishnan@users.noreply.github.com>
+
+[33mcommit 8fed6ed0207e5e7b65cafb58e06a4d61d276f806[m
+Merge: 5710a02 530edc1
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Sat Nov 8 00:43:57 2025 -0500
+
+    Merge pull request #1347 from huats/Add_Kubestronaut
+    
+    Add missing Kubestronaut
+
+[33mcommit 530edc1f29301d11e9a4adce7018dbf623534154[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Sat Nov 8 00:42:54 2025 -0500
+
+    Add missing Kubestronaut
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit 5710a021acc37aa450e6adf2c58badfd44245f91[m
+Merge: d59b42f 6106102
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Sat Nov 8 00:03:33 2025 -0500
+
+    Merge pull request #1299 from jlassery/main
+    
+    "Adding Jade profile as new ambassador"
+
+[33mcommit d59b42ff4dbe931758a36f9d926b0fbf3aa941c2[m
+Merge: 4916eee e8794bd
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Fri Nov 7 17:56:12 2025 -0500
+
+    Merge pull request #1346 from huats/fix_country_name
+    
+    Fix country name
+
+[33mcommit e8794bd6dac810669ef12e23d5a1ae3246d9c422[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Fri Nov 7 17:50:23 2025 -0500
+
+    Fix country name
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit 61061027c9b87722a23d3889ef6d63812116bf2d[m
+Author: Jade L. Lassery <48845323+jlassery@users.noreply.github.com>
+Date:   Fri Nov 7 23:38:27 2025 +0100
+
+    DCO Remediation Commit for Jade L. Lassery <48845323+jlassery@users.noreply.github.com>
+    
+    I, Jade L. Lassery <48845323+jlassery@users.noreply.github.com>, hereby add my Signed-off-by to this commit: bd92f998ffd095c23b895a6caf83bb63ff361977
+    
+    Signed-off-by: Jade L. Lassery <48845323+jlassery@users.noreply.github.com>
+
+[33mcommit 4916eee5860732f2f8494ceffcbcb9014eaf6710[m
+Merge: 000fc23 b11e224
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Fri Nov 7 17:26:53 2025 -0500
+
+    Merge pull request #1345 from huats/kubestronauts-20251107
+    
+    Add Kubestronauts 20251107
+
+[33mcommit b11e22402888e9a4b43efe3f240780b9db14cff2[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Fri Nov 7 17:26:02 2025 -0500
+
+    Fix typo
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit 4d9ef2f9182b9e77c236d653411d2171616d6209[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Fri Nov 7 17:21:43 2025 -0500
+
+    Add Kubestronauts 20251107
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit bd92f998ffd095c23b895a6caf83bb63ff361977[m
+Author: Jade L. Lassery <48845323+jlassery@users.noreply.github.com>
+Date:   Fri Nov 7 23:17:19 2025 +0100
+
+    adjusting image to 100kb. Signed-off-by: Jade L. Lassery <48845323+jlassery@users.noreply.github.com>
+
+[33mcommit 000fc23f90c39c80d6820d7ad7fe8c05675aa2f5[m
+Merge: 8f145bb 83b7327
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Thu Nov 6 19:55:00 2025 -0500
+
+    Merge pull request #1344 from ihmdika/abdullah-sowilah
+    
+    update image/location; fix LinkedIn/GitHub; add Slack ID
+
+[33mcommit 83b73271008e75efb838a90f216ee71443eb91c6[m
+Author: Abdullah Sowilah <abdullah.sowilah@gmail.com>
+Date:   Thu Nov 6 17:00:41 2025 -0500
+
+    update image/location; fix LinkedIn/GitHub; add Slack ID
+
+[33mcommit 8f145bbffc5a8083267ca2612054ff7a68578dee[m
+Merge: 173933b 38039e9
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Thu Nov 6 12:45:34 2025 -0500
+
+    Merge pull request #1342 from huats/add_missing_golden
+    
+    Add missing Golden
+
+[33mcommit 38039e9346df3d456d6660a049902949341ab759[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Thu Nov 6 12:44:31 2025 -0500
+
+    Add missing Golden
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
+
+[33mcommit 173933b19e4ba361994934a81ad3de8e13e65f45[m
+Author: AndreiBrajnicov <andrei.brajnicov@gmail.com>
+Date:   Wed Nov 5 10:44:03 2025 +0200
+
+    Andrei Brajnicov: Fix country typo (#1341)
+
+[33mcommit 97883d15f6f27abd01bafc8fed7f45f3afd15434[m
+Merge: 538c2f2 717122d
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Tue Nov 4 13:44:07 2025 -0500
+
+    Merge pull request #1339 from acsgn/main
+    
+    Update bio, company and website
+
+[33mcommit 717122d1fd0c7c52328970407a7de45710b39a58[m
+Author: Abdullah Cosgun <acosgun16@ku.edu.tr>
+Date:   Tue Nov 4 21:39:40 2025 +0300
+
+    Update bio, company and website
+
+[33mcommit 538c2f2525f0722288238da9b8bf8b7998b540b9[m
+Merge: 00a02ba 1b69269
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Tue Nov 4 11:30:48 2025 -0500
+
+    Merge pull request #1338 from juliafmorgado/patch-1
+    
+    Edit Julia Furst Morgado profile
+
+[33mcommit 1b69269fd73fdd8fd01a147993092e0131030e02[m
+Author: Julia Furst Morgado <52685951+juliafmorgado@users.noreply.github.com>
+Date:   Tue Nov 4 11:26:09 2025 -0500
+
+    Edit Julia Furst Morgado profile
+
+[33mcommit 00a02ba285a93ba3e01268b3f408284da8564cf4[m
+Author: Chris Abraham <cjyabraham@gmail.com>
+Date:   Tue Nov 4 12:26:16 2025 +0700
+
+    fix image
+    
+    Signed-off-by: Chris Abraham <cjyabraham@gmail.com>
+
+[33mcommit e86f6195ca04133517fcfe0ecd1a395c8be9e2c1[m
+Author: Chris Abraham <cjyabraham@gmail.com>
+Date:   Tue Nov 4 12:24:28 2025 +0700
+
+    fix image
+    
+    Signed-off-by: Chris Abraham <cjyabraham@gmail.com>
+
+[33mcommit 124ea9628b513b21f2bc6bdb199ace45b81e7d86[m
+Author: Chris Abraham <cjyabraham@gmail.com>
+Date:   Tue Nov 4 12:12:32 2025 +0700
+
+    Update people (#1337)
+    
+    Signed-off-by: Chris Abraham <cjyabraham@gmail.com>
+
+[33mcommit 27648b7d38a7c924fa2cd4d483a9f7e308bf0abf[m
+Merge: 77cdc89 f731861
+Author: Christophe Sauthier <csauthier@linuxfoundation.org>
+Date:   Mon Nov 3 16:11:45 2025 -0500
+
+    Merge pull request #1336 from huats/goldenkubestronauts-20251103
+    
+    Kubestronauts 20251103
+
+[33mcommit f73186120363ce22ae53cbaa8f51c72ab0ef46ef[m
+Author: Christophe Sauthier <christophe.sauthier@gmail.com>
+Date:   Mon Nov 3 16:11:09 2025 -0500
+
+    Kubestronauts 20251103
+    
+    Signed-off-by: Christophe Sauthier <christophe.sauthier@gmail.com>
