@@ -33269,8 +33269,8 @@
     },
     {
         "name": "Mathieu Benoit",
-        "bio": "<p>I’m passionate about Cloud Native Computing technologies driven by Cloud, Security, Kubernetes and Platform Engineering. I’m one of the co-organizers of the CNCF&K8s Meetup in Quebec city (Canada). You will find some of my learnings in my personal blog: https://mathieu-benoit.github.io/ and in my Medium space: https://medium.com/@mabenoit.</p><p>Why I am excited to be an ambassador: Being a Cloud Native Ambassador will allow me to be closer to the CNCF community, and be connected to more mentors to grow my knowledge and as an individual too. It will also allow me to find more tips to promote content related to CNCF projects, and hopefully I will be able to help and inspire others to be more involved in this community.</p>",
-        "company": "Humanitec",
+        "bio": "<p>I'm passionate about Cloud Native Computing technologies driven by Cloud, Security, Kubernetes and Platform Engineering. I'm one of the co-organizers of the CNCF&K8s Meetup in Quebec city (Canada). You will find some of my learnings in my personal blog: https://mathieu-benoit.github.io/ and in my Medium space: https://medium.com/@mabenoit.</p><p>Why I am excited to be an ambassador: Being a Cloud Native Ambassador will allow me to be closer to the CNCF community, and be connected to more mentors to grow my knowledge and as an individual too. It will also allow me to find more tips to promote content related to CNCF projects, and hopefully I will be able to help and inspire others to be more involved in this community.</p>",
+        "company": "Docker",
         "pronouns": "He/Him",
         "location": "Québec, Canada",
         "linkedin": "https://www.linkedin.com/in/mathieubenoitqc/",
@@ -33288,7 +33288,9 @@
             "Kubernetes",
             "Kyverno",
             "Open Policy Agent (OPA)",
-            "ORAS"
+            "ORAS",
+            "Score",
+            "Dapr"
         ],
         "expertise": [
             "Technical"
