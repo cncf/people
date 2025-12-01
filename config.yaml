@@ -215,6 +215,7 @@ repositories:
       cncf-projects: admin
       cncf-tech-docs: admin
       cncf-toc: write
+      cncf-tag-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
@@ -1072,7 +1073,7 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-  - name: tag-leads
+  - name: cncf-tag-leads
     displayName: CNCF TAG Leads
     maintainers:
       - castrojo
