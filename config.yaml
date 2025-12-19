@@ -432,7 +432,7 @@ repositories:
       seb-835: write
       hanyuancheung: write
       huats: write
-      iamNoah1: admin
+      iamNoah1: write
       sajibAdhi: write
       inductor: write
       Jacob953: write
@@ -534,11 +534,13 @@ repositories:
   - external_collaborators:
       AudMonte01: admin
       hspease99: maintain
-      CsatariGergely: triage
-      maci3jka: triage
-      ramrodo: write
-      senthilrch: write
-      wrkode: triage
+      satyampsoni: triage
+      Saloni1814: triage
+      parraletz: triage
+      hazzim: triage
+      electrocucaracha: triage
+      abebars: triage
+      mageshwaransekar: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
   # But this is a quick fix to unblock Sheriff
