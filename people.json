@@ -17099,7 +17099,7 @@
     },
     {
         "name": "Eric D Schabell",
-        "bio": "<p>Eric is Chronosphere's Director Evangelism. He's renowned in the development community as a speaker, lecturer, author, baseball expert, and CNCF Ambassador. His current role allows him to help the world understand the challenges they are facing with observability. He brings a unique perspective to the stage with a professional life dedicated to sharing his deep expertise of open source technologies and organizations. More on https://speakerhub.com/speaker/eric-d-schabell</p><p>Why I am excited to be an ambassador: I'm excited to officially have the title of ambassador as I've been actively promoting a lot of the work they do for over a decade now.</p>",
+        "bio": "<p>Eric is renowned in the development community as a speaker, lecturer, author, baseball expert, open source maintainer and CNCF Ambassador. His chooses roles that allow him to help the world understand the challenges they are facing with cloud native, development, and observability. He brings a unique perspective to the stage with a professional life dedicated to sharing his deep expertise of open source technologies and organizations. More on https://speakerhub.com/speaker/eric-d-schabell</p><p>Why I am excited to be an ambassador: I'm excited to officially have the title of ambassador as I've been actively promoting a lot of the work they do for over a decade now.</p>",
         "company": "Chronosphere",
         "pronouns": "",
         "location": "Amsterdam, Netherlands",
@@ -17113,6 +17113,7 @@
         "languages": [],
         "projects": [
             "Fluent Bit",
+            "Kubernetes",
             "Argo",
             "containerd",
             "CRI-O",
@@ -17122,7 +17123,6 @@
             "Kubernetes",
             "OpenTelemetry",
             "OpenTracing",
-            "Operator Framework",
             "Prometheus"
         ],
         "expertise": [
