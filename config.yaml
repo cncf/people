@@ -685,6 +685,7 @@ repositories:
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
     external_collaborators:
+      cncf-automation-bot: write
       joshgav: write
     name: sandbox
     settings:
@@ -800,6 +801,8 @@ repositories:
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
       toc-project-reviews-subproject: write
+    external_collaborators:
+      cncf-automation-bot: write
   - name: toc-private
     teams:
       cncf-tab: write
