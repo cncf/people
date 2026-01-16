@@ -26983,8 +26983,8 @@
     },
     {
         "name": "Jimmy Song",
-        "bio": "<p>Jimmy Song(宋净超) is a developer advocate at Tetrate and founder of Cloud Native Community(China). He is an outstanding blogger and author of cloud native technical books. You can know him better from his blog jimmysong.io</p><p>Why I am excited to be an ambassador: I used to be the second Chinese to join the CNCF Ambassador program and then the CNCF Ambassador changed the rules of the game and I thought I should reapply.</p>",
-        "company": "Tetrate",
+        "bio": "<p>Jimmy Song(宋净超) is a practitioner and ecosystem builder in the field of AI Native Infrastructure, with a long-term focus on compute governance, GPU resource abstraction, and the evolution of cloud native systems in the AI era.</p> <p>He is a CNCF Ambassador and a long-time contributor to the cloud native ecosystem, with hands-on experience across projects such as Kubernetes, Envoy, and Istio. He is also the founder of Cloud Native Community China, where he has worked extensively to bridge open source communities, developers, and enterprises.</p><p>In recent years, Jimmy’s work has shifted deeper into infrastructure fundamentals, particularly around GPU sharing, scheduling, isolation, utilization, and cost control. He advocates treating compute — especially GPU — as a first-class, governable infrastructure resource, and actively contributes to building scalable, open ecosystems around this vision.</p><p>Jimmy is also an author and speaker, sharing insights on the intersection of cloud native technologies and AI infrastructure through writing, talks, and community initiatives.</p",
+        "company": "Dynamia.ai",
         "pronouns": "He/Him",
         "location": "Beijing, China",
         "linkedin": "https://www.linkedin.com/in/jimmysongio",
@@ -27002,7 +27002,8 @@
             "Argo",
             "Istio",
             "Kubernetes",
-            "Envoy"
+            "Envoy",
+            "HAMi"
         ],
         "expertise": [
             "Technical"
