@@ -25549,14 +25549,26 @@
     {
         "name": "Jakub Scholz",
         "bio": "<p>Jakub has a long experience with message-oriented middleware and currently focuses mainly on Apache Kafka and its integration with Kubernetes. He is one of the founders and maintainers of the Strimzi project. Strimzi provides operators and other tools to make running Apache Kafka on Kubernetes as easy as possible. He also likes to talk about anything related to Apache Kafka and Kubernetes.</p>",
-        "company": "Red Hat",
+        "company": "",
         "pronouns": "He/Him",
         "location": "Prague, Czech Republic",
+        "linkedin": "https://www.linkedin.com/in/scholzj/",
         "twitter": "https://twitter.com/scholzj",
         "github": "https://github.com/scholzj",
+        "bluesky": "https://bsky.app/profile/scholzj.bsky.social",
+        "website": "https://scholz.cz/",
+        "youtube": "https://www.youtube.com/@scholzj",
         "slack_id": "scholzj",
         "category": [
             "Ambassadors"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "languages": [
+            "Czech",
+            "English"
         ],
         "projects": [
             "Kubernetes",
