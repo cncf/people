@@ -3940,11 +3940,11 @@
     },
     {
         "name": "Anastasiia Gubska",
-        "bio": "<p>I'm an SRE/DevOps Engineer at BT Group and co-organizer of Deaf in Cloud Native, a meetup group focused on empowering Deaf and Hard of Hearing professionals in tech and cloud-native. Through my involvement in the Deaf and Hard of Hearing Working Group (DHHWG), I've contributed to best practices for inclusive, welcoming conferences and worked with the LF/CNCF to enhance accessibility across our ecosystem.</p>",
-        "company": "BT Group",
+        "bio": "<p>Anastasiia is a Lead Software Engineer at Chase UK, focusing on cloud-native ecosystems and software delivery best practices. She enjoys sharing practical insights on Argo and organizes the Deaf in Cloud Native meetup group, focused on empowering Deaf and Hard of Hearing professionals in the tech industry. Through her involvement in the Deaf and Hard of Hearing Working Group (DHHWG), she has contributed to best practices for inclusive, welcoming conferences, authored the interviewing DHH guide for the CNCF Accessibility chapter, and collaborates with the LF/CNCF to enhance accessibility across the ecosystem.</p>",
+        "company": "Chase UK",
         "pronouns": "She/Her",
-        "location": "Birmingham, United Kingdom",
-        "twitter": "https://twitter.com/",
+        "location": "London, United Kingdom",
+        "linkedin": "https://www.linkedin.com/in/anastasiia-gubska",
         "github": "https://github.com/anastasiia-gubska",
         "slack_id": "@gubska",
         "category": [
@@ -3952,8 +3952,6 @@
         ],
         "projects": [
             "Argo",
-            "Harbor",
-            "Helm",
             "k3s",
             "Kubernetes"
         ],
