@@ -216,6 +216,11 @@ repositories:
       cncf-tech-docs: admin
       cncf-toc: write
       cncf-tag-leads: write
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
