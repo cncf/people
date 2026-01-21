@@ -20,7 +20,7 @@ repositories:
     name: migrate-maintainers
   - external_collaborators:
       AudMonte01: admin
-  - name: ambassadors
+    name: ambassadors
   - external_collaborators:
       stevenphtan: admin
     name: api
