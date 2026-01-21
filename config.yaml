@@ -18,7 +18,9 @@ repositories:
   - teams:
       cncf-projects: admin
     name: migrate-maintainers
-  - name: ambassadors
+  - external_collaborators:
+      AudMonte01: admin
+    name: ambassadors
   - external_collaborators:
       stevenphtan: admin
     name: api
@@ -555,6 +557,8 @@ repositories:
       tao12345666333: triage
       aguirre-jes: triage
       halil-bugol: triage
+      rcronald: triage
+      roko1987-k8s: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
   # But this is a quick fix to unblock Sheriff
