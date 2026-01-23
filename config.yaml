@@ -680,10 +680,8 @@ repositories:
     name: radar
   - name: public-sector-user-group
     external_collaborators:
-      AlanHohn: admin
-      idunbarh: admin
       djmoch: admin
-      sfb103: admin
+      wcrum: admin
     settings:
       has_wiki: true
   - external_collaborators:
