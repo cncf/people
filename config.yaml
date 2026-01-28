@@ -46,11 +46,12 @@ repositories:
     name: awards
   - teams:
       clo-admins: admin
+  - external_collaborators:
+      nate-double-u: maintain
     name: banners
     visibility: private
   - external_collaborators:
       taylorwaggoner: admin
-      nate-double-u: maintain
     name: business-value
     settings:
       has_wiki: true
