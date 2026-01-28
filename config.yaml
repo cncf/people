@@ -47,9 +47,9 @@ repositories:
   - teams:
       clo-admins: admin
     name: banners
+    visibility: private
   - external_collaborators:
       nate-double-u: maintain
-    visibility: private
   - external_collaborators:
       taylorwaggoner: admin
     name: business-value
