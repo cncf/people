@@ -50,6 +50,7 @@ repositories:
     visibility: private
   - external_collaborators:
       taylorwaggoner: admin
+      nate-double-u: maintain
     name: business-value
     settings:
       has_wiki: true
