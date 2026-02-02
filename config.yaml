@@ -730,6 +730,12 @@ repositories:
     name: site-boilerplate
     settings:
       has_wiki: true
+  - name: staff
+    teams:
+      cncf-enduser-staff-core: write
+      cncf-projects: admin
+    external_collaborators:
+      cncf-automation-bot: write
   - external_collaborators:
       flanets: triage
       idvoretskyi: admin
