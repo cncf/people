@@ -6232,23 +6232,6 @@
         "image": "apinant-u-suwantim.jpg"
     },
     {
-        "name": "April Kyle Nassi",
-        "bio": "<p>April is a seasoned CNCF contributor with hands-on experience in Kubernetes, Istio, Knative, gRPC, and more. At Google's OSPO, she strategically guides projects to the right foundations for success. Passionate about open source in video game development, she manages several of Google's initiatives in this space.</p>\n\n<p>Beyond tech, April is an avid crafter, gamer, and devoted mom to two adorable Australian Shepherds.</p>",
-        "company": "Google",
-        "pronouns": "",
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "april-kyle-nassi.jpg"
-    },
-    {
         "name": "Arash Haghighat",
         "bio": "<p>Tech lead with a broad background across software engineering, infrastructure, and site reliability. I train engineers for CK* certifications and guide them in adopting cloud native practices end-to-end from architecture and platform engineering to observability and operations. I organize the SRE NL Meetup, helping build a strong reliability-focused community in the Netherlands. With hands-on experience across startups, enterprises, and consultancy, I enjoy bridging strategy and execution to drive sustainable technical growth.</p>",
         "company": "Xebia",
@@ -12844,25 +12827,6 @@
         ],
         "slack_id": "",
         "image": "cosme-cabello.jpg"
-    },
-    {
-        "name": "Craig Box",
-        "bio": "Craig is Senior Director of Developer Relations at cloud-native application networking company Solo.io, and a Steering Committee member for the Istio project.</p>\n\n<p>Prior to Solo, Craig had a number of roles at Google, including leading Google's participation in Istio, Head of GTM launching GKE, and leader of the Cloud Native developer relations team, responsible for Kubernetes, GKE and Anthos. He was the founder and co-host of the Kubernetes Podcast from Google, producing the top 20 show for over four years.</p>\n\n<p>Craig has worked with Cloud Native customers and communities since the launch of Kubernetes in 2014, and has delivered talks on 6 continents, including a KubeCon keynote. He started his career when DevOps was called ‘systems administration’, and has 20 years of experience in development, deployment, DevOps, consulting, advisory and management roles around the world.</p>",
-        "company": "Solo.io",
-        "toc_role": "",
-        "gb_role": "Developer Seat Rep",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/crbnz/",
-        "twitter": "https://twitter.com/craigbox",
-        "github": "https://github.com/craigbox",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "craig-box.jpg"
     },
     {
         "name": "Cristher Castro",
@@ -30794,24 +30758,6 @@
         "image": "https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg"
     },
     {
-        "name": "Justin Dustzadeh",
-        "bio": "<p>Justin Dustzadeh is the Chief Technology Officer at Equinix. In this role, Justin drives the company’s technology vision, strategy and architecture as well as the overall technical innovation and focus on software transformation and engagement within the developer community, including within the Linux Foundation.</p><p>Justin is an industry-recognized thought leader on cloud-native technologies and software-defined infrastructure and has a wealth of executive and technical leadership experience, including leadership roles at Uber (where he served as Head of Global Network & Software Platform), Visa, Huawei, Ericsson, AT&T, a technology startup which he co-founded, and two leading service providers in France.</p><p>He holds a Ph.D. and M.S. in Computer Science from Télécom Paris, and a B.S. in Theoretical Physics from École Normale Supérieure (Ulm) in Paris.</p>",
-        "company": "Equinix",
-        "gb_role": "Gold Member Rep",
-        "pronouns": "He/Him",
-        "linkedin": "",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "justin-dustzadeh.jpg"
-    },
-    {
         "name": "Justin Gilley",
         "bio": "<p>I enjoy the continual process of rethinking technology to produce better software.  Kubernetes is not just a container orchestration tool; Kubernetes is also a philosophy around how to build software for production.  As a person who graduated with a degree in philosophy and later transitioned into tech, I appreciate technologies such as Kubernetes that envision a better future by rethinking the status quo.</p>",
         "company": "BridgePhase LLC",
@@ -35406,6 +35352,25 @@
         "image": "liu,-ching-hung.jpg"
     },
     {
+        "name": "Liz Rice",
+        "bio": "<p>Liz Rice is Chief Open Source Officer with eBPF specialists Isovalent, now part of Cisco, and original creators of the Cilium cloud native networking, security and observability project. She is the author of Container Security, and Learning eBPF, both published by O'Reilly. She was Chair of the CNCF's Technical Oversight Committee in 2019-2022, and Co-Chair of KubeCon + CloudNativeCon in 2018.</p><p>She has a wealth of software development, team, and product management experience from working on network protocols and distributed systems, and in digital technology sectors such as VOD, music, and VoIP. When not writing code, or talking about it, Liz loves riding bikes in places with better weather than her native London, competing in virtual races on Zwift, and making music under the pseudonym Insider Nine.</p>",
+        "company": "Isovalent",
+        "pronouns": "",
+        "gb_role": "Developer Seat Rep",
+        "linkedin": "https://linkedin.com/in/lizrice",
+        "twitter": "",
+        "github": "http://www.github.com/lizrice",
+        "bluesky": "https://bsky.app/profile/lizrice.bsky.social",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "liz-rice.jpg"
+    },
+    {
         "name": "Lize Cai",
         "bio": "<p>Lize is a senior software engineer at SAP, based in Singapore. With a strong product mindset, Lize has extensive experience in building enterprise-grade machine learning platforms. A passionate advocate for open source technology, Lize actively contributes to various projects, including KServe, Fluid, and OpenFunction, demonstrating a commitment to fostering collaboration and innovation within the developer community.</p>",
         "company": "SAP",
@@ -39346,14 +39311,16 @@
     },
     {
         "name": "Max Körbächer",
-        "bio": "<p>Max is Co-Founder and Cloud Native Advocate at Liquid Reply. He is Co-Chair of the CNCF Environmental Sustainability Technical Advisory Group and served 3 years at the Kubernetes release team. His focus is on designing and building cloud-native solutions on/with Kubernetes anywhere and the platform engineering to simplify the current challenges of complex systems. He runs the Munich Kubernetes Meetup as well as the Munich and Ukraine Kubernetes Community Days.</p><p>Why I am excited to be an ambassador: Being an ambassador is a sign that working with the community and being part of the community is a high value, empowering anyone to join and be part of it. And as ambassadors, we are potentially the enabler to guide people but also motivate others to share their experiences to create a synergy. I'm also excited to meet other ambassadors in person and maybe create new ideas and events.</p>",
+        "bio": "<p>Max Körbächer is the Founder and Chief Technology Advisor at Liquid Reply. He is serving as a CNCF Ambassador, a member of the Linux Foundation Europe Advisory Board, and Founder and Emeritus Lead of the former CNCF Environmental Sustainability TAG.</p><p>His expertise centers on Platform Engineering, which he uses to simplify complex systems in the cloud and AI space, a topic he details in his book, <em>Platform Engineering for Architects</em>. Max is also a dedicated community leader, notably organizing the Cloud Native Days (formerly KCD) in Munich & Ukraine, and the Kubernetes & Cloud Native Meetup in Munich.</p>",
         "company": "Liquid Reply",
         "pronouns": "He/Him",
+        "gb_role": "Silver Member Rep",
         "location": "Munich, Germany",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/maxkoerbaecher/",
         "twitter": "https://www.twitter.com/mkoerbi",
         "github": "https://github.com/mkorbi",
         "wechat": "",
+        "bluesky": "https://bsky.app/profile/mkorbi.bsky.social",
         "website": "",
         "youtube": "",
         "slack_id": "mkorbi",
@@ -39392,7 +39359,8 @@
             "Non-Technical"
         ],
         "category": [
-            "Ambassadors"
+            "Ambassadors",
+            "Governing Board"
         ],
         "image": "max-korbacher.jpg"
     },
@@ -40895,6 +40863,23 @@
             "End User TAB"
         ],
         "image": "mike-bowen.jpg"
+    },
+    {
+        "name": "Mike Bufano",
+        "bio": "<p>Mike is a Program Manager within Google’s Open Source Programs Office (OSPO), where he manages the strategic partnerships and foundation memberships that support Google’s open-source ecosystem. His work focuses on the intersection of ecosystem governance, corporate strategy, and community sustainability. Mike is also a dedicated proponent of driving diversity, equity, and inclusion initiatives across the technology industry. Outside of work, he loves bringing people together over a home-cooked meal, hunting for the best karaoke spots, and exploring the unexpected corners of New York City.</p>",
+        "company": "Google",
+        "pronouns": "he/him",
+        "linkedin": "http://www.linkedin.com/in/mike-bufano",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "mike-bufano.jpg"
     },
     {
         "name": "Mike Conrad",
@@ -61358,24 +61343,6 @@
         "image": "thomas-cailhe.jpg"
     },
     {
-        "name": "Thomas Di Giacomo",
-        "bio": "<p>Thomas Di Giacomo is Chief Technology and Product Officer for SUSE, where he leads our global Office of the CTO and Product and Solution Management. His team covers SUSE’s entire portfolio of products as well as innovation priorities. He is also responsible for driving and guiding SUSE’s current and future technology and solutions, and for sharing SUSE’s vision with customers, partners, and key industry stakeholders.</p>\n<p style=\"font-weight: 400;\">Prior to his role, Thomas was SUSE’s President of Engineering & Innovation and was responsible for the rapid growth of SUSE’s expanding portfolio. He has over 20 years of experience in the IT industry, serving in various global leadership and executive roles in engineering and product innovation.</p>\n<p>Thomas holds a Ph.D. in Computer Science from the University of Geneva, and lives in France.</p>",
-        "company": "SUSE",
-        "gb_role": "Silver Member Rep",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/thomasdigiacomo/?originalSubdomain=ch",
-        "twitter": "https://twitter.com/t_di_g?lang=en",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Governing Board"
-        ],
-        "image": "thomas-di-giacomo.jpg"
-    },
-    {
         "name": "Thomas Johansen",
         "bio": "<p>Coming from a VMware operations/administration/automation background I have been working with kubernetes for the past 2 years and I finally have the proper knowledge and confidence in manouvering around in the bewildering world of cloud native.</p>",
         "company": "Helse Nord IKT",
@@ -66390,6 +66357,24 @@
         ],
         "slack_id": "",
         "image": "xu-jin'an.jpg"
+    },
+    {
+        "name": "Xu Wang",
+        "bio": "<p>Xu Wang is the vice chair of the Ant Group Open Source Technology Committee and also the head of the Container Infrastructure team. Xu joined Ant Group in 2019, and currently he is responsible for the development of the container-based Cloud-Native infrastructure and the open-source related strategies of Ant Group. His team is maintaining CNCF project Dragonfly, Modelpack, and OIF project Kata containers, and contributing to CNCF project containerd, Harbor, and Linux kernel as well.</p><p>Before joining Ant Group, Xu was the CTO and co-founder of hyper.sh, a startup on secure container runtime technology, and launched Kata Containers project together with Intel and OIF in 2017.</p>",
+        "company": "Ant Group",
+        "pronouns": "",
+        "gb_role": "Gold Member Rep",
+        "linkedin": "https://www.linkedin.com/in/gnawux/",
+        "twitter": "https://x.com/gnawux",
+        "github": "https://github.com/gnawux",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "xu-wang.jpg"
     },
     {
         "name": "Xuqi Yang",
