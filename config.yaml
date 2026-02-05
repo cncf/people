@@ -18,7 +18,9 @@ repositories:
   - teams:
       cncf-projects: admin
     name: migrate-maintainers
-  - name: ambassadors
+  - external_collaborators:
+      AudMonte01: admin
+    name: ambassadors
   - external_collaborators:
       stevenphtan: admin
     name: api
@@ -216,6 +218,11 @@ repositories:
       cncf-tech-docs: admin
       cncf-toc: write
       cncf-tag-leads: write
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
@@ -382,6 +389,7 @@ repositories:
       taylorwaggoner: admin
       joannalee333: admin
       nate-double-u: write
+      eliza-power: write
     name: foundation
   - external_collaborators:
       lucperkins: admin
@@ -432,7 +440,7 @@ repositories:
       seb-835: write
       hanyuancheung: write
       huats: write
-      iamNoah1: admin
+      iamNoah1: write
       sajibAdhi: write
       inductor: write
       Jacob953: write
@@ -476,6 +484,8 @@ repositories:
       ntheanh201: write
       thuanpham582002: write
       thaomike: write
+      xehrad: write
+      Parsabz: write
     name: glossary
   - external_collaborators:
       halcyondude: admin
@@ -534,11 +544,21 @@ repositories:
   - external_collaborators:
       AudMonte01: admin
       hspease99: maintain
-      CsatariGergely: triage
-      maci3jka: triage
-      ramrodo: write
-      senthilrch: write
-      wrkode: triage
+      satyampsoni: triage
+      Saloni1814: triage
+      parraletz: triage
+      hazzim: triage
+      electrocucaracha: triage
+      abebars: triage
+      mageshwaransekar: triage
+      chadmcrowell: triage
+      brito-rafa: triage
+      tokt: triage
+      tao12345666333: triage
+      aguirre-jes: triage
+      halil-bugol: triage
+      rcronald: triage
+      roko1987-k8s: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
   # But this is a quick fix to unblock Sheriff
@@ -660,10 +680,8 @@ repositories:
     name: radar
   - name: public-sector-user-group
     external_collaborators:
-      AlanHohn: admin
-      idunbarh: admin
       djmoch: admin
-      sfb103: admin
+      wcrum: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -682,6 +700,7 @@ repositories:
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
     external_collaborators:
+      cncf-automation-bot: write
       joshgav: write
     name: sandbox
     settings:
@@ -711,6 +730,12 @@ repositories:
     name: site-boilerplate
     settings:
       has_wiki: true
+  - name: staff
+    teams:
+      cncf-enduser-staff-core: write
+      cncf-projects: admin
+    external_collaborators:
+      cncf-automation-bot: write
   - external_collaborators:
       flanets: triage
       idvoretskyi: admin
@@ -766,7 +791,11 @@ repositories:
       thisisobate: maintain
       psgustafson: triage # Expert Support
       dwelsch-esi: triage # Expert Support
-      Dindihub: read # https://github.com/cncf/techdocs/issues/267 - LFX 24T2
+      milliehartnt123: triage # Expert Support
+      slamoree-expertsupport: triage # Expert Support
+      iRaindrop: triage # Expert Support
+      dwelsch-esi: triage # Expert Support
+      jbogarthyde: triage # Expert Support
     name: techdocs
   - external_collaborators:
       dabernie: read
@@ -797,6 +826,8 @@ repositories:
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
       toc-project-reviews-subproject: write
+    external_collaborators:
+      cncf-automation-bot: write
   - name: toc-private
     teams:
       cncf-tab: write
@@ -911,6 +942,8 @@ teams:
       - huats
       - mfahlandt
       - koksay
+      - wojciech12
+      - nate-double-u
   - name: cncf-tab
     maintainers:
       - mrbobbytables
