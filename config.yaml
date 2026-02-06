@@ -731,6 +731,7 @@ repositories:
     settings:
       has_wiki: true
   - name: staff
+    visibility: private
     teams:
       cncf-enduser-staff-core: write
       cncf-projects: admin
