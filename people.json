@@ -20246,7 +20246,7 @@
     },
     {
         "name": "Flavio Martins Rocha Junior",
-        "bio": "<p>Languages: English, Portuguese Project Experience: Kubernetes, Helm, Argo CD, Flux, Istio, Karpenter, KEDA, Prometheus, Grafana, OpenTelemetry  Flavio Rocha is a Platform Engineer focused on Kubernetes and cloud-native platforms on AWS. His work centers on platform design, scalability, and operational excellence across the CNCF ecosystem, including GitOps, Infrastructure as Code, and observability. He specializes in building scalable and resilient platforms, with a strong emphasis on Kubernetes as the foundation for modern cloud-native systems.</p>",
+        "bio": "<p>Flavio Rocha is a Platform Engineer focused on Kubernetes and cloud-native platforms on AWS. His work centers on platform design, scalability, and operational excellence across the CNCF ecosystem, including GitOps, Infrastructure as Code, and observability. He specializes in building scalable and resilient platforms, with a strong emphasis on Kubernetes as the foundation for modern cloud-native systems.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Guarulhos, Sao Paulo, Brazil",
@@ -20255,12 +20255,27 @@
         "github": "https://github.com/flaviomrjr",
         "wechat": "",
         "website": "https://flavio.sh",
+        "languages": [
+            "Portuguese",
+            "English"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Argo",
+            "Flux",
+            "Helm",
+            "KEDA",
+            "Istio",
+            "Prometheus",
+            "OpenTelemetry"
+        ],
         "youtube": "",
-        "certdirectory": "",
+        "certdirectory": "https://certdirectory.io/profile/flavio",
         "category": [
             "Kubestronaut"
         ],
-        "slack_id": "",
+        "email": "flaviomrjr!gmail.com",
+        "slack_id": "U0AE36HU4TE",
         "image": "flavio-martins-rocha-junior.jpg"
     },
     {
