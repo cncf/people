@@ -21798,26 +21798,6 @@
         "image": "ganesh-singh-rathore.jpg"
     },
     {
-        "name": "Garry Cairns",
-        "bio": "Garry is a lead engineer at JPMorgan Chase, currently focusing on observability. He has over a decade of Python experience, and enjoys trying out other languages, learning fun things about statistics, and making bread in his spare time.",
-        "company": "JPMorgan Chase",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/jp-morgan-chase-member.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--silver--jpmorgan-chase-member",
-        "tab_role": "",
-        "pronouns": "",
-        "linkedin": "",
-        "twitter": "",
-        "github": "https://github.com/garry-cairns",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "End User TAB"
-        ],
-        "image": "garry-cairns.jpg"
-    },
-    {
         "name": "Gary Chang",
         "bio": "<p>Hi, I am Gary, a Toronto-based DevOps Engineer specializing in enterprise infrastructure modernization. As a dedicated Kubestronaut, I am passionate about orchestrating containerized microservices and implementing GitOps workflows with Argo CD and Terraform to build resilient cloud-native platforms. I thrive on automating complex self-service pipelines and am always eager to experiment with new CNCF projects to solve real-world scaling challenges.</p>",
         "company": "",
@@ -24555,26 +24535,6 @@
         ],
         "slack_id": "",
         "image": "heni-abida.jpg"
-    },
-    {
-        "name": "Henrik Blixt",
-        "bio": "Henrik leads a Product Management team responsible for the Intuit core platform, where he defines the strategy and direction that has shaped Intuit’s cloud native platform based on CNCF projects like Kubernetes, Envoy, Istio, Prometheus, Argo (and many more!) that’s used by 7000 developers and serving over 100M users.</p>\n\n<p> Being a passionate member of the open source community for almost 30 years, from Linux through OpenStack and Kubernetes, Henrik is currently focused on the Argo project as a core maintainer. He also represents Intuit across other committees, like the CNOE project and the broader Linux Foundation, where he shares experiences and best practices from Intuit’s use of open source, making sure end users are heard and their pain points understood.</p>\n\n<p>He loves engaging with the community and  has been a prolific speaker and event program committee member across ArgoCon, GitOpsCon, Kubecon over the years. A native of Sweden, earning his B.Sc in information systems from the University of Gothenburg, he now resides in California with his family.",
-        "company": "Intuit",
-        "company_logo_url": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/intuit-member.svg",
-        "company_landscape_url": "https://landscape.cncf.io/?item=cncf-members--gold--intuit-member",
-        "tab_role": "",
-        "pronouns": "",
-        "linkedin": "https://www.linkedin.com/in/hblixt/",
-        "twitter": "https://twitter.com/khblixt",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "End User TAB"
-        ],
-        "image": "henrik-blixt.jpeg"
     },
     {
         "name": "Henrik Gerdes",
@@ -70575,7 +70535,8 @@
         "youtube": "",
         "priority": "",
         "category": [
-            "Governing Board"
+            "Governing Board",
+            "End User TAB"
         ],
         "image": "xu-wang.jpg"
     },
