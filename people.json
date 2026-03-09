@@ -60989,6 +60989,44 @@
         "image": "seunghyeok-baek.jpg"
     },
     {
+        "name": "Seungkyu Ahn",
+        "bio": "<p><strong>Seungkyu Ahn</strong> is a senior IT leader with 30+ years of expertise in <strong>AI, Cloud Native, and Enterprise architecture</strong></p><ul><li><strong>Kubernetes &amp; AI Infrastructure:</strong> Extensive experience building Kubernetes platforms for finance and telco. Currently researching secure AI serving via GPUs and network optimization using eBPF.</li><li><strong>Cloud &amp; OpenStack:</strong> Led the design and operation of global Private Cloud data centers across Korea, China, and the US, resolving complex infrastructure challenges in storage and networking.</li><li><strong>Enterprise Leadership:</strong> Expert in architecting and operating large-scale systems under high demand. Led multidisciplinary teams of up to 100 members through year-long projects, including critical version upgrades and system stabilizations.</li></ul><p>Why I am excited to be an ambassador:I am deeply passionate about advancing the adoption and understanding of cloud-native technologies, particularly within the Korean technical community. Throughout my professional journey, I have been dedicated to open source advocacy, technical education, and community leadership, with a focus on bridging the gap between global cloud-native advancements and local practitioners. Notably, I have taken a leading role in organizing KCD Seoul and have served as an organizer for the Cloud Native Community Groups (Seoul), effectively acting as an ambassador for CNCF within Korea. Through these activities, I have empowered Korean developers and organizations to fully leverage CNCF projects by providing timely, accessible, and high-quality technical content, workshops, and mentorship programs. I am committed to reducing language and cultural barriers by localizing key resources, fostering inclusive community spaces, and encouraging active participation in global CNCF initiatives. As a CNCF Ambassador, I aim to be a trusted liaison, ensuring that the Korean community not only keeps pace with global trends but also contributes meaningfully to the evolution of the cloud-native ecosystem.</p>",
+        "company": "kt cloud",
+        "pronouns": "he/him",
+        "location": "Seoul, South Korea",
+        "linkedin": "https://www.linkedin.com/in/seungkyua/",
+        "twitter": "https://twitter.com/seungkyua1",
+        "github": "https://github.com/seungkyua",
+        "website": "https://ahnseungkyu.com",
+        "youtube": "https://www.youtube.com/@kuberneteskoreagroup4284",
+        "certdirectory": "https://certdirectory.io/profile/1a40340e-ceef-49fd-8b54-cac175c6ff3d",
+        "languages": [
+            "Korean",
+            "English"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Etcd",
+            "Helm",
+            "Argo",
+            "Istio",
+            "Kubeflow",
+            "KServe",
+            "Prometheus",
+            "OpenTelemetry",
+            "Jaeger",
+            "KEDA",
+            "OPA",
+            "Volcano"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "seungkyua!gmail.com",
+        "slack_id": "U2FRP8F6E",
+        "image": "seungkyu-ahn.jpg"
+    },
+    {
         "name": "Seyi Obaweya",
         "bio": "<p>i am a Platform Engineer based in the Netherlands with a passion for building reliable, self-service cloud platforms. I’ve spent the last few years working with Kubernetes (mostly EKS), ArgoCD, Terraform, and Backstage to help teams ship faster and scale smarter. I love working on infrastructure that makes life easier for developers, especially anything cloud-native or CNCF-related. I’m always happy to chat at meetups or talk shop about cost-saving tricks, GitOps, or platform engineering!</p>",
         "company": "Schuberg Philis",
