@@ -1,4 +1,4 @@
-name: Validate JSONs
+name: Validate
 
 on: [pull_request]
 
@@ -15,6 +15,8 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '>= 3.14'
-          pip-install: check-jsonschema
+          pip-install: check-jsonschema yamllint
       - name: Validate JSON
         run: check-jsonschema --schemafile schema.json people.json
+      - name: Validate YAML
+        run: yamllint -s config.yaml
