@@ -63618,24 +63618,6 @@
         "image": "steven-cascante.jpg"
     },
     {
-        "name": "Steven Eichberg",
-        "bio": "<p>I've been working as a DevOps Engineer/SRE for about two years now. I like learning new things and challenging myself.</p>",
-        "company": "CompuGroup Medical",
-        "pronouns": "He/Him",
-        "location": "Welling, Germany",
-        "linkedin": "https://www.linkedin.com/in/steven-eichberg-015a6a239",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "category": [
-            "Kubestronaut"
-        ],
-        "slack_id": "",
-        "image": "steven-eichberg.jpg"
-    },
-    {
         "name": "Steven Eschinger",
         "bio": "<p>I'm the CIO at Kumori Labo in Tokyo, Japan, with over 20 years of experience in IT infrastructure. Now heavily focused on cloud-native technologies, I specialize in building scalable, production-grade systems using Kubernetes, Istio, Prometheus, ArgoCD, and other CNCF projects. I'm passionate about leveraging modern infrastructure practices to solve real-world challenges.</p>",
         "company": "Kumori Labo",
@@ -63649,7 +63631,8 @@
         "youtube": "",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "",
         "image": "steven-eschinger.jpg"
