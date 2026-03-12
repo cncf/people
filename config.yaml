@@ -541,7 +541,7 @@ repositories:
       fedebongio: maintain
       jagosan: maintain
       janetkuo: maintain
-    visibility: public      
+    visibility: public
   - external_collaborators:
       riaankleinhans: admin
       cncf-ci: admin
@@ -803,7 +803,6 @@ repositories:
       milliehartnt123: triage # Expert Support
       slamoree-expertsupport: triage # Expert Support
       iRaindrop: triage # Expert Support
-      dwelsch-esi: triage # Expert Support
       jbogarthyde: triage # Expert Support
     name: techdocs
   - external_collaborators:
@@ -1115,7 +1114,7 @@ teams:
     displayName: CNCF End Users
     secret: false
   - name: cncf-enduser-staff-core
-    maintainers:  
+    maintainers:
       - mrbobbytables
       - taylorwaggoner
       - castrojo
