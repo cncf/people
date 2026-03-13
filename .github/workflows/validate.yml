@@ -1,14 +1,22 @@
-name: Validate JSONs
+name: Validate
 
 on: [pull_request]
+
+permissions:
+  contents: read
 
 jobs:
   verify-json-validation:
     runs-on: oracle-2cpu-8gb-x86-64
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '>= 3.14'
+          pip-install: check-jsonschema yamllint
       - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /schema.json
-          INPUT_JSONS: /people.json
+        run: check-jsonschema --schemafile schema.json people.json
+      - name: Validate YAML
+        run: yamllint -s config.yaml

@@ -487,6 +487,14 @@ repositories:
       xehrad: write
       Parsabz: write
     name: glossary
+  - name: governing-board
+    visibility: public
+    teams:
+      cncf-gb: read
+    external_collaborators:
+      cblecker: maintain
+      joannalee333: admin
+      taylorwaggoner: admin
   - external_collaborators:
       halcyondude: admin
     name: graph
@@ -533,7 +541,7 @@ repositories:
       fedebongio: maintain
       jagosan: maintain
       janetkuo: maintain
-    visibility: public      
+    visibility: public
   - external_collaborators:
       riaankleinhans: admin
       cncf-ci: admin
@@ -795,7 +803,6 @@ repositories:
       milliehartnt123: triage # Expert Support
       slamoree-expertsupport: triage # Expert Support
       iRaindrop: triage # Expert Support
-      dwelsch-esi: triage # Expert Support
       jbogarthyde: triage # Expert Support
     name: techdocs
   - external_collaborators:
@@ -1053,6 +1060,14 @@ teams:
     displayName: CNCF Projects Team
     secret: false
     slack: true
+  - name: cncf-gb
+    displayName: CNCF Governing Board
+    maintainers:
+      - joannalee333
+      - taylorwaggoner
+    members:
+      - cblecker
+    secret: true
   - name: cncf-end-users
     maintainers:
       - castrojo
@@ -1099,7 +1114,7 @@ teams:
     displayName: CNCF End Users
     secret: false
   - name: cncf-enduser-staff-core
-    maintainers:  
+    maintainers:
       - mrbobbytables
       - taylorwaggoner
       - castrojo
