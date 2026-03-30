@@ -52494,11 +52494,11 @@
     },
     {
         "name": "Pavan Madduri",
-        "bio": "<p>I’m a Senior Platform Engineer at Grainger, specializing in Kubernetes, Crossplane, and ArgoCD, with over 11 years of hands-on experience across AWS and Azure. I excel at designing, deploying, and managing scalable cloud-native solutions, CI/CD pipelines, and infrastructure automation. Driven by a passion for enabling rapid development and ensuring reliable operations, I leverage modern DevOps practices and containerization technologies to deliver robust, efficient platforms.</p>",
-        "company": "W.W.Grainger",
+        "bio": "<p>CNCF Golden Kubestronaut and Senior Cloud Platform Engineer at W.W. Grainger, Inc., Pavan Madduri is a recognized authority in hyperscale Kubernetes ecosystems and Agentic AI operations. With over 11 years of pioneering experience across AWS, Azure, and Oracle Cloud Infrastructure (OCI), he specializes in the architectural convergence of multi-cloud governance and autonomous infrastructure. A published IEEE author and technical researcher, Pavan’s work dictates the strategic direction of distributed systems, specifically through his contributions to CNCF Dragonfly, KEDA, and OpenTelemetry. He is among an elite global cohort of engineers distinguished by a holistic mastery of cloud-native security, architecture, and high-performance computing (HPC) at the enterprise scale.</p>",
+        "company": "W.W.Grainger, Inc.",
         "pronouns": "He/Him",
         "location": "South Elgin, Illinois, United States",
-        "linkedin": "https://www.linkedin.com/in/pavan27/",
+        "linkedin": "https://www.linkedin.com/in/pavanmadduri/",
         "twitter": "",
         "github": "https://github.com/pmady",
         "wechat": "",
@@ -52508,6 +52508,11 @@
         "category": [
             "Kubestronaut",
             "Golden-Kubestronaut"
+        ],
+        "projects": [
+            "Dragonfly",
+            "KEDA",
+            "OpenTelemetry"
         ],
         "slack_id": "U0236KATLAZ (Pavan Madduri)",
         "image": "pavan-madduri.jpg"
