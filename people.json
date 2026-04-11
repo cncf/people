@@ -576,7 +576,7 @@
     },
     {
         "name": "Abhijeet Allu",
-        "bio": "<p>I'm a Cloud Native Architect. I design platform architectures that make production more reliable and automate away the toil so engineers can focus on the work that actually matters. I work across the CNCF landscape: observability, SRE, security, AIOps, and GitOps, codifying as much as possible so the automation and standards do the work. Right now I'm working toward my Golden Kubestronaut and tinkering with new CNCF projects on my Pi cluster.</p>",
+        "bio": "<p>I'm a Cloud Native Architect. I design platform architectures that make production more reliable and automate away the toil so engineers can focus on the work that actually matters. I work across the CNCF landscape: observability, SRE, security, AIOps, and GitOps, codifying as much as possible so the automation and standards do the busy work.</p>",
         "company": "TEKsystems Global Services",
         "pronouns": "He/Him",
         "location": "Austin, Texas, United States",
@@ -588,7 +588,26 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/541bfd15-66a5-4736-bd82-df722e56b4ef",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut", "Golden-Kubestronaut"
+        ],
+        "projects": [
+        "Kubernetes",
+        "Helm",
+        "Backstage",
+        "Argo",
+        "Flux",
+        "Crossplane",
+        "Kubeflow",
+        "Envoy",
+        "Istio",
+        "Cilium",
+        "Falco",
+        "Kyverno",
+        "Open Policy Agent (OPA)",
+        "Fluentd",
+        "Jaeger",
+        "Prometheus",
+        "OpenTelemetry"
         ],
         "slack_id": "T08PSQ7BQ",
         "image": "abhijeet-allu.jpg"
