@@ -743,6 +743,7 @@ repositories:
     teams:
       cncf-enduser-staff-core: write
       cncf-projects: admin
+      cncf-staff: write
     external_collaborators:
       cncf-automation-bot: write
   - external_collaborators:
@@ -953,6 +954,23 @@ teams:
       - wojciech12
       - nate-double-u
       - ahmadqasembader
+  - name: cncf-staff
+    maintainers:
+      - mrbobbytables
+      - jeefy
+      - krook
+    members:
+      - AudMonte01
+      - castrojo
+      - hspease99
+      - huats
+      - idvoretskyi
+      - nate-double-u
+      - joannalee333
+      - jroylejones-CNCF
+      - RobertKielty
+      - taylorwaggoner
+    secret: false
   - name: cncf-tab
     maintainers:
       - mrbobbytables
