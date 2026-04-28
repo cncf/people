@@ -535,12 +535,11 @@ repositories:
       has_wiki: true
   - name: k8s-ai-conformance
     external_collaborators:
-      castrojo: admin
       jeefy: admin
       mfahlandt: admin
-      fedebongio: maintain
-      jagosan: maintain
       janetkuo: maintain
+      terrytangyuan: maintain
+      ritazh: maintain
     visibility: public
   - external_collaborators:
       riaankleinhans: admin
