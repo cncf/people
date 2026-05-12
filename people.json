@@ -5433,6 +5433,23 @@
         "image": "andrea-martino.jpg"
     },
     {
+        "name": "Andrea Ruiz",
+        "bio": "Andrea is a Membership Solutions Representative at the Linux Foundation, working with the Cloud Native Computing Foundation (CNCF). She focuses on ecosystem engagement and business development, helping organizations understand the value of CNCF membership and connecting them to the broader cloud native community. Andrea brings a background in B2B SaaS sales and a genuine passion for open source. Originally from Colombia, she speaks Spanish, English and Portuguese, and is currently based in Bruges, Belgium.",
+        "company": "Membership Solutions Representative",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Staff"
+        ],
+        "image": "andrea-ruiz.jpg"
+    },
+    {
         "name": "Andreas Døhl",
         "bio": "<p>Cloud security consultant from Norway focused on Kubernetes security, policy enforcement, and runtime hardening. I advise teams on how to build secure, scalable platforms — from pipelines to production clusters.</p>",
         "company": "O3 Cyber",
@@ -14487,6 +14504,23 @@
         "image": "christina-andonov.jpg"
     },
     {
+        "name": "Christie Davis",
+        "bio": "Christie is an Event Manager at The Linux Foundation, specializing in sponsorship fulfillment for KubeCon + CloudNativeCon and other project events. With over 12 years of event planning experience spanning private, corporate, and non-profit organizations, she is passionate about creating seamless and impactful event experiences. Christie holds a BA from Boise State University and a JD from the University of Idaho College of Law.",
+        "company": "Manager of Events",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Staff"
+        ],
+        "image": "christie-davis.jpg"
+    },
+    {
         "name": "Christoph Blecker",
         "bio": "Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat, and Chairs the Cloud Native Computing Foundation Governing Board. He is an active maintainer of the Kubernetes project and an emeritus member of the Kubernetes Steering Committee. If he's not reviewing PRs, he is probably walking his dog.",
         "company": "Red Hat",
@@ -19279,23 +19313,6 @@
         ],
         "slack_id": "",
         "image": "don-high.jpg"
-    },
-    {
-        "name": "Donald Liu",
-        "bio": "Donald is a Developer Evangelist for CNCF in the China region, helping companies and members to take part in the CNCF ecosystem, The Linux Foundation, and the bigger open source community.",
-        "company": "Developer Evangelist",
-        "pronouns": "he/him",
-        "linkedin": "https://www.linkedin.com/in/donald-liu-85587822/",
-        "twitter": "https://twitter.com/donaldliu",
-        "github": "https://github.com/donaldliu",
-        "wechat": "https://web.wechat.com/donaldliu1874",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Staff"
-        ],
-        "image": "https://www.cncf.io/wp-content/uploads/2017/06/donaldliuH.jpg"
     },
     {
         "name": "Dong Ma",
@@ -29501,7 +29518,7 @@
     {
         "name": "Iman Homko",
         "bio": "",
-        "company": "Event Planner",
+        "company": "Senior Event Planner",
         "pronouns": "",
         "linkedin": "https://www.linkedin.com/in/imanazkhan/",
         "twitter": "",
@@ -30886,23 +30903,6 @@
         ],
         "slack_id": "",
         "image": "jake-nabasny.jpg"
-    },
-    {
-        "name": "Jake Pineda",
-        "bio": "Jake is an Membership Sales Representative at The Linux Foundation, working with the Cloud Native Computing Foundation. He brings experience in technology sales and cloud solutions, with an academic background that includes an Associate degree in Computer Science - Network Technology from Lehigh Carbon Community College, and ongoing studies for a Bachelor's in Information Technology at Western Governors University. Jake is dedicated to enhancing open-source software solutions in cloud native computing and network security.",
-        "company": "Membership Solutions Representative",
-        "pronouns": "he/him",
-        "linkedin": "https://www.linkedin.com/in/jake-p-8348127b",
-        "twitter": "",
-        "github": "",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "priority": "",
-        "category": [
-            "Staff"
-        ],
-        "image": "jake-pineda.jpg"
     },
     {
         "name": "Jakob Alkass",
@@ -73150,8 +73150,8 @@
     },
     {
         "name": "Tin Matienzo",
-        "bio": "Tin is a Senior Event Coordinator at The Linux Foundation, and manages the Project Pavilion at KubeCon + CloudNativeCon events. Prior to joining The Linux Foundation, Tin brings over seven years in the event industry and has planned and executed over one hundred corporate events, ranging from large scale meetings to intimate educational seminars.",
-        "company": "Senior Event Coordinator",
+        "bio": "Tin is an Event Planner at The Linux Foundation, and manages the Project Pavilion at KubeCon + CloudNativeCon events. Prior to joining The Linux Foundation, Tin brings over seven years in the event industry and has planned and executed over one hundred corporate events, ranging from large scale meetings to intimate educational seminars.",
+        "company": "Event Planner",
         "pronouns": "",
         "linkedin": "",
         "twitter": "",
@@ -77375,7 +77375,7 @@
     {
         "name": "Wendi West",
         "bio": "Wendi has been working as an Event Planner for The Linux Foundation since 2014 with her primary focus being CNCF’s KubeCon+CloudNativeCon events (since late 2016) where she manages the scholarship program and DEI activities, and acts as a liaison between the PR and Events team for Media + Analyst engagement at events. Wendi has produced corporate and non-profit events for over 15 years. She holds a BA from California State University, Fullerton and a certification in grant writing from the Center of NonProfit Management.",
-        "company": "Senior Event Planner",
+        "company": "Event Manager",
         "pronouns": "",
         "linkedin": "",
         "twitter": "",
