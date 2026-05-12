@@ -20,6 +20,7 @@
             "image":     {"type": "string"},
             "email":     {"type": "string", "pattern": "^[^\\s@]+![^\\s@]+\\.[^\\s@]+$"},
             "slack_id":  {"type": "string"},
+            "lfid":      {"type": "string"},
             "category": {
                 "type": "array",
                 "items": {
@@ -32,7 +33,8 @@
                         "End User TAB",
                         "Technical Oversight Committee",
                         "Kubestronaut",
-                        "Golden-Kubestronaut"
+                        "Golden-Kubestronaut",
+                        "Mentee"
                     ]
                 }
             },
@@ -40,6 +42,24 @@
                 "type": "array",
                 "items": {
                     "type": "string"
+                }
+            },
+            "mentorships": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "role":          {"type": "string", "enum": ["mentee"]},
+                        "program":       {"type": "string"},
+                        "start_date":    {"type": "string", "format": "date", "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"},
+                        "end_date":      {"type": "string", "format": "date", "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"},
+                        "project_title": {"type": "string"},
+                        "organization":  {"type": "string"},
+                        "idea_url":      {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri"} ] },
+                        "platform_url":  {"anyOf": [ { "maxLength": 0 }, {"type": "string", "format": "uri"} ] },
+                        "mentors_github_handles": {"type": "array", "items": {"type": "string"}}
+                    },
+                    "required": ["role", "program"]
                 }
             }
         }
