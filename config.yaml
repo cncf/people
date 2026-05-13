@@ -1004,35 +1004,36 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
+      - abebars
       - angellk
+      - brandtkeller
       - chadbeaudin
       - chira001
-      - dims
       - jeremyrickard
+      - jrsapi
       - kevin-wangzefeng
       - kfaseela
       - kgamanji
-      - linsun
+      - mfahlandt
       - raravena80
-      - rochaporto
-      - TheFoxAtWork
+      - salaboy
     secret: false
   - name: cncf-toc-voters
     maintainers:
       - mrbobbytables
       - riaankleinhans
     members:
+      - abebars
       - angellk
+      - brandtkeller
       - chadbeaudin
       - chira001
-      - dims
       - jeremyrickard
+      - jrsapi
       - kevin-wangzefeng
       - kfaseela
-      - kgamanji
-      - linsun
-      - rochaporto
-      - TheFoxAtWork
+      - mfahlandt
+      - salaboy
     secret: false
   - name: envoy
     maintainers:
