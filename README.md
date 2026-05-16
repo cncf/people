@@ -1,4 +1,4 @@
-# CNCF People Overview
+# CNCF People Overview 
  
 This repo stores the data that will populate the various people listings on cncf.io and control access to repositories in the CNCF GitHub org.
 
