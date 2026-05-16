@@ -1,5 +1,5 @@
 # CNCF People Overview
-
+ 
 This repo stores the data that will populate the various people listings on cncf.io and control access to repositories in the CNCF GitHub org.
 
 People can update their listing by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. The listings are:
