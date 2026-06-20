@@ -483,7 +483,6 @@ repositories:
       adowair: write
       ntheanh201: write
       thuanpham582002: write
-      thaomike: write
       xehrad: write
       Parsabz: write
     name: glossary
@@ -965,9 +964,11 @@ teams:
       - castrojo
       - catinahat85
       - DPalilonis
+      - FedericaLinux
       - hspease99
       - huats
       - idvoretskyi
+      - mtspontejos
       - nate-double-u
       - joannalee333
       - jroylejones-CNCF
@@ -1175,7 +1176,6 @@ teams:
       - joshuabezaleel
       - julsemaan
       - kdubois
-      - salaboy
       - SwEngin
     secret: false
   - name: tag-infrastructure-leads
@@ -1206,10 +1206,8 @@ teams:
       - riaankleinhans
     members:
       - alolita
-      - brito-rafa
       - halcyondude
       - krol3
-      - mfahlandt
       - palnabarun
       - raffaelespazzoli
       - saiyam1814
@@ -1244,7 +1242,7 @@ teams:
     members:
       - kad
       - kerthcet
-      - miao0miao
+      - catblade
       - pacoxu
       - RainbowMango
       - rajaskakodkar
