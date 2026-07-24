@@ -1179,6 +1179,7 @@ teams:
       - joshuabezaleel
       - julsemaan
       - kdubois
+      - stmcginnis
       - SwEngin
     secret: false
   - name: tag-infrastructure-leads
@@ -1191,12 +1192,12 @@ teams:
       - riaankleinhans
     members:
       - alexagriffith
-      - bschaatsbergen
       - aojea
       - GenPage
       - hzxuzhonghu
       - kashifest
-      - nicholasjackson
+      - mesutoezdil
+      - thschue
       - xing-yang
     secret: false
   - name: tag-operational-resilience-leads
@@ -1209,10 +1210,12 @@ teams:
       - riaankleinhans
     members:
       - alolita
+      - chadmcrowell
+      - didiViking
       - halcyondude
       - krol3
+      - nikimanoledaki
       - palnabarun
-      - raffaelespazzoli
       - saiyam1814
     secret: false
   - name: tag-security-compliance-leads
@@ -1224,15 +1227,15 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
-      - brandtkeller
-      - eddie-knight
+      - arewm
       - evankanderson
       - jkjell
-      - mlieberman85
-      - mnm678
-      - jpower432
       - JustinCappos
+      - mnm678
+      - realshuting
+      - sherine-k
       - y-tabata
+      - zigmax
     secret: false
   - name: tag-workloads-foundation-leads
     displayName: CNCF TAG Workloads Foundation Leads
@@ -1243,10 +1246,10 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
-      - kad
-      - kerthcet
       - catblade
+      - kerthcet
       - pacoxu
+      - pmady
       - RainbowMango
       - rajaskakodkar
       - srust
