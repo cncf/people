@@ -86415,21 +86415,19 @@
         "company": "Red Hat",
         "pronouns": "He/Him",
         "location": "Leipzig, Germany",
-        "linkedin": "",
-        "twitter": "https://www.twitter.com/saschagrunert",
+        "linkedin": "https://www.linkedin.com/in/sascha-grunert",
+        "twitter": "",
         "github": "https://github.com/saschagrunert",
         "wechat": "",
-        "website": "",
+        "website": "https://saschagrunert.de",
         "youtube": "",
-        "slack_id": "sascha",
-        "languages": [],
+        "slack_id": "U014Q1N4DA8",
+        "languages": [
+            "English",
+            "German"
+        ],
         "projects": [
-            "Argo",
-            "cert-manager",
-            "Confidential Containers",
             "CRI-O",
-            "gRPC",
-            "Kubeflow",
             "Kubernetes"
         ],
         "expertise": [
