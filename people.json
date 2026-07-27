@@ -46739,7 +46739,7 @@
     },
     {
         "name": "Juliano Costa",
-        "bio": "<p>Juliano is a passionate Software Engineer/Developer Advocate with extensive experience in cloud-related technologies. He is specialized in OpenTelemetry and is always working with Kubernetes, Helm, Containers, Jenkins, and other related tools. As one of the maintainers of the CNCF project OpenTelemetry Demo, Juliano has helped to create a distributed system that demonstrates the implementation of OpenTelemetry in a near real-world environment. With a strong belief in the power of community, Juliano co-founded the Cloud Native Linz meetup. He actively participates in the tech community and is always willing to share his knowledge and insights with others. When not working, Juliano likes to spend his time with the family traveling around Austria and sightseeing new places.</p><p>Why I am excited to be an ambassador: I strongly believe in the power of the community and how it can help everyone grow, not just professionally, but as a whole. I'm extremely excited about being able to help growing the CNCF community and raising it awareness wherever I go. I love learning and sharing what I learn. The atmosphere and environment of openness created by CNCF is something that I take with me in every interaction I have. I'm super excited and thankful in becoming a CNCF Ambassador.</p>",
+        "bio": "<p>Juliano Costa is a Developer Advocate at Datadog with a focus on OpenTelemetry. He is passionate about fostering the Cloud Native community and spreading OTel's word everywhere he goes. Juliano is an active contributor to the OpenTelemetry project and a maintainer on the OpenTelemetry Demo and Developer Experience SIG. When he's not talking about OTel, you'll find him chasing after his energetic 3-year-old son.</p>",
         "company": "Datadog",
         "pronouns": "He/Him",
         "location": "Linz, Austria",
@@ -46758,10 +46758,10 @@
         ],
         "projects": [
             "Envoy",
-            "gRPC",
             "Helm",
             "Jaeger",
             "Kubernetes",
+            "OpenFeature",
             "OpenTelemetry"
         ],
         "expertise": [
