@@ -7804,8 +7804,8 @@
         "image": "andreas-erlandsson.jpg"
     },
     {
-        "name": "Andreas Grabner",
-        "bio": "<p>Been working in software since 1998 and from the early days was drawn to performance engineering, observability and more recently on DevOps, SRE, Platform Engineering. I am an active contributor to the CNCF project Keptn, I am a podcaster, I create YouTube tutorials and occasionally blog as well! Besides IT I am passionate about salsa dancing :-)</p><p>Why I am excited to be an ambassador: The success of any community depends on the people that actively drive community activities (bringing people together, educating, making them feel comfortable ..) and the members of the community that then want to join, grow and eventually contribute back to that community. I am excited to get the chance to help grow the community with my goal to inspire many others to do the same</p>",
+        "name": "Andreas (Andi) Grabner",
+        "bio": "<p>Been working in software since 1998 and from the early days was drawn to performance engineering, observability and more recently on DevOps, SRE, Platform Engineering. I was a founding member and contributor to the CNCF project Keptn (a now archived project). I am a podcaster (PurePerformance), I create YouTube tutorials and occasionally blog as well! This year I co-authored my second book called Observability in the AI-Native Era with two other cloud native enthusiasts (Hilliary and Rob). Besides IT I am passionate about salsa dancing :-)</p><p>Why I am excited to be an ambassador: The success of any community depends on the people that actively drive community activities (bringing people together, educating, making them feel comfortable ..) and the members of the community that then want to join, grow and eventually contribute back to that community. I am excited to get the chance to help grow the community with my goal to inspire many others to do the same. If you see me - plesae call me Andi - as this is what friends call me :-)</p>",
         "company": "Dynatrace",
         "pronouns": "He/Him",
         "location": "Linz, Austria",
@@ -7816,7 +7816,7 @@
         "wechat": "",
         "website": "https://grabnerandi.github.io/",
         "youtube": "https://www.youtube.com/playlist?list=PLqt2rd0eew1YFx9m8dBFSiGYSBcDuWG38",
-        "slack_id": "Andreas Grabner",
+        "slack_id": "U0170GHHGR5",
         "languages": [
             "English",
             "German"
@@ -21131,7 +21131,8 @@
         "youtube": "https://www.youtube.com/channel/UCb94c5QHsUgSt9rwL1p81Hg/",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "",
         "image": "daisuke-kikuchi.jpg"
@@ -49048,7 +49049,7 @@
     },
     {
         "name": "Kasper Borg Nissen",
-        "bio": "<p>Co-founder of the Nordic meetup alliance, Cloud Native Nordics, where he also organize the Aarhus group, and tries to help the nordic community as much as possible, e.g. setting up KCDs and more. Kasper also serves as Co-Chair for KubeCon+CloudNativeCon EU/NA 2024/2025. He works as a Developer Relations Engineer at Dash0, previously at Lunar where he in the past has shared many experiences with Cloud Native tech at meetups and conferences. Kasper wrote his master thesis, “KubeCloud - A Small Scale Cloud Computing Environment”, on how Universities could leverage small-scale cloud environments built out of Raspberry Pis running Kubernetes.</p><p>Why I am excited to be an ambassador: I'm excited to be an ambassador, because it's a great community of like-minded people. I hope to meet and learn from the other awesome Ambassadors, and help grow the adoption of Cloud Native technologies even more here in the Nordics.</p>",
+        "bio": "<p>Kasper is Director of Developer Relations at Dash0, where he helps make observability easy for developers by advocating for better tooling, best practices, and seamless integrations. Bridging observability, platform engineering, and AI, he ensures developers stay productive and gain actionable insights exactly when needed. He co-founded Cloud Native Nordics to unite meetups across the region, organizes Cloud Native Denmark (formerly KCD Denmark) and his local Cloud Native Community Group, and serves as a MergeForward & AAIF Ambassador, former KubeCon+CloudNativeCon Co-Chair, and Golden Kubestronaut. Outside of work, Kasper is a father of two boys and a dog owner who loves traveling and exploring the world. When he can, you'll find him out on the water sailing his small monohull.</p><p>Why I am excited to be an ambassador: I'm excited to be an ambassador, because it's a great community of like-minded people. I hope to meet and learn from the other awesome Ambassadors, and help grow the adoption of Cloud Native technologies even more here in the Nordics.</p>",
         "company": "Dash0",
         "pronouns": "He/Him",
         "location": "Aarhus, Denmark",
@@ -49959,7 +49960,8 @@
         "youtube": "",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "",
         "image": "keshav-kushwaha.jpg"
@@ -54951,7 +54953,7 @@
         "bio": "<p>Kubestronaut, Multi-cloud(AWS/GCP) Architect </p>",
         "company": "",
         "pronouns": "She/Her",
-        "location": "Japan, Tokyo",
+        "location": "Tokyo, Japan",
         "linkedin": "",
         "twitter": "",
         "github": "https://github.com/rikuroubai",
@@ -86413,21 +86415,19 @@
         "company": "Red Hat",
         "pronouns": "He/Him",
         "location": "Leipzig, Germany",
-        "linkedin": "",
-        "twitter": "https://www.twitter.com/saschagrunert",
+        "linkedin": "https://www.linkedin.com/in/sascha-grunert",
+        "twitter": "",
         "github": "https://github.com/saschagrunert",
         "wechat": "",
-        "website": "",
+        "website": "https://saschagrunert.de",
         "youtube": "",
-        "slack_id": "sascha",
-        "languages": [],
+        "slack_id": "U014Q1N4DA8",
+        "languages": [
+            "English",
+            "German"
+        ],
         "projects": [
-            "Argo",
-            "cert-manager",
-            "Confidential Containers",
             "CRI-O",
-            "gRPC",
-            "Kubeflow",
             "Kubernetes"
         ],
         "expertise": [
@@ -102618,7 +102618,8 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/3d3775a6-0640-4190-ba72-73ca1065858b",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "@Vivek Ragupathy",
         "image": "vivek-ragupathy.jpg"
