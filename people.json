@@ -411,8 +411,8 @@
     },
     {
         "name": "Abdel Sghiouar",
-        "bio": "<p>I'm a Cloud Developer Advocate with Google. I co-host for the Kubernetes Podcast by Google and the Cloud Careers Podcast.</p><p>Why I am excited to be an ambassador: Learn from the community. Contribute to the Open Source and Cloud Native world and help inspire others to do the same</p>",
-        "company": "Google",
+        "bio": "<p>I'm a Cloud Developer Advocate with Google. I Co-Chair KubeCon's NA26, EU27 & NA27. I co-host for the Kubernetes Podcast by Google.</p><p>Why I am excited to be an ambassador: Learn from the community. Contribute to the Open Source and Cloud Native world and help inspire others to do the same</p>",
+        "company": "Google Cloud",
         "pronouns": "He/Him",
         "location": "Stockholm, Sweden",
         "linkedin": "https://www.linkedin.com/in/sabdelfettah/",
@@ -421,7 +421,7 @@
         "bluesky": "https://bsky.app/profile/boredabdel.bsky.social",
         "wechat": "",
         "website": "",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/@boredabdel",
         "slack_id": "U01K59A767J",
         "languages": [
             "Arabic",
@@ -429,17 +429,16 @@
             "French"
         ],
         "projects": [
-            "containerd",
-            "Crossplane",
+            "KRO",
             "Istio",
-            "k3s",
             "Knative",
             "Kubernetes",
             "OpenTelemetry",
-            "OpenTracing",
-            "Rook",
             "SPIFFE",
-            "SPIRE"
+            "SPIRE",
+            "llm-d",
+            "Agent-Sandbox",
+            "Agent-Substrate"
         ],
         "expertise": [
             "Technical",
