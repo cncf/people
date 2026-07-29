@@ -62305,16 +62305,16 @@
         "company": "Fractal Cloud",
         "pronouns": "He/Him",
         "location": "Milan, Italy",
-        "linkedin":"https://www.linkedin.com/in/michel-murabito/",
+        "linkedin": "https://www.linkedin.com/in/michel-murabito",
         "twitter": "https://twitter.com/michelmurabito",
         "github": "https://github.com/akelity",
-        "website":"https://michelmurabito.com/",
+        "website": "https://michelmurabito.com",
+        "category": [
+            "Ambassadors"
+        ],
         "languages": [
             "Italian",
             "English"
-        ],
-        "category": [
-            "Ambassadors"
         ],
         "projects": [
             "Buildpacks",
@@ -62324,6 +62324,11 @@
             "Envoy",
             "Open Policy Agent (OPA)"
         ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "slack_id": "U02HX9T68QP",
         "image": "michel-murabito.jpg"
     },
     {
