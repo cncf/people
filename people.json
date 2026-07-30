@@ -47330,23 +47330,25 @@
         "lfid": "iyear"
     },
     {
-        "name": "Juraci Paixao Kröhling",
-        "bio": "<p>I'm a software engineer building telemetry tools. I'm active in the OpenTelemetry community and have been one of the Jaeger project maintainers in the past, having also contributed to OpenTracing. I also love to spread knowledge about the tools I work with, having had the pleasure of speaking at KubeCon (EU and NA), OpenSource Summit (EU and NA), FOSDEM, Devoxx, among others. And more recently, I started a side project called Dose de Telemetria, where I create deeply technical content related to observability, monitoring, and telemetry in my native language, Portuguese.</p><p>Why I am excited to be an ambassador: Recognizing that language might be a barrier for people to understand the CNCF ecosystem and projects, I will focus on sharing knowledge in Portuguese. I'm also looking forward to fostering the ecosystem around our observability tooling, with a particular focus on OpenTelemetry but not limited to it.</p>",
-        "company": "Grafana Labs",
+        "name": "Juraci Paixão Kröhling",
+        "bio": "<p>I'm the CEO and co-founder of OllyGarden, where I build tools that help teams understand telemetry quality, control observability costs, and improve instrumentation. I'm a Governance Committee member for the OpenTelemetry project and an emeritus maintainer of the OpenTelemetry Collector and Jaeger. I also started and maintained several open source projects, including the Jaeger Operator, the OpenTelemetry Operator, the OpenTelemetry Collector Builder, and the load-balancing exporter.</p><p>I enjoy sharing practical knowledge about observability and distributed tracing. I have spoken at KubeCon Europe and North America, Open Source Summit, FOSDEM, Devoxx Belgium, and several DevOpsDays events. I'm also a co-founder and instructor at Telemetry Drops, an OpenTelemetry training program for engineers and teams.</p><p>Why I am excited to be an ambassador: My mission is to help you and your agents have telemetry you can trust. As a CNCF Ambassador, I want to help practitioners improve telemetry quality, build reliable observability pipelines, and make better decisions about the systems they operate.</p>",
+        "company": "OllyGarden",
         "pronouns": "He/Him",
         "location": "Berlin, Germany",
         "linkedin": "https://www.linkedin.com/in/jpkroehling/",
-        "twitter": "https://www.twitter.com/jpkrohling",
+        "twitter": "",
         "github": "https://github.com/jpkrohling",
         "wechat": "",
-        "website": "",
+        "website": "https://kroehling.de/",
         "youtube": "",
         "slack_id": "jpkroehling",
-        "languages": [],
+        "languages": [
+            "English",
+            "German",
+            "Portuguese"
+        ],
         "projects": [
-            "Jaeger",
-            "OpenTelemetry",
-            "OpenTracing"
+            "OpenTelemetry"
         ],
         "expertise": [
             "Technical"
