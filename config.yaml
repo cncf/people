@@ -667,20 +667,10 @@ repositories:
   - external_collaborators:
       csantanapr: write
     name: presentations
-  - external_collaborators:
-      caniszczyk: admin
-      dims: write
-      geekygirldawn: admin
-      idvoretskyi: admin
-      iennae: write
-      jberkus: admin
-      justaugustus: admin
-      karenhchu: write
-      kgamanji: write
-      mattfarina: write
-      mattklein123: write
-      parispittman: admin
-    name: project-template
+  - name: project-template
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
   - name: prometheus-conformance
     settings:
       has_wiki: true
