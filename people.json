@@ -14132,7 +14132,8 @@
         "youtube": "",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "",
         "image": "phippy.jpg"
@@ -29125,7 +29126,8 @@
         "youtube": "",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "Eripin",
         "image": "eripin.jpg"
@@ -55493,13 +55495,22 @@
         "wechat": "",
         "website": "https://speakerdeck.com/luxas",
         "youtube": "https://www.youtube.com/@CloudNativeNordics",
-        "languages": ["English", "Swedish", "Finnish"],
+        "languages": [
+            "English",
+            "Swedish",
+            "Finnish"
+        ],
         "category": [
             "Ambassadors",
             "Mentee"
         ],
-        "projects": ["Kubernetes", "Cedar"],
-        "maintainer": ["Cedar"],
+        "projects": [
+            "Kubernetes",
+            "Cedar"
+        ],
+        "maintainer": [
+            "Cedar"
+        ],
         "slack_id": "U5UD2LP0C",
         "image": "lucas-kaldstrom.jpg",
         "lfid": "luxas",
@@ -56918,7 +56929,8 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/33a7d353-7c60-4271-bec0-ab9cae080c1a",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "U09FYEWGHH7",
         "image": "maksym-troshyn.jpg"
@@ -58413,7 +58425,8 @@
         "youtube": "",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "U08KXDDMUPQ",
         "image": "mario-lechonczak.jpg"
@@ -69538,7 +69551,8 @@
         "youtube": "https://youtube.com/@nclsbayona",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "U08QJ1PGLET",
         "image": "nicolas-bayona.jpg"
@@ -74931,7 +74945,8 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/1f97e96e-0059-4038-947c-313712a778f8",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut",
+            "Golden-Kubestronaut"
         ],
         "slack_id": "T08PSQ7BQ",
         "image": "petra-hudeckova.jpg"
