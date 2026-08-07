@@ -61151,6 +61151,35 @@
         "image": "maurizio-venturelli.jpg"
     },
     {
+        "name": "Mauro Morales",
+        "bio": "<p>Mauro is a Staff Engineer at Spectro Cloud focused on the operating system layer — building foundations that let Kubernetes environments run securely, predictably, and with minimal operational friction. He's part of the maintainer team for <a href='https://kairos.io'>Kairos</a>, a CNCF Sandbox project for immutable, edge-focused cloud native operating systems.</p><p>He co-hosts Cloud Native Community Brussels and serves on TAG Workloads Foundation. As an ambassador he's focused on connecting local builders, mentoring new contributors, and sharing real-world production insights from the OS layer up.</p>",
+        "company": "Staff Engineer, Spectro Cloud",
+        "pronouns": "he/him",
+        "location": "Ghent, Belgium",
+        "linkedin": "https://www.linkedin.com/in/mauromorales/",
+        "twitter": "https://x.com/mauromrls",
+        "github": "https://github.com/mauromorales",
+        "website": "https://www.mauromorales.com",
+        "youtube": "https://www.youtube.com/@mauromrls",
+        "certdirectory": "https://certdirectory.io/profile/mauro",
+        "slack_id": "U05KT77A52R",
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "projects": [
+            "Kairos"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "mauro-morales.jpg"
+    },
+    {
         "name": "Mauro Santos",
         "bio": "<p>I'm a Brazilian Software Engineer curious about several stacks, currently working mostly with SRE and Platform Engineering.  Cloud and DevOps has been my priority focus since 2018 and Kubernetes was also a crucial part of it.  Adopting Kubernetes is a challenge because if you want to take the best of it, it will requires a deep understanding of it's purpose and underlying components, since we're talking about a whole Platform, and not only a collection of VMs. So taking these certifications helped me filling these gaps I needed in order to increase my awareness about kubernetes. </p>",
         "company": "Microsoft",
