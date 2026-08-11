@@ -42377,7 +42377,7 @@
             "Envoy",
             "etcd",
             "Istio",
-            "KEDA"
+            "KEDA",
             "Knative",
             "ko",
             "Kubeflow",
@@ -47469,6 +47469,24 @@
             "Ambassadors"
         ],
         "image": "juliano-costa.jpg"
+    },
+    {
+        "name": "Juliano Martinez",
+        "bio": "<p>Juliano is a Principal Engineer at Adyen with 25 years of experience in Linux, networking, large-scale infrastructure, and automation. That experience informs the design and evolution of systems that connect cloud-native platforms and services to end users. The work spans cloud infrastructure, Kubernetes-based platforms, service mesh and service-to-service networking, traffic management, observability, and the reliable operation of distributed systems at scale. A longtime open-source enthusiast and Go developer, Juliano enjoys understanding systems from first principles and building simple, composable tools that reduce operational complexity.</p>",
+        "company": "Adyen",
+        "tab_role": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/ncode",
+        "twitter": "https://x.com/ncode",
+        "github": "https://github.com/ncode",
+        "wechat": "",
+        "website": "https://martinez.io",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "End User TAB"
+        ],
+        "image": "juliano-martinez.jpeg"
     },
     {
         "name": "Julien Canon",
