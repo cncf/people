@@ -60040,6 +60040,26 @@
         "image": "masataka-ono.jpg"
     },
     {
+        "name":"Masaya Aoyama",
+        "bio":"<p>Masaya Aoyama is a Technical Lead for Platform Engineering at CyberAgent and Co-Chair of KubeCon + CloudNativeCon Japan 2025.</p><p>He also serves as a Technical Advisor to 3-shake, Inc. and CREATIONLINE, Inc., both of which are CNCF member companies.</p><p>Since 2017, he has been an active leader in Japan’s cloud native community, organizing numerous conferences and meetups across the country. Notably, he has served as Co-Chair of CloudNative Days, Japan’s largest cloud native conference series, for over eight years.</p><p>As a Co-Founder and board member of the CNCF Japan Chapter (CNCJ: Cloud Native Community Japan), he continues to foster the growth of the local cloud native ecosystem.</p><p>He is also the author of Kubernetes Perfect Guide, widely regarded as one of the most popular Kubernetes books in Japan.</p>",
+        "company":"CyberAgent, Inc.",
+        "pronouns":"he/him",
+        "location":"Shinagawa, Tokyo, Japan",
+        "linkedin":"https://www.linkedin.com/in/amsy810/",
+        "twitter":"https://x.com/amsy810",
+        "github":"https://github.com/MasayaAoyama",
+        "wechat":"",
+        "website":"https://amsy.dev/",
+        "youtube":"",
+        "certdirectory":"https://certdirectory.io/profile/amsy810",
+        "languages":["Japanese", "English"],
+        "projects":["Kubernetes", "Argo", "OpenTelemetry", "Prometheus", "cert-manager", "Helm", "Cilium", "Open Policy Agent (OPA)"],
+        "category":["Ambassadors"],
+        "email": "amsy810!gmail.com",
+        "slack_id": "U92RV04SJ",
+        "image":"masaya_aoyama.jpg"
+    },
+    {
         "name": "Massimiliano Pablo Pianges",
         "bio": "<p>I am a multi-certified Kubernetes and cloud-native specialist (CKA, CKS, KCNA, PCA) with deep expertise in container orchestration, secure microservice architectures, and DevOps automation. I regularly host CNCF-focused meetups where I share insights on Kubernetes security, observability with Prometheus, and best practices in multi-cloud deployments. Beyond cloud-native technologies, I am also involved in quantum computing research and advanced financial modeling, often integrating AI-driven solutions into real-world production systems. You can find more about my projects and thought leadership on my LinkedIn profile and blog, where I frequently publish technical deep dives.</p>",
         "company": "Nexum-ai",
