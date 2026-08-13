@@ -42351,6 +42351,50 @@
         "image": "jason-shuyinta.jpg"
     },
     {
+        "name": "Jason (Jay) Smith",
+        "bio": "<p>Jason (Jay) Smith is a Application Moderization Cloud Architect at Google Cloud but prefers the term \"Cloud Alchemist\". He has supported Open Source Software for decades and currently support the CNCF community in San Francisco. He is passionate about containers, cloud native, serverless platforms, and Agentic AI. </p>",
+        "company": "Google",
+        "pronouns": "He/Him",
+        "location": "San Francisco, CA, United States",
+        "linkedin": "https://www.linkedin.com/in/jasonsmithio",
+        "twitter": "",
+        "github": "https://github.com/jasonsmithio",
+        "wechat": "",
+        "website": "https://jasonsmith.io",
+        "youtube": "",
+        "slack_id": "UKPN9QMQF",
+        "languages": [
+            "English"
+        ],
+        "projects": [
+            "Argo",
+            "Buildpacks",
+            "Cilium",
+            "Container Network Interface (CNI)",
+            "containerd",
+            "CoreDNS",
+            "Dapr",
+            "Envoy",
+            "etcd",
+            "Istio",
+            "KEDA",
+            "Knative",
+            "ko",
+            "Kubeflow",
+            "Kubernetes",
+            "Open Policy Agent (OPA)",
+            "Podman"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "jay-smith.jpeg"
+    },
+    {
         "name": "Jatin Agarwal",
         "bio": "",
         "company": "",
@@ -47425,6 +47469,24 @@
             "Ambassadors"
         ],
         "image": "juliano-costa.jpg"
+    },
+    {
+        "name": "Juliano Martinez",
+        "bio": "<p>Juliano is a Principal Engineer at Adyen with 25 years of experience in Linux, networking, large-scale infrastructure, and automation. That experience informs the design and evolution of systems that connect cloud-native platforms and services to end users. The work spans cloud infrastructure, Kubernetes-based platforms, service mesh and service-to-service networking, traffic management, observability, and the reliable operation of distributed systems at scale. A longtime open-source enthusiast and Go developer, Juliano enjoys understanding systems from first principles and building simple, composable tools that reduce operational complexity.</p>",
+        "company": "Adyen",
+        "tab_role": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/ncode",
+        "twitter": "https://x.com/ncode",
+        "github": "https://github.com/ncode",
+        "wechat": "",
+        "website": "https://martinez.io",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "End User TAB"
+        ],
+        "image": "juliano-martinez.jpeg"
     },
     {
         "name": "Julien Canon",
@@ -59978,6 +60040,26 @@
         "image": "masataka-ono.jpg"
     },
     {
+        "name":"Masaya Aoyama",
+        "bio":"<p>Masaya Aoyama is a Technical Lead for Platform Engineering at CyberAgent and Co-Chair of KubeCon + CloudNativeCon Japan 2025.</p><p>He also serves as a Technical Advisor to 3-shake, Inc. and CREATIONLINE, Inc., both of which are CNCF member companies.</p><p>Since 2017, he has been an active leader in Japan’s cloud native community, organizing numerous conferences and meetups across the country. Notably, he has served as Co-Chair of CloudNative Days, Japan’s largest cloud native conference series, for over eight years.</p><p>As a Co-Founder and board member of the CNCF Japan Chapter (CNCJ: Cloud Native Community Japan), he continues to foster the growth of the local cloud native ecosystem.</p><p>He is also the author of Kubernetes Perfect Guide, widely regarded as one of the most popular Kubernetes books in Japan.</p>",
+        "company":"CyberAgent, Inc.",
+        "pronouns":"he/him",
+        "location":"Shinagawa, Tokyo, Japan",
+        "linkedin":"https://www.linkedin.com/in/amsy810/",
+        "twitter":"https://x.com/amsy810",
+        "github":"https://github.com/MasayaAoyama",
+        "wechat":"",
+        "website":"https://amsy.dev/",
+        "youtube":"",
+        "certdirectory":"https://certdirectory.io/profile/amsy810",
+        "languages":["Japanese", "English"],
+        "projects":["Kubernetes", "Argo", "OpenTelemetry", "Prometheus", "cert-manager", "Helm", "Cilium", "Open Policy Agent (OPA)"],
+        "category":["Ambassadors"],
+        "email": "amsy810!gmail.com",
+        "slack_id": "U92RV04SJ",
+        "image":"masaya_aoyama.jpg"
+    },
+    {
         "name": "Massimiliano Pablo Pianges",
         "bio": "<p>I am a multi-certified Kubernetes and cloud-native specialist (CKA, CKS, KCNA, PCA) with deep expertise in container orchestration, secure microservice architectures, and DevOps automation. I regularly host CNCF-focused meetups where I share insights on Kubernetes security, observability with Prometheus, and best practices in multi-cloud deployments. Beyond cloud-native technologies, I am also involved in quantum computing research and advanced financial modeling, often integrating AI-driven solutions into real-world production systems. You can find more about my projects and thought leadership on my LinkedIn profile and blog, where I frequently publish technical deep dives.</p>",
         "company": "Nexum-ai",
@@ -63082,7 +63164,7 @@
         "location": "Krakow, Poland",
         "linkedin": "https://www.linkedin.com/in/michalbakalarski",
         "twitter": "",
-        "github": "https://github.com/github.com/mbakalarski",
+        "github": "https://github.com/mbakalarski",
         "wechat": "",
         "website": "",
         "youtube": "",
@@ -79865,8 +79947,8 @@
     },
     {
         "name": "Ramesh Kumar",
-        "bio": "<p>I'm Ramesh Kumar, a dedicated advocate and mentor in the dynamic realm of cloud-native technologies. With a genuine passion for empowering others and a commitment to fostering meaningful connections, my journey is not just about the technology, but about the profound impact I make on the lives of those around me. </p><p>At the forefront of my endeavors are the CNCF/Kubernetes meetups I lead in Sacramento and Penang. These gatherings are not just about technical learning, they are about building a community where individuals find support, encouragement, and a strong sense of belonging. I aim to foster collaboration and knowledge sharing, especially caring for the newbies navigating the landscape. Through my patient guidance and steadfast support, I help over 500+ students and professionals navigate the complexities of Kubernetes certifications, empowering them to achieve their goals and pursue their passions. </p><p>My specialties lie in mentoring, teaching, training, and collaborating, and I take pride in my ability to inspire and guide others in their learning journey. I love encouraging and inspiring others to reach for their dreams and embrace new opportunities using CNCF Technologies. Whether guiding a career transition or championing initiatives using CNCF technologies, my compassionate approach has a lasting impact on all who encounter me. </p><p>Join me on my mission to build a more inclusive and supportive tech community with the help of CNCF. Let's create a future where collaboration thrives, knowledge is freely shared, and everyone is supported and empowered on their journey to success. </p>",
-        "company": "kubernetes@.com",
+        "bio": "<p>I'm Ramesh Kumar, a cloud-native advocate and mentor who believes technology is at its best when it lifts people up. As organizer of the CNCF/Kubernetes meetups in Sacramento and Penang, and a proud contributor who helped inspire and shape the <a href=\"https://www.cncf.io/blog/2024/10/23/the-kubestronaut-origin-story/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubestronaut</a> program, I've had the privilege of guiding 1500+ students and professionals, both online and offline, toward Kubernetes certifications and new career milestones.</p><p>My passion is simple: turn complex technology into approachable, empowering journeys, especially for newcomers finding their footing. Through mentoring, teaching, and community building, I strive to create spaces where knowledge is shared freely and everyone feels they belong.</p><p>Recently, I've begun weaving Anthropic's Claude into my Kubernetes workshops, and it has been humbling to watch learners who once felt lost now debug faster, decode complex configs, and step forward as confident cloud-native practitioners. For me, AI isn't about replacing the human touch, it's about opening the door a little wider so no one is left behind on their journey.</p>",
+        "company": "Kubernetes@.com",
         "pronouns": "He/Him",
         "location": "Sacramento, United States",
         "linkedin": "https://www.linkedin.com/in/rk132/",
@@ -79874,57 +79956,31 @@
         "github": "https://github.com/w1593950",
         "wechat": "",
         "website": "",
+        "certdirectory":"",
+        "priority":"",
         "youtube": "",
-        "slack_id": "Kylix",
-        "languages": [],
+        "languages":"[Tamil, English, Hindi]",
         "projects": [
             "Argo",
             "Cilium",
-            "cert-manager",
-            "Container Network Interface (CNI)",
             "CoreDNS",
             "Crossplane",
-            "Emissary-ingress",
-            "Envoy",
             "etcd",
-            "Falco",
-            "Fluentd",
             "Flux",
-            "gRPC",
             "Helm",
-            "Istio",
-            "Jaeger",
             "k3s",
             "Kubernetes",
-            "Kubescape",
             "KubeVirt",
             "Lima",
-            "Linkerd",
-            "Network Service Mesh",
-            "Open Cluster Management",
-            "Open Policy Agent (OPA)",
-            "Open Policy Containers",
-            "Open Service Mesh",
-            "OpenCost",
-            "OpenEBS",
-            "OpenELB",
             "OpenGitOps",
-            "OpenMetrics",
-            "OpenTelemetry",
-            "OpenTracing",
-            "Service Mesh Interface (SMI)",
-            "Service Mesh Performance",
-            "Virtual Kubelet",
-            "Vitess"
-        ],
-        "expertise": [
-            "Technical",
-            "Non-Technical"
+            "OpenTelemetry"
         ],
         "category": [
             "Ambassadors",
             "Kubestronaut"
         ],
+        "email": "Kubernetes!apple.com",
+        "slack_id": "UE2TJC4AH",
         "image": "ramesh-kumar.jpeg"
     },
     {
