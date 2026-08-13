@@ -38540,28 +38540,24 @@
     },
     {
         "name": "Hung-Ying Tai",
-        "bio": "<p>I am the maintainer of WasmEdge Runtime and an active mentor in LFX mentorship. I am enthusiastic about sharing how to leverage the WebAssembly technology with the Cloud Native ecosystem, including giving talks at the conference[1] and hosting online tutorials [2]. [1]: https://kccnceu2023.sched.com/event/6c0f559281122a74f5292f3d05b5936e?iframe=no#video_stream [2]: https://coscup.org/2023/zh-TW/session/EFYC8R I am going to have more tutorials and information related to Cloud Native+Wasm on my personal blog (https://hyd.ai). Stay tuned!</p><p>Why I am excited to be an ambassador: WebAssembly is new for the Cloud Native ecosystem. I’m excited to join the CNCF ambassador community this year to promote the connection between Could Native software and Wasm and bring this knowledge to local communities and university clubs/courses in Taiwan.</p>",
-        "company": "",
+        "bio": "<p>Hung-Ying Tai (Hydai) is a maintainer of WasmEdge Runtime and a CNCF Ambassador based in Taiwan. His work focuses on WebAssembly, cloud native runtimes, and AI inference.</p><p>He enjoys helping new contributors get involved in open source through programs such as LFX Mentorship and Google Summer of Code. He also shares what he learns through talks, tutorials, community events, and his blog. In 2026, CNCF recognized his mentorship with the Outstanding Mentor Award.</p>",
+        "company": "Second State",
         "pronouns": "He/Him",
         "location": "Taipei, Taiwan",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/hydai/",
         "twitter": "https://twitter.com/hydai_tw",
         "github": "https://github.com/hydai",
         "wechat": "",
-        "website": "",
+        "website": "https://hyd.ai/",
         "youtube": "",
-        "slack_id": "Hung-Ying, Tai",
+        "slack_id": "U01KQ1U2EKS",
         "languages": [],
         "projects": [
             "containerd",
             "CRI-O",
             "Kubernetes",
             "Lima",
-            "WasmEdge",
             "WasmEdge Runtime"
-        ],
-        "expertise": [
-            "Technical"
         ],
         "category": [
             "Ambassadors"
