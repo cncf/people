@@ -104352,6 +104352,56 @@
         "image": "vladimir-krivykh.jpg"
     },
     {
+        "name": "Vladimir Mikhalev",
+        "bio": "<p><a href='https://heyvaldemar.com/vladimir-mikhalev/'>Vladimir Mikhalev</a> (Valdemar) is a solutions architect and the sole technology leader for North American operations at a Series D enterprise serving Fortune 500 clients, accountable for container platform selection, multi-region AWS architecture, security posture, and the standards other teams build against. He is a <b>CNCF Ambassador</b> and one of fewer than 250 <a href='https://www.docker.com/community/captains/'>Docker Captains</a> worldwide, holding ten vendor-recognized titles including Docker, IBM, AWS, and HashiCorp.</p><p>His current mandate sits where cloud native meets autonomous AI: deciding what untrusted AI coding agents are permitted to touch in production, the isolation boundaries they run inside, how models ship as containerized workloads, and the provenance and policy controls that keep agent-driven delivery auditable under the EU AI Act: <b>Kyverno</b>, <b>Open Policy Agent</b>, signed supply chain artifacts. He set out that architecture in his <a href='https://www.docker.com/contributors/vladimir-mikhalev/'>engineering writing for Docker</a> on isolating untrusted autonomous workloads. Models generate the options; someone is still accountable for the one that ships.</p><p>The rest of the platform runs on the same judgment under production consequence: <b>Kubernetes</b> against managed alternatives, what a platform team should be handed and what it should be prevented from doing. He makes those calls for infrastructure spanning Prague and Toronto, runs well-architected reviews on container security posture, and owns the trade-offs he signs off on. A container-first redesign he led was documented by Docker as a 25% infrastructure cost reduction.</p><p>He built and operated infrastructure at Amazon, IBM, and Thales, on systems handling millions of requests per minute. The reference architectures he open-sources are decisions he has already shipped: 70+ production-grade deployment blueprints on <a href='https://github.com/heyvaldemar'>GitHub</a>, adopted through more than 1,000,000 Docker Hub pulls. He is Technical Editor of <i>Docker and Kubernetes Security</i> (Packt, 2025), and Docker's CEO has credited his product feedback to internal teams.</p><p>He runs the Toronto Cloud-Native &amp; Container AI community, hosts <a href='https://heyvaldemar.com/podcast/'>The Verdict</a>, a podcast on container security and AI governance in production, and publishes technical work to more than 100,000 subscribers on YouTube. As a CNCF Ambassador he makes these architecture calls easier for other teams: runnable reference architectures at <a href='https://heyvaldemar.com/'>heyvaldemar.com</a>, and mentoring engineers moving into cloud native platform work.</p>",
+        "company": "Field CTO & Technical Advisor at Valdemar.ai",
+        "pronouns": "He/Him",
+        "location": "Toronto, Ontario, Canada",
+        "linkedin": "https://www.linkedin.com/in/heyvaldemar/",
+        "twitter": "https://x.com/heyvaldemar",
+        "github": "https://github.com/heyvaldemar",
+        "bluesky": "https://bsky.app/profile/valdemar.ai",
+        "wechat": "",
+        "website": "https://heyvaldemar.com/",
+        "youtube": "https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ",
+        "certdirectory": "https://certdirectory.io/profile/heyvaldemar",
+        "priority": 10,
+        "languages": [
+            "English",
+            "Russian"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Helm",
+            "Argo",
+            "Flux",
+            "Prometheus",
+            "OpenTelemetry",
+            "containerd",
+            "CRI-O",
+            "etcd",
+            "Cilium",
+            "Harbor",
+            "Falco",
+            "Kyverno",
+            "Open Policy Agent (OPA)",
+            "cert-manager",
+            "in-toto",
+            "Notary Project",
+            "Backstage",
+            "Crossplane",
+            "KEDA",
+            "k3s",
+            "external-secrets"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "v!valdemar.ai",
+        "slack_id": "U09MCL8S80J",
+        "image": "vladimir-mikhalev.jpg"
+    },
+    {
         "name": "Vladimir Traikovich",
         "bio": "<p>I’m a technology enthusiast who enjoys learning and experimenting with modern infrastructure, especially software-defined storage and cloud-native platforms.</p>",
         "company": "",
