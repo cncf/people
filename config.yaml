@@ -776,7 +776,6 @@ repositories:
       taylorwaggoner: admin
   - name: tab-private
     teams:
-      cncf-toc: write
       cncf-tab: write
       cncf-projects: admin
       cncf-enduser-staff-core: admin
@@ -831,7 +830,6 @@ repositories:
       cncf-automation-bot: write
   - name: toc-private
     teams:
-      cncf-tab: write
       cncf-toc: write
       cncf-projects: admin
       cncf-enduser-staff-core: admin
