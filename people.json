@@ -69129,25 +69129,27 @@
     },
     {
         "name": "Nao Nishijima",
-        "bio": "<p>For most of his 10+ year career, Nao has been involved in the architecture, design, and engineering of open source systems, including the Linux kernel, OpenStack, Kubernetes, and Hyperledger. Nao is currently working on cloud native and platform services. Nao had started the CNCF/Glossary Japanese translation projects and was one of the organizers of the Cloud Native Community Japan. https://community.cncf.io/cloud-native-community-japan/</p><p>Why I am excited to be an ambassador: As an ambassador, I look forward to energizing the technical/non-technical community in Japan and making connections with the global community.</p>",
-        "company": "",
+        "bio": "<p>Nao has spent 15+ years architecting and engineering open source systems, including Linux, OpenStack, Kubernetes, and Hyperledger. He currently leads the OSS team in the R&D Group, driving open-source strategy, community engagement, and technical contributions. Beyond CNCF, he contributes to communities such as LF Energy, FINOS, and OpenSSF, bringing cloud native technologies and practices to other ecosystems. He also co-organizes Cloud Native Community Japan, connecting Japan with the global OSS community.</p>",
+        "company": "Hitachi, Ltd.",
         "pronouns": "He/Him",
-        "location": "Fujisawa, Japan",
-        "linkedin": "",
+        "location": "Fujisawa, Kanagawa, Japan",
+        "linkedin": "https://www.linkedin.com/in/nao-nishijima-89b991140",
         "twitter": "",
         "github": "https://github.com/naonishijima",
         "wechat": "",
         "website": "",
         "youtube": "",
-        "slack_id": "nao.nishijima.xt",
-        "languages": [],
+        "slack_id": "U01UTB73H9S",
+        "languages": [
+            "Japanese",
+            "English"
+        ],
         "projects": [
             "Cilium",
             "Falco",
-            "Helm",
-            "Kubeflow",
             "Kubernetes",
             "KubeVirt",
+            "Open Policy Agent",
             "Prometheus"
         ],
         "expertise": [
