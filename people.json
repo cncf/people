@@ -50897,8 +50897,8 @@
     },
     {
         "name": "Kensei Nakada",
-        "bio": "<p>Kensei Nakada is a software engineer, passionate about CloudNative tech. He's a long-time Kubernetes contributor, mainly focusing on the scheduler as a SIG-Scheduling approver, and has led many major enhancements.</p>",
-        "company": "Tetrate.io",
+        "bio": "<p>Kensei Nakada is a software engineer, passionate about CloudNative tech. He's a long-time Kubernetes contributor, mainly focusing on the scheduler as a SIG-Scheduling Tech Lead / Chair, and has led many major enhancements.</p>",
+        "company": "",
         "pronouns": "He/Him",
         "location": "Kyoto, Japan",
         "twitter": "https://twitter.com/sanpo_shiho",
@@ -50908,7 +50908,6 @@
             "Ambassadors"
         ],
         "projects": [
-            "Envoy",
             "Kubernetes"
         ],
         "image": "kensei-nakada.jpg"
