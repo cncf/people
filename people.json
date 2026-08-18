@@ -14938,6 +14938,46 @@
         "lfid": "daemon1024"
     },
     {
+        "name": "Barun Debnath",
+        "bio": "<p>Barun is a Platform, Backend, and Site Reliability Engineer based in Bangalore, India. He works on scaling production data infrastructure on ClickHouse, Kafka, and Go, and on designing Kubernetes-based platforms with proper observability, autoscaling, and cost discipline. He also builds production LLM systems using RAG, memory, guardrails, and Temporal workflows.</p><p>Barun spoke at the ClickHouse Bangalore User Group on “25x Cheaper Infrastructure, 8x Cheaper Pricing: Real-Time Attribution With ClickHouse as the Backbone”, and writes about infrastructure, reliability, and AI engineering at <a href='https://barundebnath.com'>barundebnath.com</a>.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Bangalore, Karnataka, India",
+        "linkedin": "https://www.linkedin.com/in/barundebnath",
+        "twitter": "https://twitter.com/barundebnath",
+        "github": "https://github.com/d-cryptic",
+        "bluesky": "",
+        "wechat": "",
+        "website": "https://barundebnath.com",
+        "youtube": "",
+        "certdirectory": "",
+        "languages": [
+            "English",
+            "Hindi",
+            "Bengali"
+        ],
+        "projects": [
+            "Argo",
+            "Cilium",
+            "gRPC",
+            "Helm",
+            "Istio",
+            "Kubernetes",
+            "NATS",
+            "OpenCost",
+            "OpenTelemetry",
+            "Prometheus",
+            "Thanos"
+        ],
+        "category": [
+            "Kubestronaut"
+        ],
+        "email": "barundebnath91!gmail.com",
+        "slack_id": "Barun Debnath",
+        "image": "barun-debnath.jpeg",
+        "lfid": "dcryptic"
+    },
+    {
         "name": "Bas Van Veen",
         "bio": "<p>Developer\\Engineer with broad experience in large scale private cloud infrastructure, linux and cloud automation. Loves all kinds of tinkering, working with electronics, microcontrollers, and diy projects.</p>",
         "company": "",
