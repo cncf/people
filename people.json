@@ -1652,6 +1652,27 @@
         "slack_id": "",
         "image": "abraham-alfaro-sosa.jpg"
     },
+     {
+        "name": "Abubakar Siddiq Ango",
+        "bio": "<p>Abubakar has spent fifteen years on both sides of infrastructure: building and running it, and helping other people do the same.</p>",
+        "company": "Kubermatic",
+        "pronouns": "He/Him",
+        "location": "Rotterdam, Netherlands",
+        "linkedin": "https://www.linkedin.com/in/abubakarango/",
+        "twitter": "https://x.com/sarki247",
+        "github": "https://github.com/abuango",
+        "wechat": "",
+        "website": "https://abuango.me",
+        "youtube": "",
+        "certdirectory": "",
+        "languages":["English","Dutch"],
+        "projects":["kcp"],
+        "category": [
+            "Ambassadors"
+        ],
+        "slack_id": "U7NULEPUN",
+        "image": "abubakar-ango.jpg"
+    },
     {
         "name": "Abu Hena Mostafa Kamal",
         "bio": "<p>I am Abu Hena Mostafa Kamal, a Senior Software Engineer at Cimsolutions Bangladesh Ltd with over 12 years of experience building and operating enterprise applications from application layer to infrastructure — across Java, .NET, and Angular through to Kubernetes, Helm, Argo CD, GitOps, Azure AKS, and Terraform. I have a strong focus on platform security and observability using tools such as Trivy, Kyverno, Falco, KubeBench, Prometheus, and Grafana, and I am passionate about advancing cloud-native practices through continuous learning and community engagement.</p>",
