@@ -79251,8 +79251,8 @@
     },
     {
         "name": "Qing Hao",
-        "bio": "<p>Qing Hao is a senior software engineer at Red Hat. She loves open source and sharing, she is a maintainer of Open Cluster Management and enjoys writing blogs to share new developments in the community. She has been involved in numerous open source activities over the past few years, including being a speaker at KubeCon, a mentor for OSPP and GSoC many times. She has hosted many open source meetups in Xi’an as early as 2015, and she is now one of the organizers of KCD.</p><p>Why I am excited to be an ambassador: I am passionate about open source and sharing, and becoming an ambassador would provide me with more opportunities and motivation to do what I love. I’ve witnessed the CNCF project’s remarkable growth in recent years, and now, with the rise of AI, it’s thriving more than ever. As an ambassador, I look forward to helping more people and projects benefit from open source, which is one of the most exciting aspects of this role.</p>",
-        "company": "Red Hat",
+        "bio": "<p>Qing Hao is a Senior Expert at ZTE, currently focusing on AI infrastructure training and inference optimization, with a strong background in multi-cluster management and AI workload scheduling. She is a passionate advocate for open source, actively contributing as a maintainer of Open Cluster Management and regularly writing technical blogs to share the latest community developments. Over the years, she has taken on multiple roles in open source events, including serving as a program committee member and speaker at KubeCon, a mentor for OSPP and GSoC, and one of the organizers of KCD Beijing.</p><p>Why I am excited to be an ambassador: I am passionate about open source and sharing, and becoming an ambassador would provide me with more opportunities and motivation to do what I love. I’ve witnessed the CNCF project’s remarkable growth in recent years, and now, with the rise of AI, it’s thriving more than ever. As an ambassador, I look forward to helping more people and projects benefit from open source, which is one of the most exciting aspects of this role.</p>",
+        "company": "ZTE",
         "pronouns": "She/Her",
         "location": "Xi'an, China",
         "linkedin": "https://www.linkedin.com/in/haoqing/",
@@ -79264,7 +79264,8 @@
         ],
         "projects": [
             "Kubernetes",
-            "Open Cluster Management"
+            "Open Cluster Management",
+            "Kueue"
         ],
         "image": "qing-hao.jpg",
         "lfid": "haoqing0110"
