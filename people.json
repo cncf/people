@@ -61800,22 +61800,24 @@
     },
     {
         "name": "Matthew Cascio",
-        "bio": "<p>Digital product leader. Speaker, author, advisor. KDC organizer in Washington, DC and Medellín, Colombia. KCD fiscal sponsor through my company NāOM Lab.</p><p>Why I am excited to be an ambassador: Excited to promote CNCF projects, initiatives and culture through community events and meetups.</p>",
-        "company": "American Red Cross",
+        "bio": "<p>Digital product leader. Speaker, author, advisor. KDC organizer in Washington, DC and San Francisco. KCD fiscal sponsor through my company NāOM Lab.</p><p>Why I am excited to be an ambassador: Excited to promote CNCF projects, initiatives and culture through community events and meetups.</p>",
+        "company": "NāOM Lab LLC",
         "pronouns": "He/Him",
         "location": "Washington, DC, United States",
-        "linkedin": "",
+        "linkedin": "https://linkedin.com/in/mcascio",
         "twitter": "https://www.twitter.com/mattcascio",
         "github": "https://github.com/mcascio",
         "wechat": "",
-        "website": "",
+        "website": "https://naomlab.com",
         "youtube": "",
         "slack_id": "Matthew Cascio",
         "languages": [],
         "projects": [
             "Kubernetes",
             "Pixie",
-            "Prometheus"
+            "Prometheus",
+            "OpenTelemetry",
+            "Argo CD"
         ],
         "expertise": [
             "Technical",
@@ -61824,7 +61826,8 @@
         "category": [
             "Ambassadors"
         ],
-        "image": "matthewcascio.jpg"
+        "email": "matt!naomlab.com",
+        "image": "matthew-cascio.jpg"
     },
     {
         "name": "Matthew Frechette",
