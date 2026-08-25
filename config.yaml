@@ -667,6 +667,11 @@ repositories:
   - external_collaborators:
       csantanapr: write
     name: presentations
+  - name: project-lifecycle
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
+    visibility: private
   - name: project-template
     teams:
       cncf-toc: write
