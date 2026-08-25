@@ -91146,6 +91146,38 @@
         "image": "seungkyu-ahn.jpg"
     },
     {
+        "name": "Severin Neumann",
+        "bio": "<p>Severin Neumann is Head of Community at Bronto, an OpenTelemetry maintainer and a member of the OpenTelemetry Governance Committee. He has been contributing to OpenTelemetry since 2020, where he has worked across the documentation, communications and end-user efforts, helping newcomers get started with the project and helping the community tell its story.</p><p>He is a contributor to the CNCF TAG Operational Resilience whitepaper, writes about observability and open source at svrnm.com, and regularly speaks at community events and meetups on OpenTelemetry and cloud native observability.</p>",
+        "company": "Bronto",
+        "pronouns": "he/him",
+        "location": "Fürth, Bavaria, Germany",
+        "linkedin": "https://www.linkedin.com/in/severinneumann/",
+        "twitter": "",
+        "github": "https://github.com/svrnm",
+        "bluesky": "https://bsky.app/profile/svrnm.com",
+        "mastodon": "https://troet.cafe/@svrnm",
+        "wechat": "",
+        "website": "https://svrnm.com",
+        "youtube": "",
+        "languages": [
+            "English",
+            "German"
+        ],
+        "projects": [
+            "opentelemetry"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "severin!bronto.io",
+        "slack_id": "U01V5PFBBAQ",
+        "image": "severin-neumann.jpg"
+    },
+    {
         "name": "Seyed Mohammad Khoob Bin Khoshnazar",
         "bio": "<p>I'm a DevOps engineer with 5+ years of experience specializing in cloud-native infrastructure and Kubernetes at scale. My focus is on building resilient, multi-cluster environments and the automation that keeps them running reliably — from provisioning through delivery.  I design and operate GitOps-driven platforms using ArgoCD, Helm, and GitLab CI, treating infrastructure and application delivery as fully declarative, version-controlled systems.</p>",
         "company": "T-systems International",
