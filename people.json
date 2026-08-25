@@ -114247,5 +114247,39 @@
         ],
         "slack_id": "",
         "image": "hansuk-hong.jpg"
+    },
+    {
+        "name": "Hsiu-Chi Tsai",
+        "bio": "<p>Hsiu-Chi Tsai is a CNCF Ambassador and a research assistant at National Yang Ming Chiao Tung University (NYCU) in Taiwan. His work focuses on correctness in cloud-native and distributed systems, particularly Kubernetes resource allocation and scheduling, OpenTelemetry lifecycle and concurrency, and cloud-native telecom. He contributes upstream by turning code-level and system failures into reproducible cases, regression tests, and fixes.</p><p>Hsiu-Chi serves on the Nephio Technical Steering Committee under Linux Foundation Networking and maintains M5Stack platforms in the Zephyr Project. He also organizes the O-RAN in B5G/6G track at COSCUP and shares technical knowledge in English, Mandarin Chinese, and Taiwanese Hokkien. As an Ambassador, he aims to connect telecom practitioners in Taiwan with CNCF communities, help students and first-time contributors enter upstream open source, and publish practical bilingual engineering case studies.</p>",
+        "company": "National Yang Ming Chiao Tung University (NYCU)",
+        "pronouns": "",
+        "location": "Hsinchu, Taiwan",
+        "linkedin": "https://www.linkedin.com/in/thc1006/",
+        "twitter": "https://x.com/thc1006",
+        "github": "https://github.com/thc1006",
+        "bluesky": "",
+        "wechat": "",
+        "website": "https://cs.nycu.edu.tw/~hctsai1006/",
+        "youtube": "https://www.youtube.com/@thc1006",
+        "slack_id": "U064F1SFSQ3",
+        "languages": [
+            "Mandarin Chinese",
+            "Taiwanese Hokkien",
+            "Hakka",
+            "English",
+            "Czech"
+        ],
+        "projects": [
+            "Kubernetes",
+            "OpenTelemetry",
+            "Kueue"
+        ],
+        "expertise": [
+            "Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "hsiu-chi-tsai.jpg"
     }
 ]
