@@ -72161,6 +72161,35 @@
         "lfid": "npolshak"
     },
     {
+        "name": "Nir Rozenbaum",
+        "bio": "<p>Nir is an engineering leader with deep expertise in Kubernetes, cloud native technologies, and open source. His work focuses on AI workloads and inference infrastructure on Kubernetes, spanning networking, traffic management, and the broader cloud native AI foundations. He has contributed to and led major CNCF projects and initiatives, helping advance Kubernetes capabilities and shape industry standards for cloud native AI.</p>",
+        "company": "NVIDIA",
+        "pronouns": "He/Him",
+        "location": "Yokne'am Illit, Israel",
+        "linkedin":"https://www.linkedin.com/in/nir-rozenbaum/",
+        "github": "https://github.com/nirrozenbaum",
+        "category": [
+            "Ambassadors"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "projects": [
+            "Kubernetes",
+            "llm-d",
+            "Prometheus",
+            "Open Cluster Management",
+            "KubeStellar",
+            "Helm",
+            "Envoy",
+            "Istio"
+        ],
+        "slack_id": "U093RH61LRK",
+        "image": "nir-rozenbaum.jpg",
+        "lfid": "nir.rozenbaum"
+    },
+    {
         "name": "Niranjan Desai",
         "bio": "<p>I am a professional DevOps engineer with a strong foundation in Linux, having previously excelled as a cloud engineer and platform engineer. My expertise lies in Kubernetes, where I have extensive experience managing both self-hosted and managed environments. </p>",
         "company": "NuSummit",
