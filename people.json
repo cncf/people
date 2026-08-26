@@ -114399,5 +114399,32 @@
             "Ambassadors"
         ],
         "image": "hsiu-chi-tsai.jpg"
+    },
+    {
+        "name": "Paco Xu",
+        "bio": "Paco Xu is the Open Source Team Lead at DaoCloud and a Kubernetes and CNCF community leader based in Shanghai, China. He serves on the Kubernetes Steering Committee, chairs CNCF TAG Workloads Foundation, maintains kubeadm, and reviews for Kubernetes SIG Node. He was Co-Chair of KubeCon China 2024 and Track Chair for KubeCon North America 2024 and KubeCon Europe 2025. His work focuses on Kubernetes workloads, scheduling, AI/ML infrastructure, contributor mentoring, and connecting China and APAC communities with the global CNCF ecosystem.",
+        "company": "DaoCloud",
+        "location": "Shanghai, China",
+        "linkedin": "https://www.linkedin.com/in/pacoxu2020/",
+        "twitter": "https://x.com/xu_paco",
+        "github": "https://github.com/pacoxu",
+        "bluesky": "https://bsky.app/profile/pacoxu.bsky.social",
+        "website": "https://pacoxu.wordpress.com/",
+        "youtube": "https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok",
+        "languages": [
+            "Chinese",
+            "English"
+        ],
+        "projects": [
+            "containerd",
+            "kubernetes",
+            "llm-d"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "roollingstone!gmail.com",
+        "image": "paco-xu.jpg",
+        "slack_id": "U01R7KK9GET"
     }
 ]
