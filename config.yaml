@@ -669,7 +669,6 @@ repositories:
     name: presentations
   - name: project-lifecycle
     teams:
-      cncf-toc: write
       cncf-projects: admin
     external_collaborators:
       angellk: admin
