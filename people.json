@@ -99815,7 +99815,7 @@
     },
     {
         "name": "The Anh Nguyen",
-        "bio": "<p>- Open Source enthusiast. - Member @kubernetes community. - Winning a 2025 Linux Foundation Training (LiFT) Scholarship.  - My latest interests are currently in:<p/><p>  + Kubeflow: AI platform on Kubernetes<p/><p>  + Apache Traffic Control: Content delivery network<p/><p>  + Kubernetes SIG Docs<p/><p>  + CNCF Cloud Native Glossary</p>",
+        "bio": "<p>The Anh is an Software Engineer at Viettel Networks, where he leads the product and engineering team building the Viettel AI Platform. His work focuses on GPU supercomputing.</p><p>In the community, The Anh leads the Vietnamese localization of the CNCF Cloud Native Glossary and is a Vietnamese approver for Kubernetes SIG Docs VI. He is a CNCF Ambassador & Kubestronaut, an NVIDIA-Certified Professional in AI Operations, a Linux Foundation Certified SysAdmin, and a 2025 Linux Foundation Training (LiFT) Scholarship recipient.</p>",
         "company": "Viettel Networks",
         "pronouns": "He/Him",
         "location": "Hanoi, Vietnam",
@@ -99827,7 +99827,21 @@
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/cbe472e4-c142-4b85-91dc-3d5c3672548c",
         "category": [
+            "Ambassadors",
             "Kubestronaut"
+        ],
+        "projects": [
+            "HAMi",
+            "Kubeflow",
+            "Kubernetes"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "languages": [
+            "English",
+            "Vietnamese"
         ],
         "slack_id": "U06LEMMAXJ5",
         "image": "the-anh-nguyen.jpg"
