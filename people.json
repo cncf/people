@@ -74462,8 +74462,8 @@
     },
     {
         "name": "Oscar Eduardo Castillo",
-        "bio": "<p>I’m a DevOps Engineer with over 14 years of experience in infrastructure, security, and cloud-native platforms. I specialize in Kubernetes and CNCF technologies, including Istio, Argo CD, and Kyverno, as well as in building and operating platforms on AWS. I’m the organizer of Cloud Native Cali, a community focused on sharing knowledge and growing the cloud-native ecosystem in Colombia. I enjoy building practical labs and sharing real-world platform engineering practices with the community.</p>",
-        "company": "",
+        "bio": "<p>Kubestronaut, CNCF Ambassador, Speaker, and Cloud Native Cali and Colombia community organizer. I'm a Systems Engineer with over 14 years of experience in technology, specializing in cloud native and platform engineering. I'm passionate about building communities, sharing knowledge and experiences, and helping people grow while strengthening the cloud native ecosystem in Colombia and Latin America.</p>",
+        "company": "Genius Sports",
         "pronouns": "He/Him",
         "location": "Cali, Valle, Colombia",
         "linkedin": "https://www.linkedin.com/in/oecastillo",
@@ -74474,8 +74474,17 @@
         "youtube": "https://www.youtube.com/@Thefacultech",
         "certdirectory": "",
         "category": [
-            "Kubestronaut"
+            "Kubestronaut","Ambassadors"
         ],
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "email": "oeco.castillo!gmail.com",
         "slack_id": "oeco710",
         "image": "oscar-eduardo-castillo.jpg"
     },
