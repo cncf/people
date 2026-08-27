@@ -25557,6 +25557,28 @@
         "image": "di-xu.jpg"
     },
     {
+        "name": "Diana Todea",
+        "bio": "<p>Diana is the Head of Developer Relations Engineering at VictoriaMetrics. In the OpenTelemetry community, she is a Docs approver, leads the Romanian localization SIG. She is co-leading the Merge-Forward, Neurodiversity group within CNCF and she is an active member of the CNCF community and frequently speaks at conferences and meetups.</p>",
+        "company": "VictoriaMetrics",
+        "pronouns": "She/Her",
+        "location": "Bucharest, Romania",
+        "linkedin": "https://www.linkedin.com/in/diana-todea-b2a79968/",
+        "bluesky": "https://bsky.app/profile/didiviking.bsky.social",
+        "twitter": "https://x.com/dianavtodea",
+        "github": "https://github.com/didiViking",
+        "wechat": "",
+        "website": "https://medium.com/@dianatodea",
+        "youtube": "",
+        "slack_id": "U071WUB8FC2",
+        "languages": ["English", "Romanian", "French", "Spanish"],
+        "projects": ["VictoriaMetrics", "OpenTelemetry"],
+        "expertise": ["Technical", "Non-Technical"],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "diana-todea.jpg"
+    },
+    {
         "name": "Dibyajyoti Hazra",
         "bio": "<p>Dibyajyoti Hazra is a Senior Backend Developer with over 8 years of experience in building scalable distributed systems. His expertise spans networking (DHCP/IPAM, DNS), cloud and IaC security, plugin and extension development, and LLM-based backend applications. He is proficient in GoLang and has hands-on experience with containerization and orchestration technologies like Docker and Kubernetes, as well as cloud platforms such as AWS. Link to blog: https://dibyahazra.github.io/</p>",
         "company": "",
@@ -39672,8 +39694,8 @@
     },
     {
         "name": "Iceber Gu",
-        "bio": "<p>I love open source and am involved in many CNCF projects such as Containerd, Kubernetes,Kubeedge, WasmCloud & KasmCloud. I also created Clusterpedia and promoted its contribution to the CNCF Sandbox project. I organized KCD Beijing and KCD Shenzhen in China, and have been a speaker at Kubecon and many other events. I maintain my blog at https://icebergu.com/ and when I have time I share my thoughts on technology!</p><p>Why I am excited to be an ambassador: I am delighted to be a CNCF Ambassador. I am very grateful to CNCF for recognizing my work in the cloud native community. The influence of being a CNCF Ambassador allows me to better promote cloud-native technologies and the CNCF projects, make it easier to organize cloud-native events, and attract more people to participate in cloud-native construction. I will make more contributions to CNCF as an ambassador!</p>",
-        "company": "",
+        "bio": "<p>I love open source and am involved in many CNCF projects such as Containerd, Kubernetes,Kubeedge, WasmCloud & KasmCloud. I also created Clusterpedia and promoted its contribution to the CNCF Sandbox project. I have organized KCD Beijing (2023, 2025, and 2026), KCD Hangzhou (2025 and 2026), KCD Shanghai (2024), and KCD Shenzhen (2023). I have also been a speaker at KubeCon and many other events. I maintain my blog at https://icebergu.com/ and when I have time I share my thoughts on technology!</p><p>Why I am excited to be an ambassador: I am delighted to be a CNCF Ambassador. I am very grateful to CNCF for recognizing my work in the cloud native community. The influence of being a CNCF Ambassador allows me to better promote cloud-native technologies and the CNCF projects, make it easier to organize cloud-native events, and attract more people to participate in cloud-native construction. I will make more contributions to CNCF as an ambassador!</p>",
+        "company": "DaoCloud",
         "pronouns": "He/Him",
         "location": "Shanghai, China",
         "linkedin": "",
@@ -39695,6 +39717,7 @@
             "kube-rs",
             "KubeEdge",
             "Kubernetes",
+            "llm-d",
             "NATS",
             "Open Policy Agent (OPA)",
             "wasmCloud",
@@ -50558,6 +50581,38 @@
         ],
         "slack_id": "kashifkm@hotmail.com",
         "image": "kashif-karim.jpg"
+    },
+    {
+        "name": "Kashif Khan",
+        "bio": "<p>Kashif Khan is a co-chair of CNCF TAG Infrastructure and maintainer of the CNCF project Metal3.io for 7 years. He works as an Principal open source Architect for Ericsson Software Technology, Finland. He holds a PhD in Computer Science. Kashif is a research and open source enthusiast and his current area of interest is kubernetes deployments on baremetal systems in distributed cloud scenarios.</p>",
+        "company": "Ericsson Software Technology, Finland",
+        "pronouns": "He/Him",
+        "location": "Espoo, Finland",
+        "linkedin": "https://www.linkedin.com/in/kashifnizamkhan",
+        "twitter": "",
+        "github": "https://github.com/kashifest",
+        "wechat": "",
+        "website": "",
+        "certdirectory": "https://certdirectory.io/profile/kashifkhan",
+        "languages": [
+            "English",
+            "Bengali"
+        ],
+        "projects": [
+            "Metal3-io",
+            "cert-manager",
+            "Kubernetes"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "kashif-khan.jpg",
+        "lfid": "KashifNKhan",
+        "slack_id": "U019TNA6L2U"
     },
     {
         "name": "Kashyap Savaliya",
@@ -114410,5 +114465,32 @@
         "email": "pedroig100.pi!gmail.com",
         "slack_id": "U052MNUM147",
         "image": "pedro-silva.jpg"
+    },
+    {
+        "name": "Paco Xu",
+        "bio": "Paco Xu is the Open Source Team Lead at DaoCloud and a Kubernetes and CNCF community leader based in Shanghai, China. He serves on the Kubernetes Steering Committee, chairs CNCF TAG Workloads Foundation, maintains kubeadm, and reviews for Kubernetes SIG Node. He was Co-Chair of KubeCon China 2024 and Track Chair for KubeCon North America 2024 and KubeCon Europe 2025. His work focuses on Kubernetes workloads, scheduling, AI/ML infrastructure, contributor mentoring, and connecting China and APAC communities with the global CNCF ecosystem.",
+        "company": "DaoCloud",
+        "location": "Shanghai, China",
+        "linkedin": "https://www.linkedin.com/in/pacoxu2020/",
+        "twitter": "https://x.com/xu_paco",
+        "github": "https://github.com/pacoxu",
+        "bluesky": "https://bsky.app/profile/pacoxu.bsky.social",
+        "website": "https://pacoxu.wordpress.com/",
+        "youtube": "https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok",
+        "languages": [
+            "Chinese",
+            "English"
+        ],
+        "projects": [
+            "containerd",
+            "kubernetes",
+            "llm-d"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "roollingstone!gmail.com",
+        "image": "paco-xu.jpg",
+        "slack_id": "U01R7KK9GET"
     }
 ]
