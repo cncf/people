@@ -8928,6 +8928,33 @@
         "image": "andre-kloster.jpg"
     },
     {
+        "name": "André Silva",
+        "bio": "<p>I am a software engineer based in Dublin, Ireland. Originally from Portugal, I specialise in building backend systems and developer tooling with .NET, C#, and open-source technologies. I contribute to the developer community through open-source projects, technical writing, and speaking at conferences.</p>",
+        "company": "General Motors",
+        "pronouns": "he/him",
+        "location": "Dublin, Ireland",
+        "linkedin": "https://linkedin.com/in/askpt",
+        "bluesky": "https://bsky.app/profile/asilva.dev",
+        "twitter": "",
+        "github": "https://github.com/askpt",
+        "wechat": "",
+        "website": "https://asilva.dev",
+        "certdirectory": "https://certdirectory.io/profile/askpt",
+        "youtube": "",
+        "languages": [
+            "English",
+            "Portuguese"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "projects": [
+            "OpenFeature"
+        ],
+        "image": "andre-silva.jpg",
+        "slack_id": "U05Q4EN2P0V"
+    },
+    {
         "name": "André Wanlin",
         "bio": "<p>André, a full Stack Developer from Winnipeg, Manitoba, Canada, is an active member of the Backstage open source project having contributed 3 plugins - Azure DevOps, DevTools, and Linguist - as well as various features, bug fixes and documentation updates. He's often found on the Backstage Discord Server helping others and sharing his passion for all things Backstage. When he's offline you can catch him at the local dog park with his Frenchton Bailey!</p>",
         "company": "Spotify AB",
