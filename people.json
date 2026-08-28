@@ -115283,5 +115283,83 @@
         ],
         "slack_id": "",
         "image": "hansuk-hong.jpg"
+    },
+    {
+        "name": "Ayesha Yege",
+        "bio": "Ayesha is a Software and Cloud Security Architect with a strong background in designing, deploying, and managing cloud-native and AI solutions. She has a proven expertise in microservices architecture, Kubernetes, and DevOps practices, with a focus on scalability, security, and cost optimization. Ayesha is passionate about leveraging cloud technologies to drive digital transformation and enhance operational efficiency.",
+        "company": "Palo Alto Networks(MPIV Partner)",
+        "pronouns": "She/Her",
+        "location": "Santo Domingo, Dominican Republic",
+        "linkedin": "https://www.linkedin.com/in/ayesha-yege/",
+        "github": "https://github.com/Ayege",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "https://certdirectory.io/profile/a1af9935-35b7-4e68-b2a7-879ee02bb970",
+        "languages": ["English", "Spanish", "French"],
+        "category": ["Ambassadors"],
+        "email": "yegeayesha!gmail.com",
+        "slack_id": "U08K6NHCABV",
+        "image": "ayeshayegepena.jpg"
+    },
+    {
+        "name": "Pedro Ignácio",
+        "bio": "<p>Pedro's a senior solutions engineer working with containers, security and AI. Being part of the community is probably what he loves the most - meeting new people, collaborating together, helping newbies and doing all kinds of stuff. Other than that, he REALLY likes football, writing and eating food from all over the world. He's organized some KCDs, meetups and he's really looking forward to meeting you soon! :)</p>",
+        "company": "Docker, Inc.",
+        "pronouns": "he/him",
+        "location": "São Paulo, São Paulo, Brazil",
+        "linkedin": "https://www.linkedin.com/in/pedroirufo/",
+        "twitter": "https://x.com/predoignacio",
+        "github": "https://github.com/pedroignacio13",
+        "wechat": "",
+        "website": "https://pedroignacio.dev/",
+        "youtube": "",
+        "certdirectory": "",
+        "languages": [
+            "Portuguese",
+            "Spanish",
+            "English",
+            "Italian"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Cilium",
+            "OpenTelemetry",
+            "Grafana",
+            "Kyverno"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "pedroig100.pi!gmail.com",
+        "slack_id": "U052MNUM147",
+        "image": "pedro-silva.jpg"
+    },
+    {
+        "name": "Paco Xu",
+        "bio": "Paco Xu is the Open Source Team Lead at DaoCloud and a Kubernetes and CNCF community leader based in Shanghai, China. He serves on the Kubernetes Steering Committee, chairs CNCF TAG Workloads Foundation, maintains kubeadm, and reviews for Kubernetes SIG Node. He was Co-Chair of KubeCon China 2024 and Track Chair for KubeCon North America 2024 and KubeCon Europe 2025. His work focuses on Kubernetes workloads, scheduling, AI/ML infrastructure, contributor mentoring, and connecting China and APAC communities with the global CNCF ecosystem.",
+        "company": "DaoCloud",
+        "location": "Shanghai, China",
+        "linkedin": "https://www.linkedin.com/in/pacoxu2020/",
+        "twitter": "https://x.com/xu_paco",
+        "github": "https://github.com/pacoxu",
+        "bluesky": "https://bsky.app/profile/pacoxu.bsky.social",
+        "website": "https://pacoxu.wordpress.com/",
+        "youtube": "https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok",
+        "languages": [
+            "Chinese",
+            "English"
+        ],
+        "projects": [
+            "containerd",
+            "kubernetes",
+            "llm-d"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "roollingstone!gmail.com",
+        "image": "paco-xu.jpg",
+        "slack_id": "U01R7KK9GET"
     }
 ]
