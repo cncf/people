@@ -39542,6 +39542,36 @@
         "image": "hector-oses-rosa.jpg"
     },
     {
+        "name": "Hélia Barroso",
+        "bio": "<p>Senior Observability Engineer/SRE with a background in Biotechnology and a strong passion for Observability. Maintainer of Prometheus Operator and active contributor to open source projects including Perses. Community organizer for Cloud Native Porto. Curious by nature, always learning and exploring new challenges in the cloud-native ecosystem.</p>",
+        "company": "Five9",
+        "pronouns": "She/Her",
+        "location": "Vila Nova de Famalicão, Portugal",
+        "linkedin": "https://www.linkedin.com/in/heliabarroso/",
+        "twitter": "",
+        "github": "https://github.com/heliapb",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "languages":[
+            "Portuguese",
+            "English"
+        ],
+        "projects": [
+            "Prometheus",
+            "Thanos",
+            "OpenTelemetry",
+            "Perses",
+            "Helm"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "slack_id": "U056PB1BRHQ",
+        "image": "helia-barroso.jpg"
+    },
+    {
         "name": "Hüseyin Özer",
         "bio": "<p>I’m a Linux system administrator with a strong interest in cloud-native technologies and modern infrastructure. I focus on building, managing, and maintaining reliable Linux-based systems and servers. I enjoy working with automation, self-hosted environments, and exploring tools within the CNCF ecosystem such as Kubernetes. I also like sharing knowledge and practical experiences related to Linux systems, infrastructure, and open-source technologies. </p>",
         "company": "Nesine",
