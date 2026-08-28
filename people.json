@@ -91554,6 +91554,24 @@
         "image": "shadaab-mohammed.jpg"
     },
     {
+        "name": "Shadi Saba",
+        "bio": "<p>Shadi is VP of Engineering, AI/ML at CoreWeave, where he leads the engineering organizations building the cloud-native platforms that power frontier AI workloads - spanning AI inference, applied training, reinforcement learning, Kubernetes-native infrastructure, and performance engineering. His teams build CoreWeave's dedicated and serverless inference platforms, develop model evaluation and optimization technologies, and advance large-scale scheduling and workload orchestration through open source projects including SUNK and Kueue. His organization also owns CoreWeave's MLPerf benchmarking and global fleet validation, delivering industry-leading training and inference results across successive generations of AI accelerators.</p><p>Before CoreWeave, Shadi led AWS's Distributed Training organization, where his teams built and advanced PyTorch/XLA and JAX and pioneered distributed training technologies enabling frontier LLM, vision, and multimodal models to scale across thousands of accelerators. Earlier at AWS, he led the Security, Health Monitoring, and Console Services organizations, building planet-scale distributed systems that secure and operate AWS's global infrastructure. His earlier career includes engineering leadership roles at Intel and Cadence Design Systems.</p><p>With more than 20 years across AI, distributed systems, and cloud infrastructure, Shadi is a hands-on technical leader known for operational excellence at hyperscale and for building world-class engineering organizations. He holds several patents in artificial intelligence, advises CoreWeave Ventures, and writes and speaks regularly on AI infrastructure, distributed systems, and engineering leadership. He holds an M.S. in Computer Science from the Technion - Israel Institute of Technology.</p>",
+        "company": "CoreWeave",
+        "gb_role": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/shadisaba/",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "shadi-saba.jpg"
+    },
+    {
         "name": "Shaenmugapriyan S",
         "bio": "<p>I’m a DevOps Engineer with around five years of experience, working extensively with Kubernetes since 2020. I focus on cloud-native infrastructure and CNCF technologies, with a strong emphasis on multicloud Kubernetes operations. I’ve spoken at the Google Cloud Community Chennai on multicloud cluster management using Anthos and on migrating VM-based workloads to Amazon EKS.</p>",
         "company": "",
