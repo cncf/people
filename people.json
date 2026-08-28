@@ -114536,6 +114536,39 @@
         "image": "hsiu-chi-tsai.jpg"
     },
     {
+        "name": "Pedro Ignácio",
+        "bio": "<p>Pedro's a senior solutions engineer working with containers, security and AI. Being part of the community is probably what he loves the most - meeting new people, collaborating together, helping newbies and doing all kinds of stuff. Other than that, he REALLY likes football, writing and eating food from all over the world. He's organized some KCDs, meetups and he's really looking forward to meeting you soon! :)</p>",
+        "company": "Docker, Inc.",
+        "pronouns": "he/him",
+        "location": "São Paulo, São Paulo, Brazil",
+        "linkedin": "https://www.linkedin.com/in/pedroirufo/",
+        "twitter": "https://x.com/predoignacio",
+        "github": "https://github.com/pedroignacio13",
+        "wechat": "",
+        "website": "https://pedroignacio.dev/",
+        "youtube": "",
+        "certdirectory": "",
+        "languages": [
+            "Portuguese",
+            "Spanish",
+            "English",
+            "Italian"
+        ],
+        "projects": [
+            "Kubernetes",
+            "Cilium",
+            "OpenTelemetry",
+            "Grafana",
+            "Kyverno"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "pedroig100.pi!gmail.com",
+        "slack_id": "U052MNUM147",
+        "image": "pedro-silva.jpg"
+    },
+    {
         "name": "Paco Xu",
         "bio": "Paco Xu is the Open Source Team Lead at DaoCloud and a Kubernetes and CNCF community leader based in Shanghai, China. He serves on the Kubernetes Steering Committee, chairs CNCF TAG Workloads Foundation, maintains kubeadm, and reviews for Kubernetes SIG Node. He was Co-Chair of KubeCon China 2024 and Track Chair for KubeCon North America 2024 and KubeCon Europe 2025. His work focuses on Kubernetes workloads, scheduling, AI/ML infrastructure, contributor mentoring, and connecting China and APAC communities with the global CNCF ecosystem.",
         "company": "DaoCloud",
