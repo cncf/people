@@ -20683,20 +20683,33 @@
     },
     {
         "name": "Christopher Tineo",
-        "bio": "<p>I’m a Cloud Native enthusiast and a firm believer in the value this ecosystem brings to the software industry in LATAM. I lead the Santo Domingo chapter, where we’re bridging the gap between Cloud Native and Open Source technologies in the Dominican Republic. Through sharing my journey and knowledge on LinkedIn and community events</p>",
-        "company": "Innovative Defense Technologies",
-        "pronouns": "",
-        "location": "Marlton, NJ, United States",
+        "bio": "<p>I’m a Cloud Native enthusiast and a firm believer in the value this ecosystem brings to the software industry in LATAM. I lead the Santo Domingo chapter, where we’re bridging the gap between Cloud Native and Open Source technologies in the Dominican Republic. Through sharing my journey and knowledge on LinkedIn and community events</p><p>Why I am excited to be an ambassador: Being an ambassador lets me bring more of the cloud native ecosystem to LATAM. I want to grow the Santo Domingo community, help more people in the Dominican Republic find their way into open source, and connect our region to the wider CNCF community.</p>",
+        "company": "Game Plan Tech",
+        "pronouns": "he/him",
+        "location": "New Jersey, United States",
         "linkedin": "https://www.linkedin.com/in/christopher-tineo",
-        "twitter": "",
+        "twitter": "https://twitter.com/tineo_christ",
         "github": "https://github.com/TineoC",
         "wechat": "",
         "website": "",
         "youtube": "",
         "certdirectory": "https://certdirectory.io/profile/50b0d994-4fa1-4cb1-8f80-736b20c205e0",
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "projects": [
+            "Kubernetes"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
         "category": [
+            "Ambassadors",
             "Kubestronaut"
         ],
+        "email": "christophertineo02!gmail.com",
         "slack_id": "tineoc",
         "image": "christopher-tineo.jpg"
     },
