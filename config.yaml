@@ -670,6 +670,7 @@ repositories:
   - name: project-lifecycle
     teams:
       cncf-projects: admin
+      cncf-toc: read
     external_collaborators:
       angellk: admin
     visibility: private
