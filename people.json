@@ -79211,22 +79211,35 @@
         "image": "prasad-patole.jpg"
     },
     {
-        "name": "Prasanth B",
-        "bio": "",
-        "company": "",
-        "pronouns": "",
-        "location": "",
-        "linkedin": "",
-        "twitter": "",
+        "name": "Prasanth Baskar",
+        "bio": "<p>Prasanth Baskar is a maintainer of <a href='https://goharbor.io' target='_blank' rel='noopener noreferrer'>Harbor</a> and creator of Harbor Satellite, working as a Software Engineer at 8gears AG. He is Co-Chair of the CNCF TOC Mentoring Subproject, where he helps grow the next generation of cloud native contributors — a path he took himself, from LFX mentee to maintainer.</p>",
+        "company": "8gears AG",
+        "pronouns": "He/Him",
+        "location": "Chennai, Tamil Nadu, India",
+        "linkedin": "https://www.linkedin.com/in/bupd/",
+        "twitter": "https://twitter.com/prasanthbupd",
         "github": "https://github.com/bupd",
         "wechat": "",
-        "website": "",
+        "website": "https://bupd.xyz",
         "youtube": "",
+        "languages": [
+            "Tamil",
+            "English",
+            "Hindi"
+        ],
+        "projects": [
+            "Harbor",
+            "bootc"
+        ],
+        "maintainer": [
+            "Harbor"
+        ],
         "category": [
+            "Ambassadors",
             "Mentee"
         ],
-        "slack_id": "",
-        "image": "",
+        "slack_id": "U051J3DBMJS",
+        "image": "prasanth-baskar.jpg",
         "mentorships": [
             {
                 "role": "mentee",
