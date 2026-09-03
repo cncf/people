@@ -49855,6 +49855,50 @@
         "image": "kadir-taskiran.jpg"
     },
     {
+        "name": "Kahiro Okina",
+        "bio": "<p>Kahiro Okina is a Tech Lead at Craftsman Software, Inc. and an active contributor to the Kubernetes and CNCF ecosystem. Kahiro's work centers on cloud native platform engineering, spanning Kubernetes cluster lifecycle, multi-cluster systems, serverless computing, and developer experience. Across the CNCF ecosystem, Kahiro works to make cloud native projects easier to connect and operate together through software development, technical writing, and community advocacy. His contributions include maintaining the Cluster Inventory API, ClusterProfile Integration for Argo CD, Open Cluster Management, and the Headlamp Knative plugin, and reviewing Cluster API support for k0s, Knative Gateway API, and Knative Operator. Kahiro also teaches Kubernetes Upstream Training Japan and serves as a mentor through CNCF LFX Mentorship.</p>",
+        "company": "Craftsman Software, Inc.",
+        "pronouns": "he/him",
+        "location": "Tokyo, Japan",
+        "linkedin": "https://www.linkedin.com/in/kahirokunn/",
+        "twitter": "https://x.com/kahirokunn",
+        "github": "https://github.com/kahirokunn",
+        "bluesky": "https://bsky.app/profile/kahirokunn.bsky.social",
+        "website": "https://dev.to/kahirokunn",
+        "certdirectory": "https://certdirectory.io/profile/kahirokunn",
+        "languages": [
+            "Japanese",
+            "Chinese",
+            "English"
+        ],
+        "projects": [
+            "Kubernetes",
+            "k0s",
+            "Open Cluster Management",
+            "Knative",
+            "Headlamp",
+            "Argo",
+            "CloudEvents"
+        ],
+        "maintainer": [
+            "Headlamp Knative plugin",
+            "Cluster Inventory API",
+            "ClusterProfile Integration for Argo CD",
+            "Open Cluster Management"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "email": "okinakahiro!gmail.com",
+        "slack_id": "U026B3QH7V3",
+        "image": "kahiro-okina.jpg",
+        "lfid": "kahirokunn"
+    },
+    {
         "name": "Kai Fink",
         "bio": "<p>I'm a system engineer and software developer, with a main focus on container environments. Currently building the managed K8S product & services @ SVA </p>",
         "company": "SVA System Vertrieb Alexander GmbH",
