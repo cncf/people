@@ -22294,24 +22294,25 @@
         "slack_id": "",
         "image": "dalia-anwar-sayed-ramadan.jpg"
     },
-    {
-        "name": "Damian Igbe",
-        "bio": "<p> Damian Igbe, PhD, has a doctorate in computer science. He is a Technical trainer and consultant with Cloud Technology Experts, Inc. Damian Loves helping and simplifying cloud native technologies for organizations, worldwide.  Damian runs one of the largest Kubernetes meetups in Dallas, the Kubernetes and Cloud-native North Dallas. Damian loves running and has completed several marathon races. </p>",
-        "company": "Cloud Technology Experts",
+    {   
+        "name": "Damian Igbe,PhD",
+        "bio": "<p> Principal Cloud and Security Architect, specializing in Kubernetes, GPU/HPC infrastructure, and cloud-native security across AWS and DoD-adjacent environments. He actively contributes to the tech community as a Kubestronaut sharing hands-on GPU cluster and cloud-native architecture work through talks. He leads the organization of the CNCF Kubernetes Dallas Meetup community he has run for over 9 years. Excited to be  CNCF Ambassador to continue to spread the knowledge about Kubernetes and the CNCF ecosystem. Damian loves running and has completed several marathon races. </p>",
+        "company": "Zone 5 Tech",
         "pronouns": "He/Him",
         "location": "Dallas, United States",
         "linkedin": "https://www.linkedin.com/in/damianigbe/",
-        "twitter": "",
-        "github": "",
+        "twitter": "", 
+        "github": "https://github.com/igbedo",
         "wechat": "",
-        "website": "",
+        "website": "https://damianigbe.com",
         "youtube": "",
         "category": [
             "Kubestronaut"
-        ],
+        ],          
         "slack_id": "",
         "image": "damian-igbe.jpg"
-    },
+    },          
+
     {
         "name": "Damian Sztankowski",
         "bio": "<p>Senior Cloud Solution Architect with a passion of helping people. Raised at on-prems, actually playing with clouds. Google Developer Expert in Google Cloud. </p>",
