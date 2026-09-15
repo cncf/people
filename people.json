@@ -26318,6 +26318,26 @@
         "image": "diego-marques-da-silva.jpg"
     },
     {
+        "name": "Diego Rocha",
+        "bio": "<p>Diego is a Senior Solutions Architect at AWS, dedicated to guiding FSI customers through their cloud adoption and Generative AI initiatives. Drawing on deep expertise in DevOps, GenAI, and infrastructure design, he partners with organizations to build scalable, resilient cloud architectures. Beyond his day-to-day role, Diego is a passionate advocate for the tech community, serving as an organizer of KCD Brazil and leading meetups that champion cloud-native technologies.</p>",
+        "company": "Amazon Web Services",
+        "pronouns": "He/Him",
+        "location": "Barueri, São Paulo, Brazil",
+        "linkedin": "https://www.linkedin.com/in/dmrocha/",
+        "twitter": "",
+        "github": "https://github.com/dmroch4",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "languages":["Portuguese","English"],
+        "projects":["KEDA","Kubernetes","Argo","Helm"],
+        "category": [
+            "Ambassadors"
+        ],
+        "slack_id": "",
+        "image": "diego-rocha.jpg"
+    },
+    {
         "name": "Diego Santana De Oliveira",
         "bio": "<p>Diego Oliveira is a DevOps Engineer and Certified Kubestronaut with a strong background in Kubernetes, Cloud-Native technologies, and infrastructure automation. Currently working at iFood, he helps manage over 50 Kubernetes clusters, ensuring high availability, reliability, and performance. With expertise in container orchestration, GitOps, and observability, Diego specializes in optimizing cloud environments, automating deployments, and improving system resilience. Passionate about scaling infrastructure and reducing operational toil, he continuously drives innovation in cloud-native ecosystems.</p>",
         "company": "iFood",
