@@ -31744,20 +31744,30 @@
     },
     {
         "name": "Fazlur Rahman Khan",
-        "bio": "<p>I am a software engineer, consultant, and Trainer with more than 20 years of experience in the industry. I specialize in cloud-native application development and transformation, container solutions, DevSecOps, Continuous Integration/Continuous Delivery implementations and Kubernetes Administration. I have authored few courses and I am the course maintainer of all the official Kubernetes Administrator, Developer and Security courses at The Linux Foundation. I am excited to teach the nitty-gritty of Kubernetes in a practical and relatable fashion.</p>",
+        "bio": "<p>I am a technologist, trainer and course author with more than 20 years of experience in the industry. I specialize in cloud-native application development and transformation, container solutions, DevSecOps, Continuous Integration/Continuous Delivery implementations and Kubernetes administration. I author and maintain the official Kubernetes Administrator (CKA), Developer (CKAD) and Security (CKS) courses at The Linux Foundation, where I am the first technical trainer based in India. I am a Kubestronaut and a TEDx speaker, I serve on the program committees for KubeCon + CloudNativeCon India, North America and Europe, and I speak regularly at community events. I am excited to teach the nitty-gritty of Kubernetes in a practical and relatable fashion.</p>",
         "company": "The Linux Foundation",
         "pronouns": "He/Him",
-        "location": "Bangalore, India",
+        "location": "Bengaluru, India",
         "linkedin": "https://www.linkedin.com/in/fazlur-rahman-khan/",
         "twitter": "",
-        "github": "",
+        "github": "https://github.com/fkhanlf",
         "wechat": "",
-        "website": "",
+        "website": "https://fazlur.dev",
         "youtube": "",
-        "category": [
-            "Kubestronaut"
+        "languages": [
+            "English",
+            "Hindi",
+            "Urdu"
         ],
-        "slack_id": "",
+        "projects": [
+            "kubernetes"
+        ],
+        "category": [
+            "Kubestronaut",
+            "Ambassadors"
+        ],
+        "email": "fkhan!linuxfoundation.org",
+        "slack_id": "U075JFFUVSR",
         "image": "fazlur-rahman-khan.jpg"
     },
     {
