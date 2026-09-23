@@ -11355,7 +11355,7 @@
     },
     {
         "name": "Aoi Takahashi",
-        "bio": "<p>SRE and cloud-native community speaker. Spoke at KubeCon Japan 2025 and KubeCon EU 2026. Author of two books published by Shoeisha: Build, Break, and Fix to Learn Kubernetes and Build, Break, and Fix to Learn Git & GitHub. Also the creator of Learn Kubernetes the Manga Way, a manga-style ZINE for learning Kubernetes. Passionate about making Kubernetes accessible and easy to understand for everyone. Writes about cloud-native topics on Dev.to(https://dev.to/aoi). </p>",
+        "bio": "<p>SRE and cloud-native community speaker. Spoke at KubeCon Japan 2025&2026 and KubeCon EU 2026. Creator of Learn Kubernetes the Manga Way, a comic-style ZINE for learning Kubernetes. Passionate about making Kubernetes accessible and easy to understand for everyone. Writes about cloud-native topics on Dev.to(https://dev.to/aoi). </p>",
         "company": "",
         "pronouns": "She/Her",
         "location": "Tokyo, Japan",
@@ -11363,13 +11363,24 @@
         "twitter": "https://x.com/_a0i",
         "github": "https://github.com/aoi1",
         "wechat": "",
-        "website": "",
+        "website": "https://haraheru.com/",
         "youtube": "",
-        "certdirectory": "",
-        "category": [
-            "Kubestronaut"
+        "certdirectory": "https://certdirectory.io/profile/bb84e5d1-29aa-4735-b6a4-78e3f1b76d34",
+        "languages": [
+            "English",
+            "Japanese"
         ],
-        "slack_id": "Aoi Takahashi",
+        "projects":["Kubernetes"],
+        "category": [
+            "Kubestronaut",
+            "Ambassadors"
+        ],
+        "expertise": [
+            "Technical",
+            "Non-Technical"
+        ],
+        "email": "tkhsaoi88!gmail.com",
+        "slack_id": "U019FTGTP1N",
         "image": "aoi-takahashi.jpg"
     },
     {
