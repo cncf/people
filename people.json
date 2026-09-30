@@ -98660,6 +98660,27 @@
         "image": "sonali-swatika-mishra.jpg"
     },
     {
+        "name":"Sonali Srivastava",
+        "bio":"<p>I started my journey as a Linux system administrator and have spent over a decade now moving through software development into developer advocacy. Currently, I am a Senior Developer Advocate at Improving. I have been Co-Chair of KubeCon India 2026. I am also an active member of TAG Developer Experience, where I work on the State of AI Assisted Development initiative.</p><p>I believe in the CNCF's commitment to inclusion, kindness, and respect, and I put it into practice as an organizer of the CNCF Women in Cloud Native Community Group. I am working to bring Women in Cloud Native to every KubeCon and KCD, so that welcoming spaces are a standard part of our events rather than an exception. That belief also shapes my podcast, The Human Cost, which celebrates the journeys of humans.</p><p>I created LFS255: Mastering Kubernetes Security with Kyverno, a Linux Foundation course. My work focuses on Kubernetes security, AI governance, and the attack surface of AI agents, and I share it through proofs of concept, blogs, demos, tutorials, and videos. I speak at KubeCon India, SOSS Community Day, Kubernetes Community Days, and FOSS United, and I have contributed to systemd through an Outreachy internship and to open source documentation.</p><p><strong>Why I am excited to be an ambassador:</strong> The CNCF's vision of making cloud native ubiquitous only works if everyone can find a place in the community. As an ambassador, I will carry that inclusive culture into more CNCF events, mentor newcomers and underrepresented groups, and make cloud-native security and AI-assisted development practical and accessible to all.</p>",
+        "company":"Improving",
+        "pronouns":"She/Her",
+        "location":"Mumbai, Maharashtra, India",
+        "linkedin":"https://www.linkedin.com/in/sonali-srivastava-530782ab/",
+        "twitter":"https://x.com/sonali_talks",
+        "github":"https://github.com/cerebro1/",
+        "youtube":"https://www.youtube.com/@thehumancost0",
+        "projects": [
+            "Kubernetes",
+            "Testkube",
+            "Kyverno",
+            "Argo",
+            "Prometheus"
+        ],
+        "category":["Ambassadors"],
+        "slack_id": "U054LM924Q0",
+        "image":"sonali.png"
+    },
+    {
         "name": "Song Kim",
         "bio": "<p>Full Stack DevOps</p>",
         "company": "FPT",
