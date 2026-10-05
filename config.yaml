@@ -18,16 +18,9 @@ repositories:
   - teams:
       cncf-projects: admin
     name: migrate-maintainers
-  - name: ai-conformance
-    external_collaborators:
-      castrojo: admin
-      jeefy: admin
-      mfahlandt: admin
-      fedebongio: maintain
-      jagosan: maintain
-      janetkuo: maintain
-    visibility: public
-  - name: ambassadors
+  - external_collaborators:
+      AudMonte01: admin
+    name: ambassadors
   - external_collaborators:
       stevenphtan: admin
     name: api
@@ -160,6 +153,8 @@ repositories:
   - external_collaborators:
       LFCIBot: write
       cjyabraham: admin
+      marco-s: admin
+      LinuxAzzamean: admin
     name: cncf.io
   - external_collaborators:
       HashNuke: write
@@ -208,6 +203,8 @@ repositories:
       has_wiki: true
   - external_collaborators:
       AudMonte01: admin
+      hspease99: maintain
+      FedericaLinux: maintain
     name: communitygroups
   - external_collaborators:
       caniszczyk: admin
@@ -220,6 +217,13 @@ repositories:
     teams:
       cncf-projects: admin
       cncf-tech-docs: admin
+      cncf-toc: write
+      cncf-tag-leads: write
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
@@ -386,6 +390,7 @@ repositories:
       taylorwaggoner: admin
       joannalee333: admin
       nate-double-u: write
+      eliza-power: write
     name: foundation
   - external_collaborators:
       lucperkins: admin
@@ -436,7 +441,7 @@ repositories:
       seb-835: write
       hanyuancheung: write
       huats: write
-      iamNoah1: admin
+      iamNoah1: write
       sajibAdhi: write
       inductor: write
       Jacob953: write
@@ -446,7 +451,6 @@ repositories:
       kaitoii11: write
       krol3: write
       naonishijima: write
-      matteobisi: write
       meryem-ldn: read
       mitul3737: write
       Okabe-Junya: admin
@@ -466,7 +470,7 @@ repositories:
       aliok: write
       canogluonur: write
       mertssmnoglu: write
-      Alianait: write
+      b-beyaz: write
       shurup: write
       kirkonru: write
       hwchiu: write
@@ -480,8 +484,17 @@ repositories:
       adowair: write
       ntheanh201: write
       thuanpham582002: write
-      thaomike: write
+      xehrad: write
+      Parsabz: write
     name: glossary
+  - name: governing-board
+    visibility: public
+    teams:
+      cncf-gb: read
+    external_collaborators:
+      cblecker: maintain
+      joannalee333: admin
+      taylorwaggoner: admin
   - external_collaborators:
       halcyondude: admin
     name: graph
@@ -520,6 +533,14 @@ repositories:
   - name: jp-translations
     settings:
       has_wiki: true
+  - name: k8s-ai-conformance
+    external_collaborators:
+      jeefy: admin
+      mfahlandt: admin
+      janetkuo: maintain
+      terrytangyuan: maintain
+      ritazh: maintain
+    visibility: public
   - external_collaborators:
       riaankleinhans: admin
       cncf-ci: admin
@@ -529,11 +550,22 @@ repositories:
     name: k8s-conformance
   - external_collaborators:
       AudMonte01: admin
-      CsatariGergely: triage
-      maci3jka: triage
-      ramrodo: write
-      senthilrch: write
-      wrkode: triage
+      hspease99: maintain
+      satyampsoni: triage
+      Saloni1814: triage
+      parraletz: triage
+      hazzim: triage
+      electrocucaracha: triage
+      abebars: triage
+      mageshwaransekar: triage
+      chadmcrowell: triage
+      brito-rafa: triage
+      tokt: triage
+      tao12345666333: triage
+      aguirre-jes: triage
+      halil-bugol: triage
+      rcronald: triage
+      roko1987-k8s: triage
     name: kubernetes-community-days
   # These Landscape forks need to stop
   # But this is a quick fix to unblock Sheriff
@@ -558,7 +590,7 @@ repositories:
       landscapers: admin
     external_collaborators:
       Swil78: write
-      andreuxxxx: read # Mentor for UI/UX project 2023 Jun-Aug
+      AndreaUXUI: read # Mentor for UI/UX project 2023 Jun-Aug
       avantikajain289: triage # Mentee for UI/UX project 2023 Jun-Aug
       Hilzygift: read # Mentee for UI/UX project 2023 Mar-May
   - name: landscape-archive
@@ -598,6 +630,8 @@ repositories:
       nate-double-u: admin
       thisisobate: maintain
       Swil78: maintain
+      bupd: maintain # Prasanth Baskar, TOC Mentoring Subproject co-chair
+      Cali0707: maintain # Calum Murray, TOC Mentoring Subproject tech-lead
     name: mentoring
   - external_collaborators:
       lukaszgryglicki: admin
@@ -633,20 +667,20 @@ repositories:
   - external_collaborators:
       csantanapr: write
     name: presentations
-  - external_collaborators:
-      caniszczyk: admin
-      dims: write
-      geekygirldawn: admin
-      idvoretskyi: admin
-      iennae: write
-      jberkus: admin
-      justaugustus: admin
-      karenhchu: write
-      kgamanji: write
-      mattfarina: write
-      mattklein123: write
-      parispittman: admin
-    name: project-template
+  - name: project-lifecycle
+    teams:
+      cncf-projects: admin
+      cncf-toc: read
+    external_collaborators:
+      angellk: admin
+      abebars: admin
+      jeremyrickard: admin
+      jrsapi: admin
+    visibility: private
+  - name: project-template
+    teams:
+      cncf-toc: write
+      cncf-projects: admin
   - name: prometheus-conformance
     settings:
       has_wiki: true
@@ -655,10 +689,8 @@ repositories:
     name: radar
   - name: public-sector-user-group
     external_collaborators:
-      AlanHohn: admin
-      idunbarh: admin
       djmoch: admin
-      sfb103: admin
+      wcrum: admin
     settings:
       has_wiki: true
   - external_collaborators:
@@ -677,6 +709,7 @@ repositories:
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
     external_collaborators:
+      cncf-automation-bot: write
       joshgav: write
     name: sandbox
     settings:
@@ -706,6 +739,14 @@ repositories:
     name: site-boilerplate
     settings:
       has_wiki: true
+  - name: staff
+    visibility: private
+    teams:
+      cncf-enduser-staff-core: write
+      cncf-projects: admin
+      cncf-staff: write
+    external_collaborators:
+      cncf-automation-bot: write
   - external_collaborators:
       flanets: triage
       idvoretskyi: admin
@@ -745,7 +786,6 @@ repositories:
       taylorwaggoner: admin
   - name: tab-private
     teams:
-      cncf-toc: write
       cncf-tab: write
       cncf-projects: admin
       cncf-enduser-staff-core: admin
@@ -759,9 +799,13 @@ repositories:
       idvoretskyi: maintain
       nate-double-u: admin
       thisisobate: maintain
+      Swil78: maintain
       psgustafson: triage # Expert Support
       dwelsch-esi: triage # Expert Support
-      Dindihub: read # https://github.com/cncf/techdocs/issues/267 - LFX 24T2
+      milliehartnt123: triage # Expert Support
+      slamoree-expertsupport: triage # Expert Support
+      iRaindrop: triage # Expert Support
+      jbogarthyde: triage # Expert Support
     name: techdocs
   - external_collaborators:
       dabernie: read
@@ -791,9 +835,11 @@ repositories:
       tag-operational-resilience-leads: write
       tag-security-compliance-leads: write
       tag-workloads-foundation-leads: write
+      toc-project-reviews-subproject: write
+    external_collaborators:
+      cncf-automation-bot: write
   - name: toc-private
     teams:
-      cncf-tab: write
       cncf-toc: write
       cncf-projects: admin
       cncf-enduser-staff-core: admin
@@ -905,6 +951,32 @@ teams:
       - huats
       - mfahlandt
       - koksay
+      - wojciech12
+      - nate-double-u
+      - ahmadqasembader
+      - cncf-automation-bot
+  - name: cncf-staff
+    maintainers:
+      - mrbobbytables
+      - jeefy
+      - krook
+    members:
+      - AudMonte01
+      - castrojo
+      - catinahat85
+      - DPalilonis
+      - FedericaLinux
+      - hspease99
+      - huats
+      - idvoretskyi
+      - mtspontejos
+      - nate-double-u
+      - joannalee333
+      - jroylejones-CNCF
+      - Razel0915
+      - RobertKielty
+      - taylorwaggoner
+    secret: false
   - name: cncf-tab
     maintainers:
       - mrbobbytables
@@ -914,11 +986,13 @@ teams:
       - alolita
       - aparna-subramanian
       - chadbeaudin
-      - hblixt
+      - gnawux
       - jrsapi
       - kgamanji
       - KentaTada
+      - ma-cvs
       - michael-bowen-sc
+      - ncode
       - ride808
       - rochaporto
     secret: false
@@ -937,35 +1011,36 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
+      - abebars
       - angellk
+      - brandtkeller
       - chadbeaudin
       - chira001
-      - dims
       - jeremyrickard
+      - jrsapi
       - kevin-wangzefeng
       - kfaseela
       - kgamanji
-      - linsun
+      - mfahlandt
       - raravena80
-      - rochaporto
-      - TheFoxAtWork
+      - salaboy
     secret: false
   - name: cncf-toc-voters
     maintainers:
       - mrbobbytables
       - riaankleinhans
     members:
+      - abebars
       - angellk
+      - brandtkeller
       - chadbeaudin
       - chira001
-      - dims
       - jeremyrickard
+      - jrsapi
       - kevin-wangzefeng
       - kfaseela
-      - kgamanji
-      - linsun
-      - rochaporto
-      - TheFoxAtWork
+      - mfahlandt
+      - salaboy
     secret: false
   - name: envoy
     maintainers:
@@ -1012,6 +1087,14 @@ teams:
     displayName: CNCF Projects Team
     secret: false
     slack: true
+  - name: cncf-gb
+    displayName: CNCF Governing Board
+    maintainers:
+      - joannalee333
+      - taylorwaggoner
+    members:
+      - cblecker
+    secret: true
   - name: cncf-end-users
     maintainers:
       - castrojo
@@ -1038,7 +1121,6 @@ teams:
       - idunbarh
       - insidero
       - jhoovermitre
-      - matteosilv
       - menzenski
       - micnncim
       - paulliwog
@@ -1058,7 +1140,7 @@ teams:
     displayName: CNCF End Users
     secret: false
   - name: cncf-enduser-staff-core
-    maintainers:  
+    maintainers:
       - mrbobbytables
       - taylorwaggoner
       - castrojo
@@ -1066,7 +1148,7 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-  - name: tag-leads
+  - name: cncf-tag-leads
     displayName: CNCF TAG Leads
     maintainers:
       - castrojo
@@ -1091,12 +1173,12 @@ teams:
       - riaankleinhans
     members:
       - cloudmelon
-      - danielOh
+      - danieloh30
       - graz-dev
       - joshuabezaleel
       - julsemaan
       - kdubois
-      - salaboy
+      - stmcginnis
       - SwEngin
     secret: false
   - name: tag-infrastructure-leads
@@ -1109,12 +1191,13 @@ teams:
       - riaankleinhans
     members:
       - alexagriffith
-      - bschaatsbergen
       - aojea
       - GenPage
       - hzxuzhonghu
+      - joshgav
       - kashifest
-      - nicholasjackson
+      - moezdil
+      - thschue
       - xing-yang
     secret: false
   - name: tag-operational-resilience-leads
@@ -1127,12 +1210,12 @@ teams:
       - riaankleinhans
     members:
       - alolita
-      - brito-rafa
+      - chadmcrowell
+      - didiViking
       - halcyondude
       - krol3
-      - mfahlandt
+      - nikimanoledaki
       - palnabarun
-      - raffaelespazzoli
       - saiyam1814
     secret: false
   - name: tag-security-compliance-leads
@@ -1144,15 +1227,15 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
-      - brandtkeller
-      - eddie-knight
+      - arewm
       - evankanderson
       - jkjell
-      - mlieberman85
-      - mnm678
-      - jpower432
       - JustinCappos
+      - mnm678
+      - realshuting
+      - sherine-k
       - y-tabata
+      - zigmax
     secret: false
   - name: tag-workloads-foundation-leads
     displayName: CNCF TAG Workloads Foundation Leads
@@ -1163,12 +1246,24 @@ teams:
       - mrbobbytables
       - riaankleinhans
     members:
-      - kad
+      - catblade
       - kerthcet
-      - miao0miao
       - pacoxu
+      - pmady
       - RainbowMango
       - rajaskakodkar
       - srust
       - terrytangyuan
+    secret: false
+  - name: toc-project-reviews-subproject
+    displayName: TOC Project Reviews Subproject
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - joshgav
+      - khallai
     secret: false
