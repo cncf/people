@@ -219,11 +219,16 @@ repositories:
       cncf-tech-docs: admin
       cncf-toc: write
       cncf-tag-leads: write
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      tag-developer-experience-chairs: write
+      tag-developer-experience-tech-leads: write
+      tag-infrastructure-chairs: write
+      tag-infrastructure-tech-leads: write
+      tag-operational-resilience-chairs: write
+      tag-operational-resilience-tech-leads: write
+      tag-security-compliance-chairs: write
+      tag-security-compliance-tech-leads: write
+      tag-workloads-foundation-chairs: write
+      tag-workloads-foundation-tech-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
@@ -534,11 +539,16 @@ repositories:
     teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      tag-developer-experience-chairs: write
+      tag-developer-experience-tech-leads: write
+      tag-infrastructure-chairs: write
+      tag-infrastructure-tech-leads: write
+      tag-operational-resilience-chairs: write
+      tag-operational-resilience-tech-leads: write
+      tag-security-compliance-chairs: write
+      tag-security-compliance-tech-leads: write
+      tag-workloads-foundation-chairs: write
+      tag-workloads-foundation-tech-leads: write
     external_collaborators:
       cncf-automation-bot: write
     settings:
@@ -718,11 +728,16 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      tag-developer-experience-chairs: write
+      tag-developer-experience-tech-leads: write
+      tag-infrastructure-chairs: write
+      tag-infrastructure-tech-leads: write
+      tag-operational-resilience-chairs: write
+      tag-operational-resilience-tech-leads: write
+      tag-security-compliance-chairs: write
+      tag-security-compliance-tech-leads: write
+      tag-workloads-foundation-chairs: write
+      tag-workloads-foundation-tech-leads: write
     external_collaborators:
       cncf-automation-bot: write
     name: sandbox
@@ -844,11 +859,16 @@ repositories:
       cncf-toc: write
       cncf-toc-voters: write
       cncf-projects: admin
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      tag-developer-experience-chairs: write
+      tag-developer-experience-tech-leads: write
+      tag-infrastructure-chairs: write
+      tag-infrastructure-tech-leads: write
+      tag-operational-resilience-chairs: write
+      tag-operational-resilience-tech-leads: write
+      tag-security-compliance-chairs: write
+      tag-security-compliance-tech-leads: write
+      tag-workloads-foundation-chairs: write
+      tag-workloads-foundation-tech-leads: write
       toc-project-reviews-subproject: write
     external_collaborators:
       cncf-automation-bot: write
@@ -1171,14 +1191,32 @@ teams:
       - mrbobbytables
       - riaankleinhans
     formation:
-      - tag-developer-experience-leads
-      - tag-infrastructure-leads
-      - tag-operational-resilence-leads
-      - tag-security-compliance-leads
-      - tag-workloads-foundation-leads
+      - tag-developer-experience-chairs
+      - tag-developer-experience-tech-leads
+      - tag-infrastructure-chairs
+      - tag-infrastructure-tech-leads
+      - tag-operational-resilience-chairs
+      - tag-operational-resilience-tech-leads
+      - tag-security-compliance-chairs
+      - tag-security-compliance-tech-leads
+      - tag-workloads-foundation-chairs
+      - tag-workloads-foundation-tech-leads
     secret: false
-  - name: tag-developer-experience-leads
-    displayName: CNCF TAG Developer Experience Leads
+  - name: tag-developer-experience-chairs
+    displayName: CNCF TAG Developer Experience Chairs
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - danieloh30
+      - graz-dev
+      - SwEngin
+    secret: false
+  - name: tag-developer-experience-tech-leads
+    displayName: CNCF TAG Developer Experience Tech Leads
     maintainers:
       - castrojo
       - jeefy
@@ -1187,16 +1225,26 @@ teams:
       - riaankleinhans
     members:
       - cloudmelon
-      - danieloh30
-      - graz-dev
       - joshuabezaleel
       - julsemaan
       - kdubois
       - stmcginnis
-      - SwEngin
     secret: false
-  - name: tag-infrastructure-leads
-    displayName: CNCF TAG Infrastructure Leads
+  - name: tag-infrastructure-chairs
+    displayName: CNCF TAG Infrastructure Chairs
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - GenPage
+      - kashifest
+      - xing-yang
+    secret: false
+  - name: tag-infrastructure-tech-leads
+    displayName: CNCF TAG Infrastructure Tech Leads
     maintainers:
       - castrojo
       - jeefy
@@ -1206,16 +1254,13 @@ teams:
     members:
       - alexagriffith
       - aojea
-      - GenPage
       - hzxuzhonghu
       - joshgav
-      - kashifest
       - moezdil
       - thschue
-      - xing-yang
     secret: false
-  - name: tag-operational-resilience-leads
-    displayName: CNCF TAG Operational Resilience Leads
+  - name: tag-operational-resilience-chairs
+    displayName: CNCF TAG Operational Resilience Chairs
     maintainers:
       - castrojo
       - jeefy
@@ -1224,16 +1269,39 @@ teams:
       - riaankleinhans
     members:
       - alolita
+      - krol3
+      - saiyam1814
+    secret: false
+  - name: tag-operational-resilience-tech-leads
+    displayName: CNCF TAG Operational Resilience Tech Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
       - chadmcrowell
       - didiViking
       - halcyondude
-      - krol3
       - nikimanoledaki
       - palnabarun
-      - saiyam1814
     secret: false
-  - name: tag-security-compliance-leads
-    displayName: CNCF TAG Security and Compliance Leads
+  - name: tag-security-compliance-chairs
+    displayName: CNCF TAG Security and Compliance Chairs
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - evankanderson
+      - jkjell
+      - mnm678
+    secret: false
+  - name: tag-security-compliance-tech-leads
+    displayName: CNCF TAG Security and Compliance Tech Leads
     maintainers:
       - castrojo
       - jeefy
@@ -1242,17 +1310,14 @@ teams:
       - riaankleinhans
     members:
       - arewm
-      - evankanderson
-      - jkjell
       - JustinCappos
-      - mnm678
       - realshuting
       - sherine-k
       - y-tabata
       - zigmax
     secret: false
-  - name: tag-workloads-foundation-leads
-    displayName: CNCF TAG Workloads Foundation Leads
+  - name: tag-workloads-foundation-chairs
+    displayName: CNCF TAG Workloads Foundation Chairs
     maintainers:
       - castrojo
       - jeefy
@@ -1261,13 +1326,23 @@ teams:
       - riaankleinhans
     members:
       - catblade
-      - kerthcet
       - pacoxu
+      - terrytangyuan
+    secret: false
+  - name: tag-workloads-foundation-tech-leads
+    displayName: CNCF TAG Workloads Foundation Tech Leads
+    maintainers:
+      - castrojo
+      - jeefy
+      - krook
+      - mrbobbytables
+      - riaankleinhans
+    members:
+      - kerthcet
       - pmady
       - RainbowMango
       - rajaskakodkar
       - srust
-      - terrytangyuan
     secret: false
   - name: toc-project-reviews-subproject
     displayName: TOC Project Reviews Subproject
