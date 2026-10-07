@@ -1,6 +1,9 @@
 name: Cloud native style
 
-# pull_request_target so suggestions can be posted on fork PRs. Never execute code from the PR.
+# pull_request_target so suggestions can be posted on fork PRs. The scripts that run
+# here always come from the trusted base branch (default checkout ref, no override).
+# The PR head is only ever fetched as inert data (people.json's raw content via the
+# Contents API) -- it is never checked out or executed.
 on:
   pull_request_target:
     types: [opened, synchronize, reopened]
@@ -23,15 +26,23 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
           persist-credentials: false
 
       - uses: actions/setup-python@v6
         with:
           python-version: '>= 3.14'
 
+      - name: Fetch the PR's people.json as data (not executed)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/contents/people.json" \
+            -H "Accept: application/vnd.github.raw" \
+            -f ref="${{ github.event.pull_request.head.sha }}" \
+            > head-people.json
+
       - name: Compute cloud native style fixes
-        run: python scripts/cloud-native-style/fix_style.py people.json fixes.json
+        run: python scripts/cloud-native-style/fix_style.py head-people.json fixes.json
 
       - name: Post suggestions
         uses: actions/github-script@v8

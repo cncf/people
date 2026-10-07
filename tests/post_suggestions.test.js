@@ -35,6 +35,7 @@ test('buildCommentBody does not leave a blank line in the suggestion block', () 
 test('run posts only fixes on added lines and skips untouched ones', async () => {
   const calls = { deleted: [], created: null, failed: null };
   const github = {
+    paginate: async (fn, params) => (await fn(params)).data,
     rest: {
       pulls: {
         listFiles: async () => ({
@@ -72,6 +73,7 @@ test('run posts only fixes on added lines and skips untouched ones', async () =>
 test('run deletes stale bot comments before reposting, leaving other users alone', async () => {
   const deleted = [];
   const github = {
+    paginate: async (fn, params) => (await fn(params)).data,
     rest: {
       pulls: {
         listFiles: async () => ({ data: [{ filename: 'people.json', patch: '@@ -1,0 +1,1 @@\n+line1' }] }),
@@ -101,6 +103,7 @@ test('run is a no-op when no fixes fall on added lines', async () => {
   let created = false;
   let failed = false;
   const github = {
+    paginate: async (fn, params) => (await fn(params)).data,
     rest: {
       pulls: {
         listFiles: async () => ({ data: [{ filename: 'people.json', patch: '@@ -1,0 +1,1 @@\n+line1' }] }),
@@ -130,6 +133,7 @@ test('run is a no-op when no fixes fall on added lines', async () => {
 test('run honors a custom targetFile (used to point at a test fixture, never people.json)', async () => {
   let created = null;
   const github = {
+    paginate: async (fn, params) => (await fn(params)).data,
     rest: {
       pulls: {
         listFiles: async () => ({
@@ -151,4 +155,44 @@ test('run honors a custom targetFile (used to point at a test fixture, never peo
 
   assert.equal(result.posted, 1);
   assert.equal(created.comments[0].path, 'tests/fixtures/people.sample.json');
+});
+
+test('run finds targetFile and stale comments beyond the first page (regression for pagination gap)', async () => {
+  let created = null;
+  const deleted = [];
+  // Simulate listFiles/listReviewComments each spanning two pages; github.paginate
+  // is expected to flatten both pages before run() filters/searches them.
+  const filesPage1 = [{ filename: 'unrelated.json', patch: '@@ -1,0 +1,1 @@\n+noise' }];
+  const filesPage2 = [{ filename: 'people.json', patch: '@@ -1,0 +1,1 @@\n+line1' }];
+  const commentsPage1 = [{ id: 1, user: { login: 'someone-else' }, body: `${MARKER}\nnot ours` }];
+  const commentsPage2 = [{ id: 2, user: { login: 'github-actions[bot]' }, body: `${MARKER}\nstale` }];
+
+  const github = {
+    paginate: async (fn) => {
+      if (fn.name === 'listFiles') return [...filesPage1, ...filesPage2];
+      if (fn.name === 'listReviewComments') return [...commentsPage1, ...commentsPage2];
+      return [];
+    },
+    rest: {
+      pulls: {
+        listFiles: async function listFiles() {},
+        listReviewComments: async function listReviewComments() {},
+        deleteReviewComment: async ({ comment_id }) => {
+          deleted.push(comment_id);
+        },
+        createReview: async (args) => {
+          created = args;
+        },
+      },
+    },
+  };
+  const context = { payload: { pull_request: { number: 1 } }, repo: { owner: 'o', repo: 'r' } };
+  const core = { setFailed: () => {} };
+  const fixes = [{ line: 1, new: 'x' }];
+
+  const result = await run({ github, context, core, fixes });
+
+  assert.equal(result.posted, 1, 'people.json on page 2 of listFiles must still be found');
+  assert.deepEqual(deleted, [2], 'the stale bot comment on page 2 of listReviewComments must still be deleted');
+  assert.equal(created.comments[0].path, 'people.json');
 });

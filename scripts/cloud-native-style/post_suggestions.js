@@ -59,13 +59,15 @@ async function run({ github, context, core, fixes, targetFile = 'people.json' })
   const pull_number = context.payload.pull_request.number;
   const { owner, repo } = context.repo;
 
-  const { data: files } = await github.rest.pulls.listFiles({ owner, repo, pull_number, per_page: 100 });
+  // Paginate: a PR can have more than one page of changed files/comments, and
+  // targetFile/stale comments must never be missed just because they fall on a later page.
+  const files = await github.paginate(github.rest.pulls.listFiles, { owner, repo, pull_number, per_page: 100 });
   const peopleFile = files.find((f) => f.filename === targetFile);
   const added = addedLineNumbers(peopleFile && peopleFile.patch);
   const relevant = fixes.filter((fx) => added.has(fx.line));
 
   // Clear any stale suggestions we posted on a previous push before re-posting.
-  const { data: existing } = await github.rest.pulls.listReviewComments({ owner, repo, pull_number, per_page: 100 });
+  const existing = await github.paginate(github.rest.pulls.listReviewComments, { owner, repo, pull_number, per_page: 100 });
   for (const c of existing) {
     if (c.user.login === BOT_LOGIN && c.body.includes(MARKER)) {
       await github.rest.pulls.deleteReviewComment({ owner, repo, comment_id: c.id });
