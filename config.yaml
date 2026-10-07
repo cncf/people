@@ -218,17 +218,11 @@ repositories:
       cncf-projects: admin
       cncf-tech-docs: admin
       cncf-toc: write
-      cncf-tag-leads: write
-      tag-developer-experience-chairs: write
-      tag-developer-experience-tech-leads: write
-      tag-infrastructure-chairs: write
-      tag-infrastructure-tech-leads: write
-      tag-operational-resilience-chairs: write
-      tag-operational-resilience-tech-leads: write
-      tag-security-compliance-chairs: write
-      tag-security-compliance-tech-leads: write
-      tag-workloads-foundation-chairs: write
-      tag-workloads-foundation-tech-leads: write
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
   - external_collaborators:
       lukaszgryglicki: admin
     name: contributors-world-map
@@ -539,16 +533,7 @@ repositories:
     teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-chairs: write
-      tag-developer-experience-tech-leads: write
-      tag-infrastructure-chairs: write
-      tag-infrastructure-tech-leads: write
-      tag-operational-resilience-chairs: write
-      tag-operational-resilience-tech-leads: write
-      tag-security-compliance-chairs: write
-      tag-security-compliance-tech-leads: write
-      tag-workloads-foundation-chairs: write
-      tag-workloads-foundation-tech-leads: write
+      cncf-tag-leads: write
     external_collaborators:
       cncf-automation-bot: write
     settings:
@@ -728,16 +713,7 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-chairs: write
-      tag-developer-experience-tech-leads: write
-      tag-infrastructure-chairs: write
-      tag-infrastructure-tech-leads: write
-      tag-operational-resilience-chairs: write
-      tag-operational-resilience-tech-leads: write
-      tag-security-compliance-chairs: write
-      tag-security-compliance-tech-leads: write
-      tag-workloads-foundation-chairs: write
-      tag-workloads-foundation-tech-leads: write
+      cncf-tag-leads: write
     external_collaborators:
       cncf-automation-bot: write
     name: sandbox
@@ -859,16 +835,11 @@ repositories:
       cncf-toc: write
       cncf-toc-voters: write
       cncf-projects: admin
-      tag-developer-experience-chairs: write
-      tag-developer-experience-tech-leads: write
-      tag-infrastructure-chairs: write
-      tag-infrastructure-tech-leads: write
-      tag-operational-resilience-chairs: write
-      tag-operational-resilience-tech-leads: write
-      tag-security-compliance-chairs: write
-      tag-security-compliance-tech-leads: write
-      tag-workloads-foundation-chairs: write
-      tag-workloads-foundation-tech-leads: write
+      tag-developer-experience-leads: write
+      tag-infrastructure-leads: write
+      tag-operational-resilience-leads: write
+      tag-security-compliance-leads: write
+      tag-workloads-foundation-leads: write
       toc-project-reviews-subproject: write
     external_collaborators:
       cncf-automation-bot: write
@@ -1182,15 +1153,19 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-  - name: cncf-tag-leads
-    displayName: CNCF TAG Leads
+  - name: cncf-tag-staff
+    displayName: CNCF TAG Staff
     maintainers:
       - castrojo
       - jeefy
       - krook
       - mrbobbytables
       - riaankleinhans
+    secret: false
+  - name: cncf-tag-leads
+    displayName: CNCF TAG Leads
     formation:
+      - cncf-tag-staff
       - tag-developer-experience-chairs
       - tag-developer-experience-tech-leads
       - tag-infrastructure-chairs
@@ -1202,14 +1177,17 @@ teams:
       - tag-workloads-foundation-chairs
       - tag-workloads-foundation-tech-leads
     secret: false
+  - name: tag-developer-experience-leads
+    displayName: CNCF TAG Developer Experience Leads
+    formation:
+      - cncf-tag-staff
+      - tag-developer-experience-chairs
+      - tag-developer-experience-tech-leads
+    secret: false
   - name: tag-developer-experience-chairs
     displayName: CNCF TAG Developer Experience Chairs
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - danieloh30
       - graz-dev
@@ -1217,12 +1195,8 @@ teams:
     secret: false
   - name: tag-developer-experience-tech-leads
     displayName: CNCF TAG Developer Experience Tech Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - cloudmelon
       - joshuabezaleel
@@ -1230,14 +1204,17 @@ teams:
       - kdubois
       - stmcginnis
     secret: false
+  - name: tag-infrastructure-leads
+    displayName: CNCF TAG Infrastructure Leads
+    formation:
+      - cncf-tag-staff
+      - tag-infrastructure-chairs
+      - tag-infrastructure-tech-leads
+    secret: false
   - name: tag-infrastructure-chairs
     displayName: CNCF TAG Infrastructure Chairs
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - GenPage
       - kashifest
@@ -1245,12 +1222,8 @@ teams:
     secret: false
   - name: tag-infrastructure-tech-leads
     displayName: CNCF TAG Infrastructure Tech Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - alexagriffith
       - aojea
@@ -1259,14 +1232,17 @@ teams:
       - moezdil
       - thschue
     secret: false
+  - name: tag-operational-resilience-leads
+    displayName: CNCF TAG Operational Resilience Leads
+    formation:
+      - cncf-tag-staff
+      - tag-operational-resilience-chairs
+      - tag-operational-resilience-tech-leads
+    secret: false
   - name: tag-operational-resilience-chairs
     displayName: CNCF TAG Operational Resilience Chairs
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - alolita
       - krol3
@@ -1274,12 +1250,8 @@ teams:
     secret: false
   - name: tag-operational-resilience-tech-leads
     displayName: CNCF TAG Operational Resilience Tech Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - chadmcrowell
       - didiViking
@@ -1287,14 +1259,17 @@ teams:
       - nikimanoledaki
       - palnabarun
     secret: false
+  - name: tag-security-compliance-leads
+    displayName: CNCF TAG Security and Compliance Leads
+    formation:
+      - cncf-tag-staff
+      - tag-security-compliance-chairs
+      - tag-security-compliance-tech-leads
+    secret: false
   - name: tag-security-compliance-chairs
     displayName: CNCF TAG Security and Compliance Chairs
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - evankanderson
       - jkjell
@@ -1302,12 +1277,8 @@ teams:
     secret: false
   - name: tag-security-compliance-tech-leads
     displayName: CNCF TAG Security and Compliance Tech Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - arewm
       - JustinCappos
@@ -1316,14 +1287,17 @@ teams:
       - y-tabata
       - zigmax
     secret: false
+  - name: tag-workloads-foundation-leads
+    displayName: CNCF TAG Workloads Foundation Leads
+    formation:
+      - cncf-tag-staff
+      - tag-workloads-foundation-chairs
+      - tag-workloads-foundation-tech-leads
+    secret: false
   - name: tag-workloads-foundation-chairs
     displayName: CNCF TAG Workloads Foundation Chairs
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - catblade
       - pacoxu
@@ -1331,12 +1305,8 @@ teams:
     secret: false
   - name: tag-workloads-foundation-tech-leads
     displayName: CNCF TAG Workloads Foundation Tech Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
     members:
       - kerthcet
       - pmady
