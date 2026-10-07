@@ -1,0 +1,43 @@
+name: Cloud native style
+
+# pull_request_target so suggestions can be posted on fork PRs. Never execute code from the PR.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - people.json
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloud-native-style-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  suggest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '>= 3.14'
+
+      - name: Compute cloud native style fixes
+        run: python scripts/cloud-native-style/fix_style.py people.json fixes.json
+
+      - name: Post suggestions
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require('fs');
+            const { run } = require('./scripts/cloud-native-style/post_suggestions.js');
+            const fixes = JSON.parse(fs.readFileSync('fixes.json', 'utf8'));
+            await run({ github, context, core, fixes });
