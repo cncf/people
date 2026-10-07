@@ -1,0 +1,100 @@
+name: Cloud native style
+
+# pull_request_target so suggestions can be posted on fork PRs. Never execute code from the PR.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - people.json
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloud-native-style-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  suggest:
+    runs-on: cncf-ubuntu-2-8-x86
+    permissions:
+      contents: read
+      checks: write
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '>= 3.14'
+      - name: Apply cloud native style to people.json
+        shell: python
+        run: |
+          import re
+
+          PATH = "people.json"
+          TITLE_FIELDS = {"company", "project_title"}
+
+          LINE = re.compile(r'^(\s*"(bio|company|project_title)"\s*:\s*")(.*)("\s*,?\s*)$')
+          TERM = re.compile(r'(?<![\w/.@#=-])cloud[- ]native(?![\w/-]|\.\w)', re.I)
+          ORG_SUFFIX = re.compile(r'\s+(?:computing\s+foundation|days|rejekts)\b', re.I)
+          CAPITALIZED_NEXT = re.compile(r'\s+[A-Z]')
+          OPEN_HEADING = re.compile(r'<h[1-6]\b[^>]*>(?:(?!</h[1-6]\s*>).)*$', re.I | re.S)
+          TRAILING_WS_AND_TAGS = re.compile(r'(?:\s|<[^>]*>)+$')
+          BLOCK_TAG = re.compile(r'</?(?:p|li|ul|ol|br|div|h[1-6])\b', re.I)
+          SENTENCE_END = re.compile(r'[.!?](?:\\"|[\')\]”’])*$')
+          ABBREVIATION = re.compile(r'\b(?:e\.g|i\.e|vs)\.$', re.I)
+
+
+          def sentence_start(prefix):
+              stripped = TRAILING_WS_AND_TAGS.sub("", prefix)
+              if not stripped or BLOCK_TAG.search(prefix, len(stripped)):
+                  return True
+              return SENTENCE_END.search(stripped) is not None and not ABBREVIATION.search(stripped)
+
+
+          def fix_value(value, field):
+              def replace(m):
+                  if m.group(0).isupper():
+                      return m.group(0)
+                  if (
+                      ORG_SUFFIX.match(value, m.end())
+                      # Proper nouns, e.g. "Kubernetes and Cloud Native Associate", "Cloud Native Community Japan"
+                      or (m.group(0)[0] == "C" and CAPITALIZED_NEXT.match(value, m.end()))
+                      or field in TITLE_FIELDS
+                      or OPEN_HEADING.search(value, 0, m.start())
+                  ):
+                      return "Cloud Native"
+                  if sentence_start(value[: m.start()]):
+                      return "Cloud native"
+                  return "cloud native"
+
+              return TERM.sub(replace, value)
+
+
+          with open(PATH, encoding="utf-8", newline="") as f:
+              lines = f.readlines()
+
+          changed = 0
+          for i, line in enumerate(lines):
+              m = LINE.match(line)
+              if not m:
+                  continue
+              fixed = fix_value(m.group(3), m.group(2))
+              if fixed != m.group(3):
+                  lines[i] = m.group(1) + fixed + m.group(4)
+                  changed += 1
+
+          if changed:
+              with open(PATH, "w", encoding="utf-8", newline="") as f:
+                  f.writelines(lines)
+          print(f"Rewrote {changed} line(s)")
+      - uses: reviewdog/action-suggester@v1
+        with:
+          tool_name: cloud-native-style
+          level: error
+          filter_mode: added
+          fail_level: any
