@@ -218,7 +218,6 @@ repositories:
       cncf-projects: admin
       cncf-tech-docs: admin
       cncf-toc: write
-      cncf-tag-leads: write
       tag-developer-experience-leads: write
       tag-infrastructure-leads: write
       tag-operational-resilience-leads: write
@@ -534,11 +533,7 @@ repositories:
     teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      cncf-tag-leads: write
     external_collaborators:
       cncf-automation-bot: write
     settings:
@@ -718,11 +713,7 @@ repositories:
   - teams:
       cncf-toc: maintain
       cncf-projects: admin
-      tag-developer-experience-leads: write
-      tag-infrastructure-leads: write
-      tag-operational-resilience-leads: write
-      tag-security-compliance-leads: write
-      tag-workloads-foundation-leads: write
+      cncf-tag-leads: write
     external_collaborators:
       cncf-automation-bot: write
     name: sandbox
@@ -1162,90 +1153,135 @@ teams:
       - joannalee333
     displayName: CNCF End User Staff Core Team
     secret: false
-  - name: cncf-tag-leads
-    displayName: CNCF TAG Leads
+  - name: cncf-tag-staff
+    displayName: CNCF TAG Staff
     maintainers:
       - castrojo
       - jeefy
       - krook
       - mrbobbytables
       - riaankleinhans
+    secret: false
+  - name: cncf-tag-leads
+    displayName: CNCF TAG Leads
     formation:
-      - tag-developer-experience-leads
-      - tag-infrastructure-leads
-      - tag-operational-resilence-leads
-      - tag-security-compliance-leads
-      - tag-workloads-foundation-leads
+      - cncf-tag-staff
+      - tag-developer-experience-chairs
+      - tag-developer-experience-tech-leads
+      - tag-infrastructure-chairs
+      - tag-infrastructure-tech-leads
+      - tag-operational-resilience-chairs
+      - tag-operational-resilience-tech-leads
+      - tag-security-compliance-chairs
+      - tag-security-compliance-tech-leads
+      - tag-workloads-foundation-chairs
+      - tag-workloads-foundation-tech-leads
     secret: false
   - name: tag-developer-experience-leads
     displayName: CNCF TAG Developer Experience Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
+      - tag-developer-experience-chairs
+      - tag-developer-experience-tech-leads
+    secret: false
+  - name: tag-developer-experience-chairs
+    displayName: CNCF TAG Developer Experience Chairs
+    formation:
+      - cncf-tag-staff
     members:
-      - cloudmelon
       - danieloh30
       - graz-dev
+      - SwEngin
+    secret: false
+  - name: tag-developer-experience-tech-leads
+    displayName: CNCF TAG Developer Experience Tech Leads
+    formation:
+      - cncf-tag-staff
+    members:
+      - cloudmelon
       - joshuabezaleel
       - julsemaan
       - kdubois
       - stmcginnis
-      - SwEngin
     secret: false
   - name: tag-infrastructure-leads
     displayName: CNCF TAG Infrastructure Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
+      - tag-infrastructure-chairs
+      - tag-infrastructure-tech-leads
+    secret: false
+  - name: tag-infrastructure-chairs
+    displayName: CNCF TAG Infrastructure Chairs
+    formation:
+      - cncf-tag-staff
+    members:
+      - GenPage
+      - kashifest
+      - xing-yang
+    secret: false
+  - name: tag-infrastructure-tech-leads
+    displayName: CNCF TAG Infrastructure Tech Leads
+    formation:
+      - cncf-tag-staff
     members:
       - alexagriffith
       - aojea
-      - GenPage
       - hzxuzhonghu
       - joshgav
-      - kashifest
       - moezdil
       - thschue
-      - xing-yang
     secret: false
   - name: tag-operational-resilience-leads
     displayName: CNCF TAG Operational Resilience Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
+      - tag-operational-resilience-chairs
+      - tag-operational-resilience-tech-leads
+    secret: false
+  - name: tag-operational-resilience-chairs
+    displayName: CNCF TAG Operational Resilience Chairs
+    formation:
+      - cncf-tag-staff
     members:
       - alolita
+      - krol3
+      - saiyam1814
+    secret: false
+  - name: tag-operational-resilience-tech-leads
+    displayName: CNCF TAG Operational Resilience Tech Leads
+    formation:
+      - cncf-tag-staff
+    members:
       - chadmcrowell
       - didiViking
       - halcyondude
-      - krol3
       - nikimanoledaki
       - palnabarun
-      - saiyam1814
     secret: false
   - name: tag-security-compliance-leads
     displayName: CNCF TAG Security and Compliance Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
+      - tag-security-compliance-chairs
+      - tag-security-compliance-tech-leads
+    secret: false
+  - name: tag-security-compliance-chairs
+    displayName: CNCF TAG Security and Compliance Chairs
+    formation:
+      - cncf-tag-staff
     members:
-      - arewm
       - evankanderson
       - jkjell
-      - JustinCappos
       - mnm678
+    secret: false
+  - name: tag-security-compliance-tech-leads
+    displayName: CNCF TAG Security and Compliance Tech Leads
+    formation:
+      - cncf-tag-staff
+    members:
+      - arewm
+      - JustinCappos
       - realshuting
       - sherine-k
       - y-tabata
@@ -1253,21 +1289,30 @@ teams:
     secret: false
   - name: tag-workloads-foundation-leads
     displayName: CNCF TAG Workloads Foundation Leads
-    maintainers:
-      - castrojo
-      - jeefy
-      - krook
-      - mrbobbytables
-      - riaankleinhans
+    formation:
+      - cncf-tag-staff
+      - tag-workloads-foundation-chairs
+      - tag-workloads-foundation-tech-leads
+    secret: false
+  - name: tag-workloads-foundation-chairs
+    displayName: CNCF TAG Workloads Foundation Chairs
+    formation:
+      - cncf-tag-staff
     members:
       - catblade
-      - kerthcet
       - pacoxu
+      - terrytangyuan
+    secret: false
+  - name: tag-workloads-foundation-tech-leads
+    displayName: CNCF TAG Workloads Foundation Tech Leads
+    formation:
+      - cncf-tag-staff
+    members:
+      - kerthcet
       - pmady
       - RainbowMango
       - rajaskakodkar
       - srust
-      - terrytangyuan
     secret: false
   - name: toc-project-reviews-subproject
     displayName: TOC Project Reviews Subproject
