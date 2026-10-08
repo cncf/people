@@ -20,9 +20,9 @@ def test_sentence_start_capitalized():
     assert fixes[0]["new"] == '    "bio": "Cloud native is my passion.",\n'
 
 
-def test_title_field_forces_title_case():
+def test_company_field_is_never_touched():
     fixes = compute_fixes(lines_for("company", "Acme cloud-native labs"))
-    assert "Cloud Native" in fixes[0]["new"]
+    assert fixes == []
 
 
 def test_project_title_forces_title_case():

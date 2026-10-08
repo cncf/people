@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Compute CNCF 'cloud native' style fixes for free-text fields in people.json.
 
-Only looks at the `bio`, `company` and `mentorships[].project_title` string
-values (matched line-by-line, since people.json is one key/value per line).
+Only looks at the `bio` and `mentorships[].project_title` string values
+(matched line-by-line, since people.json is one key/value per line).
+`company` is deliberately excluded: it's a proper/org name field, not prose,
+and should never be rewritten by this checker.
 Writes a JSON file with a list of {"line": <1-based line number>, "new": <corrected raw JSON line>}
 for every line whose value needs to change, leaving everything else alone.
 
@@ -12,11 +14,14 @@ https://github.com/cncf/foundation/blob/main/style-guide.md#1-cloud-native-and-o
 import json
 import sys
 
-TITLE_FIELDS = {"company", "project_title"}
+# Fields that are titles/names rather than prose: always forced to "Cloud Native"
+# (Title Case) regardless of sentence position. `bio` is prose and is handled by
+# the context-sensitive branches in fix_value instead.
+TITLE_CASED_FIELDS = {"project_title"}
 
 import re
 
-LINE = re.compile(r'^(\s*"(bio|company|project_title)"\s*:\s*")(.*)("\s*,?\s*)$')
+LINE = re.compile(r'^(\s*"(bio|project_title)"\s*:\s*")(.*)("\s*,?\s*)$')
 TERM = re.compile(r'(?<![\w/.@#=-])cloud[- ]native(?![\w/-]|\.\w)', re.I)
 ORG_SUFFIX = re.compile(r'\s+(?:computing\s+foundation|days|rejekts)\b', re.I)
 CAPITALIZED_NEXT = re.compile(r'\s+[A-Z]')
@@ -42,7 +47,7 @@ def fix_value(value, field):
             ORG_SUFFIX.match(value, m.end())
             # Proper nouns, e.g. "Kubernetes and Cloud Native Associate", "Cloud Native Community Japan"
             or (m.group(0)[0] == "C" and CAPITALIZED_NEXT.match(value, m.end()))
-            or field in TITLE_FIELDS
+            or field in TITLE_CASED_FIELDS
             or OPEN_HEADING.search(value, 0, m.start())
         ):
             return "Cloud Native"
