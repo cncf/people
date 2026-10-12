@@ -50,6 +50,21 @@ function buildCommentBody(fix) {
   );
 }
 
+const SUMMARY_LIMIT = 100;
+
+/** Markdown for the Actions run summary: before/after diffs of the fixes on added lines. */
+function buildSummary(fixes) {
+  if (fixes.length === 0) return '## Cloud native style\n\nNo issues found in added lines.\n';
+  const shown = fixes.slice(0, SUMMARY_LIMIT);
+  const entries = shown.map((fx) => {
+    const old = (fx.old || '').replace(/\s+$/, '');
+    const next = fx.new.replace(/\s+$/, '');
+    return `### ${fx.name || '(unknown)'} \u2014 line ${fx.line}\n\n\`\`\`diff\n-${old}\n+${next}\n\`\`\`\n`;
+  });
+  const more = fixes.length > shown.length ? `\n...and ${fixes.length - shown.length} more.\n` : '';
+  return `## Cloud native style\n\n${fixes.length} issue(s) found in added lines.\n\n${entries.join('\n')}${more}`;
+}
+
 /**
  * Orchestrates posting cloud native style suggestions for a PR.
  * `github`, `context`, `core` match the globals injected by actions/github-script.
@@ -65,6 +80,8 @@ async function run({ github, context, core, fixes, targetFile = 'people.json' })
   const peopleFile = files.find((f) => f.filename === targetFile);
   const added = addedLineNumbers(peopleFile && peopleFile.patch);
   const relevant = fixes.filter((fx) => added.has(fx.line));
+
+  if (core.summary) await core.summary.addRaw(buildSummary(relevant)).write();
 
   // Clear any stale suggestions we posted on a previous push before re-posting.
   const existing = await github.paginate(github.rest.pulls.listReviewComments, { owner, repo, pull_number, per_page: 100 });
@@ -91,4 +108,4 @@ async function run({ github, context, core, fixes, targetFile = 'people.json' })
   return { posted: comments.length };
 }
 
-module.exports = { run, addedLineNumbers, buildCommentBody, MARKER, STYLE_GUIDE_URL };
+module.exports = { run, addedLineNumbers, buildCommentBody, buildSummary, MARKER, STYLE_GUIDE_URL };

@@ -6,6 +6,7 @@ const {
   run,
   addedLineNumbers,
   buildCommentBody,
+  buildSummary,
   MARKER,
 } = require('../scripts/cloud-native-style/post_suggestions.js');
 
@@ -195,4 +196,16 @@ test('run finds targetFile and stale comments beyond the first page (regression 
   assert.equal(result.posted, 1, 'people.json on page 2 of listFiles must still be found');
   assert.deepEqual(deleted, [2], 'the stale bot comment on page 2 of listReviewComments must still be deleted');
   assert.equal(created.comments[0].path, 'people.json');
+});
+
+test('buildSummary shows name, line and before/after, and handles no issues', () => {
+  const md = buildSummary([{ line: 7, name: 'Ada', old: '    "bio": "cloud-native",\n', new: '    "bio": "cloud native",\n' }]);
+  assert.match(md, /Ada \u2014 line 7/);
+  assert.match(md, /-    "bio": "cloud-native",\n\+    "bio": "cloud native",/);
+  assert.match(buildSummary([]), /No issues found/);
+});
+
+test('buildSummary caps the number of entries', () => {
+  const fixes = Array.from({ length: 150 }, (_, i) => ({ line: i + 1, name: 'n', old: 'a', new: 'b' }));
+  assert.match(buildSummary(fixes), /and 50 more/);
 });

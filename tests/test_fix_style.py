@@ -3,7 +3,10 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "cloud-native-style"))
 
-from fix_style import compute_fixes  # noqa: E402
+import json
+import subprocess
+
+from fix_style import build_report, compute_fixes, enrich  # noqa: E402
 
 
 def lines_for(field, value):
@@ -97,3 +100,46 @@ def test_abbreviation_not_treated_as_sentence_end():
 def test_non_target_field_ignored():
     fixes = compute_fixes(lines_for("name", "cloud-native Jones"))
     assert fixes == []
+
+
+def test_apply_rewrites_file_in_place(tmp_path):
+    f = tmp_path / "people.json"
+    f.write_text('[\n  {\n    "bio": "I love cloud-native and open-source.",\n    "company": "Acme cloud-native"\n  }\n]\n')
+    script = Path(__file__).resolve().parents[1] / "scripts" / "cloud-native-style" / "fix_style.py"
+    subprocess.run([sys.executable, str(script), str(f), "--apply"], check=True)
+    data = json.loads(f.read_text())
+    assert data[0]["bio"] == "I love cloud native and open source."
+    assert data[0]["company"] == "Acme cloud-native"
+    assert f.read_text().endswith("}\n]\n")
+
+
+def test_adjacent_terms_are_idempotent():
+    first = compute_fixes(lines_for("bio", "A passion for Open Source Cloud-Native technologies."))
+    fixed = first[0]["new"]
+    assert "open source cloud native technologies" in fixed
+    assert compute_fixes([fixed]) == []
+
+
+def test_open_source_all_caps_left_untouched():
+    assert compute_fixes(lines_for("bio", "OPEN-SOURCE is in our DNA.")) == []
+
+
+def test_open_source_identifiers_and_urls_left_untouched():
+    assert compute_fixes(lines_for("bio", "Maintainer of open-source-community-korea.")) == []
+    assert compute_fixes(lines_for("bio", "See https://example.com/open-source for details.")) == []
+    assert compute_fixes(lines_for("bio", "Logo: open-source.png")) == []
+
+
+def test_open_source_mid_sentence_capitalized_is_lowercased():
+    fixes = compute_fixes(lines_for("bio", "I contribute to Open Source projects."))
+    assert fixes[0]["new"] == '    "bio": "I contribute to open source projects.",\n'
+
+
+def test_report_includes_name_line_and_diff():
+    lines = ['    "name": "Ada Lovelace",\n', '    "bio": "I love cloud-native.",\n']
+    fixes = compute_fixes(lines)
+    assert enrich(lines, fixes)[0]["name"] == "Ada Lovelace"
+    report = build_report(lines, fixes)
+    assert "Ada Lovelace \u2014 line 2" in report
+    assert '-    "bio": "I love cloud-native.",' in report
+    assert '+    "bio": "I love cloud native.",' in report
