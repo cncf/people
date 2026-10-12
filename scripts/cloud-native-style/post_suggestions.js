@@ -42,7 +42,7 @@ function buildCommentBody(fix) {
   return (
     `${MARKER}\n` +
     `👋 Thanks for the contribution! Courtesy of the CNCF [style guide](${STYLE_GUIDE_URL}), ` +
-    '"cloud native" is written as two words, capitalized based on context (never hyphenated). ' +
+    '"cloud native" and "open source" are written as two words, capitalized based on context (never hyphenated). ' +
     'Feel free to accept the suggestion below, or tweak the wording if something else reads better.\n\n' +
     '```suggestion\n' +
     `${fix.new.replace(/\n$/, '')}\n` +

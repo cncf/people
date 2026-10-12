@@ -35,10 +35,13 @@ jobs:
       - name: Fetch the PR's people.json as data (not executed)
         env:
           GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.event.pull_request.head.sha }}
         run: |
-          gh api "repos/${{ github.repository }}/contents/people.json" \
+          # --method GET is required: -f alone would make gh send a POST.
+          gh api --method GET "repos/$REPO/contents/people.json" \
             -H "Accept: application/vnd.github.raw" \
-            -f ref="${{ github.event.pull_request.head.sha }}" \
+            -f ref="$SHA" \
             > head-people.json
 
       - name: Compute cloud native style fixes

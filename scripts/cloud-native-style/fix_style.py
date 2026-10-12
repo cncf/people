@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Compute CNCF 'cloud native' style fixes for free-text fields in people.json.
 
-Only looks at the `bio` and `mentorships[].project_title` string values
-(matched line-by-line, since people.json is one key/value per line).
-`company` is deliberately excluded: it's a proper/org name field, not prose,
-and should never be rewritten by this checker.
+Checks the "cloud native" and "open source" terms, and only in the `bio` string
+values (matched line-by-line, since people.json is one key/value per line).
+`company` and `project_title` are deliberately excluded: they're proper names,
+not prose, and should never be rewritten by this checker.
 Writes a JSON file with a list of {"line": <1-based line number>, "new": <corrected raw JSON line>}
 for every line whose value needs to change, leaving everything else alone.
 
@@ -14,16 +14,11 @@ https://github.com/cncf/foundation/blob/main/style-guide.md#1-cloud-native-and-o
 import json
 import sys
 
-# Fields that are titles/names rather than prose: always forced to "Cloud Native"
-# (Title Case) regardless of sentence position. `bio` is prose and is handled by
-# the context-sensitive branches in fix_value instead.
-TITLE_CASED_FIELDS = {"project_title"}
-
 import re
 
-LINE = re.compile(r'^(\s*"(bio|project_title)"\s*:\s*")(.*)("\s*,?\s*)$')
-TERM = re.compile(r'(?<![\w/.@#=-])cloud[- ]native(?![\w/-]|\.\w)', re.I)
-ORG_SUFFIX = re.compile(r'\s+(?:computing\s+foundation|days|rejekts)\b', re.I)
+LINE = re.compile(r'^(\s*"(bio)"\s*:\s*")(.*)("\s*,?\s*)$')
+TERM = re.compile(r'(?<![\w/.@#=-])(cloud[- ]native|open[- ]source)(?![\w/-]|\.\w)', re.I)
+ORG_SUFFIX = re.compile(r'\s+(?:computing\s+foundation|days|rejekts|initiative)\b', re.I)
 CAPITALIZED_NEXT = re.compile(r'\s+[A-Z]')
 OPEN_HEADING = re.compile(r'<h[1-6]\b[^>]*>(?:(?!</h[1-6]\s*>).)*$', re.I | re.S)
 TRAILING_WS_AND_TAGS = re.compile(r'(?:\s|<[^>]*>)+$')
@@ -39,21 +34,21 @@ def sentence_start(prefix):
     return SENTENCE_END.search(stripped) is not None and not ABBREVIATION.search(stripped)
 
 
-def fix_value(value, field):
+def fix_value(value):
     def replace(m):
         if m.group(0).isupper():
             return m.group(0)
+        first, second = ("cloud", "native") if m.group(1)[0] in "Cc" else ("open", "source")
         if (
             ORG_SUFFIX.match(value, m.end())
-            # Proper nouns, e.g. "Kubernetes and Cloud Native Associate", "Cloud Native Community Japan"
-            or (m.group(0)[0] == "C" and CAPITALIZED_NEXT.match(value, m.end()))
-            or field in TITLE_CASED_FIELDS
+            # Proper nouns, e.g. "Kubernetes and Cloud Native Associate", "Open Source Summit"
+            or (m.group(0)[0].isupper() and CAPITALIZED_NEXT.match(value, m.end()))
             or OPEN_HEADING.search(value, 0, m.start())
         ):
-            return "Cloud Native"
+            return f"{first.capitalize()} {second.capitalize()}"
         if sentence_start(value[: m.start()]):
-            return "Cloud native"
-        return "cloud native"
+            return f"{first.capitalize()} {second}"
+        return f"{first} {second}"
 
     return TERM.sub(replace, value)
 
@@ -65,7 +60,7 @@ def compute_fixes(lines):
         m = LINE.match(line)
         if not m:
             continue
-        fixed = fix_value(m.group(3), m.group(2))
+        fixed = fix_value(m.group(3))
         if fixed != m.group(3):
             fixes.append({"line": i + 1, "new": m.group(1) + fixed + m.group(4)})
     return fixes

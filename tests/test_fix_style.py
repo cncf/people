@@ -25,9 +25,28 @@ def test_company_field_is_never_touched():
     assert fixes == []
 
 
-def test_project_title_forces_title_case():
-    fixes = compute_fixes(lines_for("project_title", "cloud-native mentorship"))
-    assert "Cloud Native" in fixes[0]["new"]
+def test_project_title_is_never_touched():
+    fixes = compute_fixes(lines_for("project_title", "cloud-native open-source mentorship"))
+    assert fixes == []
+
+
+def test_open_source_hyphen_removed():
+    fixes = compute_fixes(lines_for("bio", "I maintain open-source tools."))
+    assert fixes[0]["new"] == '    "bio": "I maintain open source tools.",\n'
+
+
+def test_open_source_sentence_start():
+    fixes = compute_fixes(lines_for("bio", "Open-source is my passion."))
+    assert fixes[0]["new"] == '    "bio": "Open source is my passion.",\n'
+
+
+def test_open_source_org_name_preserved():
+    assert compute_fixes(lines_for("bio", "Speaker at Open Source Summit Europe.")) == []
+    assert compute_fixes(lines_for("bio", "Member of the Open Source Initiative.")) == []
+
+
+def test_open_source_correct_usage_left_alone():
+    assert compute_fixes(lines_for("bio", "I love open source.")) == []
 
 
 def test_org_suffix_days_already_correct_is_left_alone():
