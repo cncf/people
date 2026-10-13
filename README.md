@@ -56,10 +56,38 @@ teams:
       - github_profile_n
     members:
       has_wiki: true|false
+    formation:
+      - other_team_name  # Copy that team's maintainers and members into this team
     displayName: Team name that can have spaces used to create a Slack Channel
     slack: {true|false|Slack channel name}  # Create a Slack channel for this team
     secret: {true|false} # Hidden GitHub Team
 ```
+
+#### Composing teams with `formation`
+
+`formation` populates a team's maintainers and members from other teams, so a
+person is listed in exactly one place. Two rules matter:
+
+- A team may omit `maintainers` and `members` entirely as long as one of its
+  subteams supplies at least one maintainer.
+- `formation` is **not recursive**. If a subteam also uses `formation`, that
+  subteam's own subteams are ignored.
+
+The TAG teams use this. Each TAG has a `-chairs` and a `-tech-leads` team holding
+the actual people, and `cncf-tag-staff` holds the staff maintainers shared by all
+of them. The per-TAG `tag-*-leads` teams and the org-wide `cncf-tag-leads` team
+are composed from those and list no members of their own.
+
+Because `formation` is not recursive, `cncf-tag-leads` lists every `-chairs` and
+`-tech-leads` team directly rather than the five `tag-*-leads` teams.
+
+The `tag-*-leads` and `cncf-tag-leads` slugs are referenced outside this repo — by
+`.github/CODEOWNERS` in [cncf/toc](https://github.com/cncf/toc) and
+[cncf/contribute-site](https://github.com/cncf/contribute-site), and by mailing
+list sync in [cncf/maintainer-manager](https://github.com/cncf/maintainer-manager).
+Renaming or removing them breaks those consumers. Note that a team named in
+CODEOWNERS must hold write access to that repository in its own right;
+membership overlap with another team does not grant it.
 
 #### Notes
 
