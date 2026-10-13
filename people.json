@@ -40433,57 +40433,6 @@
         "image": "hsuan-jung-chen.jpg"
     },
     {
-        "name": "Huan Wei",
-        "bio": "<p>Huan has more than 15 years of work experience, and his current focus is cloud-native edge computing, distributed cloud, and high-performance computing. He is currently working as a Senior Technical Director at HarmonyCloud, a company located in Hangzhou, China, providing leading cloud-native products and solutions for hundreds of enterprise customers, including Kubernetes, PaaS, edge computing, micro service visibility, DevOps, etc. In addition, Huan serves as a Technical Steering Committe member of the CNCF edge computing project KubeEdge. Huan is an open source technology enthusiast and is currently committed to building an open source technology ecosystem in China.</p><p>Why I am excited to be an ambassador: The company I work for, HarmonyCloud, is an influential cloud native tehnology supplier in China and a long-term partner of CNCF. HarmonyCloud has helped many customers around the world complete the transformation of cloud-native technology. At the same time, I am currently working as a TSC member in the CNCF Project KubeEdge community, responsible for leading several SIG teams and working with other TSC members towards the graduation of the KubeEdge project. Over the years, I have also given speeches at conferences organized by CNCF. Therefore, I am familiar with the operation process of CNCF projects and understand the job responsibilities of CNCF ambassadors. If I become an ambassador, I will promote the maturity and promotion of Kubernetes, KubeEdge and more open source projects, and help users around the world to apply these advanced and open source cloud-native tenologies.</p>",
-        "company": "Hangzhou HarmonyCloud Technology Co., Ltd",
-        "pronouns": "He/Him",
-        "location": "Hangzhou, China",
-        "linkedin": "",
-        "twitter": "",
-        "github": "https://github.com/huanwei",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "slack_id": "Huan Wei",
-        "languages": [],
-        "projects": [
-            "Argo",
-            "cert-manager",
-            "Chaos Mesh",
-            "Chaosblade",
-            "Cilium",
-            "Container Network Interface (CNI)",
-            "containerd",
-            "CoreDNS",
-            "CRI-O",
-            "Envoy",
-            "etc",
-            "Falco",
-            "Fluentd",
-            "gRPC",
-            "Harbor",
-            "Helm",
-            "Istio",
-            "Karmada",
-            "KEDA",
-            "Knative",
-            "KubeEdge",
-            "Kubernetes",
-            "KubeVirt",
-            "Prometheus",
-            "Volcano",
-            "WasmEdge"
-        ],
-        "expertise": [
-            "Technical",
-            "Non-Technical"
-        ],
-        "category": [
-            "Ambassadors"
-        ],
-        "image": "huanwei.jpg"
-    },
-    {
         "name": "Huang WEN_YUAN",
         "bio": "",
         "company": "",
@@ -81912,25 +81861,6 @@
         "lfid": "bupd"
     },
     {
-        "name": "Praseeda Sathaye",
-        "bio": "<p>Praseeda Sathaye is a Principal Specialist Solution Architect for App Modernization and Containers at Amazon Web Services, based in the Bay Area, California. She specializes in accelerating cloud-native adoption, modernizing platform infrastructure, and architecting microservices using Kubernetes, GitOps, and service mesh. Praseeda has published highly acclaimed workshops and blogs on Amazon EKS, Karpenter, and Istio-on-EKS, which have been widely praised for their educational value. She is an active contributor to the open-source community, having helped add Amazon EKS usecase to Istio documentation. Praseeda is an engaging presenter at major conferences like Grace Hopper, KubeCon and GitopsCon for her ability to make complex topics relatable. With over 25 years of experience in leading, designing, and architecting software products across various domains, Praseeda is an inspirational role model who empowers women and minority groups in the tech industry through her teaching, mentoring, presenting, contributing, and evangelizing efforts.</p>",
-        "company": "Amazon",
-        "pronouns": "She/Her",
-        "location": "Milpitas, United States",
-        "linkedin": "https://www.linkedin.com/in/praseedas/",
-        "github": "https://github.com/praseedasathaye",
-        "category": [
-            "Ambassadors"
-        ],
-        "projects": [
-            "Kubernetes",
-            "Istio",
-            "Crossplane",
-            "Argo"
-        ],
-        "image": "praseeda-sathaye.jpg"
-    },
-    {
         "name": "Prashant Andoriya",
         "bio": "",
         "company": "",
@@ -102171,42 +102101,6 @@
         ],
         "slack_id": "",
         "image": "phippy.jpg"
-    },
-    {
-        "name": "Syed Asad Raza",
-        "bio": "<p>Hi Team, I am DevOps and MultiCloud Engineer and happy to become a CNCF member to add some input to this journey.</p><p>Why I am excited to be an ambassador: It provides a platform to connect with other professionals in the industry, share knowledge and expertise, and contribute to the growth of the community. As an ambassador, one can learn about the latest developments and trends in the cloud-native ecosystem and play a role in shaping the future of the industry.</p>",
-        "company": "Ascend Healthcare and solution",
-        "pronouns": "He/Him",
-        "location": "Lahore, Pakistan",
-        "linkedin": "",
-        "twitter": "https://www.twitter.com/syedasaddevops",
-        "github": "https://github.com/syedasadrazadevops",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "slack_id": "Syedasadrazadevops",
-        "languages": [],
-        "projects": [
-            "Argo",
-            "Brigade",
-            "CloudEvents",
-            "etcd",
-            "Helm",
-            "k3s",
-            "KEDA",
-            "Kubernetes",
-            "Kuma",
-            "Kyverno",
-            "TensorFlow"
-        ],
-        "expertise": [
-            "Technical",
-            "Non-Technical"
-        ],
-        "category": [
-            "Ambassadors"
-        ],
-        "image": "syedasad-raza.jpg"
     },
     {
         "name": "Sylvain Pierrot",
