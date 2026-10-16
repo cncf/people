@@ -13907,23 +13907,28 @@
     },
     {
         "name": "Atulpriya Sharma",
-        "bio": "<p>I'm a tester turned developer advocate. I work on & talk about Cloud native, Kubernetes & DevOps. I also create content - blog posts, Twitter threads - & host Twitter spaces. In addition, I'm one of the organiser of CNCF Hyderabad and strongly believe in collaborative learning and growth. When I am not working, I'm a food & travel blogger & love exploring eateries & going on road trips. You can find me at @TheTechMaharaj on Twitter.</p><p>Why I am excited to be an ambassador: I am absolutely stoked to be a CNCF ambassador! Being a part of this community means I get to geek out with a group of like-minded individuals who are passionate about Cloud native technologies, Kubernetes, and DevOps. It's an opportunity to keep learning and growing, while also sharing my knowledge and enthusiasm with people in Hyderabad. I'm excited to dive headfirst into the latest trends and developments, all while having a blast! I can't wait to host fun events, share cool content, and help spread the word about CNCF and related technologies. Overall, this is not just a chance to contribute to a thriving ecosystem, but to also make connections, learn new things, and have a ton of fun along the way!</p>",
-        "company": "InfraCloud Technologies",
+        "bio": "<p>Atulpriya Sharma, known as Maharaj in the cloud native community, is a Principal Developer Advocate at Improving and a CNCF Ambassador. He started in manual QA engineering over a decade ago and now leads developer relations, focusing on platform engineering, Kubernetes, and developer experience.</p><p>He has spoken at every KubeCon since Chicago 2023 and co-chaired KubeCon India 2025. He is Co-Chair of the CNCF Platform Engineering Technical Community Group and an organiser of Cloud Native Hyderabad.</p>",
+        "company": "Principal Developer Advocate, Improving",
         "pronouns": "He/Him",
         "location": "Hyderabad, India",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/atulpriyasharma/",
         "twitter": "https://www.twitter.com/TheTechMaharaj",
         "github": "https://github.com/techmaharaj",
         "wechat": "",
-        "website": "",
+        "website": "https://techmaharaj.in",
         "youtube": "",
         "slack_id": "Atul",
-        "languages": [],
+        "languages": [
+            "English",
+            "Hindi",
+            "Gujarati",
+            "Telugu"
+        ],
         "projects": [
             "Argo",
-            "Fluentd",
-            "Istio",
+            "Grafana",
             "Kubernetes",
+            "Kyverno",
             "OpenTelemetry"
         ],
         "expertise": [
