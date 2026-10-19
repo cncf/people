@@ -1870,25 +1870,6 @@
         "image": "acacio-chinato.jpg"
     },
     {
-        "name": "Adam Vigaš",
-        "bio": "<p>I’m a cloud-native engineer with hands-on experience working on a variety of projects involving Kubernetes and the broader CNCF ecosystem. I specialize in container orchestration, CI/CD automation, GitOps workflows, and building reliable, scalable cloud-native solutions. Through different projects, I’ve gained practical experience designing, deploying, and managing Kubernetes-based environments while continuously exploring new CNCF technologies and best practices. </p>",
-        "company": "BornDigital",
-        "pronouns": "He/Him",
-        "location": "Banská Bystrica, Slovakia",
-        "linkedin": "https://www.linkedin.com/in/adamvigas",
-        "twitter": "",
-        "github": "https://github.com/AdamVigas",
-        "wechat": "",
-        "website": "",
-        "youtube": "",
-        "certdirectory": "",
-        "category": [
-            "Kubestronaut"
-        ],
-        "slack_id": "",
-        "image": "adam-vigas.jpg"
-    },
-    {
         "name": "Adam Czepiel",
         "bio": "<p> The career progression from Linux Engineer to DevOps Cloud Engineer involves starting with managing Linux systems using technologies like Nginx, LDAP, Samba and Bash scripting. Transitioning to a Cloud Engineer role includes leveraging cloud platforms like AWS and Azure, working with services such as EC2 and Azure VMs, and utilizing Docker for containerization. Finally, as a DevOps Cloud Engineer, one focuses on automation and CI/CD pipelines using tools like Jenkins, Kubernetes, Ansible and Terraform, ensuring efficient and scalable cloud infrastructure. I love DevOps and Kubernetes from day 1</p>",
         "company": "SVA Alexander System Vertriebs GmbH​",
@@ -2105,6 +2086,25 @@
         ],
         "slack_id": "",
         "image": "adam-skibinski.jpg"
+    },
+    {
+        "name": "Adam Vigaš",
+        "bio": "<p>I’m a cloud-native engineer with hands-on experience working on a variety of projects involving Kubernetes and the broader CNCF ecosystem. I specialize in container orchestration, CI/CD automation, GitOps workflows, and building reliable, scalable cloud-native solutions. Through different projects, I’ve gained practical experience designing, deploying, and managing Kubernetes-based environments while continuously exploring new CNCF technologies and best practices. </p>",
+        "company": "BornDigital",
+        "pronouns": "He/Him",
+        "location": "Banská Bystrica, Slovakia",
+        "linkedin": "https://www.linkedin.com/in/adamvigas",
+        "twitter": "",
+        "github": "https://github.com/AdamVigas",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "adam-vigas.jpg"
     },
     {
         "name": "Adam Österberg",
@@ -77018,6 +77018,25 @@
             "Ambassadors"
         ],
         "image": "oleg-nenashev.jpg"
+    },
+    {
+        "name": "Oleg Uliashev",
+        "bio": "<p>Oleg is a Senior Infrastructure Engineer with a decade of experience in the industry, working closely with Kubernetes, AWS, and cloud-native technologies.\nHe focuses on building secure automation and scaling resilient systems.\nOutside of work, he is a dedicated multisport athlete: an Ironman finisher, marathon runner, and climber.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Madrid, Spain",
+        "linkedin": "https://www.linkedin.com/in/oleg-uliashev",
+        "twitter": "",
+        "github": "https://github.com/oleg5991",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "oleg-uliashev.jpg"
     },
     {
         "name": "Oleh Kubai",
