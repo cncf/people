@@ -36285,8 +36285,8 @@
     },
     {
         "name": "Graziano Casto",
-        "bio": "<p>Senior DevRel Engineer at Akamas, where I work on technical advocacy and go-to-market for an AI-powered Kubernetes performance optimization platform.</p>",
-        "company": "Akamas",
+        "bio": "<p>I’m Graziano, a Developer Advocate at Akuity working on Argo CD and Kargo. I started as a software engineer, moved into product management, and eventually landed in Developer Relations, but I never really left engineering. Along the way I realized that a powerful tool doesn’t help much if people struggle to use it, and that’s what I care about most: making cloud native simpler for the engineers who work with it every day. In the community, I co-chair CNCF TAG Developer Experience, I’m a CNCF Ambassador, and I’ve been part of the Kubernetes Release Team since v1.34. The rest of the time I’m usually deep into AI infrastructure and Platform Engineering, trying to make the whole ecosystem a lot less annoying for everyone.</p>",
+        "company": "Akuity",
         "pronouns": "He/Him",
         "location": "Milan, Italy",
         "linkedin": "https://www.linkedin.com/in/castograziano/",
@@ -36301,7 +36301,8 @@
             "English"
         ],
         "projects": [
-            "Kubernetes"
+            "Kubernetes", 
+            "Argo CD"
         ],
         "expertise": [
             "Technical",
