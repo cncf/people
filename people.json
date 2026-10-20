@@ -92655,8 +92655,8 @@
     },
     {
         "name": "Sandipan Panda",
-        "bio": "<p>Sandipan enjoys collaborating with people on developing software. He is a Member, Community Manager, and part of the Contributor Experience Special Interest Group and the Contributor Communications team at Kubernetes. Sandipan has been a Mentee at CNCF under the Linux Foundation Mentorship Program, where he worked on Cilium, and a Google Summer of Code Contributor 2024 at Kubeflow. As a participant in CNCF Security Slam 2023, he has also contributed to improving the security hygiene of Kubernetes subprojects. Sandipan is a CNCF Community Groups Organizer of the Kolkata chapter.</p>",
-        "company": "",
+        "bio": "<p>Sandipan is a Member of Technical Staff at DevZero, where he works on Kubernetes and platform engineering. He is a Kubernetes Member, Community Manager, and part of the Contributor Experience Special Interest Group and the Contributor Communications team, and a Kubeflow Member. Sandipan has been a Mentee at CNCF under the Linux Foundation Mentorship Program, where he worked on Cilium release security, and a Google Summer of Code 2024 Contributor at Kubeflow, where he integrated JAX with the Training Operator. He has contributed to Kubernetes, Kubeflow, Cilium, minikube, and KubeArmor, spoke at the Kubeflow Summit at KubeCon + CloudNativeCon Europe 2025, and wrote for the Kubernetes blog. As a participant in CNCF Security Slam 2023, he also contributed to improving the security hygiene of Kubernetes subprojects. Sandipan is a CNCF Ambassador and a CNCF Community Groups Organizer of the Kolkata chapter.</p>",
+        "company": "DevZero",
         "pronouns": "He/Him",
         "location": "Kolkata, India",
         "linkedin": "https://www.linkedin.com/in/sandipanpanda/",
@@ -92665,6 +92665,7 @@
         "website": "https://sandipan.tech/",
         "youtube": "https://www.youtube.com/@sandipanpanda",
         "bluesky": "https://bsky.app/profile/sandipan.tech",
+        "twitter": "https://twitter.com/sandipanirl",
         "slack_id": "",
         "languages": [],
         "projects": [
@@ -92710,6 +92711,22 @@
                 "end_date": "2022-11-30",
                 "project_title": "CNCF - Cilium (2022 Term 3: Sep-Nov)",
                 "platform_url": "https://mentorship.lfx.linuxfoundation.org/project/680e32e5-d056-46fa-a94d-4af453d4e81d"
+            },
+            {
+                "role": "mentee",
+                "program": "gsoc-2024",
+                "organization": "kubeflow",
+                "mentors_github_handles": [
+                    "tenzen-y",
+                    "andreyvelich",
+                    "terrytangyuan",
+                    "johnugeorge"
+                ],
+                "start_date": "2024-05-27",
+                "end_date": "2024-09-02",
+                "project_title": "Integrate JAX with Kubeflow Training Operator",
+                "idea_url": "",
+                "platform_url": "https://summerofcode.withgoogle.com/programs/2024/projects/c29HXzpc"
             }
         ]
     },
