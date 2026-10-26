@@ -1160,6 +1160,13 @@ teams:
       - mrbobbytables
       - riaankleinhans
     secret: false
+  - name: cncf-tab-staff
+    displayName: CNCF TAB Staff
+    maintainers:
+      - castrojo
+      - krook
+      - mrbobbytables
+    secret: false
   - name: cncf-tag-leads
     displayName: CNCF TAG Leads
     formation:
@@ -1311,4 +1318,28 @@ teams:
       - RainbowMango
       - rajaskakodkar
       - srust
+    secret: false
+  - name: ug-leads
+    displayName: CNCF UG Leads
+    formation:
+      - cncf-tab-staff
+    members:
+      - ug-public-sector-leads
+      - ug-telco-leads
+    secret: false
+  - name: ug-public-sector-leads
+    displayName: CNCF UG Public Sector Leads
+    formation:
+      - cncf-tab-staff
+    members:
+      - djmoch
+      - wcrum
+    secret: false
+  - name: ug-telco-leads
+    displayName: CNCF UG Telco Leads
+    formation:
+      - cncf-tab-staff
+    members:
+      - CsatariGergely
+      - rgstori
     secret: false
