@@ -813,7 +813,7 @@ repositories:
       jbogarthyde: triage # Expert Support
     name: techdocs
   - name: telecom-user-group
-    visibility: private
+    visibility: public
     teams:
       cncf-tab-staff: admin
       ug-telecom-leads: write
