@@ -812,16 +812,11 @@ repositories:
       iRaindrop: triage # Expert Support
       jbogarthyde: triage # Expert Support
     name: techdocs
-  - external_collaborators:
-      dabernie: read
-      denverwilliams: read
-      lixuna: maintain
-      nickolaev: read
-      onlydole: admin
-      taylor: admin
-      tomkivlin: read
-      wvwatson: triage
-    name: telecom-user-group
+  - name: telecom-user-group
+    visibility: private
+    teams:
+      cncf-tab-staff: admin
+      ug-telecom-leads: write
   - external_collaborators:
       agentpoyo: maintain
       denverwilliams: admin
@@ -1322,23 +1317,49 @@ teams:
   - name: ug-leads
     displayName: CNCF UG Leads
     formation:
-      - cncf-tab-staff
+      - ug-platform-engineering-leads
       - ug-public-sector-leads
-      - ug-telco-leads
+      - ug-research-leads
+      - ug-telecom-leads
     secret: false
   - name: ug-public-sector-leads
     displayName: CNCF UG Public Sector Leads
-    formation:
-      - cncf-tab-staff
+    maintainers:
+      - mrbobbytables
+      - castrojo
+      - krook
     members:
       - djmoch
       - wcrum
     secret: false
-  - name: ug-telco-leads
-    displayName: CNCF UG Telco Leads
-    formation:
-      - cncf-tab-staff
+  - name: ug-telecom-leads
+    displayName: CNCF UG Telecom Leads
+    maintainers:
+      - mrbobbytables
+      - castrojo
+      - krook
     members:
       - CsatariGergely
       - rgstori
+    secret: false
+  - name: ug-platform-engineering-leads
+    displayName: CNCF UG Platform Engineering Leads
+    maintainers:
+      - mrbobbytables
+      - castrojo
+      - krook
+    members:
+      - ChrisPlank
+      - krumware
+      - techmaharaj
+    secret: false
+  - name: ug-research-leads
+    displayName: CNCF UG Research Leads
+    maintainers:
+      - mrbobbytables
+      - castrojo
+      - krook
+    members:
+      - carolili
+      - Satarupa22-SD
     secret: false
