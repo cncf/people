@@ -49537,10 +49537,11 @@
         ],
         "lfid": "perebaj"
     },
+
     {
         "name": "Jonathan Yeh",
-        "bio": "<p>Jonathan is an AI & DevOps/MLOps Solutions Engineer passionate about bridging the gap between cutting-edge AI models and scalable deployment.  He specializes in Generative AI, Computer Vision, MLOps automation, container technology such as Docker, and CNCF technologies like Kubernetes. By actively contributing to the AI and DevOps communities through technical blogs, mentorship, and Meetups, he helps teams to optimize and integrate AI and streamline deployment workflows.  His expertise spans AI model optimization, CI/CD automation, and edge AI solutions, with hands-on experiences in OpenVINO, TensorFlow, PyTorch, and cloud platforms like AWS, Azure, and GCP. Always learning and innovating, he embraces the challenges of VUCA environments to drive cloud native, AI-powered transformation.</p>",
-        "company": "YOSUNg, Sertek - A Member of WPG Holdings",
+        "bio": "<p>Jonathan Yeh is a Software Enabling & Optimization Engineer at Intel, specializing in Edge AI, Agentic AI, Physical AI, AI workload optimization, and cloud-native technologies.</p><p>He focuses on bridging AI innovation with real-world deployment, helping customers and engineering teams build, optimize, and scale intelligent solutions across Intel CPU, GPU, and NPU architectures.</p><p>His hands-on expertise spans Generative AI, Computer Vision, Physical AI, Robotics AI, OpenVINO, Kubernetes, DevOps, and AI infrastructure. He actively contributes to technical enablement through customer engagements, workshops, troubleshooting, and knowledge sharing.</p><p>As a CNCF Golden Kubestronaut, Jonathan has achieved all CNCF certifications plus LFCS, demonstrating his commitment to cloud-native technologies and continuous professional development.</p><p>Passionate about learning, building, and sharing, he enjoys turning complex technologies into practical solutions and contributing to the global AI and cloud-native communities.</p>",
+        "company": "Intel",
         "pronouns": "He/Him",
         "location": "Taipei, Taiwan",
         "linkedin": "https://www.linkedin.com/in/jonathanyeh-ai/",
@@ -49556,7 +49557,8 @@
         ],
         "slack_id": "",
         "image": "jonathan-yeh.jpg"
-    },
+    }
+,
     {
         "name": "Jongchan Lee",
         "bio": "<p>I work as a DevOps/SRE engineer, responsible for designing, operating, and automating Kubernetes-based infrastructure. I have a strong interest in the wide range of open source projects within the CNCF ecosystem, and actively adopt and use them in production environments. Going forward, I hope to keep growing alongside the community so that I can contribute to CNCF projects myself.</p>",
