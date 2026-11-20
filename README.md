@@ -12,6 +12,19 @@ People can update their listing by submitting a PR for approval. After a PR is m
 
 CNCF community members can request access to any repo by submitting a PR to change the config.yaml file in this repo.
 
+## CLOWarden Permissions Documentation
+
+For comprehensive guidance on managing repository permissions using CLOWarden:
+
+- **[CLOWarden Permissions Guide](CLOWARDEN_PERMISSIONS.md)** - Complete documentation on permission levels, configuration, and best practices
+- **[Contributing Permissions](CONTRIBUTING_PERMISSIONS.md)** - Step-by-step guide for requesting and managing permissions
+- **[Quick Reference](docs/PERMISSIONS_QUICK_REFERENCE.md)** - Syntax reference and common patterns
+- **[Workflow Guide](docs/CLOWARDEN_WORKFLOW.md)** - Detailed workflow from request to implementation
+- **[Permissions Checklist](docs/PERMISSIONS_CHECKLIST.md)** - Validation and quality assurance checklists
+- **[Documentation Index](docs/INDEX.md)** - Complete documentation navigation
+
+These documents address [Issue #230](https://github.com/cncf/people/issues/230) and provide the missing documentation for CLOWarden's permission management system.
+
 ## Listing Formats
 
 ### config.yaml configures CNCF org repository access
