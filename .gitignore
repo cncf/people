@@ -1,2 +1,5 @@
 .DS_Store
 .claude
+__pycache__/
+.pytest_cache/
+cloud-native-style-report.md
