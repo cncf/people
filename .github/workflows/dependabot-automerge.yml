@@ -1,0 +1,49 @@
+name: Dependabot auto-merge
+
+# Merges a Dependabot pull request once this repository's own verification has
+# finished GREEN for that commit — and only then.
+#
+# NOT `gh pr merge --auto`. That hands the decision to GitHub's auto-merge,
+# which waits for the checks a branch protection rule marks as REQUIRED. Where
+# no rule marks any, nothing is required, and auto-merge merges the pull
+# request immediately — before the verification it was supposed to wait for.
+# Triggering on the verification's own completion removes that dependency: if
+# the run did not conclude success, this job does nothing at all.
+on:
+  workflow_run:
+    workflows: ["Validate"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    name: Merge the update if its verification passed
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge, if this was Dependabot and the run was green
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          # The pull request is found from the commit rather than passed in:
+          # workflow_run carries the run, not the pull request that caused it.
+          pr="$(gh api "repos/$REPO/commits/$SHA/pulls" \
+                 --jq '.[] | select(.state=="open") | select(.user.login=="dependabot[bot]") | .number' \
+                 | head -1)"
+          if [ -z "$pr" ]; then
+            echo "no open Dependabot pull request at $SHA — nothing to do"
+            exit 0
+          fi
+          echo "verification passed for #$pr; merging"
+          # Squash where the repository allows it, a plain merge where it does
+          # not. A repository with squash disabled would otherwise fail here
+          # every week, and a job that fails every week is one nobody reads.
+          gh pr merge "$pr" --repo "$REPO" --squash --delete-branch \
+            || gh pr merge "$pr" --repo "$REPO" --merge --delete-branch

@@ -1,6 +1,21 @@
+# Keeps the pinned GitHub Actions current. Every workflow in this repository
+# pins its actions to a commit SHA, which is what makes a supply-chain attack
+# on a tag harmless here — and also what makes them go stale silently, because
+# a pinned SHA never moves on its own.
+#
+# GROUPED INTO ONE PULL REQUEST, deliberately. Ungrouped, a week where four
+# actions publish releases arrives as four pull requests per repository, and
+# across the fleet that is a review queue nobody reads to the end. One request
+# per repository per week is a queue that gets read.
 version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "ci"
